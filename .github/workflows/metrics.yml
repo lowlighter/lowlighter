@@ -1,0 +1,19 @@
+name: GitHub metrics as SVG image
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches: "master"
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@v1.8
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed: yes
+          plugin_lines: yes
+          plugin_habits: yes
+          plugin_selfskip: yes
