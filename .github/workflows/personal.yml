@@ -1,0 +1,78 @@
+# See https://github.com/lowlighter/metrics for documentation
+# This worflow is scheduled for every hour, and also run after each commit (GitHub action excluded) on master/main branch
+
+name: Metrics
+on:
+  schedule:
+    - cron: "0 16 * * *"
+  push:
+    branches:
+      - master
+      - main
+  workflow_dispatch:
+jobs:
+  github-metrics-personal:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: 🦑 Personal metrics (left)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c, c++, python, ejs
+          plugin_languages_skipped: lowlighter
+          plugin_languages_details: lines, percentage
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 2
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: mastered
+          plugin_notable: yes
+          plugin_notable_repositories: yes
+          plugin_discussions: yes
+          config_order: base.header, isocalendar, languages, notable, discussions, topics
+          output_action: pull-request
+
+      - name: 🦑 Personal metrics (right)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.personal.anilist.svg
+          token: NOT_NEEDED
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, characters
+          plugin_anilist_limit: 2
+          plugin_anilist_limit_characters: 22
+          plugin_music: yes
+          plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
+          plugin_music_limit: 8
+          config_order: anilist, music
+          output_action: pull-request
+
+      - name: 🦑 Personal metrics (bottom 1)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.personal.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          output_action: pull-request
+
+      - name: 🦑 Personal metrics (bottom 2)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.personal.sponsors.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_sponsors: yes
+          output_action: pull-request-squash
