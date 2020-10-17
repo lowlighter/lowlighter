@@ -1,0 +1,21 @@
+# ⚠️ THIS WORKFLOW IS USED TO TEST lowlighter/metrics UNSTABLE FEATURES
+# INTENDED FOR TESTING, IT SHOULD NOT BE RE-USED
+
+name: Metrics (alpha)
+on:
+  schedule:
+    - cron: "0 0-23/4 * * *"
+  push:
+    branches:
+      - master
+      - main
+  workflow_dispatch:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    if: "github.repository == 'lowlighter/lowlighter'"
+    steps:
+
+      - uses: lowlighter/metrics@master
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
