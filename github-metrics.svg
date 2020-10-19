@@ -517,8 +517,8 @@
                   <div class="categorie column">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                       <circle class="gauge-base" r="53" cx="60" cy="60"></circle>
-                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="312.55 329"></circle>
-                      <text x="60" y="60" dominant-baseline="central" >95</text>
+                      <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="322.42 329"></circle>
+                      <text x="60" y="60" dominant-baseline="central" >98</text>
                     </svg>
                     <span class="title">Performance</span>
                   </div>
@@ -578,7 +578,7 @@
       
 
       <footer>
-        Last updated Mon Oct 19 2020 21:40:40 GMT+0000 (Coordinated Universal Time)
+        Last updated Mon Oct 19 2020 21:40:55 GMT+0000 (Coordinated Universal Time)
       </footer>
 
     </div>
