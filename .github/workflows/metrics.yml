@@ -8,6 +8,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      - run: sudo apt-get update && sudo apt-get install tree
       - run: tree
       - uses: lowlighter/metrics@feat-ejs
         with:
