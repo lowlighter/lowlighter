@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: sudo apt-get update && sudo apt-get install tree
-      - run: tree
+      - run: sudo tree -a -f -R
       - uses: lowlighter/metrics@feat-ejs
         with:
           token: ${{ secrets.METRICS_TOKEN }}
