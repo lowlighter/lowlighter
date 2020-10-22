@@ -16,4 +16,13 @@ jobs:
           plugin_pagespeed: yes
           plugin_lines: yes
           plugin_habits: yes
-          plugin_selfskip: yes
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics-alt.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          plugin_lines: yes
+          plugin_habits: yes
+          plugin_languages: no
+          plugin_followup: no
