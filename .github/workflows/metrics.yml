@@ -34,3 +34,4 @@ jobs:
           pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           template: terminal
           plugin_pagespeed: yes
+          debug: yes
