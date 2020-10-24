@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="352">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="314">
   
 
   <style>
@@ -59,6 +59,7 @@
     border-bottom-right-radius: 5px;
     font-family: monospace;
     color: #DDDDDD;
+    white-space: break-spaces;
   }
 
   .banner, footer {
@@ -247,15 +248,15 @@
       </div>
 
 <pre><div style="margin-top:-16px"></div>
-<span class="banner">GitHub metrics generator 2.2.0
+<div class="banner">GitHub metrics generator 2.2.0
 These generated metrics comes with ABSOLUTELY NO WARRANTY,
 to the extent permitted by applicable law.
 
-Last generated: Sat, 24 Oct 2020 19:53:32 GMT
-</span>
+Last generated: Sat, 24 Oct 2020 19:54:16 GMT
+</div>
 <div class="stdin"><span class="ps1-path">lowlighter@metrics</span>:<span class="ps1-location">~</span>$ curl -I https://simon.lecoq.io</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://simon.lecoq.io
-<b>X-Performance</b>: 96%
+<b>X-Performance</b>: 99%
 <b>X-Accessibility</b>: 100%
 <b>X-Best-Practices</b>: 100%
 <b>X-SEO</b>: 100%
