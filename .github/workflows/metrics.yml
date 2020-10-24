@@ -13,18 +13,18 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
-          plugin_lines: yes
           base: "header, activity, community, repositories"
-          debug: yes
+          plugin_lines: yes
           
       - uses: lowlighter/metrics@master
         with:
+          template: terminal
           filename: metrics.terminal.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
           pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed: yes
           base: "metadata"
-          debug: yes
+          plugin_pagespeed: yes
       
       - uses: lowlighter/metrics@master
         with:
@@ -40,10 +40,9 @@ jobs:
           
       - uses: lowlighter/metrics@master
         with:
+          template: terminal
           filename: metrics.terminal.demo.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
           pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          template: terminal
           plugin_pagespeed: yes
-          debug: yes
