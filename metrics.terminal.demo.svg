@@ -51,19 +51,21 @@
   }
 
 /* Terminal */
-  pre {
+  pre, .banner, .footer {
     margin: 0;
-    background: #42092B;
-    padding: 12px;
-    border-bottom-left-radius: 5px;
-    border-bottom-right-radius: 5px;
     font-family: monospace;
     color: #DDDDDD;
     white-space: break-spaces;
   }
-
+  pre {
+    background: #42092B;
+    padding: 12px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
   .banner, footer {
     opacity: .7;
+    font-family: monospace;
   }
 
 /* Prompt */
@@ -247,18 +249,18 @@
         </div>
       </div>
 
-<pre><div style="margin-top:-16px"></div>
+<pre><div style="margin-top:-20px"></div>
 <div class="banner">GitHub metrics generator 2.2.0
 These generated metrics comes with ABSOLUTELY NO WARRANTY,
 to the extent permitted by applicable law.
 
-Last generated: Sat, 24 Oct 2020 19:56:25 GMT
+Last generated: Sat, 24 Oct 2020 20:00:11 GMT
 </div>
 <div class="stdin"><span class="ps1-path">lowlighter@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Simon Lecoq</b> registered=4y, uid=3968, gid=0, followers=14
   contributed to 4 repositories <b><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#30a14e">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span></b>
 </div>
 <div class="stdin"><span class="ps1-path">lowlighter@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  771</b> commits
+  <b>  772</b> commits
   <b>    1</b> pull request reviewed
   <b>   27</b> pull requests opened
   <b>    9</b> issues opened
@@ -281,7 +283,7 @@ dr-x         LICENSE
 </div>
 <div class="stdin"><span class="ps1-path">lowlighter@metrics</span>:<span class="ps1-location">~</span>$ curl -I https://simon.lecoq.io</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://simon.lecoq.io
-<b>X-Performance</b>: 97%
+<b>X-Performance</b>: 98%
 <b>X-Accessibility</b>: 100%
 <b>X-Best-Practices</b>: 100%
 <b>X-SEO</b>: 100%
