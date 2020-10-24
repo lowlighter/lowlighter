@@ -8,7 +8,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v2.2
+      - uses: lowlighter/metrics@master
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -16,7 +16,7 @@ jobs:
           plugin_lines: yes
           base: "header, activity, community, repositories"
           
-      - uses: lowlighter/metrics@v2.2
+      - uses: lowlighter/metrics@master
         with:
           filename: metrics.terminal.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -24,7 +24,7 @@ jobs:
           plugin_pagespeed: yes
           base: "metadata"
       
-      - uses: lowlighter/metrics@v2.2
+      - uses: lowlighter/metrics@master
         with:
           filename: metrics.full.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -36,7 +36,7 @@ jobs:
           plugin_languages: yes
           plugin_followup: yes
           
-      - uses: lowlighter/metrics@v2.2
+      - uses: lowlighter/metrics@master
         with:
           filename: metrics.terminal.full.svg
           token: ${{ secrets.METRICS_TOKEN }}
