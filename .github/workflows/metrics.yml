@@ -24,10 +24,11 @@ jobs:
           pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed: yes
           base: "metadata"
+          debug: yes
       
       - uses: lowlighter/metrics@master
         with:
-          filename: metrics.full.svg
+          filename: metrics.demo.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
           pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
@@ -39,7 +40,7 @@ jobs:
           
       - uses: lowlighter/metrics@master
         with:
-          filename: metrics.terminal.full.svg
+          filename: metrics.terminal.demo.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
           pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
