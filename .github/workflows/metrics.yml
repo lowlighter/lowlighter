@@ -15,6 +15,7 @@ jobs:
           committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
           plugin_lines: yes
           base: "header, activity, community, repositories"
+          debug: yes
           
       - uses: lowlighter/metrics@master
         with:
