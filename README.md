@@ -1,1 +1,1 @@
-[![🦑](https://github.com/lowlighter/lowlighter/blob/master/github-metrics-alt.svg)](https://github.com/lowlighter/metrics)
+[![🦑](https://github.com/lowlighter/lowlighter/blob/master/metrics.svg)](https://github.com/lowlighter/metrics)
