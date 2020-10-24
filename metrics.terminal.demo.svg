@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="944">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="864">
   
 
   <style>
@@ -59,6 +59,7 @@
     border-bottom-right-radius: 5px;
     font-family: monospace;
     color: #DDDDDD;
+    white-space: break-spaces;
   }
 
   .banner, footer {
@@ -247,17 +248,17 @@
       </div>
 
 <pre><div style="margin-top:-16px"></div>
-<span class="banner">GitHub metrics generator 2.2.0
+<div class="banner">GitHub metrics generator 2.2.0
 These generated metrics comes with ABSOLUTELY NO WARRANTY,
 to the extent permitted by applicable law.
 
-Last generated: Sat, 24 Oct 2020 19:53:48 GMT
-</span>
+Last generated: Sat, 24 Oct 2020 19:54:32 GMT
+</div>
 <div class="stdin"><span class="ps1-path">lowlighter@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Simon Lecoq</b> registered=4y, uid=3968, gid=0, followers=14
   contributed to 4 repositories <b><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#30a14e">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span></b>
 </div>
 <div class="stdin"><span class="ps1-path">lowlighter@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  770</b> commits
+  <b>  771</b> commits
   <b>    1</b> pull request reviewed
   <b>   27</b> pull requests opened
   <b>    9</b> issues opened
