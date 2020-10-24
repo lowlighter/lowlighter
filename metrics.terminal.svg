@@ -51,19 +51,21 @@
   }
 
 /* Terminal */
-  pre {
+  pre, .banner, .footer {
     margin: 0;
-    background: #42092B;
-    padding: 12px;
-    border-bottom-left-radius: 5px;
-    border-bottom-right-radius: 5px;
     font-family: monospace;
     color: #DDDDDD;
     white-space: break-spaces;
   }
-
+  pre {
+    background: #42092B;
+    padding: 12px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
   .banner, footer {
     opacity: .7;
+    font-family: monospace;
   }
 
 /* Prompt */
@@ -247,16 +249,16 @@
         </div>
       </div>
 
-<pre><div style="margin-top:-16px"></div>
+<pre><div style="margin-top:-20px"></div>
 <div class="banner">GitHub metrics generator 2.2.0
 These generated metrics comes with ABSOLUTELY NO WARRANTY,
 to the extent permitted by applicable law.
 
-Last generated: Sat, 24 Oct 2020 19:56:08 GMT
+Last generated: Sat, 24 Oct 2020 19:59:54 GMT
 </div>
 <div class="stdin"><span class="ps1-path">lowlighter@metrics</span>:<span class="ps1-location">~</span>$ curl -I https://simon.lecoq.io</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://simon.lecoq.io
-<b>X-Performance</b>: 91%
+<b>X-Performance</b>: 99%
 <b>X-Accessibility</b>: 100%
 <b>X-Best-Practices</b>: 100%
 <b>X-SEO</b>: 100%
