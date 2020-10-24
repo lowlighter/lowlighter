@@ -28,6 +28,8 @@
 
 /* Title bar */
   .header {
+    position: absolute;
+    top: 0;
     display: flex;
     justify-content: space-between;
     width: 100%;
@@ -42,7 +44,7 @@
 
   .title {
     color: #d5d0ce;
-    line-height: 12px;
+    font-size: 16px;
   }
 
   .buttons {
@@ -68,7 +70,7 @@
   }
 
 /* Terminal */
-  pre, .banner, .footer {
+  pre, .banner, footer {
     margin: 0;
     font-family: &#39;Courier Prime&#39;;
     color: #DDDDDD;
@@ -77,8 +79,7 @@
   pre {
     background: #42092B;
     padding: 12px;
-    border-bottom-left-radius: 5px;
-    border-bottom-right-radius: 5px;
+    border-radius: 5px;
   }
   .banner, footer {
     opacity: .7;
@@ -257,7 +258,7 @@
     <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink">
 
       <div class="header">
-        <span class="title">GitHub metrics v2.2.0</span>
+        <span class="title"></span>
         <div class="buttons">
           <div class="button">─</div>
           <div class="button">□</div>
@@ -265,20 +266,20 @@
         </div>
       </div>
 
-<pre><div style="margin-top:-20px"></div>
+<pre>
 <div class="banner">GitHub metrics generator 2.2.0
 These generated metrics comes with ABSOLUTELY NO WARRANTY, to the extent permitted by applicable law.
 
-Last generated: Sat, 24 Oct 2020 22:50:58 GMT
+Last generated: Sat, 24 Oct 2020 23:11:04 GMT
 </div>
 <div class="stdin"><span class="ps1-path">lowlighter@metrics</span>:<span class="ps1-location">~</span>$ curl -I https://simon.lecoq.io</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://simon.lecoq.io
-<b>X-Performance</b>: 98%
+<b>X-Performance</b>: 99%
 <b>X-Accessibility</b>: 100%
 <b>X-Best-Practices</b>: 100%
 <b>X-SEO</b>: 100%
 </div>
-<footer>Connection reset by 167.33.166.170</footer></pre>
+<footer>Connection reset by 209.143.32.68</footer></pre>
 
     </div>
   </foreignObject>
