@@ -74,7 +74,6 @@
     margin: 0;
     font-family: &#39;Courier Prime&#39;;
     color: #DDDDDD;
-    white-space: break-spaces;
   }
   pre {
     background: #42092B;
@@ -82,7 +81,7 @@
     border-radius: 5px;
   }
   .banner, footer {
-    opacity: .7;
+    color: #AE9DA7;
   }
 
 /* Prompt */
@@ -268,16 +267,17 @@
 
 <pre>
 <div class="banner">GitHub metrics generator 2.2.0
-These generated metrics comes with ABSOLUTELY NO WARRANTY, to the extent permitted by applicable law.
+These generated metrics comes with ABSOLUTELY NO
+WARRANTY, to the extent permitted by applicable law.
 
-Last generated: Sun, 25 Oct 2020 00:37:24 GMT
+Last generated: Sun, 25 Oct 2020 11:04:37 GMT
 </div>
 <div class="stdin"><span class="ps1-path">lowlighter@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Simon Lecoq</b> registered=4y, uid=3968, gid=0
   contributed to 4 repositories <b><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#30a14e">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span></b>
   followed by <b>14</b> users
 </div>
 <div class="stdin"><span class="ps1-path">lowlighter@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  781</b> commits
+  <b>  783</b> commits
   <b>    1</b> pull request reviewed
   <b>   27</b> pull requests opened
   <b>    9</b> issues opened
@@ -286,7 +286,7 @@ Last generated: Sun, 25 Oct 2020 00:37:24 GMT
 <b>Tracked activity</b>
   <b>   30</b> users followed
   <b>    0</b> repository sponsored
-  <b>  288</b> repositories starred
+  <b>  289</b> repositories starred
   <b>   15</b> repositories watched
 </div>
 <div class="stdin"><span class="ps1-path">lowlighter@metrics</span>:<span class="ps1-location">~</span>$ ls -lh github/repositories</div><div class="stdout">Total 17 repositories
@@ -305,7 +305,7 @@ dr-x         LICENSE
 <b>X-Best-Practices</b>: 100%
 <b>X-SEO</b>: 100%
 </div>
-<footer>Connection reset by 105.19.134.50</footer></pre>
+<footer>Connection reset by 144.235.152.9</footer></pre>
 
     </div>
   </foreignObject>
