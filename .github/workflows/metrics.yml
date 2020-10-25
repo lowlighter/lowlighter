@@ -20,6 +20,7 @@ jobs:
           plugin_music_provider: apple
           plugin_music_mode: playlist
           plugin_music_playlist: https://embed.music.apple.com/fr/playlist/usr-share/pl.u-V9D7m8Etjmjd0D
+          debug: yes
       
       - uses: lowlighter/metrics@master
         with:
