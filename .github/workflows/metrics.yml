@@ -9,16 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: Traffic plugin
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.traffic.svg
-          token: ${{ secrets.METRICS_BOT_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
-          base: "repositories"
-          plugin_traffic: yes
-          plugins_errors_fatal: yes
-
       - name: Personal metrics
         uses: lowlighter/metrics@master
         with:
@@ -128,4 +118,14 @@ jobs:
           committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
           base: "repositories"
           plugin_lines: yes
+          plugins_errors_fatal: yes
+
+      - name: Traffic plugin
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.traffic.svg
+          token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          base: "repositories"
+          plugin_traffic: yes
           plugins_errors_fatal: yes
