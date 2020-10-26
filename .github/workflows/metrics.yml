@@ -8,21 +8,121 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      
+      - name: Personal metrics
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          base: "header, activity, community, repositories"
+          plugin_lines: yes
+          plugin_music: yes
+          plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
+          plugins_errors_fatal: yes
+      
+      - name: Classic template
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.classic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          base: "header, repositories, metadata"
+          plugin_lines: yes
+          plugins_errors_fatal: yes
           
-      - uses: lowlighter/metrics@master
+      - name: Terminal template
+        uses: lowlighter/metrics@master
+        with:
+          template: terminal
+          filename: metrics.terminal.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          base: "header, metadata"
+          plugins_errors_fatal: yes
+      
+      - name: PageSpeed plugin
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.pagespeed.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          base: ""
+          plugin_pagespeed: yes
+          plugins_errors_fatal: yes
+          
+      - name: Music plugin (playlist)
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.music.playlist.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
           base: ""
           plugin_music: yes
+          plugin_music_mode: playlist
           plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
+          plugins_errors_fatal: yes
           
-      - uses: lowlighter/metrics@master
+      - name: Music plugin (recent)
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.music.recent.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
           base: ""
           plugin_music: yes
+          plugin_music_mode: recent
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
+          plugins_errors_fatal: yes
+          
+      - name: Habits plugin
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugins_errors_fatal: yes
+          
+      - name: Languages plugin
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugins_errors_fatal: yes
+        
+      - name: Follow-up plugin
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.followup.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugins_errors_fatal: yes
+          
+      - name: Traffic plugin
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.traffic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          base: "repositories"
+          plugin_traffic: yes
+          plugins_errors_fatal: yes
+          
+      - name: Lines plugin
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.lines.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          base: "repositories"
+          plugin_lines: yes
+          plugins_errors_fatal: yes
+          
