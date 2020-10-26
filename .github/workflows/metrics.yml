@@ -17,7 +17,7 @@ jobs:
           base: "header, activity, community, repositories"
           plugin_lines: yes
           plugin_music: yes
-          plugin_music_playlist: https://embed.music.apple.com/fr/playlist/usr-share/pl.u-V9D7m8Etjmjd0D
+          plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
       
       - uses: lowlighter/metrics@master
         with:
@@ -46,11 +46,23 @@ jobs:
           
       - uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.music.svg
+          filename: metrics.plugin.music.playlist.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
           base: ""
           plugin_music: yes
+          plugin_music_mode: playlist
+          plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
+          
+      - uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.music.recent.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          base: ""
+          plugin_music: yes
+          plugin_music_mode: recent
+          plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
           
       - uses: lowlighter/metrics@master
         with:
@@ -67,7 +79,6 @@ jobs:
           committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
           base: ""
           plugin_languages: yes
-          plugin_music_playlist: https://embed.music.apple.com/fr/playlist/usr-share/pl.u-V9D7m8Etjmjd0D
         
       - uses: lowlighter/metrics@master
         with:
