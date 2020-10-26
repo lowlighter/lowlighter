@@ -88,3 +88,19 @@ jobs:
           base: ""
           plugin_followup: yes
           
+      - uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.traffic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          base: "repositories"
+          plugin_traffic: yes
+          
+      - uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.lines.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          base: "repositories"
+          plugin_lines: yes
+          
