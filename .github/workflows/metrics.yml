@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       
-      - uses: lowlighter/metrics@dokcer-test
+      - uses: lowlighter/metrics@master
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -17,9 +17,62 @@ jobs:
           base: "header, activity, community, repositories"
           plugin_lines: yes
           plugin_music: yes
-          plugin_music_provider: apple
-          plugin_music_mode: playlist
           plugin_music_playlist: https://embed.music.apple.com/fr/playlist/usr-share/pl.u-V9D7m8Etjmjd0D
-          debug: yes
       
-    
+      - uses: lowlighter/metrics@master
+        with:
+          filename: metrics.classic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          base: "header, activity, community, repositories"
+          plugin_lines: yes
+          
+      - uses: lowlighter/metrics@master
+        with:
+          template: terminal
+          filename: metrics.terminal.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+      
+      - uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.pagespeed.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          base: ""
+          plugin_pagespeed: yes
+          
+      - uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.music.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          base: ""
+          plugin_music: yes
+          
+      - uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          
+      - uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_music_playlist: https://embed.music.apple.com/fr/playlist/usr-share/pl.u-V9D7m8Etjmjd0D
+        
+      - uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.followup.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          
