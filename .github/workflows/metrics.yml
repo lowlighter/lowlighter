@@ -8,41 +8,6 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      
-      - uses: lowlighter/metrics@master
-        with:
-          filename: metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
-          base: "header, activity, community, repositories"
-          plugin_lines: yes
-          plugin_music: yes
-          plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
-      
-      - uses: lowlighter/metrics@master
-        with:
-          filename: metrics.classic.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
-          base: "header, repositories, metadata"
-          plugin_lines: yes
-          
-      - uses: lowlighter/metrics@master
-        with:
-          template: terminal
-          filename: metrics.terminal.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
-          base: "header, metadata"
-      
-      - uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.pagespeed.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
-          pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          base: ""
-          plugin_pagespeed: yes
           
       - uses: lowlighter/metrics@master
         with:
@@ -51,7 +16,6 @@ jobs:
           committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
           base: ""
           plugin_music: yes
-          plugin_music_mode: playlist
           plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
           
       - uses: lowlighter/metrics@master
@@ -61,46 +25,4 @@ jobs:
           committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
           base: ""
           plugin_music: yes
-          plugin_music_mode: recent
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
-          
-      - uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          
-      - uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
-          base: ""
-          plugin_languages: yes
-        
-      - uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.followup.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
-          base: ""
-          plugin_followup: yes
-          
-      - uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.traffic.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
-          base: "repositories"
-          plugin_traffic: yes
-          
-      - uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.lines.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
-          base: "repositories"
-          plugin_lines: yes
-          
