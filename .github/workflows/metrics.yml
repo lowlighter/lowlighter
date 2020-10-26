@@ -24,7 +24,7 @@ jobs:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
-          base: "header, activity, community, repositories"
+          base: "header, repositories, metadata"
           plugin_lines: yes
           
       - uses: lowlighter/metrics@master
@@ -33,6 +33,7 @@ jobs:
           filename: metrics.terminal.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          base: "header, metadata"
       
       - uses: lowlighter/metrics@master
         with:
