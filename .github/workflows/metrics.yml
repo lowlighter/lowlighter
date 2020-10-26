@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@dokcer-test
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -22,31 +22,4 @@ jobs:
           plugin_music_playlist: https://embed.music.apple.com/fr/playlist/usr-share/pl.u-V9D7m8Etjmjd0D
           debug: yes
       
-      - uses: lowlighter/metrics@master
-        with:
-          filename: metrics.demo.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
-          base: "header, activity, community, repositories"
-          plugin_lines: yes
-      
-      - uses: lowlighter/metrics@master
-        with:
-          filename: metrics.classic.demo.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
-          pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed: yes
-          plugin_lines: yes
-          plugin_habits: yes
-          plugin_languages: yes
-          plugin_followup: yes
-          
-      - uses: lowlighter/metrics@master
-        with:
-          template: terminal
-          filename: metrics.terminal.demo.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
-          pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed: yes
+    
