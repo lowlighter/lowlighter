@@ -8,7 +8,17 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      
+
+      - name: Traffic plugin
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.traffic.svg
+          token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          base: "repositories"
+          plugin_traffic: yes
+          plugins_errors_fatal: yes
+
       - name: Personal metrics
         uses: lowlighter/metrics@master
         with:
@@ -20,7 +30,7 @@ jobs:
           plugin_music: yes
           plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
           plugins_errors_fatal: yes
-      
+
       - name: Classic template
         uses: lowlighter/metrics@master
         with:
@@ -30,7 +40,7 @@ jobs:
           base: "header, repositories, metadata"
           plugin_lines: yes
           plugins_errors_fatal: yes
-          
+
       - name: Terminal template
         uses: lowlighter/metrics@master
         with:
@@ -40,7 +50,7 @@ jobs:
           committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
           base: "header, metadata"
           plugins_errors_fatal: yes
-      
+
       - name: PageSpeed plugin
         uses: lowlighter/metrics@master
         with:
@@ -49,9 +59,9 @@ jobs:
           committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
           base: ""
           plugin_pagespeed: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}  
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugins_errors_fatal: yes
-          
+
       - name: Music plugin (playlist)
         uses: lowlighter/metrics@master
         with:
@@ -64,7 +74,7 @@ jobs:
           plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
           plugin_music_limit: 2
           plugins_errors_fatal: yes
-          
+
       - name: Music plugin (recent)
         uses: lowlighter/metrics@master
         with:
@@ -79,7 +89,7 @@ jobs:
           plugin_music_limit: 2
           plugins_errors_fatal: yes
           debug: yes
-          
+
       - name: Habits plugin
         uses: lowlighter/metrics@master
         with:
@@ -89,7 +99,7 @@ jobs:
           base: ""
           plugin_habits: yes
           plugins_errors_fatal: yes
-          
+
       - name: Languages plugin
         uses: lowlighter/metrics@master
         with:
@@ -99,7 +109,7 @@ jobs:
           base: ""
           plugin_languages: yes
           plugins_errors_fatal: yes
-        
+
       - name: Follow-up plugin
         uses: lowlighter/metrics@master
         with:
@@ -118,14 +128,4 @@ jobs:
           committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
           base: "repositories"
           plugin_lines: yes
-          plugins_errors_fatal: yes
-
-      - name: Traffic plugin
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.traffic.svg
-          token: ${{ secrets.METRICS_BOT_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
-          base: "repositories"
-          plugin_traffic: yes
           plugins_errors_fatal: yes
