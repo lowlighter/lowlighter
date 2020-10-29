@@ -128,6 +128,20 @@
     0% { max-height: 0; }
     100% { max-height: 360px; }
   }
+
+/* Calendar */
+  :root {
+    --color-calendar-graph-day-bg: #ebedf0;
+    --color-calendar-graph-day-border: rgba(27,31,35,0.06);
+    --color-calendar-graph-day-L1-bg: #9be9a8;
+    --color-calendar-graph-day-L2-bg: #40c463;
+    --color-calendar-graph-day-L3-bg: #30a14e;
+    --color-calendar-graph-day-L4-bg: #216e39;
+    --color-calendar-graph-day-L4-border: rgba(27,31,35,0.06);
+    --color-calendar-graph-day-L3-border: rgba(27,31,35,0.06);
+    --color-calendar-graph-day-L2-border: rgba(27,31,35,0.06);
+    --color-calendar-graph-day-L1-border: rgba(27,31,35,0.06);
+  }
       .stdin, .stdout {
         animation-duration: 0.16s;
       }
@@ -278,13 +292,13 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: Thu, 29 Oct 2020 19:08:19 GMT
+Last generated: Thu, 29 Oct 2020 19:15:40 GMT
 </div>
 <div class="stdin"><span class="ps1-path">lowlighter@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Simon Lecoq</b> registered=4y, uid=3968, gid=0
   contributed to 4 repositories <b><span style="color:var(--color-calendar-graph-day-L1-bg)">#</span><span style="color:var(--color-calendar-graph-day-bg)">#</span><span style="color:var(--color-calendar-graph-day-L4-bg)">#</span><span style="color:var(--color-calendar-graph-day-L1-bg)">#</span><span style="color:var(--color-calendar-graph-day-L4-bg)">#</span><span style="color:var(--color-calendar-graph-day-L1-bg)">#</span><span style="color:var(--color-calendar-graph-day-L1-bg)">#</span><span style="color:var(--color-calendar-graph-day-L1-bg)">#</span><span style="color:var(--color-calendar-graph-day-L1-bg)">#</span><span style="color:var(--color-calendar-graph-day-L1-bg)">#</span><span style="color:var(--color-calendar-graph-day-L2-bg)">#</span><span style="color:var(--color-calendar-graph-day-L1-bg)">#</span><span style="color:var(--color-calendar-graph-day-L1-bg)">#</span><span style="color:var(--color-calendar-graph-day-bg)">#</span></b>
   followed by <b>14</b> users
 </div>
-<footer>Connection reset by 234.18.43.0</footer></pre>
+<footer>Connection reset by 175.34.136.117</footer></pre>
 
     </div>
   </foreignObject>
