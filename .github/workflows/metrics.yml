@@ -129,3 +129,14 @@ jobs:
           base: "repositories"
           plugin_traffic: yes
           plugins_errors_fatal: yes
+          
+      - name: Posts plugin
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.posts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          base: ""
+          plugin_posts: yes
+          plugin_posts_source: dev.to
+          plugins_errors_fatal: yes
