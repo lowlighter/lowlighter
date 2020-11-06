@@ -288,8 +288,16 @@
           animation-delay: 7.200000000000003s;
         }
         
+      
+        .stdin:nth-of-type(18) {
+          animation-delay: 7.480000000000003s;
+        }
+        .stdout:nth-of-type(19) {
+          animation-delay: 7.640000000000003s;
+        }
+        
           footer {
-            animation-delay: 7.040000000000003s;
+            animation-delay: 7.480000000000003s;
           }
         
       
@@ -308,17 +316,17 @@
       </div>
 
 <pre>
-<div class="banner">GitHub metrics generator 2.3.0
+<div class="banner">GitHub metrics generator 2.4.0
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: Fri, 06 Nov 2020 00:24:46 GMT
+Last generated: Fri, 06 Nov 2020 20:46:06 GMT
 </div>
 <div class="stdin"><span class="ps1-path">lowlighter@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Simon Lecoq</b> registered=4y, uid=3968, gid=0
   contributed to 5 repositories <b><span style="color:var(--color-calendar-graph-day-bg)">#</span><span style="color:var(--color-calendar-graph-day-bg)">#</span><span style="color:var(--color-calendar-graph-day-L1-bg)">#</span><span style="color:var(--color-calendar-graph-day-L1-bg)">#</span><span style="color:var(--color-calendar-graph-day-L1-bg)">#</span><span style="color:var(--color-calendar-graph-day-L1-bg)">#</span><span style="color:var(--color-calendar-graph-day-L1-bg)">#</span><span style="color:var(--color-calendar-graph-day-L1-bg)">#</span><span style="color:var(--color-calendar-graph-day-L1-bg)">#</span><span style="color:var(--color-calendar-graph-day-bg)">#</span><span style="color:var(--color-calendar-graph-day-L4-bg)">#</span><span style="color:var(--color-calendar-graph-day-L1-bg)">#</span><span style="color:var(--color-calendar-graph-day-L4-bg)">#</span><span style="color:var(--color-calendar-graph-day-L1-bg)">#</span></b>
-  followed by <b>17</b> users
+  followed by <b>18</b> users
 </div>
-<footer>Connection reset by 11.93.81.2</footer></pre>
+<footer>Connection reset by 75.206.159.229</footer></pre>
 
     </div>
   </foreignObject>
