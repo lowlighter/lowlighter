@@ -131,7 +131,7 @@ jobs:
           base: "repositories"
           plugin_traffic: yes
           plugins_errors_fatal: yes
-          
+
       - name: Posts plugin
         uses: lowlighter/metrics@master
         with:
@@ -142,7 +142,7 @@ jobs:
           plugin_posts: yes
           plugin_posts_source: dev.to
           plugins_errors_fatal: yes
-          
+
       - name: Isocalendar plugin
         uses: lowlighter/metrics@master
         with:
@@ -152,7 +152,7 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugins_errors_fatal: yes
-          
+
       - name: Gists plugin
         uses: lowlighter/metrics@master
         with:
