@@ -80,7 +80,6 @@ jobs:
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
           plugin_music_limit: 2
           plugins_errors_fatal: yes
-          debug: yes
 
       - name: Habits plugin
         uses: lowlighter/metrics@master
