@@ -22,6 +22,7 @@ jobs:
           plugin_music_limit: 2
           plugin_isocalendar: yes
           plugins_errors_fatal: yes
+          debug: yes
 
       - name: Classic template
         uses: lowlighter/metrics@master
