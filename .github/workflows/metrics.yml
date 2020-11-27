@@ -21,6 +21,7 @@ jobs:
           plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
           plugin_music_limit: 2
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugins_errors_fatal: yes
 
       - name: Classic template
