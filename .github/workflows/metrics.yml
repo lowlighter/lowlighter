@@ -172,3 +172,13 @@ jobs:
           base: ""
           plugin_gists: yes
           plugins_errors_fatal: yes
+
+      - name: Topics plugin
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.topics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          base: ""
+          plugin_topics: yes
+          plugins_errors_fatal: yes
