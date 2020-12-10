@@ -55,7 +55,7 @@ jobs:
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugins_errors_fatal: yes
           
-      - name: PageSpeed plugin
+      - name: PageSpeed plugin (detailed)
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.pagespeed.detailed.svg
