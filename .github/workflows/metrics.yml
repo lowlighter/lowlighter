@@ -10,7 +10,7 @@ jobs:
     if: "!contains(toJSON(github.event.commits.*.message), '[Skip GitHub Action]')" 
     steps:
       - name: Personal metrics
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -25,7 +25,7 @@ jobs:
           plugins_errors_fatal: yes
 
       - name: Classic template
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -35,7 +35,7 @@ jobs:
           plugins_errors_fatal: yes
 
       - name: Terminal template
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           template: terminal
           filename: metrics.terminal.svg
@@ -45,7 +45,7 @@ jobs:
           plugins_errors_fatal: yes
 
       - name: PageSpeed plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.pagespeed.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -56,7 +56,7 @@ jobs:
           plugins_errors_fatal: yes
           
       - name: PageSpeed plugin (detailed)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.pagespeed.detailed.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -68,7 +68,7 @@ jobs:
           plugins_errors_fatal: yes
 
       - name: Music plugin (playlist)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.music.playlist.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -81,7 +81,7 @@ jobs:
           plugins_errors_fatal: yes
 
       - name: Music plugin (recent)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.music.recent.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -95,7 +95,7 @@ jobs:
           plugins_errors_fatal: yes
 
       - name: Habits plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -105,7 +105,7 @@ jobs:
           plugins_errors_fatal: yes
 
       - name: Languages plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -115,7 +115,7 @@ jobs:
           plugins_errors_fatal: yes
 
       - name: Follow-up plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.followup.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -125,7 +125,7 @@ jobs:
           plugins_errors_fatal: yes
 
       - name: Lines plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.lines.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -135,7 +135,7 @@ jobs:
           plugins_errors_fatal: yes
 
       - name: Traffic plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.traffic.svg
           token: ${{ secrets.METRICS_BOT_TOKEN }}
@@ -145,7 +145,7 @@ jobs:
           plugins_errors_fatal: yes
 
       - name: Posts plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.posts.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -156,7 +156,7 @@ jobs:
           plugins_errors_fatal: yes
 
       - name: Isocalendar plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -166,7 +166,7 @@ jobs:
           plugins_errors_fatal: yes
           
       - name: Isocalendar plugin (full year)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -177,7 +177,7 @@ jobs:
           plugins_errors_fatal: yes
 
       - name: Gists plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.gists.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -187,7 +187,7 @@ jobs:
           plugins_errors_fatal: yes
           
       - name: Topics plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.topics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -197,7 +197,7 @@ jobs:
           plugins_errors_fatal: yes
           
       - name: Projects plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.projects.svg
           token: ${{ secrets.METRICS_BOT_TOKEN }}
