@@ -3,7 +3,7 @@
 <details>
 <summary>See more</summary>  
   
-[<img alt="🦑" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.pagespeed.svg">](https://github.com/lowlighter/metrics)
+[<img alt="🦑" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.pagespeed.detailed.svg">](https://github.com/lowlighter/metrics)
   
 [<img alt="🦑" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.habits.svg">](https://github.com/lowlighter/metrics)
 
