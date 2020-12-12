@@ -5,11 +5,10 @@ on:
   push:
     branches: "master"
 jobs:
-  github-metrics:
+  github-metrics-personal:
     runs-on: ubuntu-latest
     if: "!contains(toJSON(github.event.commits.*.message), '[Skip GitHub Action]')"
     steps:
-
       - name: Personal metrics
         uses: lowlighter/metrics@master
         with:
@@ -24,6 +23,28 @@ jobs:
           plugin_isocalendar: yes
           plugin_topics: yes
           plugins_errors_fatal: yes
+          
+      - name: Personal metrics (detailed)
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_habits: yes
+          plugin_gists: yes
+          plugin_followup: yes
+          plugin_languages: yes
+          plugin_posts: yes
+          plugin_posts_source: dev.to
+          plugins_errors_fatal: yes
+          
+  github-metrics:
+    runs-on: ubuntu-latest
+    if: "false" #"!contains(toJSON(github.event.commits.*.message), '[Skip GitHub Action]')"
+    steps:
 
       - name: Classic template
         uses: lowlighter/metrics@master
