@@ -45,7 +45,7 @@ jobs:
           
   github-metrics:
     runs-on: ubuntu-latest
-    if: "false" #"!contains(toJSON(github.event.commits.*.message), '[Skip GitHub Action]')"
+    if: "!contains(toJSON(github.event.commits.*.message), '[Skip GitHub Action]')"
     steps:
 
       - name: Classic template
