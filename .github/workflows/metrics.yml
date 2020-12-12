@@ -24,27 +24,27 @@ jobs:
           plugin_topics: yes
           plugins_errors_fatal: yes
           
-      - name: Personal metrics (detailed)
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.detailed.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_habits: yes
-          plugin_gists: yes
-          plugin_followup: yes
-          plugin_languages: yes
-          plugin_posts: yes
-          plugin_posts_source: dev.to
-          plugins_errors_fatal: yes
+  #    - name: Personal metrics (detailed)
+  #      uses: lowlighter/metrics@master
+  #      with:
+  #        filename: metrics.detailed.svg
+  #        token: ${{ secrets.METRICS_TOKEN }}
+  #        committer_token: ${{ secrets.GITHUB_TOKEN }}
+  #        base: ""
+  #        plugin_pagespeed: yes
+  #        plugin_pagespeed_detailed: yes
+  #        plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+  #        plugin_habits: yes
+  #        plugin_gists: yes
+  #        plugin_followup: yes
+  #        plugin_languages: yes
+  #        plugin_posts: yes
+  #        plugin_posts_source: dev.to
+  #        plugins_errors_fatal: yes
           
   github-metrics:
     runs-on: ubuntu-latest
-    if: "!contains(toJSON(github.event.commits.*.message), '[Skip GitHub Action]')"
+    if: "false" #"!contains(toJSON(github.event.commits.*.message), '[Skip GitHub Action]')"
     steps:
 
       - name: Classic template
