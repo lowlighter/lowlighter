@@ -5,24 +5,10 @@ on:
   push:
     branches: "master"
 jobs:
-  github-metrics-test-private:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Personal metrics
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: "repositories, metadata"
-          plugin_lines: yes
-          plugin_languages: yes
-          plugins_errors_fatal: yes
-    
   github-metrics-personal:
     runs-on: ubuntu-latest
-    if: "false" # "!contains(toJSON(github.event.commits.*.message), '[Skip GitHub Action]')"
     steps:
+  
       - name: Personal metrics
         uses: lowlighter/metrics@master
         with:
@@ -58,7 +44,6 @@ jobs:
           
   github-metrics:
     runs-on: ubuntu-latest
-    if: "false" #"!contains(toJSON(github.event.commits.*.message), '[Skip GitHub Action]')"
     steps:
 
       - name: Classic template
