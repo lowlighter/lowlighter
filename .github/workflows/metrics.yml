@@ -25,20 +25,6 @@ jobs:
           plugin_topics: yes
           plugins_errors_fatal: yes
 
-      - name: Personal metrics (test)
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: "header, activity, community, repositories"
-          plugin_lines: yes
-          plugin_music: yes
-          plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
-          plugin_music_limit: 2
-          plugin_isocalendar: yes
-          plugin_topics: yes
-          plugins_errors_fatal: yes
-
       - name: Classic template
         uses: lowlighter/metrics@master
         with:
