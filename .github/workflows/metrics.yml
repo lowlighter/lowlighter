@@ -24,6 +24,7 @@ jobs:
           plugin_topics: yes
           plugin_traffic: yes
           plugins_errors_fatal: yes
+          debug: yes
           
       - name: Personal metrics (detailed)
         uses: lowlighter/metrics@master
