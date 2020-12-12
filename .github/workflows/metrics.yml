@@ -14,12 +14,9 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: "header, activity, community, repositories"
+          base: "repositories, metadata"
           plugin_lines: yes
           plugin_languages: yes
-          plugin_followup: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
           plugins_errors_fatal: yes
     
   github-metrics-personal:
