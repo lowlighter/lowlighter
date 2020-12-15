@@ -1,10 +1,11 @@
-name: GitHub metrics as SVG image
+name: GitHub metrics
 on:
   schedule:
     - cron: "0 0 * * *" 
   push:
     branches: "master"
 jobs:
+# The job below generates the images displayed on lowlighter/lowlighter
   github-metrics-personal:
     runs-on: ubuntu-latest
     steps:
@@ -42,6 +43,7 @@ jobs:
           plugin_posts_source: dev.to
           plugins_errors_fatal: yes
           
+# The job below generates the images displayed on lowlighter/metrics
   github-metrics:
     runs-on: ubuntu-latest
     steps:
