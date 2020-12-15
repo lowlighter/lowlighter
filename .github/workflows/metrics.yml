@@ -45,6 +45,7 @@ jobs:
           
 # The job below generates the images displayed on lowlighter/metrics
   github-metrics:
+    needs: [github-metrics-personal]
     runs-on: ubuntu-latest
     steps:
 
@@ -53,7 +54,7 @@ jobs:
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: "header, repositories"
           plugin_lines: yes
           plugins_errors_fatal: yes
@@ -64,7 +65,7 @@ jobs:
           template: terminal
           filename: metrics.terminal.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: "header, metadata"
           plugins_errors_fatal: yes
 
@@ -73,7 +74,7 @@ jobs:
         with:
           filename: metrics.plugin.pagespeed.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
@@ -84,7 +85,7 @@ jobs:
         with:
           filename: metrics.plugin.pagespeed.detailed.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
@@ -96,7 +97,7 @@ jobs:
         with:
           filename: metrics.plugin.music.playlist.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_music: yes
           plugin_music_mode: playlist
@@ -109,7 +110,7 @@ jobs:
         with:
           filename: metrics.plugin.music.recent.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_music: yes
           plugin_music_provider: spotify
@@ -123,7 +124,7 @@ jobs:
         with:
           filename: metrics.plugin.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_habits: yes
           plugins_errors_fatal: yes
@@ -133,7 +134,7 @@ jobs:
         with:
           filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_languages: yes
           plugins_errors_fatal: yes
@@ -143,7 +144,7 @@ jobs:
         with:
           filename: metrics.plugin.followup.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_followup: yes
           plugins_errors_fatal: yes
@@ -153,7 +154,7 @@ jobs:
         with:
           filename: metrics.plugin.lines.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: "repositories"
           plugin_lines: yes
           plugins_errors_fatal: yes
@@ -163,7 +164,7 @@ jobs:
         with:
           filename: metrics.plugin.traffic.svg
           token: ${{ secrets.METRICS_BOT_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: "repositories"
           plugin_traffic: yes
           plugins_errors_fatal: yes
@@ -173,7 +174,7 @@ jobs:
         with:
           filename: metrics.plugin.posts.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_posts: yes
           plugin_posts_source: dev.to
@@ -184,7 +185,7 @@ jobs:
         with:
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_isocalendar: yes
           plugins_errors_fatal: yes
@@ -194,7 +195,7 @@ jobs:
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -205,7 +206,7 @@ jobs:
         with:
           filename: metrics.plugin.gists.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_gists: yes
           plugins_errors_fatal: yes
@@ -215,7 +216,7 @@ jobs:
         with:
           filename: metrics.plugin.topics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_topics: yes
           plugins_errors_fatal: yes
@@ -225,7 +226,7 @@ jobs:
         with:
           filename: metrics.plugin.projects.svg
           token: ${{ secrets.METRICS_BOT_TOKEN }}
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_projects: yes
           plugins_errors_fatal: yes
