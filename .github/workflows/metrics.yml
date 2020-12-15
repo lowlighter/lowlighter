@@ -39,6 +39,7 @@ jobs:
           plugin_gists: yes
           plugin_followup: yes
           plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile
           plugin_posts: yes
           plugin_posts_source: dev.to
           plugins_errors_fatal: yes
