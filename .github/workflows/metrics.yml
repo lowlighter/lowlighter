@@ -231,3 +231,15 @@ jobs:
           base: ""
           plugin_projects: yes
           plugins_errors_fatal: yes
+
+      - name: Tweets plugin
+        uses: lowlighter/metrics@feat-plugin-tweets
+        with:
+          filename: metrics.plugin.tweets.svg
+          token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_tweets: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          plugins_errors_fatal: yes
+
