@@ -233,7 +233,7 @@ jobs:
           plugins_errors_fatal: yes
 
       - name: Tweets plugin
-        uses: lowlighter/metrics@feat-plugin-tweets
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.tweets.svg
           token: ${{ secrets.METRICS_BOT_TOKEN }}
