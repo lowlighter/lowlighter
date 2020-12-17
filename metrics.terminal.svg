@@ -304,8 +304,16 @@
           animation-delay: 8.080000000000004s;
         }
         
+      
+        .stdin:nth-of-type(20) {
+          animation-delay: 8.360000000000003s;
+        }
+        .stdout:nth-of-type(21) {
+          animation-delay: 8.520000000000003s;
+        }
+        
           footer {
-            animation-delay: 7.9200000000000035s;
+            animation-delay: 8.360000000000003s;
           }
         
       
@@ -324,17 +332,17 @@
       </div>
 
 <pre>
-<div class="banner">GitHub metrics generator 2.8.0
+<div class="banner">GitHub metrics generator 2.9.0-beta
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: Thu, 17 Dec 2020 21:36:28 GMT
+Last generated: Thu, 17 Dec 2020 21:42:26 GMT
 </div>
 <div class="stdin"><span class="ps1-path">lowlighter@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Simon Lecoq</b> registered=4y, uid=3968, gid=0
   contributed to 5 repositories <b><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#30a14e">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
   followed by <b>22</b> users
 </div>
-<footer>Connection reset by 189.196.173.112</footer></pre>
+<footer>Connection reset by 117.76.95.98</footer></pre>
 
     </div>
   </foreignObject>
