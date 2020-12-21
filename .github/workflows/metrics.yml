@@ -11,7 +11,7 @@ jobs:
     steps:
   
       - name: Personal metrics
-        uses: lowlighter/metrics@test-no-opacity
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -26,7 +26,7 @@ jobs:
           plugins_errors_fatal: yes
           
       - name: Personal metrics (detailed)
-        uses: lowlighter/metrics@test-no-opacity
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.detailed.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -47,7 +47,6 @@ jobs:
 # The job below generates the images displayed on lowlighter/metrics
   github-metrics:
     needs: [github-metrics-personal]
-    if: "false"
     runs-on: ubuntu-latest
     steps:
 
