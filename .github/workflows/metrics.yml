@@ -11,7 +11,7 @@ jobs:
     steps:
   
       - name: Personal metrics
-        uses: lowlighter/metrics@feat-habits-charts
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -28,8 +28,6 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_charts: yes
           plugins_errors_fatal: yes
-          debug: yes
-          debug_flags: --cakeday --hireable
           
       - name: Personal metrics (detailed)
         uses: lowlighter/metrics@master
@@ -51,7 +49,6 @@ jobs:
           
 # The job below generates the images displayed on lowlighter/metrics
   github-metrics:
-    if: "false"
     needs: [github-metrics-personal]
     runs-on: ubuntu-latest
     steps:
@@ -275,3 +272,12 @@ jobs:
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugins_errors_fatal: yes
 
+      - name: Header (additional features)
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.header.svg
+          token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: "header"
+          debug_flags: --cakeday --hireable
+          plugins_errors_fatal: yes
