@@ -28,6 +28,7 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_charts: yes
           plugins_errors_fatal: yes
+          debug: yes
           
       - name: Personal metrics (detailed)
         uses: lowlighter/metrics@master
