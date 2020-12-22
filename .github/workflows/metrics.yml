@@ -11,7 +11,7 @@ jobs:
     steps:
   
       - name: Personal metrics
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-habits-charts
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -23,6 +23,10 @@ jobs:
           plugin_music_limit: 2
           plugin_isocalendar: yes
           plugin_topics: yes
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
           plugins_errors_fatal: yes
           
       - name: Personal metrics (detailed)
@@ -35,7 +39,6 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_habits: yes
           plugin_gists: yes
           plugin_followup: yes
           plugin_languages: yes
@@ -46,6 +49,7 @@ jobs:
           
 # The job below generates the images displayed on lowlighter/metrics
   github-metrics:
+    if: "false"
     needs: [github-metrics-personal]
     runs-on: ubuntu-latest
     steps:
