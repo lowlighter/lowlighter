@@ -133,6 +133,18 @@ jobs:
           base: ""
           plugin_habits: yes
           plugins_errors_fatal: yes
+          
+      - name: Habits plugin (charts)
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.habits.charts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          plugins_errors_fatal: yes
 
       - name: Languages plugin
         uses: lowlighter/metrics@master
