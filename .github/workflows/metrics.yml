@@ -29,6 +29,7 @@ jobs:
           plugin_habits_charts: yes
           plugins_errors_fatal: yes
           debug: yes
+          debug_flags: --cakeday --hireable
           
       - name: Personal metrics (detailed)
         uses: lowlighter/metrics@master
