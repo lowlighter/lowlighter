@@ -28,6 +28,7 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_charts: yes
           plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
           
       - name: Personal metrics (detailed)
         uses: lowlighter/metrics@master
@@ -46,6 +47,7 @@ jobs:
           plugin_posts: yes
           plugin_posts_source: dev.to
           plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
           
 # The job below generates the images displayed on lowlighter/metrics
   github-metrics:
@@ -62,6 +64,7 @@ jobs:
           base: "header, repositories"
           plugin_lines: yes
           plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
 
       - name: Terminal template
         uses: lowlighter/metrics@master
@@ -72,6 +75,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: "header, metadata"
           plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
 
       - name: PageSpeed plugin
         uses: lowlighter/metrics@master
@@ -83,6 +87,7 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
 
       - name: PageSpeed plugin (detailed)
         uses: lowlighter/metrics@master
@@ -95,7 +100,8 @@ jobs:
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugins_errors_fatal: yes
-
+          config_timezone: Europe/Paris
+          
       - name: Music plugin (playlist)
         uses: lowlighter/metrics@master
         with:
@@ -108,6 +114,7 @@ jobs:
           plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
           plugin_music_limit: 2
           plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
 
       - name: Music plugin (recent)
         uses: lowlighter/metrics@master
@@ -122,6 +129,7 @@ jobs:
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
           plugin_music_limit: 2
           plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
 
       - name: Habits plugin
         uses: lowlighter/metrics@master
@@ -134,6 +142,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
                     
       - name: Habits plugin (facts)
         uses: lowlighter/metrics@master
@@ -146,7 +155,8 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: no
           plugins_errors_fatal: yes
-          
+          config_timezone: Europe/Paris
+
       - name: Habits plugin (charts)
         uses: lowlighter/metrics@master
         with:
@@ -158,6 +168,7 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_charts: yes
           plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
 
       - name: Languages plugin
         uses: lowlighter/metrics@master
@@ -168,6 +179,7 @@ jobs:
           base: ""
           plugin_languages: yes
           plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
 
       - name: Follow-up plugin
         uses: lowlighter/metrics@master
@@ -178,6 +190,7 @@ jobs:
           base: ""
           plugin_followup: yes
           plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
 
       - name: Lines plugin
         uses: lowlighter/metrics@master
@@ -188,6 +201,7 @@ jobs:
           base: "repositories"
           plugin_lines: yes
           plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
 
       - name: Traffic plugin
         uses: lowlighter/metrics@master
@@ -198,6 +212,7 @@ jobs:
           base: "repositories"
           plugin_traffic: yes
           plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
 
       - name: Posts plugin
         uses: lowlighter/metrics@master
@@ -209,6 +224,7 @@ jobs:
           plugin_posts: yes
           plugin_posts_source: dev.to
           plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
 
       - name: Isocalendar plugin
         uses: lowlighter/metrics@master
@@ -219,6 +235,7 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
 
       - name: Isocalendar plugin (full year)
         uses: lowlighter/metrics@master
@@ -230,6 +247,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
 
       - name: Gists plugin
         uses: lowlighter/metrics@master
@@ -240,6 +258,7 @@ jobs:
           base: ""
           plugin_gists: yes
           plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
 
       - name: Topics plugin
         uses: lowlighter/metrics@master
@@ -250,6 +269,7 @@ jobs:
           base: ""
           plugin_topics: yes
           plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
 
       - name: Projects plugin
         uses: lowlighter/metrics@master
@@ -260,6 +280,7 @@ jobs:
           base: ""
           plugin_projects: yes
           plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
 
       - name: Tweets plugin
         uses: lowlighter/metrics@master
@@ -271,6 +292,7 @@ jobs:
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
 
       - name: Header (additional features)
         uses: lowlighter/metrics@master
@@ -281,6 +303,7 @@ jobs:
           base: "header"
           debug_flags: --cakeday --hireable
           plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
           
       - name: Plugin error example
         uses: lowlighter/metrics@master
@@ -291,3 +314,4 @@ jobs:
           base: ""
           plugin_projects: yes
           plugins_errors_fatal: no
+          config_timezone: Europe/Paris
