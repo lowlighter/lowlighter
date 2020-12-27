@@ -281,3 +281,13 @@ jobs:
           base: "header"
           debug_flags: --cakeday --hireable
           plugins_errors_fatal: yes
+          
+      - name: Plugin error example
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.error.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_projects: yes
+          plugins_errors_fatal: no
