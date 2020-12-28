@@ -46,8 +46,6 @@ jobs:
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile
           plugin_posts: yes
           plugin_posts_source: dev.to
-          plugin_projects: yes
-          plugin_projects_repositories: lowlighter/metrics/projects/1
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugins_errors_fatal: yes
