@@ -59,6 +59,7 @@ jobs:
           filename: metrics.projects.svg
           token: ${{ secrets.METRICS_BOT_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: lowlighter
           base: ""
           plugin_projects: yes
           plugin_projects_repositories: lowlighter/metrics/projects/1
@@ -101,6 +102,7 @@ jobs:
           filename: metrics.repository.svg
           token: ${{ secrets.METRICS_BOT_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: lowlighter
           query: '{"repo":"metrics"}'
           plugin_lines: yes
           plugin_followup: yes
