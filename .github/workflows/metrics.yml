@@ -31,7 +31,7 @@ jobs:
           config_timezone: Europe/Paris
           
       - name: Personal metrics (detailed)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-repositories
         with:
           filename: metrics.detailed.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -46,6 +46,10 @@ jobs:
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile
           plugin_posts: yes
           plugin_posts_source: dev.to
+          plugin_projects: yes
+          plugin_projects_repositories: lowlighter/metrics/projects/1
+          plugin_tweets: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
           
@@ -98,6 +102,19 @@ jobs:
           base: ""
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
+          
+      - name: PageSpeed plugin (screenshot)
+        uses: lowlighter/metrics@feat-repositories
+        with:
+          filename: metrics.plugin.pagespeed.screenshot.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_pagespeed: yes
+          plugin_pagespeed_screenshot: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
@@ -270,15 +287,28 @@ jobs:
           plugin_topics: yes
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          
+      - name: Topics plugin (mastered)
+        uses: lowlighter/metrics@feat-repositories
+        with:
+          filename: metrics.plugin.topics.mastered.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_topics: yes
+          plugin_topics_mode: mastered
+          plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
 
       - name: Projects plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-repositories
         with:
           filename: metrics.plugin.projects.svg
           token: ${{ secrets.METRICS_BOT_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_projects: yes
+          plugin_projects_repositories: lowlighter/metrics/projects/1
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
 
