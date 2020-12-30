@@ -208,112 +208,8 @@
           animation-delay: 2.8000000000000003s;
         }
         
-      
-        .stdin:nth-of-type(8) {
-          animation-delay: 3.08s;
-        }
-        .stdout:nth-of-type(9) {
-          animation-delay: 3.24s;
-        }
-        
-      
-        .stdin:nth-of-type(9) {
-          animation-delay: 3.52s;
-        }
-        .stdout:nth-of-type(10) {
-          animation-delay: 3.68s;
-        }
-        
-      
-        .stdin:nth-of-type(10) {
-          animation-delay: 3.96s;
-        }
-        .stdout:nth-of-type(11) {
-          animation-delay: 4.12s;
-        }
-        
-      
-        .stdin:nth-of-type(11) {
-          animation-delay: 4.4s;
-        }
-        .stdout:nth-of-type(12) {
-          animation-delay: 4.5600000000000005s;
-        }
-        
-      
-        .stdin:nth-of-type(12) {
-          animation-delay: 4.840000000000001s;
-        }
-        .stdout:nth-of-type(13) {
-          animation-delay: 5.000000000000001s;
-        }
-        
-      
-        .stdin:nth-of-type(13) {
-          animation-delay: 5.280000000000001s;
-        }
-        .stdout:nth-of-type(14) {
-          animation-delay: 5.440000000000001s;
-        }
-        
-      
-        .stdin:nth-of-type(14) {
-          animation-delay: 5.7200000000000015s;
-        }
-        .stdout:nth-of-type(15) {
-          animation-delay: 5.880000000000002s;
-        }
-        
-      
-        .stdin:nth-of-type(15) {
-          animation-delay: 6.160000000000002s;
-        }
-        .stdout:nth-of-type(16) {
-          animation-delay: 6.320000000000002s;
-        }
-        
-      
-        .stdin:nth-of-type(16) {
-          animation-delay: 6.600000000000002s;
-        }
-        .stdout:nth-of-type(17) {
-          animation-delay: 6.7600000000000025s;
-        }
-        
-      
-        .stdin:nth-of-type(17) {
-          animation-delay: 7.040000000000003s;
-        }
-        .stdout:nth-of-type(18) {
-          animation-delay: 7.200000000000003s;
-        }
-        
-      
-        .stdin:nth-of-type(18) {
-          animation-delay: 7.480000000000003s;
-        }
-        .stdout:nth-of-type(19) {
-          animation-delay: 7.640000000000003s;
-        }
-        
-      
-        .stdin:nth-of-type(19) {
-          animation-delay: 7.9200000000000035s;
-        }
-        .stdout:nth-of-type(20) {
-          animation-delay: 8.080000000000004s;
-        }
-        
-      
-        .stdin:nth-of-type(20) {
-          animation-delay: 8.360000000000003s;
-        }
-        .stdout:nth-of-type(21) {
-          animation-delay: 8.520000000000003s;
-        }
-        
           footer {
-            animation-delay: 8.360000000000003s;
+            animation-delay: 2.64s;
           }
         
       
@@ -336,13 +232,13 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: Tue, 29 Dec 2020 02:28:27 GMT
+Last generated: Wed, 30 Dec 2020 19:54:27 GMT
 </div>
 <div class="stdin"><span class="ps1-path">lowlighter@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Simon Lecoq</b> registered=4y, uid=3968, gid=0
-  contributed to 5 repositories <b><span style="color:#216e39">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#30a14e">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span></b>
+  contributed to 5 repositories <b><span style="color:#9be9a8">#</span><span style="color:#216e39">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#30a14e">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span></b>
   followed by <b>31</b> users
 </div>
-<footer>Connection reset by 121.25.170.97</footer></pre>
+<footer>Connection reset by 225.88.34.26</footer></pre>
 
     </div>
   </foreignObject>
