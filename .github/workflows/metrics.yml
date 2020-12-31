@@ -60,7 +60,7 @@ jobs:
           config_timezone: Europe/Paris
           
       - name: Personal projects
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.projects.svg
           token: ${{ secrets.METRICS_BOT_TOKEN }}
@@ -80,6 +80,7 @@ jobs:
   github-metrics:
     needs: [github-metrics-personal]
     runs-on: ubuntu-latest
+    if: "false"
     steps:
 
       # Classic template with header and repositories sections
