@@ -58,7 +58,7 @@ jobs:
           plugin_languages_skipped: lowlighter
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          config_padding: 50
+          config_padding: 60
           
       - name: Personal projects
         uses: lowlighter/metrics@master
@@ -80,7 +80,6 @@ jobs:
 # - You can use the "debug" to print additional logs in your workflow (be sure to put all sensitives informations in your secrets before)
   github-metrics:
     needs: [github-metrics-personal]
-    if: "false"
     runs-on: ubuntu-latest
     steps:
 
