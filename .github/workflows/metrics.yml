@@ -372,7 +372,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_topics: yes
-          pligin_topics_limit: 12
+          plugin_topics_limit: 12
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
 
