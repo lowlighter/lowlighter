@@ -30,13 +30,12 @@ jobs:
 
 # The job below generates the images displayed on lowlighter/lowlighter
 # You can reuse these steps if you want to have a profile page similar to mine.
-# Ultimately, your workflow should look like my "github-metrics-personal" job, but you'll learn more stuff in the "github-metrics" job
   github-metrics-personal:
     runs-on: ubuntu-latest
     steps:
 
       - name: Personal metrics
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -60,7 +59,7 @@ jobs:
           config_timezone: Europe/Paris
           
       - name: Personal projects
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.projects.svg
           token: ${{ secrets.METRICS_BOT_TOKEN }}
@@ -77,9 +76,13 @@ jobs:
 # Note that : 
 # - "plugins_errors_fatal" is set to "yes" so it'll make the workflow fail in case of errors, but you can set it to "no"
 # - You can use the "debug" to print additional logs in your workflow (be sure to put all sensitives informations in your secrets before)
+# 
+# ⚠️ Following jobs uses @master branch, which is unstable but also contains unreleased features
+# ⚠️ Don't use "use_prebuilt_image" option on forks, because you'll end up using official images from lowlighter/metrics
   github-metrics:
     needs: [github-metrics-personal]
     runs-on: ubuntu-latest
+    if: github.repository == "lowlighter/lowlighter"
     steps:
 
       # Classic template with header and repositories sections
@@ -93,6 +96,7 @@ jobs:
           plugin_lines: yes
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Terminal template with header and metadata sections
       - name: Terminal template
@@ -105,6 +109,7 @@ jobs:
           base: "header, metadata"
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Repository template
       # Displays header section along with ratio of open/closed/merged issues and pull requests and active projects
@@ -126,6 +131,7 @@ jobs:
           plugin_projects_repositories: lowlighter/metrics/projects/1
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Google PageSpeed insight audits
       # Don't forget to update your GitHub profile with your website
@@ -141,6 +147,7 @@ jobs:
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Google PageSpeed insight audits, with additional performance metrics displayed
       # Don't forget to update your GitHub profile with your website
@@ -157,6 +164,7 @@ jobs:
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Google PageSpeed insight audits, with an additional screenshot of your website
       # Don't forget to update your GitHub profile with your website
@@ -173,6 +181,7 @@ jobs:
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Display random tracks from the given embed playlist
       # Note that :  
@@ -190,6 +199,7 @@ jobs:
           plugin_music_limit: 2
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Display recently played music
       # Note that :
@@ -208,6 +218,7 @@ jobs:
           plugin_music_limit: 2
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Display coding habits and recent activity
       # Don't forget to setup timezone for accurate metrics
@@ -223,6 +234,7 @@ jobs:
           plugin_habits_charts: yes
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Display coding habits and recent activity (only facts section)
       # Don't forget to setup timezone for accurate metrics
@@ -238,6 +250,7 @@ jobs:
           plugin_habits_charts: no
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Display coding habits and recent activity (only charts section)
       # Don't forget to setup timezone for accurate metrics
@@ -253,6 +266,7 @@ jobs:
           plugin_habits_charts: yes
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Display most used languages
       # You can ignore some languages and skip some repositories if you want
@@ -268,6 +282,7 @@ jobs:
           plugin_languages_skipped: lowlighter
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Display ratio of open/closed/merged issues and pull requests 
       - name: Follow-up plugin
@@ -280,6 +295,7 @@ jobs:
           plugin_followup: yes
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Display number of line changed
       # Note that :
@@ -294,6 +310,7 @@ jobs:
           plugin_lines: yes
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Display number of repositories views
       # Note that :
@@ -309,6 +326,7 @@ jobs:
           plugin_traffic: yes
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Display recent posts
       # Note that : 
@@ -325,6 +343,7 @@ jobs:
           plugin_posts_source: dev.to
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Display isometric calendar (180 days)
       - name: Isocalendar plugin
@@ -337,6 +356,7 @@ jobs:
           plugin_isocalendar: yes
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Display isometric calendar (365 days)
       - name: Isocalendar plugin (full year)
@@ -350,6 +370,7 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Display gists metrics
       - name: Gists plugin
@@ -362,6 +383,7 @@ jobs:
           plugin_gists: yes
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Display starred topics (as labels)
       - name: Topics plugin
@@ -375,6 +397,7 @@ jobs:
           plugin_topics_limit: 12
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Display starred topics (as icons)
       # Note that : 
@@ -390,6 +413,7 @@ jobs:
           plugin_topics_mode: mastered
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Display active projects
       # Note that : 
@@ -409,6 +433,7 @@ jobs:
           plugin_projects_repositories: lowlighter/metrics/projects/1
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Display your latest tweets
       # Don't forget to update your GitHub profile with your twitter username
@@ -425,6 +450,7 @@ jobs:
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # This is used to illustrate special features with the use of "debug_flags"
       # - "--cakeday" will act as if it's your account birthday
@@ -440,6 +466,7 @@ jobs:
           debug_flags: --cakeday --hireable --halloween
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # This is used to illustrate plugin errors : 
       # The "METRICS_TOKEN" does not contains the "public_repo" scope, which is required for "plugin_projects"
@@ -454,4 +481,5 @@ jobs:
           plugin_projects: yes
           plugins_errors_fatal: no
           config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
