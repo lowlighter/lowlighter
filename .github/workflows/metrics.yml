@@ -3,7 +3,7 @@
 # and delete the "github-metrics" as it is only used to generate examples
 #
 # See https://github.com/lowlighter/metrics/blob/master/action.yml for full options reference
-# See https://github.com/lowlighter/metrics for additional documenation
+# See https://github.com/lowlighter/metrics for additional documentation
 # 
 # You'll notice that my workflow use a lot of different tokens :
 # - GITHUB_TOKEN which is an auto-generated token provided by GitHub used to commit your metrics on your repository
@@ -448,6 +448,19 @@ jobs:
           base: ""
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
+          use_prebuilt_image: master
+          
+      # Display your stargazers evolutions
+      - name: Stargazers plugin
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.stargazers.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_stargazers: yes
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
           use_prebuilt_image: master
