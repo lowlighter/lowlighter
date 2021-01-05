@@ -15,7 +15,7 @@
 # - TWITTER_TOKEN which is twitter API token (mandatory for "plugin_tweets")
 # - SPOTIFY_TOKENS which contains a client_id, client_secret and a refresh_token for Spotify (mandatory for some mode of "plugin_music")
 #
-# The workflow is planned for 00:00 every day, but you can increase its frequency if you want, 
+# The workflow is planned for every hour, but you can change its frequency if you want, 
 # though it's useless to put something lower than 15 minutes as your rendered metrics will probably still be cached by GitHub
 #
 # It will also run on each manual commit on "master" branch
@@ -23,7 +23,7 @@
 name: GitHub metrics
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 * * * *"
   push:
     branches: "master"
 jobs:
@@ -57,6 +57,16 @@ jobs:
           plugin_languages_skipped: lowlighter
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          
+      - name: Personal metrics (additional)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.additional.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_stargazers: yes
+          plugin_stars: yes
+          plugin_stars_limit: 3
           
       - name: Personal projects
         uses: lowlighter/metrics@latest
