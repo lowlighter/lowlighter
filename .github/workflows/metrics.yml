@@ -64,6 +64,7 @@ jobs:
           filename: metrics.additional.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: "metadata"
           plugin_stargazers: yes
           plugin_stars: yes
           plugin_stars_limit: 3
