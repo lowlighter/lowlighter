@@ -491,7 +491,7 @@ jobs:
           
       # Display recent activity metrics
       - name: Activity plugin
-        uses: lowlighter/metrics@feat-activity-plugin
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
