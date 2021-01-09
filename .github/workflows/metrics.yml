@@ -71,7 +71,7 @@ jobs:
           
       - name: Personal projects
         uses: lowlighter/metrics@latest
-        if: "${{ secrets.METRICS_BOT_TOKEN }}"
+        if: ${{ secrets.METRICS_BOT_TOKEN }}
         with:
           filename: metrics.projects.svg
           token: ${{ secrets.METRICS_BOT_TOKEN }}
