@@ -55,7 +55,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
           plugin_languages_skipped: lowlighter
-          plugins_errors_fatal: yes
           config_timezone: Europe/Paris
           
       - name: Personal metrics (additional)
@@ -71,7 +70,6 @@ jobs:
           
       - name: Personal projects
         uses: lowlighter/metrics@latest
-        if: ${{ secrets.METRICS_BOT_TOKEN }}
         with:
           filename: metrics.projects.svg
           token: ${{ secrets.METRICS_BOT_TOKEN }}
