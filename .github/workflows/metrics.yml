@@ -71,6 +71,7 @@ jobs:
           
       - name: Personal projects
         uses: lowlighter/metrics@latest
+        if: "${{ secrets.METRICS_BOT_TOKEN }}"
         with:
           filename: metrics.projects.svg
           token: ${{ secrets.METRICS_BOT_TOKEN }}
@@ -489,6 +490,21 @@ jobs:
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
           use_prebuilt_image: master
+          
+      # Display recent activity metrics
+      - name: Activity plugin
+        uses: lowlighter/metrics@feat-activity-plugin
+        with:
+          filename: metrics.plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: push, issue, pr, release
+          plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
 
       # This is used to illustrate special features with the use of "debug_flags"
       # - "--cakeday" will act as if it's your account birthday
