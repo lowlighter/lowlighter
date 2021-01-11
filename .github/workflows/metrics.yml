@@ -46,6 +46,7 @@ jobs:
           plugin_isocalendar: yes
           config_timezone: Europe/Paris
           config_order: base.header, isocalendar, base.repositories
+          config_padding: 10%
           use_prebuilt_image: master 
           
       - name: Personal metrics (additional)
@@ -500,11 +501,12 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_activity: yes
-          plugin_activity_limit: 5
+          plugin_activity_limit: 4
           plugin_activity_days: 0
           plugin_activity_filter: push, issue, pr, release
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          config_padding: 10%
           use_prebuilt_image: master
 
       # This is used to illustrate special features with the use of "debug_flags"
