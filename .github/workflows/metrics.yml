@@ -38,7 +38,7 @@ jobs:
       - name: Personal metrics
         uses: lowlighter/metrics@refactor-split-plugins
         with:
-          filename: metrics.0.svg
+          filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: "header, repositories"
@@ -47,10 +47,10 @@ jobs:
           config_timezone: Europe/Paris
           config_order: base.header, isocalendar, base.repositories
           
-      - name: Personal metrics
+      - name: Personal metrics (additional)
         uses: lowlighter/metrics@refactor-split-plugins
         with:
-          filename: metrics.0.svg
+          filename: metrics.additional.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
