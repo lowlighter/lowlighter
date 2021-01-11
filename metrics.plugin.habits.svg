@@ -632,8 +632,8 @@
         <div class="chart-bars">
           
             <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               00
             </div>
           
@@ -822,8 +822,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">40</span>
-                <div class="bar" style="height: 47.61904761904761px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">38</span>
+                <div class="bar" style="height: 45.23809523809524px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sat
               </div>
             
