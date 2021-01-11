@@ -36,19 +36,14 @@ jobs:
     steps:
 
       - name: Personal metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@refactor-split-plugins
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: "header, repositories"
           plugin_lines: yes
-          plugin_music: yes
-          plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
-          plugin_music_limit: 2
           plugin_isocalendar: yes
-          plugin_topics: yes
-          plugin_topics_mode: mastered
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_facts: no
@@ -57,18 +52,9 @@ jobs:
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
           plugin_languages_skipped: lowlighter
           config_timezone: Europe/Paris
-          
-      - name: Personal metrics (additional)
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.additional.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: "metadata"
-          plugin_stargazers: yes
-          plugin_stars: yes
-          plugin_stars_limit: 3
-          
+          config_order: base.header, isocalendar, base.repositories, languages, pagespeed, habits, stargazers, stars, activity
+     
+      # Note the job below use a bot token with "public_repo" scope
       - name: Personal projects
         uses: lowlighter/metrics@latest
         with:
