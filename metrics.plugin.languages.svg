@@ -1,9 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="90" class="">
 
   <defs><style/></defs>
-
-  <style>
-    /* SVG global context */
+  <style>/* SVG global context */
   svg {
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
     font-size: 14px;
@@ -578,119 +576,120 @@
     animation-duration: 0s !important;
     animation-play-state: paused !important;
     caret-color: transparent !important;
-  }
-  </style>
+  }</style>
 
   <foreignObject x="0" y="0" width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink">
-
       
-
-      <div class="row">
         
+      
+        <div class="row">
+  
+  
+</div>
+      
+        
+      
+        
+      
+        
+  <section class="column">
+    <h3>Most used languages</h3>
+    
+      <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
+        <mask id="languages-bar">
+          <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
+        </mask>
+        <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
+        
+          <rect mask="url(#languages-bar)" x="0" y="0" width="323.4691672040545" height="8" fill="#f1e05a"/>
+        
+          <rect mask="url(#languages-bar)" x="323.4691672040545" y="0" width="109.6506946888824" height="8" fill="#f34b7d"/>
+        
+          <rect mask="url(#languages-bar)" x="433.11986189293685" y="0" width="13.409676535670252" height="8" fill="#3572A5"/>
+        
+          <rect mask="url(#languages-bar)" x="446.5295384286071" y="0" width="8.7240744983747" height="8" fill="#2b7489"/>
+        
+          <rect mask="url(#languages-bar)" x="455.2536129269818" y="0" width="2.4372666516494297" height="8" fill="#555555"/>
+        
+          <rect mask="url(#languages-bar)" x="457.69087957863127" y="0" width="1.9891991807234317" height="8" fill="#2c3e50"/>
+        
+          <rect mask="url(#languages-bar)" x="459.68007875935467" y="0" width="0.31992124064529814" height="8" fill="#012456"/>
+        
+      </svg>
+      <div class="field center horizontal-wrap fill-width">
+        
+          <div class="field center no-wrap language">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+            JavaScript
+          </div>
+        
+          <div class="field center no-wrap language">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+            C++
+          </div>
+        
+          <div class="field center no-wrap language">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+            Python
+          </div>
+        
+          <div class="field center no-wrap language">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+            TypeScript
+          </div>
+        
+          <div class="field center no-wrap language">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+            C
+          </div>
+        
+          <div class="field center no-wrap language">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2c3e50" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+            Vue
+          </div>
+        
+          <div class="field center no-wrap language">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+            PowerShell
+          </div>
         
       </div>
+    
+  </section>
 
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
       
 
       
-
-      
-        <section class="column">
-          <h3>Most used languages</h3>
-          
-            <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
-              <mask id="languages-bar">
-                <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
-              </mask>
-              <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-              
-                <rect mask="url(#languages-bar)" x="0" y="0" width="323.4691672040545" height="8" fill="#f1e05a"/>
-              
-                <rect mask="url(#languages-bar)" x="323.4691672040545" y="0" width="109.6506946888824" height="8" fill="#f34b7d"/>
-              
-                <rect mask="url(#languages-bar)" x="433.11986189293685" y="0" width="13.409676535670252" height="8" fill="#3572A5"/>
-              
-                <rect mask="url(#languages-bar)" x="446.5295384286071" y="0" width="8.7240744983747" height="8" fill="#2b7489"/>
-              
-                <rect mask="url(#languages-bar)" x="455.2536129269818" y="0" width="2.4372666516494297" height="8" fill="#555555"/>
-              
-                <rect mask="url(#languages-bar)" x="457.69087957863127" y="0" width="1.9891991807234317" height="8" fill="#2c3e50"/>
-              
-                <rect mask="url(#languages-bar)" x="459.68007875935467" y="0" width="0.31992124064529814" height="8" fill="#012456"/>
-              
-            </svg>
-            <div class="field center horizontal-wrap fill-width">
-              
-                <div class="field center no-wrap language">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                  JavaScript
-                </div>
-              
-                <div class="field center no-wrap language">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                  C++
-                </div>
-              
-                <div class="field center no-wrap language">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                  Python
-                </div>
-              
-                <div class="field center no-wrap language">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                  TypeScript
-                </div>
-              
-                <div class="field center no-wrap language">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                  C
-                </div>
-              
-                <div class="field center no-wrap language">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2c3e50" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                  Vue
-                </div>
-              
-                <div class="field center no-wrap language">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                  PowerShell
-                </div>
-              
-            </div>
-          
-        </section>
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
       <div id="metrics-end"></div>
+
     </div>
   </foreignObject>
+
 </svg>
