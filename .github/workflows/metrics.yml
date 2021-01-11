@@ -544,6 +544,10 @@ jobs:
     if: "github.repository == 'lowlighter/lowlighter'"
     steps:
 
+      # Display followers
+      # Note that : 
+      # - To respect privacy of users (as their faces could be displayed on every fork of this repository along lowlighter/metrics), 
+      #   identicons option is used to hide their avatar
       - name: People plugin (followers)
         uses: lowlighter/metrics@feat-people-plugin
         with:
@@ -556,3 +560,20 @@ jobs:
           plugin_people_types: followers
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+        
+      # Display followed users
+      # Note that : 
+      # - To respect privacy of users (as their faces could be displayed on every fork of this repository along lowlighter/metrics), 
+      #   identicons option is used to hide their avatar
+      - name: People plugin (following)
+        uses: lowlighter/metrics@feat-people-plugin
+        with:
+          filename: metrics.plugin.people.following.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_people: yes 
+          plugin_people_identicons: yes
+          plugin_people_types: following
+          plugins_errors_fatal: yes
+          config_timezone: Europe/Paris 
