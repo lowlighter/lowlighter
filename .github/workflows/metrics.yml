@@ -537,3 +537,22 @@ jobs:
           config_timezone: Europe/Paris
           use_prebuilt_image: master
 
+# The job below is used to test other branch features
+# ⚠️ Don't use it unless you know what you're doing !
+  github-metrics-prerelease:
+    runs-on: ubuntu-latest
+    if: "github.repository == 'lowlighter/lowlighter'"
+    steps:
+
+      - name: People plugin (followers)
+        uses: lowlighter/metrics@feat-people-plugin
+        with:
+          filename: metrics.plugin.people.followers.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_people: yes 
+          plugin_people_identicons: yes
+          plugin_people_types: followers
+          plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
