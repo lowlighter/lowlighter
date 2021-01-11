@@ -36,7 +36,7 @@ jobs:
     steps:
 
       - name: Personal metrics
-        uses: lowlighter/metrics@refactor-split-plugins
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -46,9 +46,10 @@ jobs:
           plugin_isocalendar: yes
           config_timezone: Europe/Paris
           config_order: base.header, isocalendar, base.repositories
+          use_prebuilt_image: master 
           
       - name: Personal metrics (additional)
-        uses: lowlighter/metrics@refactor-split-plugins
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.additional.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -66,6 +67,7 @@ jobs:
           plugin_stars_limit: 3
           config_timezone: Europe/Paris
           config_order: languages, pagespeed, habits, stargazers, stars
+          use_prebuilt_image: master
      
       # Note the job below use a bot token with "public_repo" scope
       - name: Personal projects
