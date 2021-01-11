@@ -536,20 +536,27 @@ jobs:
           plugins_errors_fatal: no
           config_timezone: Europe/Paris
           use_prebuilt_image: master
-
-# The job below is used to test other branch features
-# ⚠️ Don't use it unless you know what you're doing !
-  github-metrics-prerelease:
-    runs-on: ubuntu-latest
-    if: "github.repository == 'lowlighter/lowlighter'"
-    steps:
-
-      # Display followers
+          
+      # Display followers and followed users
       # Note that : 
-      # - To respect privacy of users (as their faces could be displayed on every fork of this repository along lowlighter/metrics), 
-      #   identicons option is used to hide their avatar
+      # - To respect privacy of users (as their faces could be displayed on every fork of this repository and on lowlighter/metrics), 
+      #   identicons option is used to hide their avatar, but you probably want to remove it if you use this plugin
       - name: People plugin (followers)
-        uses: lowlighter/metrics@feat-people-plugin
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.people.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_people: yes 
+          plugin_people_identicons: yes
+          plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
+          use_prebuilt_image: master
+          
+      # Display followers and followed users (only followers)
+      - name: People plugin (followers)
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.people.followers.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -560,13 +567,11 @@ jobs:
           plugin_people_types: followers
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-        
-      # Display followed users
-      # Note that : 
-      # - To respect privacy of users (as their faces could be displayed on every fork of this repository along lowlighter/metrics), 
-      #   identicons option is used to hide their avatar
+          use_prebuilt_image: master
+
+      # Display followers and followed users (only following)
       - name: People plugin (following)
-        uses: lowlighter/metrics@feat-people-plugin
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.people.following.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -576,4 +581,24 @@ jobs:
           plugin_people_identicons: yes
           plugin_people_types: following
           plugins_errors_fatal: yes
-          config_timezone: Europe/Paris 
+          config_timezone: Europe/Paris  
+          use_prebuilt_image: master
+
+# The job below is used to test other branch features still in developpement
+# ⚠️ Don't use it unless you know what you're doing !
+  github-metrics-prerelease:
+    runs-on: ubuntu-latest
+    if: "github.repository == 'lowlighter/lowlighter' && false"
+    steps:
+
+      # Display followers
+      - uses: lowlighter/metrics@test
+        with:
+          filename: metrics.plugin._.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
+        
+    
