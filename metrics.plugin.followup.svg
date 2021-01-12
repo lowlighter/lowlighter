@@ -601,8 +601,8 @@
             <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
           </mask>
           <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-          <rect mask="url(#issues-bar)" x="0" y="0" width="144.375" height="8" fill="#d73a49"/>
-          <rect mask="url(#issues-bar)" x="144.375" y="0" width="75.625" height="8" fill="#28a745"/>
+          <rect mask="url(#issues-bar)" x="0" y="0" width="140" height="8" fill="#d73a49"/>
+          <rect mask="url(#issues-bar)" x="140" y="0" width="80" height="8" fill="#28a745"/>
         </svg>
         <div class="field horizontal fill-width">
           <div class="field center">
@@ -611,7 +611,7 @@
           </div>
           <div class="field center">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#28a745" fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/></svg>
-            <span class="no-wrap">11 Open</span>
+            <span class="no-wrap">12 Open</span>
           </div>
         </div>
       
