@@ -637,7 +637,7 @@
               
                 <rect class="day" x="180" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-L2-bg)" rx="2" ry="2"/>
               
-                <rect class="day" x="195" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-bg)" rx="2" ry="2"/>
+                <rect class="day" x="195" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-L1-bg)" rx="2" ry="2"/>
               
             </g>
           </svg>
@@ -691,17 +691,17 @@
             <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
           </mask>
           <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-          <rect mask="url(#pr-bar)" x="0" y="0" width="199.375" height="8" fill="#6f42c1"/>
-          <rect mask="url(#pr-bar)" x="199.375" y="0" width="20.625" height="8" fill="#28a745"/>
+          <rect mask="url(#pr-bar)" x="0" y="0" width="206.25" height="8" fill="#6f42c1"/>
+          <rect mask="url(#pr-bar)" x="206.25" y="0" width="13.75" height="8" fill="#28a745"/>
         </svg>
         <div class="field horizontal fill-width">
           <div class="field center">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#6f42c1" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
-            <span class="no-wrap">29 Merged</span>
+            <span class="no-wrap">30 Merged</span>
           </div>
           <div class="field center">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#28a745" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
-            <span class="no-wrap">3 Open</span>
+            <span class="no-wrap">2 Open</span>
           </div>
         </div>
       
@@ -773,7 +773,7 @@
 
       
         <footer>
-          <span>Last updated Tue, 12 Jan 2021 06:39:10 GMT with lowlighter/metrics@3.2.0-beta</span>
+          <span>Last updated Tue, 12 Jan 2021 07:43:44 GMT with lowlighter/metrics@3.2.0-beta</span>
         </footer>
       
 
