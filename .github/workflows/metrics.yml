@@ -25,7 +25,9 @@ on:
   schedule:
     - cron: "0 * * * *"
   push:
-    branches: "master"
+    branches: 
+      - master
+      - main
   workflow_dispatch:
 jobs:
 
@@ -36,7 +38,7 @@ jobs:
     steps:
 
       - name: Personal metrics
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -50,7 +52,7 @@ jobs:
           use_prebuilt_image: master 
           
       - name: Personal metrics (additional)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.additional.svg
           token: ${{ secrets.METRICS_TOKEN }}
