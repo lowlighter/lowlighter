@@ -49,7 +49,6 @@ jobs:
           config_timezone: Europe/Paris
           config_order: base.header, isocalendar, base.repositories
           config_padding: 10%
-          use_prebuilt_image: master 
           
       - name: Personal metrics (additional)
         uses: lowlighter/metrics@latest
@@ -71,7 +70,6 @@ jobs:
           config_timezone: Europe/Paris
           config_order: languages, pagespeed, habits, stargazers, stars
           config_padding: 6%, 10%
-          use_prebuilt_image: master
      
       # Note the job below use a bot token with "public_repo" scope
       - name: Personal projects
