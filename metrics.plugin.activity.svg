@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="295" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="609" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -642,6 +642,158 @@
                 
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    Pushed 166 commits in <div class="repo">lowlighter/metrics</div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <div class="code">template-sybil</div></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#42096fa</div>
+                        <div class="message">Add support for isHireable (#19)</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#deb1b32</div>
+                        <div class="message">Update height when is hireable is true</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#fefb194</div>
+                        <div class="message">Update README.md</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#217be9a</div>
+                        <div class="message">Refactor web instance to add missing supported plugins options, rename routes and display remaining GitHub requests (#20)</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#93b7e15</div>
+                        <div class="message">Update requests after generation</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#d057f20</div>
+                        <div class="message">Update README.md</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#f9460d6</div>
+                        <div class="message">Add option to ignore languages/skip repositories in languages plugin (#22)
+
+* Add option to ignore languages/skip repositories in languages plugin
+
+* Fix logs on error and first attempt to fix update of file larger than &gt;1mb
+
+* Use variable branch name
+
+* Update version number</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#6eac410</div>
+                        <div class="message">Remove useless log</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#592fd9d</div>
+                        <div class="message">Add tweets plugin (#23)
+
+* Add support for tweets plugin</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#dd210e9</div>
+                        <div class="message">Add support for detailled PageSpeed reports and gists plugin in terminal template</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#7fb4a96</div>
+                        <div class="message">Update README.md</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#e50e65d</div>
+                        <div class="message">Update README.md</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#f29d8ad</div>
+                        <div class="message">Fix opacity display issue on iOS and add support for cakeday  (#25)
+
+* Test no opacity
+
+* Fix opacity display issue on iOS and add support for cakeday</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#5335ef6</div>
+                        <div class="message">Update README.md</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#25a82b3</div>
+                        <div class="message">Add support to generate charts in habits plugin (#26)
+
+* Add charts to habits plugin
+* Dockerfile update
+* Add support for dflags</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#bdd11b7</div>
+                        <div class="message">Update README.md</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#6191132</div>
+                        <div class="message">Skip linguist when there are no activity and fix handle of plugin_habits_facts/plugin_habits_charts options</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#016ab9a</div>
+                        <div class="message">Feat miscelleanous 1 (#28)
+
+* Improve logs and better handling of plugins errors
+
+* Add support for timezones
+
+* Prepare next release</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#5ad0831</div>
+                        <div class="message">Add timezone support for web instance</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#6a21b89</div>
+                        <div class="message">Update app.mjs</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     Pushed 1 commit in <div class="repo">lowlighter/metrics</div>
                   </div>
                   <div class="details">
@@ -714,39 +866,6 @@
                 
                 
                 
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 1 commit in <div class="repo">lowlighter/metrics</div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <div class="code">feat-community-templates</div></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#afbc89c</div>
-                        <div class="message">Update README.md</div>
-                      </div>
-                    
-                  </div>
                 
                 
                 
