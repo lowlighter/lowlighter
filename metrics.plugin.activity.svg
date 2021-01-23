@@ -658,6 +658,79 @@
                 
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    Pushed 2 commits in <div class="repo">lowlighter/nimbus</div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <div class="code">master</div></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#35dd357</div>
+                        <div class="message">Bump axios from 0.19.2 to 0.21.1
+
+Bumps [axios](https://github.com/axios/axios) from 0.19.2 to 0.21.1.
+- [Release notes](https://github.com/axios/axios/releases)
+- [Changelog](https://github.com/axios/axios/blob/v0.21.1/CHANGELOG.md)
+- [Commits](https://github.com/axios/axios/compare/v0.19.2...v0.21.1)
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#9637f17</div>
+                        <div class="message">Merge pull request #2 from lowlighter/dependabot/npm_and_yarn/axios-0.21.1
+
+Bump axios from 0.19.2 to 0.21.1</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
+                    Merged <div class="issue">#2 Bump axios from 0.19.2 to 0.21.1</div>
+                  </div>
+                  <div class="details">
+                    <div>opened by dependabot[bot] in <div class="repo">lowlighter/nimbus</div></div>
+                    <div>2 files changed <div class="code">++8 --21</div></div>
+                  </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     Pushed 1 commit in <div class="repo">lowlighter/gracidea</div>
                   </div>
                   <div class="details">
@@ -700,78 +773,6 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                   <div class="details">
                     <div>opened by dependabot[bot] in <div class="repo">lowlighter/gracidea</div></div>
                     <div>2 files changed <div class="code">++8 --19</div></div>
-                  </div>
-                
-                
-                
-                
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 2 commits in <div class="repo">lowlighter/terraformer</div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <div class="code">master</div></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#a42b3d8</div>
-                        <div class="message">Bump ini from 1.3.5 to 1.3.8
-
-Bumps [ini](https://github.com/isaacs/ini) from 1.3.5 to 1.3.8.
-- [Release notes](https://github.com/isaacs/ini/releases)
-- [Commits](https://github.com/isaacs/ini/compare/v1.3.5...v1.3.8)
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                      </div>
-                    
-                      <div class="commit">
-                        <div class="sha">#de49ff4</div>
-                        <div class="message">Merge pull request #2 from lowlighter/dependabot/npm_and_yarn/ini-1.3.8
-
-Bump ini from 1.3.5 to 1.3.8</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
-                    Merged <div class="issue">#2 Bump ini from 1.3.5 to 1.3.8</div>
-                  </div>
-                  <div class="details">
-                    <div>opened by dependabot[bot] in <div class="repo">lowlighter/terraformer</div></div>
-                    <div>1 file changed <div class="code">++3 --3</div></div>
                   </div>
                 
                 
