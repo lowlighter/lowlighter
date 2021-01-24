@@ -530,6 +530,77 @@
     -webkit-box-orient: vertical;
   }
 
+/* Anilist */
+  .anilist {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 28px;
+    margin-top: 4px;
+  }
+
+  .anilist .media {
+    display: flex;
+    margin-bottom: 4px;
+    width: 450px;
+  }
+  .anilist .media img {
+    margin: 0 10px;
+    border-radius: 7px;
+  }
+
+  .anilist .media .about {
+    flex-grow: 1;
+  }
+  .anilist .media .name {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 14px;
+    line-height: 14px;
+    color: #58a6ff;
+  }
+  .anilist .media .infos {
+    font-size: 12px;
+    color: #666666;
+  }
+  .anilist .media .infos &gt; div {
+    display: inline-flex;
+    align-items: center;
+    margin-right: 16px;
+  }
+  .anilist .media .infos svg {
+    fill: currentColor;
+    height: 12px;
+    width: 12px;
+    margin: 0;
+    margin-right: 4px;
+  }
+
+  .anilist .media .description {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
+    width: 380px;
+    max-height: 38px;
+    font-size: 12px;
+    white-space: normal;
+    /* May not work in all browsers */
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+
+  .anilist .characters {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .anilist .characters img {
+    margin: 2px;
+    border-radius: 7px;
+  }
+
 /* Fade animation */
   .af {
     opacity: 0;
@@ -649,7 +720,7 @@
                 <section>
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
-                    23 done · 4 doing · 7 todo
+                    24 done · 3 doing · 6 todo
                   </div>
                 </section>
               
@@ -660,9 +731,9 @@
                   <mask id="project-bar">
                     <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                   </mask>
-                  <rect mask="url(#project-bar)" x="0" y="0" width="311.1764705882353" height="8" fill="#28A745"/>
-                  <rect mask="url(#project-bar)" x="311.1764705882353" y="0" width="54.11764705882353" height="8" fill="#6F42C1"/>
-                  <rect mask="url(#project-bar)" x="365.2941176470588" y="0" width="94.70588235294117" height="8" fill="#d1d5da"/>
+                  <rect mask="url(#project-bar)" x="0" y="0" width="334.54545454545456" height="8" fill="#28A745"/>
+                  <rect mask="url(#project-bar)" x="334.54545454545456" y="0" width="41.81818181818182" height="8" fill="#6F42C1"/>
+                  <rect mask="url(#project-bar)" x="376.3636363636364" y="0" width="83.63636363636364" height="8" fill="#d1d5da"/>
                 </svg>
               </div>
             
@@ -742,6 +813,11 @@
         
       
         
+      
+        
+
+
+
       
 
       
