@@ -594,16 +594,44 @@ jobs:
 # ⚠️ Don't use it unless you know what you're doing !
   github-metrics-prerelease:
     runs-on: ubuntu-latest
-    if: "github.repository == 'lowlighter/lowlighter' && false"
+    if: "github.repository == 'lowlighter/lowlighter' && true"
     steps:
 
-      # Display followers
-      - uses: lowlighter/metrics@master
+      # Display anilist
+      - uses: lowlighter/metrics@feat-anilist-plugin
         with:
-          filename: metrics.plugin._.svg
+          filename: metrics.plugin.anilist.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 1 
+          plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
+          
+      - uses: lowlighter/metrics@feat-anilist-plugin
+        with:
+          filename: metrics.plugin.anilist.manga.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_medias: manga
+          plugin_anilist_sections: favorites, reading
+          plugin_anilist_limit: 1 
+          plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
+
+      - uses: lowlighter/metrics@feat-anilist-plugin
+        with:
+          filename: metrics.plugin.anilist.characters.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_sections: characters
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
         
