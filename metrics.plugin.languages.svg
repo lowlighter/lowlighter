@@ -530,6 +530,77 @@
     -webkit-box-orient: vertical;
   }
 
+/* Anilist */
+  .anilist {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 28px;
+    margin-top: 4px;
+  }
+
+  .anilist .media {
+    display: flex;
+    margin-bottom: 4px;
+    width: 450px;
+  }
+  .anilist .media img {
+    margin: 0 10px;
+    border-radius: 7px;
+  }
+
+  .anilist .media .about {
+    flex-grow: 1;
+  }
+  .anilist .media .name {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 14px;
+    line-height: 14px;
+    color: #58a6ff;
+  }
+  .anilist .media .infos {
+    font-size: 12px;
+    color: #666666;
+  }
+  .anilist .media .infos &gt; div {
+    display: inline-flex;
+    align-items: center;
+    margin-right: 16px;
+  }
+  .anilist .media .infos svg {
+    fill: currentColor;
+    height: 12px;
+    width: 12px;
+    margin: 0;
+    margin-right: 4px;
+  }
+
+  .anilist .media .description {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
+    width: 380px;
+    max-height: 38px;
+    font-size: 12px;
+    white-space: normal;
+    /* May not work in all browsers */
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+
+  .anilist .characters {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .anilist .characters img {
+    margin: 2px;
+    border-radius: 7px;
+  }
+
 /* Fade animation */
   .af {
     opacity: 0;
@@ -618,19 +689,19 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="267.2374240855349" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="268.4142154577127" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="267.2374240855349" y="0" width="91.14563087681476" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="268.4142154577127" y="0" width="90.58919822115686" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="358.38305496234966" y="0" width="87.30156415637504" height="8" fill="#f34b7d"/>
+          <rect mask="url(#languages-bar)" x="359.0034136788696" y="0" width="86.7685990463713" height="8" fill="#f34b7d"/>
         
-          <rect mask="url(#languages-bar)" x="445.68461911872464" y="0" width="5.476220799348325" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="445.7720127252409" y="0" width="5.442789157556644" height="8" fill="#2b7489"/>
         
-          <rect mask="url(#languages-bar)" x="451.160839918073" y="0" width="5.3149015995949185" height="8" fill="#c22d40"/>
+          <rect mask="url(#languages-bar)" x="451.21480188279753" y="0" width="5.282454791303909" height="8" fill="#c22d40"/>
         
-          <rect mask="url(#languages-bar)" x="456.4757415176679" y="0" width="1.940500163349533" height="8" fill="#555555"/>
+          <rect mask="url(#languages-bar)" x="456.49725667410144" y="0" width="1.9286536530032883" height="8" fill="#555555"/>
         
-          <rect mask="url(#languages-bar)" x="458.4162416810174" y="0" width="1.5837583189825692" height="8" fill="#2c3e50"/>
+          <rect mask="url(#languages-bar)" x="458.4259103271047" y="0" width="1.5740896728952674" height="8" fill="#2c3e50"/>
         
       </svg>
       <div class="field center horizontal-wrap fill-width">
@@ -700,6 +771,11 @@
         
       
         
+      
+        
+
+
+
       
 
       
