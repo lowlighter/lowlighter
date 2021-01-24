@@ -590,15 +590,8 @@ jobs:
           config_timezone: Europe/Paris  
           use_prebuilt_image: master
 
-# The job below is used to test other branch features still in developpement
-# ⚠️ Don't use it unless you know what you're doing !
-  github-metrics-prerelease:
-    runs-on: ubuntu-latest
-    if: "github.repository == 'lowlighter/lowlighter' && true"
-    steps:
-
-      # Display anilist
-      - uses: lowlighter/metrics@feat-anilist-plugin
+      # Anilist (favorites and currently watching anime)
+      - uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.anilist.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -610,8 +603,10 @@ jobs:
           plugin_anilist_limit: 1 
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master 
           
-      - uses: lowlighter/metrics@feat-anilist-plugin
+      # Anilist (favorites and currently reading manga)
+      - uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.anilist.manga.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -623,8 +618,10 @@ jobs:
           plugin_anilist_limit: 1 
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
+          use_prebuilt_image: master 
 
-      - uses: lowlighter/metrics@feat-anilist-plugin
+      # Anilist (favorites characters)
+      - uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.anilist.characters.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -634,4 +631,35 @@ jobs:
           plugin_anilist_sections: characters
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-        
+          use_prebuilt_image: master
+          
+      # Anilist (complete)
+      - uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.anilist.full.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_medias: anime, manga
+          plugin_anilist_sections: favorites, watching, reading, characters
+          plugin_anilist_limit: 1 
+          plugins_errors_fatal: yes
+          config_timezone: Europe/Paris 
+          use_prebuilt_image: master 
+
+# The job below is used to test other branch features still in developpement
+# ⚠️ Don't use it unless you know what you're doing !
+  github-metrics-prerelease:
+    runs-on: ubuntu-latest
+    if: "github.repository == 'lowlighter/lowlighter' && false"
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin._.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugins_errors_fatal: yes
+          config_timezone: Europe/Paris 
+      
