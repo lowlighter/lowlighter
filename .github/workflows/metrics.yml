@@ -665,28 +665,17 @@ jobs:
           plugin_people_thanks: lowlighter, botlighter, octocat
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          
+                   
       - uses: lowlighter/metrics@feat-plugin-people-repository
         with:
-          filename: metrics.plugin.people.contributors.svg
+          filename: metrics.plugin.people.repository.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           template: repository
-          plugin_people: yes 
-          plugin_people_types: contributors
-          plugins_errors_fatal: yes
-          config_timezone: Europe/Paris
-          
-      - uses: lowlighter/metrics@feat-plugin-people-repository
-        with:
-          filename: metrics.plugin.people.contributors.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          template: repository
+          query: '{"repo":"metrics"}'
           plugin_people: yes 
           plugin_people_identicons: yes
-          plugin_people_types: stargazers, watchers
+          plugin_people_types: contributors, stargazers, watchers
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris 
