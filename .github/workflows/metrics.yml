@@ -97,7 +97,7 @@ jobs:
   github-metrics:
     needs: [github-metrics-personal]
     runs-on: ubuntu-latest
-    if: "github.repository == 'lowlighter/lowlighter'"
+    if: "github.repository == 'lowlighter/lowlighter' && false"
     steps:
 
       # Classic template with header and repositories sections
@@ -652,14 +652,41 @@ jobs:
 # ⚠️ Don't use it unless you know what you're doing !
   github-metrics-prerelease:
     runs-on: ubuntu-latest
-    if: "github.repository == 'lowlighter/lowlighter' && false"
+    if: "github.repository == 'lowlighter/lowlighter' && true"
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@feat-plugin-people-repository
         with:
-          filename: metrics.plugin._.svg
+          filename: metrics.plugin.people.thanks.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
+          plugin_people: yes 
+          plugin_people_types: thanks
+          plugin_people_thanks: lowlighter, botlighter, octocat
+          plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
+          
+      - uses: lowlighter/metrics@feat-plugin-people-repository
+        with:
+          filename: metrics.plugin.people.contributors.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          template: repository
+          plugin_people: yes 
+          plugin_people_types: contributors
+          plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
+          
+      - uses: lowlighter/metrics@feat-plugin-people-repository
+        with:
+          filename: metrics.plugin.people.contributors.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          template: repository
+          plugin_people: yes 
+          plugin_people_identicons: yes
+          plugin_people_types: stargazers, watchers
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris 
-      
