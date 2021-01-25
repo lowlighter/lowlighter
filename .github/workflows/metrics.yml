@@ -97,7 +97,7 @@ jobs:
   github-metrics:
     needs: [github-metrics-personal]
     runs-on: ubuntu-latest
-    if: "github.repository == 'lowlighter/lowlighter' && false"
+    if: "github.repository == 'lowlighter/lowlighter' && true"
     steps:
 
       # Classic template with header and repositories sections
@@ -547,7 +547,7 @@ jobs:
       # Note that : 
       # - To respect privacy of users (as their faces could be displayed on every fork of this repository and on lowlighter/metrics), 
       #   identicons option is used to hide their avatar, but you probably want to remove it if you use this plugin
-      - name: People plugin (followers)
+      - name: People plugin
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.people.svg
@@ -589,6 +589,37 @@ jobs:
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris  
           use_prebuilt_image: master
+          
+      # Thanks specified users
+      - name: People plugin (special thanks)
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.people.thanks.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_people: yes 
+          plugin_people_types: thanks
+          plugin_people_thanks: lowlighter, botlighter, octocat
+          plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
+          use_prebuilt_image: master
+                             
+      # Repository people 
+      - name: People plugin (special thanks)
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.people.repository.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          template: repository
+          query: '{"repo":"metrics"}'
+          plugin_people: yes 
+          plugin_people_identicons: yes
+          plugin_people_types: contributors, stargazers, watchers, sponsors
+          plugins_errors_fatal: yes
+          config_timezone: Europe/Paris 
 
       # Anilist (favorites and currently watching anime)
       - uses: lowlighter/metrics@master
@@ -652,7 +683,7 @@ jobs:
 # ⚠️ Don't use it unless you know what you're doing !
   github-metrics-prerelease:
     runs-on: ubuntu-latest
-    if: "github.repository == 'lowlighter/lowlighter' && true"
+    if: "github.repository == 'lowlighter/lowlighter' && false"
     steps:
       - uses: lowlighter/metrics@feat-plugin-people-repository
         with:
@@ -665,17 +696,3 @@ jobs:
           plugin_people_thanks: lowlighter, botlighter, octocat
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-                   
-      - uses: lowlighter/metrics@feat-plugin-people-repository
-        with:
-          filename: metrics.plugin.people.repository.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          template: repository
-          query: '{"repo":"metrics"}'
-          plugin_people: yes 
-          plugin_people_identicons: yes
-          plugin_people_types: contributors, stargazers, watchers
-          plugins_errors_fatal: yes
-          config_timezone: Europe/Paris 
