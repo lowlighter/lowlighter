@@ -704,11 +704,11 @@
         <section class="categories">
           
             <div class="categorie column">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="292.81 329"/>
-                  <text x="60" y="60" dominant-baseline="central">89</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="315.84 329"/>
+                  <text x="60" y="60" dominant-baseline="central">96</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -783,7 +783,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.90 s
+                0.91 s
               
             </div>
             
@@ -794,7 +794,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.42 s
+                0.72 s
               
             </div>
             
@@ -805,7 +805,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.07 s
+                0.10 s
               
             </div>
             
@@ -816,7 +816,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.37 s
+                0.24 s
               
             </div>
             
