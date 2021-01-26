@@ -92,6 +92,10 @@
     margin: 0 6px;
   }
 
+  .avatar.organization {
+    border-radius: 15%;
+  }
+
 /* Commit calendar */
   .calendar.field {
     margin: 4px 0;
@@ -670,10 +674,12 @@
       
         
       
-        <div class="row">
-  
-  
-</div>
+        
+  <div class="row">
+    
+    
+  </div>
+
       
         
       
@@ -717,7 +723,7 @@
                   
                   <div class="name">
                     <span>abyssal-engines/test</span>
-                    <span>starred 19 hours ago</span>
+                    <span>starred 20 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
