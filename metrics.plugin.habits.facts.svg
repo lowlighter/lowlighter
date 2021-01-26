@@ -92,6 +92,10 @@
     margin: 0 6px;
   }
 
+  .avatar.organization {
+    border-radius: 15%;
+  }
+
 /* Commit calendar */
   .calendar.field {
     margin: 4px 0;
@@ -670,10 +674,12 @@
       
         
       
-        <div class="row">
-  
-  
-</div>
+        
+  <div class="row">
+    
+    
+  </div>
+
       
         
       
@@ -704,7 +710,7 @@
               <li>Mostly push code around 21:00</li>
             
             
-              <li>Mostly active on saturday</li>
+              <li>Mostly active on sunday</li>
             
           </ul>
         
