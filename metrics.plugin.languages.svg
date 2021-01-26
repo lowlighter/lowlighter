@@ -92,6 +92,10 @@
     margin: 0 6px;
   }
 
+  .avatar.organization {
+    border-radius: 15%;
+  }
+
 /* Commit calendar */
   .calendar.field {
     margin: 4px 0;
@@ -670,10 +674,12 @@
       
         
       
-        <div class="row">
-  
-  
-</div>
+        
+  <div class="row">
+    
+    
+  </div>
+
       
         
       
@@ -689,19 +695,19 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="269.1506159227725" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="269.15369663433984" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="269.1506159227725" y="0" width="90.24099948679448" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="269.15369663433984" y="0" width="90.2395428067412" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="359.39161540956695" y="0" width="86.43508559263056" height="8" fill="#f34b7d"/>
+          <rect mask="url(#languages-bar)" x="359.39323944108105" y="0" width="86.43369034805433" height="8" fill="#f34b7d"/>
         
-          <rect mask="url(#languages-bar)" x="445.8267010021975" y="0" width="5.421868646797338" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="445.82692978913536" y="0" width="5.42178112640246" height="8" fill="#2b7489"/>
         
-          <rect mask="url(#languages-bar)" x="451.2485696489949" y="0" width="5.2621505595767655" height="8" fill="#c22d40"/>
+          <rect mask="url(#languages-bar)" x="451.2487109155378" y="0" width="5.262065617368665" height="8" fill="#c22d40"/>
         
-          <rect mask="url(#languages-bar)" x="456.5107202085716" y="0" width="1.9212404649611594" height="8" fill="#555555"/>
+          <rect mask="url(#languages-bar)" x="456.5107765329065" y="0" width="1.9212094520880882" height="8" fill="#555555"/>
         
-          <rect mask="url(#languages-bar)" x="458.4319606735328" y="0" width="1.5680393264672425" height="8" fill="#2c3e50"/>
+          <rect mask="url(#languages-bar)" x="458.4319859849946" y="0" width="1.568014015005461" height="8" fill="#2c3e50"/>
         
       </svg>
       <div class="field center horizontal-wrap fill-width">
