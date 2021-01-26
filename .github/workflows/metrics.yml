@@ -72,7 +72,8 @@ jobs:
           config_padding: 6%, 10%
           
       # Anilist 
-      - uses: lowlighter/metrics@master
+      - name: Personal metrics (anilist)
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.personal.anilist.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -113,6 +114,32 @@ jobs:
     runs-on: ubuntu-latest
     if: "github.repository == 'lowlighter/lowlighter' && true"
     steps:
+  
+      # This is used to illustrate plugin errors : 
+      # The "METRICS_TOKEN" does not contains the "public_repo" scope, which is required for "plugin_projects"
+      # It will display an "Insufficient token rights" error
+      - name: Plugin error example
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.error.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_projects: yes
+          plugins_errors_fatal: no
+          config_timezone: Europe/Paris
+          use_prebuilt_image: master
+  
+      # Generating metrics for an organization
+      - name: Organization metrics
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.organization.svg
+          user: github
+          token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: Europe/Paris
+          use_prebuilt_image: master
 
       # Classic template with header and repositories sections
       - name: Classic template
@@ -541,21 +568,6 @@ jobs:
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
           use_prebuilt_image: master
-
-      # This is used to illustrate plugin errors : 
-      # The "METRICS_TOKEN" does not contains the "public_repo" scope, which is required for "plugin_projects"
-      # It will display an "Insufficient token rights" error
-      - name: Plugin error example
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.error.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_projects: yes
-          plugins_errors_fatal: no
-          config_timezone: Europe/Paris
-          use_prebuilt_image: master
           
       # Display followers and followed users
       # Note that : 
@@ -636,7 +648,8 @@ jobs:
           config_timezone: Europe/Paris 
 
       # Anilist (favorites and currently watching anime)
-      - uses: lowlighter/metrics@master
+      - name: Anilist plugin (favorites and currently watching)
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.anilist.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -651,7 +664,8 @@ jobs:
           use_prebuilt_image: master 
           
       # Anilist (favorites and currently reading manga)
-      - uses: lowlighter/metrics@master
+      - name: Anilist plugin (favorites and currently reading)
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.anilist.manga.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -666,7 +680,8 @@ jobs:
           use_prebuilt_image: master 
 
       # Anilist (favorites characters)
-      - uses: lowlighter/metrics@master
+      - name: Anilist plugin (favorites characters)
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.anilist.characters.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -679,7 +694,8 @@ jobs:
           use_prebuilt_image: master
           
       # Anilist (complete)
-      - uses: lowlighter/metrics@master
+      - name: Anilist plugin (complete)
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.anilist.full.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -692,6 +708,9 @@ jobs:
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris 
           use_prebuilt_image: master 
+
+# ============================================================================================================
+# ============================================================================================================
 
 # The job below is used to test other branch features still in developpement
 # ⚠️ Don't use it unless you know what you're doing !
