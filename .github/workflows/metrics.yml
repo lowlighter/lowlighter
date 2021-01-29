@@ -1,21 +1,21 @@
 # This is a workflow showing most of lowlighter/metrics features
-# If you forked this repository, you should only keep the "github-metrics-personal" job, 
+# If you forked this repository, you should only keep the "github-metrics-personal" job,
 # and delete the "github-metrics" as it is only used to generate examples
 #
 # See https://github.com/lowlighter/metrics/blob/master/action.yml for full options reference
 # See https://github.com/lowlighter/metrics for additional documentation
-# 
+#
 # You'll notice that my workflow use a lot of different tokens :
 # - GITHUB_TOKEN which is an auto-generated token provided by GitHub used to commit your metrics on your repository
-# - METRICS_TOKEN which is my personal scope-less token  
+# - METRICS_TOKEN which is my personal scope-less token
 # - METRICS_BOT_TOKEN which is a bot account token with more scopes that I use for plugins which requires additional scopes
-# 
-# There are also a few application tokens : 
+#
+# There are also a few application tokens :
 # - PAGESPEED_TOKEN which is a PageSpeed API token (optional for "plugin_pagespeed")
 # - TWITTER_TOKEN which is twitter API token (mandatory for "plugin_tweets")
 # - SPOTIFY_TOKENS which contains a client_id, client_secret and a refresh_token for Spotify (mandatory for some mode of "plugin_music")
 #
-# The workflow is planned for every hour, but you can change its frequency if you want, 
+# The workflow is planned for every hour, but you can change its frequency if you want,
 # though it's useless to put something lower than 15 minutes as your rendered metrics will probably still be cached by GitHub
 #
 # It will also run on each manual commit on "master" branch
@@ -25,7 +25,7 @@ on:
   schedule:
     - cron: "0 * * * *"
   push:
-    branches: 
+    branches:
       - master
       - main
   workflow_dispatch:
@@ -49,7 +49,7 @@ jobs:
           config_timezone: Europe/Paris
           config_order: base.header, isocalendar, base.repositories
           config_padding: 10%
-          
+
       - name: Personal metrics (additional)
         uses: lowlighter/metrics@latest
         with:
@@ -70,8 +70,8 @@ jobs:
           config_timezone: Europe/Paris
           config_order: languages, pagespeed, habits, stargazers, stars
           config_padding: 6%, 10%
-          
-      # Anilist 
+
+      # Anilist
       - name: Personal metrics (anilist)
         uses: lowlighter/metrics@master
         with:
@@ -84,8 +84,8 @@ jobs:
           plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 2
           config_timezone: Europe/Paris
-          use_prebuilt_image: master 
-     
+          use_prebuilt_image: master
+
       # Note the job below use a bot token with "public_repo" scope
       - name: Personal projects
         uses: lowlighter/metrics@latest
@@ -103,10 +103,10 @@ jobs:
 
 # The job below generates the examples displayed on lowlighter/metrics
 # You can use these steps to render plugins as standalone or to understand how each of them works
-# Note that : 
+# Note that :
 # - "plugins_errors_fatal" is set to "yes" so it'll make the workflow fail in case of errors, but you can set it to "no"
 # - You can use the "debug" to print additional logs in your workflow (be sure to put all sensitives informations in your secrets before)
-# 
+#
 # ⚠️ Following jobs uses @master branch, which is unstable but also contains unreleased features
 # ⚠️ Don't use "use_prebuilt_image" option on forks, because you'll end up using official images from lowlighter/metrics
   github-metrics:
@@ -114,12 +114,12 @@ jobs:
     runs-on: ubuntu-latest
     if: "github.repository == 'lowlighter/lowlighter' && true"
     steps:
-  
-      # This is used to illustrate plugin errors : 
+
+      # This is used to illustrate plugin errors :
       # The "METRICS_TOKEN" does not contains the "public_repo" scope, which is required for "plugin_projects"
       # It will display an "Insufficient token rights" error
       - name: Plugin error example
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.error.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -128,11 +128,11 @@ jobs:
           plugin_projects: yes
           plugins_errors_fatal: no
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
-  
+          # use_prebuilt_image: master
+
       # Generating metrics for an organization
       - name: Organization metrics
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.organization.svg
           user: github
@@ -140,11 +140,11 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: "header, repositories"
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Classic template with header and repositories sections
       - name: Classic template
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -153,11 +153,11 @@ jobs:
           plugin_lines: yes
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Terminal template with header and metadata sections
       - name: Terminal template
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           template: terminal
           filename: metrics.terminal.svg
@@ -166,15 +166,15 @@ jobs:
           base: "header, metadata"
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Repository template
       # Displays header section along with ratio of open/closed/merged issues and pull requests and active projects
-      # Note that : 
+      # Note that :
       # - As projects requires "public_repo" scope, you can use a bot account instead and use the "user" option instead
       # - You must pass the additional query parameter "repo" in a JSON format
       - name: Repository template
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           template: repository
           filename: metrics.repository.svg
@@ -188,13 +188,13 @@ jobs:
           plugin_projects_repositories: lowlighter/metrics/projects/1
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Google PageSpeed insight audits
       # Don't forget to update your GitHub profile with your website
       # Token is optional but advised
       - name: PageSpeed plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.pagespeed.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -204,13 +204,13 @@ jobs:
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Google PageSpeed insight audits, with additional performance metrics displayed
       # Don't forget to update your GitHub profile with your website
       # Token is optional but advised
       - name: PageSpeed plugin (detailed)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.pagespeed.detailed.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -221,13 +221,13 @@ jobs:
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Google PageSpeed insight audits, with an additional screenshot of your website
       # Don't forget to update your GitHub profile with your website
       # Token is optional but advised
       - name: PageSpeed plugin (screenshot)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.pagespeed.screenshot.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -238,14 +238,14 @@ jobs:
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Display random tracks from the given embed playlist
-      # Note that :  
+      # Note that :
       # - "plugin_music_mode" and "plugin_music_provider" are both optional (they're deduced from "plugin_music_playlist")
       # - "plugin_music_token" is not needed as it uses pupeeter to retrieve tracks
       - name: Music plugin (playlist)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.music.playlist.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -256,13 +256,13 @@ jobs:
           plugin_music_limit: 2
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Display recently played music
       # Note that :
       # - "plugin_music_mode", "plugin_music_provider" and "plugin_music_token" are all required
       - name: Music plugin (recent)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.music.recent.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -275,12 +275,12 @@ jobs:
           plugin_music_limit: 2
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Display coding habits and recent activity
       # Don't forget to setup timezone for accurate metrics
       - name: Habits plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -291,12 +291,12 @@ jobs:
           plugin_habits_charts: yes
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Display coding habits and recent activity (only facts section)
       # Don't forget to setup timezone for accurate metrics
       - name: Habits plugin (facts)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -307,12 +307,12 @@ jobs:
           plugin_habits_charts: no
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Display coding habits and recent activity (only charts section)
       # Don't forget to setup timezone for accurate metrics
       - name: Habits plugin (charts)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -323,12 +323,12 @@ jobs:
           plugin_habits_charts: yes
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Display most used languages
       # You can ignore some languages and skip some repositories if you want
       - name: Languages plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -339,11 +339,11 @@ jobs:
           plugin_languages_skipped: lowlighter
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
-      # Display ratio of open/closed/merged issues and pull requests 
+      # Display ratio of open/closed/merged issues and pull requests
       - name: Follow-up plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.followup.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -352,13 +352,13 @@ jobs:
           plugin_followup: yes
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Display number of line changed
       # Note that :
       # - This is part of "repositories" section, so you need to enable it
       - name: Lines plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.lines.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -367,14 +367,14 @@ jobs:
           plugin_lines: yes
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Display number of repositories views
       # Note that :
       # - This is part of "repositories" section, so you need to enable it
       # - A "repo" scope is required
       - name: Traffic plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.traffic.svg
           token: ${{ secrets.METRICS_BOT_TOKEN }}
@@ -383,14 +383,14 @@ jobs:
           plugin_traffic: yes
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Display recent posts
-      # Note that : 
+      # Note that :
       # - "plugin_posts_source" is required
       # - With "dev.to" as source, your GitHub username is directly used
       - name: Posts plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.posts.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -400,11 +400,11 @@ jobs:
           plugin_posts_source: dev.to
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Display isometric calendar (180 days)
       - name: Isocalendar plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -413,11 +413,11 @@ jobs:
           plugin_isocalendar: yes
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Display isometric calendar (365 days)
       - name: Isocalendar plugin (full year)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -427,11 +427,11 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Display gists metrics
       - name: Gists plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.gists.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -440,11 +440,11 @@ jobs:
           plugin_gists: yes
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Display starred topics (as labels)
       - name: Topics plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.topics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -454,13 +454,13 @@ jobs:
           plugin_topics_limit: 12
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Display starred topics (as icons)
-      # Note that : 
+      # Note that :
       # - Only topics with an icon will be displayed (most of majors topics have one anyway)
       - name: Topics plugin (mastered)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.topics.mastered.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -470,17 +470,17 @@ jobs:
           plugin_topics_mode: mastered
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Display active projects
-      # Note that : 
+      # Note that :
       # - As projects requires "public_repo" scope, you can use a bot account instead and use the "user" option instead
       # - It uses user projects by default (those which are on your profile)
       # - You can use repositories projects by providing a list of comma-separated endpoints
       # - You can set "plugin_projects_limit" to 0 to display only "plugin_projects_repositories"
       # - You'll need to enable "Track project progress" in your projects to display a progress bar
       - name: Projects plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.projects.svg
           token: ${{ secrets.METRICS_BOT_TOKEN }}
@@ -491,14 +491,14 @@ jobs:
           plugin_projects_descriptions: yes
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Display your latest tweets
       # Don't forget to update your GitHub profile with your twitter username
-      # Note that : 
+      # Note that :
       # - You must provide a "plugin_tweets_token"
       - name: Tweets plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.tweets.svg
           token: ${{ secrets.METRICS_BOT_TOKEN }}
@@ -508,11 +508,11 @@ jobs:
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
-          
+          # use_prebuilt_image: master
+
       # Display your stargazers evolutions
       - name: Stargazers plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.stargazers.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -521,11 +521,11 @@ jobs:
           plugin_stargazers: yes
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
-          
+          # use_prebuilt_image: master
+
       # Display your latest starred repositories
       - name: Stars plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -535,11 +535,11 @@ jobs:
           plugin_stars_limit: 2
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
-          
+          # use_prebuilt_image: master
+
       # Display recent activity metrics
       - name: Activity plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -552,14 +552,14 @@ jobs:
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
           config_padding: 10%
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # This is used to illustrate special features with the use of "debug_flags"
       # - "--cakeday" will act as if it's your account birthday
       # - "--hireable" will act as if "Available for hire" is enabled on your account
       # - "--halloween" will act as if it was halloween, changing the colors of contributions calendar and isocalendar
       - name: Header (additional features)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.header.svg
           token: ${{ secrets.METRICS_BOT_TOKEN }}
@@ -568,73 +568,73 @@ jobs:
           debug_flags: --cakeday --hireable --halloween
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
-          
+          # use_prebuilt_image: master
+
       # Display followers and followed users
-      # Note that : 
-      # - To respect privacy of users (as their faces could be displayed on every fork of this repository and on lowlighter/metrics), 
+      # Note that :
+      # - To respect privacy of users (as their faces could be displayed on every fork of this repository and on lowlighter/metrics),
       #   identicons option is used to hide their avatar, but you probably want to remove it if you use this plugin
       - name: People plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.people.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
-          plugin_people: yes 
+          plugin_people: yes
           plugin_people_identicons: yes
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
-          
+          # use_prebuilt_image: master
+
       # Display followers and followed users (only followers)
       - name: People plugin (followers)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.people.followers.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
-          plugin_people: yes 
+          plugin_people: yes
           plugin_people_identicons: yes
           plugin_people_types: followers
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
+          # use_prebuilt_image: master
 
       # Display followers and followed users (only following)
       - name: People plugin (following)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.people.following.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
-          plugin_people: yes 
+          plugin_people: yes
           plugin_people_identicons: yes
           plugin_people_types: following
           plugins_errors_fatal: yes
-          config_timezone: Europe/Paris  
-          use_prebuilt_image: master
-          
+          config_timezone: Europe/Paris
+          # use_prebuilt_image: master
+
       # Thanks specified users
       - name: People plugin (special thanks)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.people.thanks.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
-          plugin_people: yes 
+          plugin_people: yes
           plugin_people_types: thanks
           plugin_people_thanks: lowlighter, botlighter, octocat
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
-                             
-      # Repository people 
+          # use_prebuilt_image: master
+
+      # Repository people
       - name: People plugin (special thanks)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.people.repository.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -642,15 +642,15 @@ jobs:
           base: ""
           template: repository
           query: '{"repo":"metrics"}'
-          plugin_people: yes 
+          plugin_people: yes
           plugin_people_identicons: yes
           plugin_people_types: contributors, stargazers, watchers, sponsors
           plugins_errors_fatal: yes
-          config_timezone: Europe/Paris 
+          config_timezone: Europe/Paris
 
       # Anilist (favorites and currently watching anime)
       - name: Anilist plugin (favorites and currently watching)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.anilist.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -659,14 +659,14 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching
-          plugin_anilist_limit: 1 
+          plugin_anilist_limit: 1
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master 
-          
+          # use_prebuilt_image: master
+
       # Anilist (favorites and currently reading manga)
       - name: Anilist plugin (favorites and currently reading)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.anilist.manga.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -675,14 +675,14 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_medias: manga
           plugin_anilist_sections: favorites, reading
-          plugin_anilist_limit: 1 
+          plugin_anilist_limit: 1
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master 
+          # use_prebuilt_image: master
 
       # Anilist (favorites characters)
       - name: Anilist plugin (favorites characters)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.anilist.characters.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -692,11 +692,11 @@ jobs:
           plugin_anilist_sections: characters
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          use_prebuilt_image: master
-          
+          # use_prebuilt_image: master
+
       # Anilist (complete)
       - name: Anilist plugin (complete)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@feat-refactor
         with:
           filename: metrics.plugin.anilist.full.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -705,10 +705,10 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, watching, reading, characters
-          plugin_anilist_limit: 1 
+          plugin_anilist_limit: 1
           plugins_errors_fatal: yes
-          config_timezone: Europe/Paris 
-          use_prebuilt_image: master 
+          config_timezone: Europe/Paris
+          # use_prebuilt_image: master
 
 # ============================================================================================================
 # ============================================================================================================
@@ -725,7 +725,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
-          plugin_people: yes 
+          plugin_people: yes
           plugin_people_types: thanks
           plugin_people_thanks: lowlighter, botlighter, octocat
           plugins_errors_fatal: yes
