@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: Personal metrics
+      - name: 🦑 Personal metrics
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
@@ -27,7 +27,7 @@ jobs:
           config_order: base.header, isocalendar, base.repositories
           config_padding: 10%
 
-      - name: Personal metrics (additional)
+      - name: 🦑 Personal metrics (additional)
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.additional.svg
@@ -48,7 +48,7 @@ jobs:
           config_order: languages, pagespeed, habits, stargazers, stars
           config_padding: 6%, 10%
 
-      - name: Personal metrics (anilist)
+      - name: 🦑 Personal metrics (anilist)
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.personal.anilist.svg
@@ -60,7 +60,7 @@ jobs:
           plugin_anilist_limit: 2
           use_prebuilt_image: master # ⚠️ DO NOT USE THIS OPTION!
 
-      - name: Personal projects
+      - name: 🦑 Personal projects
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.projects.svg

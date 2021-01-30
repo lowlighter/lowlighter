@@ -211,8 +211,8 @@ jobs:
       # ======================================================================================
       # 📅 Isometric commit calendar
 
-      # 📅 Display isometric calendar (180 days)
-      - name: Isocalendar plugin
+      # Display isometric calendar (180 days)
+      - name: 📅 Isocalendar plugin
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.isocalendar.svg
@@ -222,8 +222,8 @@ jobs:
           plugin_isocalendar: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
-      # 📅 Display isometric calendar (365 days)
-      - name: Isocalendar plugin (full year)
+      # Display isometric calendar (365 days)
+      - name: 📅 Isocalendar plugin (full year)
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
@@ -237,8 +237,8 @@ jobs:
       # ======================================================================================
       # 🈷️ Most used languages
 
-      # 🈷️ Display most used languages (with some unwanted languages ignored)
-      - name: Languages plugin
+      # Display most used languages (with some unwanted languages ignored)
+      - name: 🈷️ Languages plugin
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.languages.svg
