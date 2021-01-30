@@ -551,7 +551,7 @@ jobs:
           plugin_activity_filter: push, issue, pr, release
           plugins_errors_fatal: yes
           config_timezone: Europe/Paris
-          config_padding: 10%
+          config_padding: 7%, 14%
           use_prebuilt_image: master
 
       # This is used to illustrate special features with the use of "debug_flags"
