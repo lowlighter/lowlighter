@@ -72,19 +72,19 @@ jobs:
           config_padding: 6%, 10%
 
       # Anilist
-      - name: Personal metrics (anilist)
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.personal.anilist.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_anilist: yes
-          plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites, characters
-          plugin_anilist_limit: 2
-          config_timezone: Europe/Paris
-          use_prebuilt_image: master
+ #     - name: Personal metrics (anilist)
+ #       uses: lowlighter/metrics@master
+ #       with:
+ #         filename: metrics.plugin.personal.anilist.svg
+ #         token: ${{ secrets.METRICS_TOKEN }}
+  #        committer_token: ${{ secrets.GITHUB_TOKEN }}
+  #        base: ""
+  #        plugin_anilist: yes
+  #        plugin_anilist_medias: anime, manga
+  #        plugin_anilist_sections: favorites, characters
+  #        plugin_anilist_limit: 2
+  #        config_timezone: Europe/Paris
+  #        use_prebuilt_image: master
 
       # Note the job below use a bot token with "public_repo" scope
       - name: Personal projects
