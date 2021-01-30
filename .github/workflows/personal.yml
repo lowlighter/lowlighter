@@ -1,7 +1,7 @@
 # See https://github.com/lowlighter/metrics for documentation
 # This worflow is scheduled for every hour, and also run after each commit (GitHub action excluded) on master/main branch
 
-name: GitHub metrics
+name: Metrics
 on:
   schedule:
     - cron: "0 * * * *"
