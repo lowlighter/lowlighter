@@ -1,0 +1,74 @@
+# See https://github.com/lowlighter/metrics for documentation
+# This worflow is scheduled for every hour, and also run after each commit (GitHub action excluded) on master/main branch
+
+name: GitHub metrics
+on:
+  schedule:
+    - cron: "0 * * * *"
+  push:
+    branches:
+      - master
+      - main
+  workflow_dispatch:
+jobs:
+  github-metrics-personal:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Personal metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, repositories
+          plugin_lines: yes
+          plugin_isocalendar: yes
+          config_order: base.header, isocalendar, base.repositories
+          config_padding: 10%
+
+      - name: Personal metrics (additional)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.additional.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
+          plugin_languages_skipped: lowlighter
+          plugin_stargazers: yes
+          plugin_stars: yes
+          plugin_stars_limit: 3
+          config_timezone: Europe/Paris
+          config_order: languages, pagespeed, habits, stargazers, stars
+          config_padding: 6%, 10%
+
+      - name: Personal metrics (anilist)
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.personal.anilist.svg
+          token: NOT_NEEDED
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_anilist: yes
+          plugin_anilist_medias: anime, manga
+          plugin_anilist_sections: favorites, characters
+          plugin_anilist_limit: 2
+          use_prebuilt_image: master # ⚠️ DO NOT USE THIS OPTION!
+
+      - name: Personal projects
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.projects.svg
+          token: ${{ secrets.METRICS_BOT_TOKEN }} # ⚠️ This it not the same token, this one has "public_repo" scope
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: lowlighter
+          base: ""
+          plugin_projects: yes
+          plugin_projects_repositories: lowlighter/metrics/projects/1
+          plugin_projects_descriptions: yes
+          plugin_projects_limit: 0
