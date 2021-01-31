@@ -276,6 +276,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://example.com
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # Google PageSpeed insight website audit, with additional metrics (token option but advised)
@@ -289,6 +290,7 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://example.com
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # Google PageSpeed insight website audit, with a screenshot of your website (token option but advised)
@@ -302,6 +304,7 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://example.com
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # ======================================================================================
