@@ -8,7 +8,7 @@
 name: Metrics (examples)
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 1-23/2 * * *"
   workflow_dispatch:
 jobs:
   github-metrics:
@@ -248,6 +248,19 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          
+      # 🈷️ Display most used languages (with some unwanted languages ignored, with details)
+      - name: Languages plugin (detailed)
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.languages.details.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
+          plugin_languages_details: bytes-size, percentage
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # ======================================================================================
       # 👨‍💻 Lines of code changed
@@ -276,6 +289,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://example.com
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # Google PageSpeed insight website audit, with additional metrics (token option but advised)
@@ -289,6 +303,7 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://example.com
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # Google PageSpeed insight website audit, with a screenshot of your website (token option but advised)
@@ -302,6 +317,7 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://example.com
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # ======================================================================================
