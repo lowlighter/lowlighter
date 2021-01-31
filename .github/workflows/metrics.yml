@@ -78,7 +78,7 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 7
           plugin_activity_days: 0
-          plugin_activity_filter: push, issue, pr, release, fork, star, review
+          plugin_activity_filter: issue, pr, release, fork, star
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           config_padding: 7%, 20%
 
