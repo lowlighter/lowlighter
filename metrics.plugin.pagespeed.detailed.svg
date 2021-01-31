@@ -117,9 +117,20 @@
     flex-grow: 0;
   }
 
-  .field.language small {
-    margin-left: 4px;
+  .field.language.details {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .field.language.details small {
+    display: flex;
+    justify-content: space-between;
     color: #666666;
+    text-align: right;
+  }
+
+  .field.language.details &gt; *, .field.language.details small &gt; * {
+    flex: 1 1 0;
   }
 
 /* Labels */
@@ -784,7 +795,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.23 s
+                0.24 s
               
             </div>
             
@@ -795,7 +806,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.23 s
+                0.24 s
               
             </div>
             
@@ -817,7 +828,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.23 s
+                0.24 s
               
             </div>
             
@@ -828,7 +839,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.23 s
+                0.24 s
               
             </div>
             
