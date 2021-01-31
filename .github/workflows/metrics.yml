@@ -285,7 +285,7 @@ jobs:
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.pagespeed.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: NOT_NEEDED
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
