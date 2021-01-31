@@ -250,7 +250,7 @@ jobs:
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           
       # 🈷️ Display most used languages (with some unwanted languages ignored, with details)
-      - name: Languages plugin (detailed)
+      - name: 🈷️ Languages plugin (detailed)
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.languages.details.svg
