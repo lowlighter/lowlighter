@@ -50,7 +50,7 @@ jobs:
           config_padding: 6%, 10%
 
       - name: 🦑 Personal metrics (anilist)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.personal.anilist.svg
           token: NOT_NEEDED
@@ -59,7 +59,6 @@ jobs:
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 2
-          use_prebuilt_image: master # ⚠️ DO NOT USE THIS OPTION!
           config_padding: 6%, 10%
 
       - name: 🦑 Personal projects
