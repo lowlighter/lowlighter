@@ -60,6 +60,7 @@ jobs:
           plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 2
           use_prebuilt_image: master # ⚠️ DO NOT USE THIS OPTION!
+          config_padding: 6%, 10%
 
       - name: 🦑 Personal projects
         uses: lowlighter/metrics@latest
