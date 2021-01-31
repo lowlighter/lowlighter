@@ -515,6 +515,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_topics: yes
+          plugin_topics_limit: 0
           plugin_topics_mode: mastered
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
