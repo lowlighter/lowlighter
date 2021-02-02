@@ -17,6 +17,20 @@ jobs:
     steps:
 
       # ======================================================================================
+      # ⏰ WakaTime plugin
+
+      # Display your wakatime metrics
+      - name: ⏰ WakaTime plugin
+        uses: lowlighter/metrics@feat-wakatime-plugin
+        with:
+          filename: metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}           
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+
+      # ======================================================================================
       # 🖼️ TEMPLATES
       # ======================================================================================
 
@@ -120,6 +134,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_anilist: yes
           plugin_anilist_sections: characters
+          plugin_anilist_limit_characters: 22
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # Anilist plugin with all sections
@@ -549,7 +564,7 @@ jobs:
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-
+        
       # ======================================================================================
       # 💬 Others
 
