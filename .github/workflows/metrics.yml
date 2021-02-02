@@ -29,6 +29,7 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}           
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          debug: yes
 
       # ======================================================================================
       # 🖼️ TEMPLATES
@@ -136,6 +137,7 @@ jobs:
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 22
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          debug: yes
 
       # Anilist plugin with all sections
       - name: 🌸 Anilist plugin (complete)
