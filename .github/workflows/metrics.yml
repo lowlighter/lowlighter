@@ -27,6 +27,7 @@ jobs:
           token: NOT_NEEDED
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}           
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           debug: yes
