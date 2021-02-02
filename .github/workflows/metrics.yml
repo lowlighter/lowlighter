@@ -17,22 +17,6 @@ jobs:
     steps:
 
       # ======================================================================================
-      # ⏰ WakaTime plugin
-
-      # Display your wakatime metrics
-      - name: ⏰ WakaTime plugin
-        uses: lowlighter/metrics@feat-wakatime-plugin
-        with:
-          filename: metrics.plugin.wakatime.svg
-          token: NOT_NEEDED
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}           
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          debug: yes
-
-      # ======================================================================================
       # 🖼️ TEMPLATES
       # ======================================================================================
 
@@ -46,7 +30,7 @@ jobs:
           base: header, repositories
           plugin_lines: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          use_prebuilt_image: master # ⚠️ DO NOT USE THIS OPTION!
+          use_prebuilt_image: master # ⚠️ DO NOT USE THIS OPTION, this is for pulling pre-built master image to make workflow faster 
 
       # Repository template example, with some plugins enabled
       # Notice how repository name is passed through "query" option
@@ -566,6 +550,22 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          
+      # ======================================================================================
+      # ⏰ WakaTime plugin
+
+      # Display your wakatime metrics
+      - name: ⏰ WakaTime plugin
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: MOCKED_TOKEN # ${{ secrets.WAKATIME_TOKEN }}
+          use_mocked_data: yes                # ⚠️ Using mocked data because I don't really use WakaTime
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
         
       # ======================================================================================
