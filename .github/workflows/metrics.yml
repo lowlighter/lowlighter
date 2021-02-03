@@ -567,7 +567,8 @@ jobs:
           plugin_wakatime_token: MOCKED_TOKEN # ${{ secrets.WAKATIME_TOKEN }}
           use_mocked_data: yes                # ⚠️ Using mocked data because I don't really use WakaTime
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-        
+          config_padding: 7%, 10%
+      
       # ======================================================================================
       # 💬 Others
 
