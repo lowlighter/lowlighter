@@ -385,6 +385,7 @@
     align-items: center;
     flex-direction: row;
     width: 100%;
+    min-height: 1rem;
   }
 
   .chart-bars.horizontal .entry .name {
@@ -716,19 +717,19 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="268.6876721195357" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="268.7224197061297" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="268.6876721195357" y="0" width="90.45989729310546" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="268.7224197061297" y="0" width="90.44346728491254" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="359.14756941264113" y="0" width="86.64475138458909" height="8" fill="#f34b7d"/>
+          <rect mask="url(#languages-bar)" x="359.16588699104227" y="0" width="86.62901431194453" height="8" fill="#f34b7d"/>
         
-          <rect mask="url(#languages-bar)" x="445.7923207972302" y="0" width="5.435020486422784" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="445.7949013029868" y="0" width="5.434033337047286" height="8" fill="#2b7489"/>
         
-          <rect mask="url(#languages-bar)" x="451.227341283653" y="0" width="5.274914970659534" height="8" fill="#c22d40"/>
+          <rect mask="url(#languages-bar)" x="451.2289346400341" y="0" width="5.27395690085426" height="8" fill="#c22d40"/>
         
-          <rect mask="url(#languages-bar)" x="456.50225625431256" y="0" width="1.9259008225100294" height="8" fill="#555555"/>
+          <rect mask="url(#languages-bar)" x="456.50289154088836" y="0" width="1.9255510258903181" height="8" fill="#555555"/>
         
-          <rect mask="url(#languages-bar)" x="458.4281570768226" y="0" width="1.5718429231774411" height="8" fill="#2c3e50"/>
+          <rect mask="url(#languages-bar)" x="458.4284425667787" y="0" width="1.571557433221355" height="8" fill="#2c3e50"/>
         
       </svg>
       
