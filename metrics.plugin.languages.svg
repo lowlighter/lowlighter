@@ -275,8 +275,9 @@
   .track .name {
     font-size: 14px;
     line-height: 14px;
+    font-weight: 600;
   }
-  .track .artist {
+  .track .artist, .track .played-at {
     font-size: 12px;
     color: #666666;
   }
@@ -717,19 +718,19 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="268.8585435968017" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="268.97380257456297" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="268.8585435968017" y="0" width="90.37910262370252" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="268.97380257456297" y="0" width="90.32460370350273" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="359.23764622050425" y="0" width="86.56736423013616" height="8" fill="#f34b7d"/>
+          <rect mask="url(#languages-bar)" x="359.2984062780657" y="0" width="86.51516380173926" height="8" fill="#f34b7d"/>
         
-          <rect mask="url(#languages-bar)" x="445.8050104506404" y="0" width="5.4301661731133635" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="445.81357007980495" y="0" width="5.426891763605535" height="8" fill="#2b7489"/>
         
-          <rect mask="url(#languages-bar)" x="451.2351766237538" y="0" width="5.27020365632096" height="8" fill="#c22d40"/>
+          <rect mask="url(#languages-bar)" x="451.2404618434105" y="0" width="5.267025704779459" height="8" fill="#c22d40"/>
         
-          <rect mask="url(#languages-bar)" x="456.5053802800748" y="0" width="1.924180695415994" height="8" fill="#555555"/>
+          <rect mask="url(#languages-bar)" x="456.50748754818994" y="0" width="1.9230204076157702" height="8" fill="#555555"/>
         
-          <rect mask="url(#languages-bar)" x="458.42956097549074" y="0" width="1.5704390245092836" height="8" fill="#2c3e50"/>
+          <rect mask="url(#languages-bar)" x="458.43050795580575" y="0" width="1.5694920441942464" height="8" fill="#2c3e50"/>
         
       </svg>
       
