@@ -738,14 +738,14 @@
               <section>
                 <div class="field">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/></svg>
-                  Updated 1 day ago
+                  Updated less than 1 day ago
                 </div>
               </section>
               
                 <section>
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
-                    25 done · 2 doing · 13 todo
+                    25 done · 4 doing · 14 todo
                   </div>
                 </section>
               
@@ -756,9 +756,9 @@
                   <mask id="project-bar">
                     <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                   </mask>
-                  <rect mask="url(#project-bar)" x="0" y="0" width="287.5" height="8" fill="#28A745"/>
-                  <rect mask="url(#project-bar)" x="287.5" y="0" width="23" height="8" fill="#6F42C1"/>
-                  <rect mask="url(#project-bar)" x="310.5" y="0" width="149.5" height="8" fill="#d1d5da"/>
+                  <rect mask="url(#project-bar)" x="0" y="0" width="267.4418604651163" height="8" fill="#28A745"/>
+                  <rect mask="url(#project-bar)" x="267.4418604651163" y="0" width="42.7906976744186" height="8" fill="#6F42C1"/>
+                  <rect mask="url(#project-bar)" x="310.2325581395349" y="0" width="149.76744186046514" height="8" fill="#d1d5da"/>
                 </svg>
               </div>
             
