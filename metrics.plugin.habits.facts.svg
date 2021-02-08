@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="90" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="81" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -350,6 +350,7 @@
     width: 100%;
     margin: 8px 0 4px;
     flex-grow: 1;
+    min-height: 70px;
   }
 
   .chart-bars .entry {
@@ -727,7 +728,7 @@
               <li>Use spaces for indents</li>
             
             
-              <li>Mostly push code around 12:00</li>
+              <li>Mostly push code around 22:00</li>
             
             
               <li>Mostly active on wednesday</li>
