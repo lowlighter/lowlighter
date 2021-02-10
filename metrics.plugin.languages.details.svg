@@ -652,6 +652,13 @@
     }
   }
 
+/* Twemoji */
+  .twemoji {
+    height: 1em;
+    width: 1em;
+    margin-bottom: -.125em;
+  }
+
 /* Cake day */
   .cakeday, .cakeday svg {
     animation: animation-rainbow 1.2s;
@@ -731,17 +738,17 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="328.6220986769083" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="328.6515741191188" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="328.6220986769083" y="0" width="107.21305244992222" height="8" fill="#f34b7d"/>
+          <rect mask="url(#languages-bar)" x="328.6515741191188" y="0" width="107.18899854055182" height="8" fill="#f34b7d"/>
         
-          <rect mask="url(#languages-bar)" x="435.8351511268305" y="0" width="13.11156630456875" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="435.8405726596706" y="0" width="13.108624643825145" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="448.9467174313993" y="0" width="6.725221403092276" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="448.9491973034958" y="0" width="6.723712558204184" height="8" fill="#2b7489"/>
         
-          <rect mask="url(#languages-bar)" x="455.6719388344916" y="0" width="2.3830838290551277" height="8" fill="#555555"/>
+          <rect mask="url(#languages-bar)" x="455.6729098616999" y="0" width="2.3825491695044825" height="8" fill="#555555"/>
         
-          <rect mask="url(#languages-bar)" x="458.0550226635467" y="0" width="1.9449773364533647" height="8" fill="#2c3e50"/>
+          <rect mask="url(#languages-bar)" x="458.0554590312044" y="0" width="1.9445409687956077" height="8" fill="#2c3e50"/>
         
       </svg>
       
@@ -756,7 +763,7 @@
                   </div>
                   <small>
                      <div>1.89 MB</div>
-                     <div>71.44%</div>
+                     <div>71.45%</div>
                   </small>
                 </div>
               
@@ -793,7 +800,7 @@
                   </div>
                   <small>
                      <div>616 kB</div>
-                     <div>23.31%</div>
+                     <div>23.3%</div>
                   </small>
                 </div>
               
