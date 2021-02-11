@@ -26,7 +26,6 @@ jobs:
           plugin_lines: yes
           plugin_isocalendar: yes
           config_order: base.header, isocalendar, base.repositories
-          config_padding: 10%
 
       - name: 🦑 Personal metrics (additional)
         if: ${{ success() || failure() }}
@@ -49,7 +48,6 @@ jobs:
           plugin_stars_limit: 3
           config_timezone: Europe/Paris
           config_order: languages, pagespeed, habits, stargazers, stars
-          config_padding: 6%, 10%
 
       - name: 🦑 Personal metrics (anilist)
         if: ${{ success() || failure() }}
@@ -63,7 +61,6 @@ jobs:
           plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
-          config_padding: 6%, 10%
           use_prebuilt_image: master # ⚠️ DO NOT USE THIS OPTION!
 
       - name: 🦑 Personal projects
