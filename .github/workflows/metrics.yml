@@ -22,6 +22,7 @@ jobs:
 
       # Classic template example
       - name: 📗 Classic template
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.classic.svg
@@ -35,6 +36,7 @@ jobs:
       # Repository template example, with some plugins enabled
       # Notice how repository name is passed through "query" option
       - name: 📘 Repository template
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           template: repository
@@ -51,6 +53,7 @@ jobs:
 
       # Terminal template example
       - name: 📙 Terminal template
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           template: terminal
@@ -69,6 +72,7 @@ jobs:
 
       # Display recent activity
       - name: 📰 Activity plugin
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.activity.svg
@@ -87,6 +91,7 @@ jobs:
 
       # Anilist with onlyt favorites and currently watching anime sections
       - name: 🌸 Anilist plugin (favorites and currently watching)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.anilist.svg
@@ -100,6 +105,7 @@ jobs:
 
       # Anilist with only favorites and currently reading manga sections
       - name: 🌸 Anilist plugin (favorites and currently reading)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.anilist.manga.svg
@@ -113,6 +119,7 @@ jobs:
 
       # Anilist with only favorites characters section
       - name: 🌸 Anilist plugin (favorites characters)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.anilist.characters.svg
@@ -126,6 +133,7 @@ jobs:
 
       # Anilist plugin with all sections
       - name: 🌸 Anilist plugin (complete)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.anilist.full.svg
@@ -142,6 +150,7 @@ jobs:
 
       # Display ratio of open/closed/merged issues and pull requests
       - name: 🎟️ Follow-up plugin
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.followup.svg
@@ -156,6 +165,7 @@ jobs:
 
       # Display gists metrics
       - name: 🎫 Gists plugin
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.gists.svg
@@ -170,6 +180,7 @@ jobs:
 
       # Display coding habits and recent activity (setup timezone for accurate metrics)
       - name: 💡 Habits plugin
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.habits.svg
@@ -184,6 +195,7 @@ jobs:
 
       # Display coding habits and recent activity, only facts section (setup timezone for accurate metrics)
       - name: 💡 Habits plugin (facts)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.habits.facts.svg
@@ -198,6 +210,7 @@ jobs:
 
       # Display coding habits and recent activity, only charts section (setup timezone for accurate metrics)
       - name: 💡 Habits plugin (charts)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.habits.charts.svg
@@ -215,6 +228,7 @@ jobs:
 
       # Display isometric calendar (180 days)
       - name: 📅 Isocalendar plugin
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.isocalendar.svg
@@ -226,6 +240,7 @@ jobs:
 
       # Display isometric calendar (365 days)
       - name: 📅 Isocalendar plugin (full year)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
@@ -241,6 +256,7 @@ jobs:
 
       # Display most used languages (with some unwanted languages ignored)
       - name: 🈷️ Languages plugin
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.languages.svg
@@ -253,6 +269,7 @@ jobs:
           
       # 🈷️ Display most used languages (with some unwanted languages ignored, with details)
       - name: 🈷️ Languages plugin (detailed)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.languages.details.svg
@@ -263,12 +280,46 @@ jobs:
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
           plugin_languages_details: bytes-size, percentage
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          
+      # ======================================================================================
+      # 📜 Licenses
+          
+      - name: 📜 Licenses
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@feat-plugin-licenses
+        with:
+          filename: metrics.plugin.licenses.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          template: repository
+          query: '{"repo":"metrics"}'
+          plugin_licenses: yes
+          plugin_licenses_setup: npm ci
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          
+      - name: 📜 Licenses (ratio)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@feat-plugin-licenses
+        with:
+          filename: metrics.plugin.licenses.ratio.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          template: repository
+          query: '{"repo":"metrics"}'
+          plugin_licenses: yes
+          plugin_licenses_setup: npm ci
+          plugin_licenses_legal: no
+          plugin_licenses_ratio: yes
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # ======================================================================================
       # 👨‍💻 Lines of code changed
 
       # Display number of line changed (this is part of base content "repositories" section, so you need to enable it)
       - name: 👨‍💻 Lines plugin
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.lines.svg
@@ -284,6 +335,7 @@ jobs:
       # Google PageSpeed insight website audit (token option but advised)
       # This use website linked to GitHub account
       - name: ⏱️ PageSpeed plugin
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.pagespeed.svg
@@ -297,6 +349,7 @@ jobs:
       # Google PageSpeed insight website audit, with additional metrics (token option but advised)
       # This use website linked to GitHub account
       - name: ⏱️ PageSpeed plugin (detailed)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.pagespeed.detailed.svg
@@ -311,6 +364,7 @@ jobs:
       # Google PageSpeed insight website audit, with a screenshot of your website (token option but advised)
       # This use website linked to GitHub account
       - name: ⏱️ PageSpeed plugin (screenshot)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.pagespeed.screenshot.svg
@@ -330,6 +384,7 @@ jobs:
       # - "plugin_music_mode" and "plugin_music_provider" are both optional as they're deduced from "plugin_music_playlist"
       # - "plugin_music_token" is not needed since it uses pupeeter to retrieve tracks
       - name: 🎼 Music plugin (playlist)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.music.playlist.svg
@@ -343,6 +398,7 @@ jobs:
       # Display recently played music
       # Note that in this mode "plugin_music_mode", "plugin_music_provider" and "plugin_music_token" are all required
       - name: 🎼 Music plugin (recent)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.music.recent.svg
@@ -362,6 +418,7 @@ jobs:
       # Note that to respect privacy of users (as their faces could be displayed on every fork of this repository
       #   and on lowlighter/metrics), identicons are used instead of their avatar, but you probably want to disable this
       - name: 🧑‍🤝‍🧑 People plugin
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.people.svg
@@ -374,6 +431,7 @@ jobs:
 
       # Display followers
       - name: 🧑‍🤝‍🧑 People plugin (followers)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.people.followers.svg
@@ -387,6 +445,7 @@ jobs:
 
       # Display followed users
       - name: 🧑‍🤝‍🧑 People plugin (following)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.people.following.svg
@@ -400,6 +459,7 @@ jobs:
 
       # Special thanks to listed users
       - name: 🧑‍🤝‍🧑 People plugin (special thanks)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.people.thanks.svg
@@ -413,6 +473,7 @@ jobs:
 
       # Repository people
       - name: 🧑‍🤝‍🧑 People plugin (repository template)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.people.repository.svg
@@ -431,6 +492,7 @@ jobs:
 
       # Display recent posts
       - name: ✒️ Posts plugin
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.posts.svg
@@ -452,6 +514,7 @@ jobs:
       # - You can set "plugin_projects_limit" to 0 to display only "plugin_projects_repositories"
       # - You'll need to enable "Track project progress" in your projects to display a progress bar
       - name: 🗂️ Projects plugin
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.projects.svg
@@ -468,6 +531,7 @@ jobs:
 
       # Display stargazers evolution over last weeks
       - name: ✨ Stargazers plugin
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.stargazers.svg
@@ -482,6 +546,7 @@ jobs:
 
       # Display latest starred repositories
       - name: 🌟 Stars plugin
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.stars.svg
@@ -497,6 +562,7 @@ jobs:
 
       # Display starred topics (as labels)
       - name: 📌 Topics plugin
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.topics.svg
@@ -511,6 +577,7 @@ jobs:
       # Display starred topics (as icons)
       # Note that only topics with an icon will be displayed (most of majors topics have one though)
       - name: 📌 Topics plugin (mastered)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.topics.mastered.svg
@@ -528,6 +595,7 @@ jobs:
       # Display number of repositories views (this is part of base content "repositories" section, so you need to enable it)
       # Note that a "repo" scope is required
       - name: 🧮 Traffic plugin
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.traffic.svg
@@ -543,6 +611,7 @@ jobs:
       # Display your latest tweets (token required)
       # Don't forget to update your GitHub profile with your twitter username
       - name: 🐤 Tweets plugin
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.tweets.svg
@@ -558,6 +627,7 @@ jobs:
 
       # Display your wakatime metrics
       - name: ⏰ WakaTime plugin
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.wakatime.svg
@@ -576,6 +646,7 @@ jobs:
       # Illustrate plugin errors :
       # ${{ secrets.METRICS_TOKEN }} is missing "public_repo" scope, which is required for "plugin_projects"
       - name: 💬 Plugin error example
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.error.svg
@@ -586,6 +657,7 @@ jobs:
 
       # Metrics for "github" organization
       - name: 💬 Organization metrics
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.organization.svg
@@ -599,6 +671,7 @@ jobs:
       # "--hireable" will act as if "Available for hire" is enabled
       # "--halloween" will act as if it was halloween, changing the colors of calendars
       - name: 💬 Header (hidden features)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.header.svg
