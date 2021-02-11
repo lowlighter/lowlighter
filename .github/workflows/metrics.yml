@@ -312,6 +312,22 @@ jobs:
           plugin_licenses_legal: no
           plugin_licenses_ratio: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          
+      - name: 📜 Licenses (repository)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.licenses.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          template: repository
+          query: '{"repo":"metrics"}'
+          plugin_licenses: yes
+          plugin_licenses_setup: npm ci
+          plugin_licenses_legal: yes
+          plugin_licenses_ratio: yes
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # ======================================================================================
       # 👨‍💻 Lines of code changed
