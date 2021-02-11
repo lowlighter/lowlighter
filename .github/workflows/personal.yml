@@ -16,6 +16,7 @@ jobs:
     steps:
 
       - name: 🦑 Personal metrics
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
@@ -28,6 +29,7 @@ jobs:
           config_padding: 10%
 
       - name: 🦑 Personal metrics (additional)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.additional.svg
@@ -50,6 +52,7 @@ jobs:
           config_padding: 6%, 10%
 
       - name: 🦑 Personal metrics (anilist)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master # ⚠️ Using master to use unreleased features
         with:
           filename: metrics.plugin.personal.anilist.svg
@@ -64,6 +67,7 @@ jobs:
           use_prebuilt_image: master # ⚠️ DO NOT USE THIS OPTION!
 
       - name: 🦑 Personal projects
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.projects.svg
