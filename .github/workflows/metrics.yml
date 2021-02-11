@@ -286,7 +286,7 @@ jobs:
           
       - name: 📜 Licenses
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@feat-plugin-licenses
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.licenses.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -300,7 +300,7 @@ jobs:
           
       - name: 📜 Licenses (ratio)
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@feat-plugin-licenses
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.licenses.ratio.svg
           token: ${{ secrets.METRICS_TOKEN }}
