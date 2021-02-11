@@ -638,6 +638,57 @@
     border-radius: 7px;
   }
 
+/* Licenses */
+  .licenses {
+    display: flex;
+  }
+  .licenses .column {
+    align-items: flex-start;
+    font-size: 12px;
+    color: #666666;
+    flex-shrink: 0;
+  }
+  .licenses-details {
+    margin-top: 8px;
+  }
+  .field.license.details {
+    display: flex;
+    justify-content: space-between;
+  }
+  .field.license.details small {
+    display: flex;
+    justify-content: space-between;
+    color: #666666;
+    text-align: right;
+  }
+  .licenses .column:nth-child(1) {
+    margin-left: 13px;
+    width: 25%;
+  }
+  .licenses .column:nth-child(2) {
+    width: 25%;
+  }
+  .licenses .column:nth-child(3) {
+    width: 50%;
+  }
+  .licenses .column svg {
+    height: 12px;
+    width: 12px;
+  }
+  .licenses .column .title {
+    font-weight: 600;
+    margin-left: 15px;
+  }
+  .licenses .column .permission svg {
+    fill: #56d364;
+  }
+  .licenses .column .limitation svg {
+    fill: #f85149;
+  }
+  .licenses .column .condition svg {
+    fill: #58a6ff;
+  }
+
 /* Fade animation */
   .af {
     opacity: 0;
@@ -771,7 +822,7 @@
                   
                     <div class="label" title="Amazon Web Services provides on-demand cloud computing platforms on a subscription basis.">amazon web services</div>
                   
-                    <div class="label" title="Google, Data structures, API, Database, SQL, Arduino, Raspberry Pi, GitHub API, Azure, Bitcoin, JSON, Tensorflow, Chrome, iOS, Bash, Front end, Terminal, TypeScript, 3D, macOS, ES6, Bot, MongoDB, HTTP, Security, Firefox, GraphQL, Command line interface, Windows, Electron, npm, Game engine, Ansible, Natural language processing, REST API, Cryptocurrency, Mobile, Shell, Web app, Operating system, Babel, Continuous integration, Server, NoSQL, Material design, Deployment, Serverless, Web Components, PWA, Testing, Emulator, Virtual reality, P2P, Emoji, Mongoose, IPFS, Monitoring, Package manager, Parsing, Pixel Art, Icon font, Software-defined networking, Vagrant, Localization, Homebridge, PICO-8, GitHub, Deno, jison">and 69 more...</div>
+                    <div class="label" title="Google, Data structures, API, Database, SQL, Arduino, Raspberry Pi, GitHub API, Azure, Bitcoin, JSON, Tensorflow, Chrome, iOS, Bash, Front end, Terminal, TypeScript, 3D, macOS, ES6, Bot, MongoDB, HTTP, Security, Firefox, GraphQL, Command line interface, Windows, Electron, npm, Game engine, Ansible, Natural language processing, REST API, Cryptocurrency, Shell, Mobile, Web app, Operating system, Babel, Continuous integration, Server, NoSQL, Material design, Deployment, Serverless, Web Components, PWA, Testing, Emulator, Virtual reality, P2P, Emoji, Mongoose, IPFS, Monitoring, Package manager, Parsing, Pixel Art, Icon font, Software-defined networking, Vagrant, Localization, Homebridge, PICO-8, GitHub, Deno, jison">and 69 more...</div>
                   
                 
               </div>
