@@ -158,8 +158,6 @@ jobs:
           template: repository
           query: '{"repo":"metrics"}'
           plugin_contributors: yes
-          plugin_contributors_base: latest
-          plugin_contributors_head: master
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # ======================================================================================
