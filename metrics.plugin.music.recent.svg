@@ -710,6 +710,12 @@
     right: 100%;
   }
 
+/* Introduction */
+  .introduction {
+    white-space: normal;
+    margin: 0 13px 2px;
+  }
+
 /* Fade animation */
   .af {
     opacity: 0;
@@ -783,6 +789,8 @@
 
   <foreignObject x="0" y="0" width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink">
+      
+        
       
         
       
