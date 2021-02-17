@@ -239,6 +239,36 @@ jobs:
           config_timezone: Europe/Paris
 
       # ======================================================================================
+      # 🙋 Introduction
+
+      # Display introduction (user)
+      - name: 🙋 Introduction plugin
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.introduction.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: botlighter
+          base: header
+          plugin_introduction: yes
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          
+      # Display introduction (repository)
+      - name: 🙋 Introduction plugin
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.introduction.repository.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          template: repository
+          query: '{"repo":"metrics"}'
+          base: header
+          plugin_introduction: yes
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+
+      # ======================================================================================
       # 📅 Isometric commit calendar
 
       # Display isometric calendar (180 days)
@@ -299,6 +329,7 @@ jobs:
       # ======================================================================================
       # 📜 Licenses
           
+      # List permissions, limitations and conditions of licenses and dependencies  
       - name: 📜 Licenses
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
@@ -313,6 +344,7 @@ jobs:
           plugin_licenses_setup: npm ci
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           
+      # List ratio of licenses and dependencies
       - name: 📜 Licenses (ratio)
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
@@ -329,6 +361,7 @@ jobs:
           plugin_licenses_ratio: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           
+      # List permissions, limitations and conditions of licenses and dependencies (metrics)
       - name: 📜 Licenses (repository)
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
