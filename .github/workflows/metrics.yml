@@ -145,6 +145,24 @@ jobs:
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # ======================================================================================
+      # 🏅 Contributors 
+      
+      - name: 🏅 Contributors plugin
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.contributors.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          template: repository
+          query: '{"repo":"metrics"}'
+          plugin_contributors: yes
+          plugin_contributors_base: latest
+          plugin_contributors_head: master
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+
+      # ======================================================================================
       # 🎟️ Follow-up of issues and pull requests
 
       # Display ratio of open/closed/merged issues and pull requests
@@ -635,6 +653,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          plugin_tweets_user: github
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           
       # ======================================================================================
