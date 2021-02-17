@@ -689,6 +689,27 @@
     fill: #58a6ff;
   }
 
+/* Contributors */
+  .contributors {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 6px;
+  }
+  .contributors .label {
+    padding-left: 0;
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  .contributors .label img {
+    margin-left: 0;
+  }
+  .contributors .contributions {
+    position: absolute;
+    bottom: 100%;
+    right: 100%;
+  }
+
 /* Fade animation */
   .af {
     opacity: 0;
@@ -789,17 +810,17 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="329.2648144075459" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="329.4581247132999" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="329.2648144075459" y="0" width="106.68855392585324" height="8" fill="#f34b7d"/>
+          <rect mask="url(#languages-bar)" x="329.4581247132999" y="0" width="106.53079993723568" height="8" fill="#f34b7d"/>
         
-          <rect mask="url(#languages-bar)" x="435.9533683333991" y="0" width="13.047423021471845" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="435.98892465053564" y="0" width="13.028130576808586" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="449.00079135487096" y="0" width="6.692320850227162" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="449.01705522734426" y="0" width="6.682425315341897" height="8" fill="#2b7489"/>
         
-          <rect mask="url(#languages-bar)" x="455.69311220509815" y="0" width="2.3714255101983275" height="8" fill="#555555"/>
+          <rect mask="url(#languages-bar)" x="455.69948054268616" y="0" width="2.36791902502089" height="8" fill="#555555"/>
         
-          <rect mask="url(#languages-bar)" x="458.06453771529647" y="0" width="1.9354622847035428" height="8" fill="#2c3e50"/>
+          <rect mask="url(#languages-bar)" x="458.067399567707" y="0" width="1.9326004322929922" height="8" fill="#2c3e50"/>
         
       </svg>
       
