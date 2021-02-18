@@ -699,15 +699,9 @@
     padding-left: 0;
     display: flex;
     align-items: center;
-    position: relative;
   }
   .contributors .label img {
     margin-left: 0;
-  }
-  .contributors .contributions {
-    position: absolute;
-    bottom: 100%;
-    right: 100%;
   }
 
 /* Introduction */
@@ -818,17 +812,17 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="329.6025248942211" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="329.60839203840715" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="329.6025248942211" y="0" width="106.41295984377274" height="8" fill="#f34b7d"/>
+          <rect mask="url(#languages-bar)" x="329.60839203840715" y="0" width="106.40817186625893" height="8" fill="#f34b7d"/>
         
-          <rect mask="url(#languages-bar)" x="436.0154847379939" y="0" width="13.013719381870379" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="436.01656390466604" y="0" width="13.01313383856942" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="449.0292041198643" y="0" width="6.675033484770991" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="449.02969774323543" y="0" width="6.674733146256998" height="8" fill="#2b7489"/>
         
-          <rect mask="url(#languages-bar)" x="455.7042376046353" y="0" width="2.365299728072162" height="8" fill="#555555"/>
+          <rect mask="url(#languages-bar)" x="455.7044308894924" y="0" width="2.3651933030471644" height="8" fill="#555555"/>
         
-          <rect mask="url(#languages-bar)" x="458.06953733270745" y="0" width="1.930462667292616" height="8" fill="#2c3e50"/>
+          <rect mask="url(#languages-bar)" x="458.0696241925396" y="0" width="1.930375807460356" height="8" fill="#2c3e50"/>
         
       </svg>
       
