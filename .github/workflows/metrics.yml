@@ -8,7 +8,7 @@
 name: Metrics (examples)
 on:
   schedule:
-    - cron: "0 1-23/2 * * *"
+    - cron: "0 1-23/4 * * *"
   workflow_dispatch:
 jobs:
   github-metrics:
@@ -31,7 +31,7 @@ jobs:
           base: header, repositories
           plugin_lines: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          use_prebuilt_image: master # ⚠️ DO NOT USE THIS OPTION, this is for pulling pre-built master image to make workflow faster 
+          use_prebuilt_image: master # ⚠️ DO NOT USE THIS OPTION, this is for pulling pre-built master image to make workflow faster
 
       # Repository template example, with some plugins enabled
       # Notice how repository name is passed through "query" option
@@ -145,8 +145,8 @@ jobs:
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # ======================================================================================
-      # 🏅 Contributors 
-      
+      # 🏅 Contributors
+
       - name: 🏅 Contributors plugin
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
@@ -249,13 +249,13 @@ jobs:
           filename: metrics.plugin.introduction.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: botlighter
+          user: github
           base: header
           plugin_introduction: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          
+
       # Display introduction (repository)
-      - name: 🙋 Introduction plugin
+      - name: 🙋 Introduction plugin (repository)
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
@@ -311,7 +311,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          
+
       # 🈷️ Display most used languages (with some unwanted languages ignored, with details)
       - name: 🈷️ Languages plugin (detailed)
         if: ${{ success() || failure() }}
@@ -325,11 +325,11 @@ jobs:
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
           plugin_languages_details: bytes-size, percentage
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          
+
       # ======================================================================================
       # 📜 Licenses
-          
-      # List permissions, limitations and conditions of licenses and dependencies  
+
+      # List permissions, limitations and conditions of licenses and dependencies
       - name: 📜 Licenses
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
@@ -343,7 +343,7 @@ jobs:
           plugin_licenses: yes
           plugin_licenses_setup: npm ci
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          
+
       # List ratio of licenses and dependencies
       - name: 📜 Licenses (ratio)
         if: ${{ success() || failure() }}
@@ -360,7 +360,7 @@ jobs:
           plugin_licenses_legal: no
           plugin_licenses_ratio: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          
+
       # List permissions, limitations and conditions of licenses and dependencies (metrics)
       - name: 📜 Licenses (repository)
         if: ${{ success() || failure() }}
@@ -686,7 +686,7 @@ jobs:
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_user: github
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          
+
       # ======================================================================================
       # ⏰ WakaTime plugin
 
@@ -703,7 +703,7 @@ jobs:
           plugin_wakatime_token: MOCKED_TOKEN # ${{ secrets.WAKATIME_TOKEN }}
           use_mocked_data: yes                # ⚠️ Using mocked data because I don't really use WakaTime
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-      
+
       # ======================================================================================
       # 💬 Others
 
