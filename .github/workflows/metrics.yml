@@ -160,6 +160,22 @@ jobs:
           plugin_contributors: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
+      - name: 🏅 Contributors plugin (release note)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.contributors.png
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          template: repository
+          query: '{"repo":"metrics"}'
+          config_output: png
+          plugin_contributors: yes
+          plugin_contributors_head: master
+          plugin_contributors_base: latest
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+
       # ======================================================================================
       # 🎟️ Follow-up of issues and pull requests
 
