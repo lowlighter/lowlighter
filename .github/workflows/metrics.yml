@@ -159,6 +159,20 @@ jobs:
           query: '{"repo":"metrics"}'
           plugin_contributors: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          
+      - name: 🏅 Contributors plugin (with contributions)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.contributors.contributions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          template: repository
+          query: '{"repo":"metrics"}'
+          plugin_contributors: yes
+          plugin_contributors_contributions: yes
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       - name: 🏅 Contributors plugin (release note)
         if: ${{ success() || failure() }}
