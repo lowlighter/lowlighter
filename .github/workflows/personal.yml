@@ -53,7 +53,7 @@ jobs:
         if: false # ${{ success() || failure() }}
         uses: lowlighter/metrics@master # ⚠️ Using master to use unreleased features
         with:
-          filename: metrics.plugin.personal.anilist.svg
+          filename: metrics.personal.anilist.svg
           token: NOT_NEEDED
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_anilist: yes
