@@ -50,7 +50,7 @@ jobs:
           config_order: languages, pagespeed, habits, stargazers, stars
 
       - name: 🦑 Personal metrics (anilist)
-        if: ${{ success() || failure() }}
+        if: false # ${{ success() || failure() }}
         uses: lowlighter/metrics@master # ⚠️ Using master to use unreleased features
         with:
           filename: metrics.plugin.personal.anilist.svg
