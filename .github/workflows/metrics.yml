@@ -90,7 +90,7 @@ jobs:
 
       # Anilist with onlyt favorites and currently watching anime sections
       - name: 🌸 Anilist plugin (favorites and currently watching)
-        if: ${{ success() || failure() }}
+        if: false # ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.anilist.svg
@@ -104,7 +104,7 @@ jobs:
 
       # Anilist with only favorites and currently reading manga sections
       - name: 🌸 Anilist plugin (favorites and currently reading)
-        if: ${{ success() || failure() }}
+        if: false # ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.anilist.manga.svg
@@ -118,7 +118,7 @@ jobs:
 
       # Anilist with only favorites characters section
       - name: 🌸 Anilist plugin (favorites characters)
-        if: ${{ success() || failure() }}
+        if: false # ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.anilist.characters.svg
@@ -132,7 +132,7 @@ jobs:
 
       # Anilist plugin with all sections
       - name: 🌸 Anilist plugin (complete)
-        if: ${{ success() || failure() }}
+        if: false # ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.anilist.full.svg
