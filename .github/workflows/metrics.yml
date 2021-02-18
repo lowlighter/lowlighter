@@ -188,6 +188,7 @@ jobs:
           plugin_contributors: yes
           plugin_contributors_head: master
           plugin_contributors_base: latest
+          plugin_contributors_contributions: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # ======================================================================================
