@@ -4,7 +4,7 @@
 name: Metrics
 on:
   schedule:
-    - cron: "0 0-22/4 * * *"
+    - cron: "0 0-23/4 * * *"
   push:
     branches:
       - master
@@ -50,7 +50,7 @@ jobs:
           config_order: languages, pagespeed, habits, stargazers, stars
 
       - name: 🦑 Personal metrics (anilist)
-        if: false # ${{ success() || failure() }}
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master # ⚠️ Using master to use unreleased features
         with:
           filename: metrics.personal.anilist.svg

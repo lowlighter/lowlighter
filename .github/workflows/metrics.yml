@@ -8,7 +8,7 @@
 name: Metrics (examples)
 on:
   schedule:
-    - cron: "0 1-23/4 * * *"
+    - cron: "0 2-23/4 * * *"
   workflow_dispatch:
 jobs:
   github-metrics:
@@ -90,7 +90,7 @@ jobs:
 
       # Anilist with onlyt favorites and currently watching anime sections
       - name: 🌸 Anilist plugin (favorites and currently watching)
-        if: false # ${{ success() || failure() }}
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.anilist.svg
@@ -104,7 +104,7 @@ jobs:
 
       # Anilist with only favorites and currently reading manga sections
       - name: 🌸 Anilist plugin (favorites and currently reading)
-        if: false # ${{ success() || failure() }}
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.anilist.manga.svg
@@ -118,7 +118,7 @@ jobs:
 
       # Anilist with only favorites characters section
       - name: 🌸 Anilist plugin (favorites characters)
-        if: false # ${{ success() || failure() }}
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.anilist.characters.svg
@@ -132,7 +132,7 @@ jobs:
 
       # Anilist plugin with all sections
       - name: 🌸 Anilist plugin (complete)
-        if: false # ${{ success() || failure() }}
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.anilist.full.svg
@@ -159,7 +159,7 @@ jobs:
           query: '{"repo":"metrics"}'
           plugin_contributors: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          
+
       - name: 🏅 Contributors plugin (with contributions)
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
