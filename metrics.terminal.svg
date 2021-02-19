@@ -223,8 +223,16 @@
           animation-delay: 2.8000000000000003s;
         }
         
+      
+        .stdin:nth-of-type(8) {
+          animation-delay: 3.08s;
+        }
+        .stdout:nth-of-type(9) {
+          animation-delay: 3.24s;
+        }
+        
           footer {
-            animation-delay: 2.64s;
+            animation-delay: 3.08s;
           }
         
       
@@ -246,13 +254,13 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: Fri, 19 Feb 2021 18:08:36 GMT
+Last generated: Fri, 19 Feb 2021 21:42:58 GMT
 </div>
 <div class="stdin"><span class="ps1-path">lowlighter@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Simon Lecoq</b> registered=4y, uid=3968, gid=0
   contributed to 9 repositories <b><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span></b>
   followed by <b>110</b> users
 </div>
-<footer>Connection reset by 144.75.126.111</footer></pre>
+<footer>Connection reset by 237.176.76.81</footer></pre>
 
       <div id="metrics-end"></div>
     </div>
