@@ -6,3 +6,4 @@
 <img alt="🦑" align="center" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.personal.anilist.svg">
 <img alt="🦑" align="center" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.additional.svg">
 <img alt="🦑" align="center" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.activity.svg">
+<img alt="🦑" align="center" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.skyline.svg">
