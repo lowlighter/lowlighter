@@ -15,6 +15,20 @@ jobs:
     runs-on: ubuntu-latest
     if: "github.repository == 'lowlighter/lowlighter'"
     steps:
+    
+      # ======================================================================================
+      # 🌇 GitHub Skyline 3D calendar
+      
+      # GitHub skyline commits calendar
+      - name: 🌇 GitHub Skyline 3D calendar
+        uses: lowlighter/metrics@feat-plugin-skyline
+        with:
+          filename: metrics.plugin.skyline.svg
+          token: NOT_NEEDED
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_skyline: yes
+          plugin_skyline_year: 2020
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # ======================================================================================
       # 🖼️ TEMPLATES
