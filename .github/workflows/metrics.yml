@@ -226,7 +226,7 @@ jobs:
       
       # GitHub skyline commits calendar
       - name: 🌇 GitHub Skyline 3D calendar
-        if: false # ${{ success() || failure() }}
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.skyline.svg
@@ -234,6 +234,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_skyline: yes
           plugin_skyline_year: 2020
+          plugin_skyline_frames: 8
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # ======================================================================================
