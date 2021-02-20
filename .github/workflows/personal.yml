@@ -51,7 +51,7 @@ jobs:
 
       - name: 🦑 Personal metrics (anilist)
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master # ⚠️ Using master to use unreleased features
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.personal.anilist.svg
           token: NOT_NEEDED
@@ -61,7 +61,6 @@ jobs:
           plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
-          use_prebuilt_image: master # ⚠️ DO NOT USE THIS OPTION!
 
       - name: 🦑 Personal projects
         if: ${{ success() || failure() }}
