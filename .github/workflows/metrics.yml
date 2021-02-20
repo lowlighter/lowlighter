@@ -128,7 +128,6 @@ jobs:
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 22
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          debug: yes
 
       # Anilist plugin with all sections
       - name: 🌸 Anilist plugin (complete)
