@@ -233,7 +233,8 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_skyline: yes
           plugin_skyline_year: 2020
-          plugin_skyline_frames: 8
+          plugin_skyline_frames: 6
+          plugin_skyline_quality: 1
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # ======================================================================================
@@ -578,7 +579,7 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_types: thanks
-          plugin_people_thanks: lowlighter, botlighter, octocat
+          plugin_people_thanks: lowlighter, iamsainikhil
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # Repository people
