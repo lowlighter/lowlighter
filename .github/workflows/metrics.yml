@@ -30,7 +30,6 @@ jobs:
           base: header, repositories
           plugin_lines: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          use_prebuilt_image: master # ⚠️ DO NOT USE THIS OPTION, this is for pulling pre-built master image to make workflow faster
 
       # Repository template example, with some plugins enabled
       # Notice how repository name is passed through "query" option
