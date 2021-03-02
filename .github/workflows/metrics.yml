@@ -542,7 +542,7 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_types: thanks
-          plugin_people_thanks: lowlighter, iamsainikhil
+          plugin_people_thanks: lowlighter, botlighter, octocat
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # Repository people
@@ -558,6 +558,20 @@ jobs:
           plugin_people: yes
           plugin_people_identicons: yes
           plugin_people_types: contributors, stargazers, watchers, sponsors
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+
+      # Sponsors
+      - name: 🧑‍🤝‍🧑 People plugin (sponsors)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.sponsors.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_people: yes
+          plugin_people_types: thanks
+          plugin_people_thanks: iamsainikhil
+          plugin_people_size: 48
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # ======================================================================================
