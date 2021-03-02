@@ -575,6 +575,20 @@ jobs:
           plugin_posts_source: dev.to
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
+      # Display recent posts with descriptions and cover images
+      - name: ✒️ Posts plugin
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.posts.full.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_posts: yes
+          plugin_posts_source: dev.to
+          plugin_posts_descriptions: yes
+          plugin_posts_covers: yes
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+
       # ======================================================================================
       # 🗂️ Projects
 
@@ -702,6 +716,21 @@ jobs:
           user: botlighter
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          plugin_tweets_user: github
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+
+      # Display your latest tweets with attachments (token required)
+      # Don't forget to update your GitHub profile with your twitter username
+      - name: 🐤 Tweets plugin
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.tweets.attachments.svg
+          token: NOT_NEEDED
+          user: botlighter
+          plugin_tweets: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          plugin_tweets_attachments: yes
           plugin_tweets_user: github
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
