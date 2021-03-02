@@ -569,7 +569,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_people: yes
-          plugin_people_types: thanks
+          plugin_people_types: sponsors
           plugin_people_sponsors_custom: lowlighter, iamsainikhil
           plugin_people_size: 48
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
