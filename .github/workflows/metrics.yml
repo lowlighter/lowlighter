@@ -30,6 +30,7 @@ jobs:
           base: header, repositories
           plugin_lines: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          debug: yes
 
       # Repository template example, with some plugins enabled
       # Notice how repository name is passed through "query" option
