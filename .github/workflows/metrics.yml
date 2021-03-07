@@ -801,3 +801,17 @@ jobs:
           token: ${{ secrets.METRICS_BOT_TOKEN }}
           base: header
           debug_flags: --cakeday --hireable --halloween
+
+      # ======================================================================================
+      # 🚧 Debug
+
+      - name: 🚧 Check retries feature
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        continue-on-error: yes
+        with:
+          token: ${{ secrets.METRICS_BOT_TOKEN }}
+          retries: 3
+          retries_delay: 0
+          debug_flags: --error
+          dryrun: yes
