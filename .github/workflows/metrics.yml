@@ -816,3 +816,5 @@ jobs:
           debug_flags: --error
           debug: yes
           dryrun: yes
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+
