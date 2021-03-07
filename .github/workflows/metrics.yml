@@ -814,4 +814,5 @@ jobs:
           retries: 3
           retries_delay: 0
           debug_flags: --error
+          debug: yes
           dryrun: yes
