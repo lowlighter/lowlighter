@@ -808,7 +808,7 @@ jobs:
       - name: 🚧 Check retries feature
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
-        continue-on-error: yes
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_BOT_TOKEN }}
           retries: 3
