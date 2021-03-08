@@ -30,7 +30,7 @@ jobs:
           base: header, repositories
           plugin_lines: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          debug: yes
+          output_action: pull-request
 
       # Repository template example, with some plugins enabled
       # Notice how repository name is passed through "query" option
@@ -48,6 +48,7 @@ jobs:
           plugin_projects: yes
           plugin_projects_repositories: lowlighter/metrics/projects/1
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # Terminal template example
       - name: 📙 Terminal template
@@ -59,6 +60,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, metadata
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 🧩 PLUGINS
@@ -80,6 +82,7 @@ jobs:
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, star
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 🌸 Anilist
@@ -96,6 +99,7 @@ jobs:
           plugin_anilist_sections: favorites, watching
           plugin_anilist_limit: 1
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # Anilist with only favorites and currently reading manga sections
       - name: 🌸 Anilist plugin (favorites and currently reading)
@@ -109,6 +113,7 @@ jobs:
           plugin_anilist_sections: favorites, reading
           plugin_anilist_limit: 1
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # Anilist with only favorites characters section
       - name: 🌸 Anilist plugin (favorites characters)
@@ -121,6 +126,7 @@ jobs:
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 22
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # Anilist plugin with all sections
       - name: 🌸 Anilist plugin (complete)
@@ -134,6 +140,7 @@ jobs:
           plugin_anilist_sections: favorites, watching, reading, characters
           plugin_anilist_limit: 1
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 🏅 Contributors
@@ -149,6 +156,7 @@ jobs:
           repo: metrics
           plugin_contributors: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       - name: 🏅 Contributors plugin (with contributions)
         if: ${{ success() || failure() }}
@@ -162,6 +170,7 @@ jobs:
           plugin_contributors: yes
           plugin_contributors_contributions: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       - name: 🏅 Contributors plugin (release note)
         if: ${{ success() || failure() }}
@@ -178,6 +187,7 @@ jobs:
           plugin_contributors_base: latest
           plugin_contributors_contributions: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 🎟️ Follow-up of issues and pull requests
@@ -192,6 +202,7 @@ jobs:
           base: ""
           plugin_followup: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 🎫 Gists
@@ -206,6 +217,7 @@ jobs:
           base: ""
           plugin_gists: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 🌇 GitHub Skyline 3D calendar
@@ -222,6 +234,7 @@ jobs:
           plugin_skyline_frames: 6
           plugin_skyline_quality: 1
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 💡 Coding habits
@@ -239,6 +252,7 @@ jobs:
           plugin_habits_charts: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           config_timezone: Europe/Paris
+          output_action: pull-request
 
       # Display coding habits and recent activity, only facts section (setup timezone for accurate metrics)
       - name: 💡 Habits plugin (facts)
@@ -253,6 +267,7 @@ jobs:
           plugin_habits_charts: no
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           config_timezone: Europe/Paris
+          output_action: pull-request
 
       # Display coding habits and recent activity, only charts section (setup timezone for accurate metrics)
       - name: 💡 Habits plugin (charts)
@@ -267,6 +282,7 @@ jobs:
           plugin_habits_charts: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           config_timezone: Europe/Paris
+          output_action: pull-request
 
       # ======================================================================================
       # 🙋 Introduction
@@ -282,6 +298,7 @@ jobs:
           base: header
           plugin_introduction: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # Display introduction (repository)
       - name: 🙋 Introduction plugin (repository)
@@ -295,6 +312,7 @@ jobs:
           base: header
           plugin_introduction: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 📅 Isometric commit calendar
@@ -309,6 +327,7 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # Display isometric calendar (365 days)
       - name: 📅 Isocalendar plugin (full year)
@@ -321,6 +340,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 🈷️ Most used languages
@@ -336,6 +356,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # 🈷️ Display most used languages (with some unwanted languages ignored, with details)
       - name: 🈷️ Languages plugin (detailed)
@@ -349,6 +370,7 @@ jobs:
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
           plugin_languages_details: bytes-size, percentage
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 📜 Licenses
@@ -366,6 +388,7 @@ jobs:
           plugin_licenses: yes
           plugin_licenses_setup: npm ci
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # List ratio of licenses and dependencies
       - name: 📜 Licenses (ratio)
@@ -382,6 +405,7 @@ jobs:
           plugin_licenses_legal: no
           plugin_licenses_ratio: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # List permissions, limitations and conditions of licenses and dependencies (metrics)
       - name: 📜 Licenses (repository)
@@ -398,6 +422,7 @@ jobs:
           plugin_licenses_legal: yes
           plugin_licenses_ratio: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 👨‍💻 Lines of code changed
@@ -412,6 +437,7 @@ jobs:
           base: repositories
           plugin_lines: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # ⏱️ Website performances
@@ -428,6 +454,7 @@ jobs:
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_url: ${{ secrets.WEBSITE_URL }}
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # Google PageSpeed insight website audit, with additional metrics (token option but advised)
       # This use website linked to GitHub account
@@ -442,6 +469,7 @@ jobs:
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_url: ${{ secrets.WEBSITE_URL }}
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # Google PageSpeed insight website audit, with a screenshot of your website (token option but advised)
       # This use website linked to GitHub account
@@ -456,6 +484,7 @@ jobs:
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_url: ${{ secrets.WEBSITE_URL }}
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 🎼 Music plugin
@@ -474,6 +503,7 @@ jobs:
           plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
           plugin_music_limit: 2
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # Display recently played music
       # Note that in this mode "plugin_music_mode", "plugin_music_provider" and "plugin_music_token" are all required
@@ -489,6 +519,7 @@ jobs:
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
           plugin_music_limit: 2
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 🧑‍🤝‍🧑 People plugin
@@ -506,6 +537,7 @@ jobs:
           plugin_people: yes
           plugin_people_identicons: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # Display followers
       - name: 🧑‍🤝‍🧑 People plugin (followers)
@@ -519,6 +551,7 @@ jobs:
           plugin_people_identicons: yes
           plugin_people_types: followers
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # Display followed users
       - name: 🧑‍🤝‍🧑 People plugin (following)
@@ -532,6 +565,7 @@ jobs:
           plugin_people_identicons: yes
           plugin_people_types: following
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # Special thanks to listed users
       - name: 🧑‍🤝‍🧑 People plugin (special thanks)
@@ -545,6 +579,7 @@ jobs:
           plugin_people_types: thanks
           plugin_people_thanks: lowlighter, botlighter, octocat
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # Repository people
       - name: 🧑‍🤝‍🧑 People plugin (repository template)
@@ -560,6 +595,7 @@ jobs:
           plugin_people_identicons: yes
           plugin_people_types: contributors, stargazers, watchers, sponsors
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # Sponsors
       - name: 🧑‍🤝‍🧑 People plugin (sponsors)
@@ -574,6 +610,7 @@ jobs:
           plugin_people_sponsors_custom: lowlighter, iamsainikhil
           plugin_people_size: 48
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # ✒️ Recent posts
@@ -589,6 +626,7 @@ jobs:
           plugin_posts: yes
           plugin_posts_source: dev.to
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # Display recent posts with descriptions and cover images
       - name: ✒️ Posts plugin
@@ -603,6 +641,7 @@ jobs:
           plugin_posts_descriptions: yes
           plugin_posts_covers: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 🗂️ Projects
@@ -625,6 +664,7 @@ jobs:
           plugin_projects_repositories: lowlighter/metrics/projects/1
           plugin_projects_descriptions: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 🗨️ Stackoverflow plugin
@@ -642,6 +682,7 @@ jobs:
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_limit: 1
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # ✨ Stargazers over last weeks
@@ -656,6 +697,7 @@ jobs:
           base: ""
           plugin_stargazers: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 🌟 Recently starred repositories
@@ -671,6 +713,7 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 2
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 📌 Starred topics
@@ -686,7 +729,7 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 12
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-
+          output_action: pull-request
 
       # Display starred topics (as icons)
       # Note that only topics with an icon will be displayed (most of majors topics have one though)
@@ -701,6 +744,7 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_mode: mastered
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 🧮 Repositories traffic
@@ -716,6 +760,7 @@ jobs:
           base: repositories
           plugin_traffic: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 🐤 Latest tweets
@@ -733,6 +778,7 @@ jobs:
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_user: github
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # Display your latest tweets with attachments (token required)
       # Don't forget to update your GitHub profile with your twitter username
@@ -748,6 +794,7 @@ jobs:
           plugin_tweets_attachments: yes
           plugin_tweets_user: github
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # ⏰ WakaTime plugin
@@ -764,6 +811,7 @@ jobs:
           plugin_wakatime_token: MOCKED_TOKEN # ${{ secrets.WAKATIME_TOKEN }}
           use_mocked_data: yes                # ⚠️ Using mocked data because I don't really use WakaTime
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 💬 Others
@@ -778,6 +826,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_projects: yes
+          output_action: pull-request
 
       # Metrics for "github" organization
       - name: 💬 Organization metrics
@@ -788,6 +837,7 @@ jobs:
           user: github
           token: ${{ secrets.METRICS_BOT_TOKEN }}
           base: header, repositories
+          output_action: pull-request
 
       # Illustrate header hidden features with debug flags
       # "--cakeday" will act as if it's your account birthday
@@ -801,6 +851,7 @@ jobs:
           token: ${{ secrets.METRICS_BOT_TOKEN }}
           base: header
           debug_flags: --cakeday --hireable --halloween
+          output_action: pull-request-squash
 
       # ======================================================================================
       # 🚧 Debug
