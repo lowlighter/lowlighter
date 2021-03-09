@@ -199,6 +199,9 @@
   .gauge.low {
     color: #e53935;
   }
+  .gauge.info {
+    color: #58A6FF;
+  }
   .gauge-base, .gauge-arc {
     stroke: currentColor;
     stroke-width: 10;
@@ -939,17 +942,17 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="339.13668499661827" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="339.32747057662084" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="339.13668499661827" y="0" width="98.6324549275734" height="8" fill="#f34b7d"/>
+          <rect mask="url(#languages-bar)" x="339.32747057662084" y="0" width="98.4767612820706" height="8" fill="#f34b7d"/>
         
-          <rect mask="url(#languages-bar)" x="437.7691399241917" y="0" width="12.062206447944536" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="437.8042318586914" y="0" width="12.043165971905822" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="449.83134637213624" y="0" width="6.186980799080236" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="449.8473978305973" y="0" width="6.177214504649339" height="8" fill="#2b7489"/>
         
-          <rect mask="url(#languages-bar)" x="456.01832717121647" y="0" width="2.192358140980058" height="8" fill="#555555"/>
+          <rect mask="url(#languages-bar)" x="456.0246123352466" y="0" width="2.1888974521888525" height="8" fill="#555555"/>
         
-          <rect mask="url(#languages-bar)" x="458.2106853121965" y="0" width="1.7893146878034574" height="8" fill="#2c3e50"/>
+          <rect mask="url(#languages-bar)" x="458.2135097874355" y="0" width="1.7864902125645472" height="8" fill="#2c3e50"/>
         
       </svg>
       
@@ -963,8 +966,8 @@
                     JavaScript
                   </div>
                   <small>
-                     <div>2.12 MB</div>
-                     <div>73.73%</div>
+                     <div>2.13 MB</div>
+                     <div>73.77%</div>
                   </small>
                 </div>
               
@@ -1001,7 +1004,7 @@
                   </div>
                   <small>
                      <div>616 kB</div>
-                     <div>21.44%</div>
+                     <div>21.41%</div>
                   </small>
                 </div>
               
@@ -1050,6 +1053,8 @@
       
         
 
+      
+        
       
         
       
