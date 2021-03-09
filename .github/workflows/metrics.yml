@@ -665,6 +665,23 @@ jobs:
           plugin_projects_descriptions: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
+          
+      # ======================================================================================
+      # 🎭 Comment reactions plugin
+
+      # Display comment reactions statistics
+      - name: 🎭 Reactions plugin
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.reactions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_reactions: yes
+          plugin_reactions_limit: 100
+          plugin_reactions_details: percentage
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 🗨️ Stackoverflow plugin
