@@ -839,6 +839,64 @@
     width: 400px;
   }
 
+/* Achievements */
+  .achievement {
+    display: flex;
+    margin: 4px 0;
+  }
+  .achievement .icon {
+    margin: 0 4px;
+    width: 44px;
+    height: 44px;
+  }
+  .achievement .text {
+    font-size: 12px;
+    color: #666666;
+  }
+  .achievement .unlock {
+    font-size: 9px;
+    color: #666666;
+  }
+  .achievement .title {
+    font-size: 14px;
+    color: #58A6FF;
+  }
+  .achievement.x .title {
+    color: #666666;
+  }
+  .achievement.x .icon {
+    filter: grayscale(1) opacity(.5);
+  }
+  .achievement.b .title {
+    color: #9D8FFF;
+  }
+  .achievement.b .icon {
+    filter: hue-rotate(35deg);
+  }
+  .achievement.a .title {
+    color: #D79533;
+  }
+  .achievement.a .icon {
+    filter: sepia() saturate(2);
+  }
+  .achievement.s .title {
+    color: #FF0000;
+  }
+  .achievement.s .icon {
+    filter: sepia() saturate(100);
+  }
+  .achievement.secret .title{
+    color: #FF76CD;
+  }
+  .achievement.secret .icon {
+    filter: hue-rotate(100deg);
+  }
+  .achievement .gh {
+    border: 1px solid currentColor;
+    border-radius: 16px;
+    font-size: 10px;
+    padding: 0 5px;
+  }
 
 /* Fade animation */
   .af {
@@ -942,17 +1000,17 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="339.356607781501" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="341.3387933205353" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="339.356607781501" y="0" width="98.45298339672154" height="8" fill="#f34b7d"/>
+          <rect mask="url(#languages-bar)" x="341.3387933205353" y="0" width="96.83538896096229" height="8" fill="#f34b7d"/>
         
-          <rect mask="url(#languages-bar)" x="437.80959117822255" y="0" width="12.040258067381023" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="438.17418228149756" y="0" width="11.842435169760742" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="449.8498492456036" y="0" width="6.175722974095777" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="450.0166174512583" y="0" width="6.074255098008841" height="8" fill="#2b7489"/>
         
-          <rect mask="url(#languages-bar)" x="456.0255722196993" y="0" width="2.1883689279768315" height="8" fill="#555555"/>
+          <rect mask="url(#languages-bar)" x="456.09087254926715" y="0" width="2.152413761569943" height="8" fill="#555555"/>
         
-          <rect mask="url(#languages-bar)" x="458.21394114767617" y="0" width="1.786058852323831" height="8" fill="#2c3e50"/>
+          <rect mask="url(#languages-bar)" x="458.2432863108371" y="0" width="1.7567136891628967" height="8" fill="#2c3e50"/>
         
       </svg>
       
@@ -966,8 +1024,8 @@
                     JavaScript
                   </div>
                   <small>
-                     <div>2.13 MB</div>
-                     <div>73.77%</div>
+                     <div>2.17 MB</div>
+                     <div>74.2%</div>
                   </small>
                 </div>
               
@@ -978,7 +1036,7 @@
                   </div>
                   <small>
                      <div>75.4 kB</div>
-                     <div>2.62%</div>
+                     <div>2.57%</div>
                   </small>
                 </div>
               
@@ -989,7 +1047,7 @@
                   </div>
                   <small>
                      <div>13.7 kB</div>
-                     <div>0.48%</div>
+                     <div>0.47%</div>
                   </small>
                 </div>
               
@@ -1004,7 +1062,7 @@
                   </div>
                   <small>
                      <div>616 kB</div>
-                     <div>21.4%</div>
+                     <div>21.05%</div>
                   </small>
                 </div>
               
@@ -1015,7 +1073,7 @@
                   </div>
                   <small>
                      <div>38.7 kB</div>
-                     <div>1.34%</div>
+                     <div>1.32%</div>
                   </small>
                 </div>
               
@@ -1026,7 +1084,7 @@
                   </div>
                   <small>
                      <div>11.1 kB</div>
-                     <div>0.39%</div>
+                     <div>0.38%</div>
                   </small>
                 </div>
               
@@ -1081,6 +1139,8 @@
       
         
 
+      
+        
       
 
       
