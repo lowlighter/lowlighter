@@ -23,31 +23,23 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: header, repositories
-          plugin_lines: yes
           plugin_isocalendar: yes
-          config_order: base.header, isocalendar, base.repositories
-
-      - name: 🦑 Personal metrics (additional)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.additional.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c
           plugin_languages_skipped: lowlighter
           plugin_languages_details: bytes-size, percentage
-          plugin_stargazers: yes
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: mastered
+          plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: ${{ secrets.WEBSITE_URL }}
+          plugin_music: yes
+          plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
+          plugin_music_limit: 2
           plugin_stars: yes
           plugin_stars_limit: 3
-          config_timezone: Europe/Paris
-          config_order: languages, pagespeed, habits, stargazers, stars
+          config_order: base.header, isocalendar, languages, topics, pagespeed, music, stars
 
       - name: 🦑 Personal metrics (anilist)
         if: ${{ success() || failure() }}
@@ -57,21 +49,7 @@ jobs:
           token: NOT_NEEDED
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_anilist: yes
-          plugin_anilist_medias: anime, manga
+          plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
-
-      - name: 🦑 Personal projects
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.projects.svg
-          token: ${{ secrets.METRICS_BOT_TOKEN }} # ⚠️ This it not the same token, this one has "public_repo" scope
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: lowlighter
-          base: ""
-          plugin_projects: yes
-          plugin_projects_repositories: lowlighter/metrics/projects/1
-          plugin_projects_descriptions: yes
-          plugin_projects_limit: 0
