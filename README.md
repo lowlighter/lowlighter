@@ -7,3 +7,4 @@
 <img alt="🦑" align="center" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.additional.svg">
 <img alt="🦑" align="center" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.activity.svg">
 <img alt="🦑" align="center" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.skyline.svg">
+<img alt="🦑" align="center" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">
