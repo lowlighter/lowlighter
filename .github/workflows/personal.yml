@@ -31,15 +31,7 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: mastered
-          plugin_pagespeed: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: ${{ secrets.WEBSITE_URL }}
-          plugin_music: yes
-          plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
-          plugin_music_limit: 2
-          plugin_stars: yes
-          plugin_stars_limit: 3
-          config_order: base.header, isocalendar, languages, topics, pagespeed, music, stars
+          config_order: base.header, isocalendar, languages, topics
 
       - name: 🦑 Personal metrics (anilist)
         if: ${{ success() || failure() }}
