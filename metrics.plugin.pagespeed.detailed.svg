@@ -897,6 +897,9 @@
     font-size: 10px;
     padding: 0 5px;
   }
+  .achievement .gauge-base, .achievement .gauge-arc {
+    stroke-width: 6;
+  }
 
 /* Fade animation */
   .af {
@@ -1086,7 +1089,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.71 s
+                0.61 s
               
             </div>
             
@@ -1097,7 +1100,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.45 s
+                0.39 s
               
             </div>
             
@@ -1108,7 +1111,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.07 s
+                0.05 s
               
             </div>
             
@@ -1130,7 +1133,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.68 s
+                0.56 s
               
             </div>
             

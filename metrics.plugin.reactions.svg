@@ -897,6 +897,9 @@
     font-size: 10px;
     padding: 0 5px;
   }
+  .achievement .gauge-base, .achievement .gauge-arc {
+    stroke-width: 6;
+  }
 
 /* Fade animation */
   .af {
@@ -1029,7 +1032,6 @@
       <section>
         
           <div class="row fill-width">
-            
             <section class="categories">
               
                 <div class="categorie column">
