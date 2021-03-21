@@ -919,6 +919,22 @@
     color: #666666;
   }
 
+/* Charts */
+  .ct-line {
+    stroke-width: 2px !important;
+    stroke: #58A6FF !important;
+  }
+  .ct-area {
+    fill: #58A6FF !important;
+  }
+  .ct-label {
+    fill: rgba(127, 127, 127, 0.8) !important;
+    color: rgba(127, 127, 127, 0.8) !important;
+  }
+  .ct-grid {
+    stroke: rgba(127, 127, 127, 0.4) !important;
+  }
+
 /* Fade animation */
   .af {
     opacity: 0;
@@ -1021,17 +1037,17 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="341.4431647798982" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="341.6905743003258" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="341.4431647798982" y="0" width="96.75021495046082" height="8" fill="#f34b7d"/>
+          <rect mask="url(#languages-bar)" x="341.6905743003258" y="0" width="96.54831242634471" height="8" fill="#f34b7d"/>
         
-          <rect mask="url(#languages-bar)" x="438.193379730359" y="0" width="11.832018857002204" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="438.2388867266705" y="0" width="11.807327289403709" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="450.0253985873612" y="0" width="6.068912333622206" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="450.0462140160742" y="0" width="6.05624746544155" height="8" fill="#2b7489"/>
         
-          <rect mask="url(#languages-bar)" x="456.09431092098345" y="0" width="2.1505205517186834" height="8" fill="#555555"/>
+          <rect mask="url(#languages-bar)" x="456.1024614815158" y="0" width="2.1460327526189302" height="8" fill="#555555"/>
         
-          <rect mask="url(#languages-bar)" x="458.2448314727021" y="0" width="1.7551685272978563" height="8" fill="#2c3e50"/>
+          <rect mask="url(#languages-bar)" x="458.2484942341347" y="0" width="1.7515057658653153" height="8" fill="#2c3e50"/>
         
       </svg>
       
@@ -1118,6 +1134,8 @@
       
         
 
+      
+        
       
         
 
