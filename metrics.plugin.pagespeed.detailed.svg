@@ -135,7 +135,7 @@
 
 /* Labels */
   .label {
-    background-color: #F1F8FF;
+    background-color: #58A6FF30;
     color: #0366D6;
     padding: 0 10px;
     font-weight: 500;
@@ -144,11 +144,6 @@
     white-space: nowrap;
     border-radius: 32px;
     font-size: 12px;
-  }
-
-  .label:hover {
-    background-color: #DDEEFF;
-    cursor: pointer;
   }
 
 /* Habits */
@@ -501,7 +496,7 @@
 
   .repository .name span:last-child {
     color: #666666;
-    font-size: 13px;
+    font-size: 10px;
   }
 
   .repository .description {
@@ -1047,8 +1042,8 @@
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="325.71 329"/>
-                  <text x="60" y="60" dominant-baseline="central">99</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
+                  <text x="60" y="60" dominant-baseline="central">100</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -1123,7 +1118,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.67 s
+                0.65 s
               
             </div>
             
@@ -1134,7 +1129,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.45 s
+                0.42 s
               
             </div>
             
@@ -1145,7 +1140,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.08 s
+                0.07 s
               
             </div>
             
