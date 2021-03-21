@@ -919,6 +919,22 @@
     color: #666666;
   }
 
+/* Charts */
+  .ct-line {
+    stroke-width: 2px !important;
+    stroke: #58A6FF !important;
+  }
+  .ct-area {
+    fill: #58A6FF !important;
+  }
+  .ct-label {
+    fill: rgba(127, 127, 127, 0.8) !important;
+    color: rgba(127, 127, 127, 0.8) !important;
+  }
+  .ct-grid {
+    stroke: rgba(127, 127, 127, 0.4) !important;
+  }
+
 /* Fade animation */
   .af {
     opacity: 0;
@@ -1049,7 +1065,7 @@
                 <section>
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
-                    34 done · 1 doing · 2 todo
+                    35 done · 2 todo
                   </div>
                 </section>
               
@@ -1060,8 +1076,8 @@
                   <mask id="project-bar">
                     <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                   </mask>
-                  <rect mask="url(#project-bar)" x="0" y="0" width="422.7027027027027" height="8" fill="#28A745"/>
-                  <rect mask="url(#project-bar)" x="422.7027027027027" y="0" width="12.432432432432433" height="8" fill="#6F42C1"/>
+                  <rect mask="url(#project-bar)" x="0" y="0" width="435.13513513513516" height="8" fill="#28A745"/>
+                  <rect mask="url(#project-bar)" x="435.13513513513516" y="0" width="0" height="8" fill="#6F42C1"/>
                   <rect mask="url(#project-bar)" x="435.13513513513516" y="0" width="24.864864864864867" height="8" fill="#d1d5da"/>
                 </svg>
               </div>
@@ -1116,6 +1132,8 @@
       
         
 
+      
+        
       
         
 

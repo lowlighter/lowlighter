@@ -919,6 +919,22 @@
     color: #666666;
   }
 
+/* Charts */
+  .ct-line {
+    stroke-width: 2px !important;
+    stroke: #58A6FF !important;
+  }
+  .ct-area {
+    fill: #58A6FF !important;
+  }
+  .ct-label {
+    fill: rgba(127, 127, 127, 0.8) !important;
+    color: rgba(127, 127, 127, 0.8) !important;
+  }
+  .ct-grid {
+    stroke: rgba(127, 127, 127, 0.4) !important;
+  }
+
 /* Fade animation */
   .af {
     opacity: 0;
@@ -1107,7 +1123,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.74 s
+                0.67 s
               
             </div>
             
@@ -1118,7 +1134,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.47 s
+                0.45 s
               
             </div>
             
@@ -1129,7 +1145,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.12 s
+                0.08 s
               
             </div>
             
@@ -1216,6 +1232,8 @@
       
         
 
+      
+        
       
         
 
