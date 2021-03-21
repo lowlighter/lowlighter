@@ -861,25 +861,31 @@
     font-size: 14px;
     color: #58A6FF;
   }
+  .achievement .gauge.info {
+    color: #58A6FF;
+  }
   .achievement.x .title {
     color: #666666;
   }
-  .achievement.x .icon {
-    filter: grayscale(1) opacity(.5);
+  .achievement.x .gauge.info {
+    color: #B0B0B0;
   }
   .achievement.b .title {
     color: #9D8FFF;
   }
-  .achievement.b .icon {
-    filter: hue-rotate(35deg);
+  .achievement.b .gauge.info {
+    color: #9E91FF;
   }
   .achievement.a .title {
     color: #D79533;
   }
-  .achievement.a .icon {
-    filter: sepia() saturate(2);
+  .achievement.a .gauge.info {
+    color: #E7BD69;
   }
   .achievement.s .title {
+    color: #FF0000;
+  }
+  .achievement.s .gauge.info {
     color: #FF0000;
   }
   .achievement.s .icon {
@@ -888,8 +894,8 @@
   .achievement.secret .title{
     color: #FF76CD;
   }
-  .achievement.secret .icon {
-    filter: hue-rotate(100deg);
+  .achievement.secret .gauge.info {
+    color: #FF79D1;
   }
   .achievement .gh {
     border: 1px solid currentColor;
@@ -1090,8 +1096,8 @@
             </div>
           
             <div class="entry">
-              <span class="value"></span>
-              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+              <span class="value">1</span>
+              <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               10
             </div>
           
@@ -1184,7 +1190,7 @@
           <div class="chart-bars">
             
               <div class="entry">
-                <span class="value">14</span>
+                <span class="value">15</span>
                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sun
               </div>
@@ -1197,19 +1203,19 @@
             
               <div class="entry">
                 <span class="value">4</span>
-                <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 13.333333333333334px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Tue
               </div>
             
               <div class="entry">
                 <span class="value">4</span>
-                <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 13.333333333333334px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Wed
               </div>
             
               <div class="entry">
                 <span class="value">1</span>
-                <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Thu
               </div>
             
@@ -1221,7 +1227,7 @@
             
               <div class="entry">
                 <span class="value">11</span>
-                <div class="bar" style="height: 39.285714285714285px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="height: 36.666666666666664px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Sat
               </div>
             
@@ -1235,13 +1241,13 @@
             
               <div class="entry">
                 <span class="name">JavaScript</span>
-                <div class="bar" style="width: 62.104%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="width: 62.120000000000005%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 <span class="value">78%</span>
               </div>
             
               <div class="entry">
                 <span class="name">EJS</span>
-                <div class="bar" style="width: 17.152%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 17.136000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">21%</span>
               </div>
             
