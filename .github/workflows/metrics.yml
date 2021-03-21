@@ -65,7 +65,7 @@ jobs:
       # ======================================================================================
       # 🧩 PLUGINS
       # ======================================================================================
-      
+
       # ======================================================================================
       # 🏆 Achievements
 
@@ -676,7 +676,7 @@ jobs:
           plugin_projects_descriptions: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
-          
+
       # ======================================================================================
       # 🎭 Comment reactions plugin
 
@@ -692,6 +692,22 @@ jobs:
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
+
+      # ======================================================================================
+      # 🗼 Rss feed plugin
+
+      # Display RSS feed
+      - name: 🗼 Rss feed plugin
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.rss.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_rss: yes
+          plugin_rss_source: https://news.ycombinator.com/rss
+          plugin_rss_limit: 4
           output_action: pull-request
 
       # ======================================================================================
@@ -741,6 +757,22 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 3
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
+
+      # ======================================================================================
+      # 💹 Stock prices plugin
+
+      # Display RSS feed
+      - name: 💹 Stock prices plugin
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.stock.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_stock: yes
+          plugin_stock_symbol: TSLA
+          plugin_stock_token: ${{ secrets.STOCK_TOKEN }}
           output_action: pull-request
 
       # ======================================================================================
