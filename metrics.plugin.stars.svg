@@ -919,6 +919,22 @@
     color: #666666;
   }
 
+/* Charts */
+  .ct-line {
+    stroke-width: 2px !important;
+    stroke: #58A6FF !important;
+  }
+  .ct-area {
+    fill: #58A6FF !important;
+  }
+  .ct-label {
+    fill: rgba(127, 127, 127, 0.8) !important;
+    color: rgba(127, 127, 127, 0.8) !important;
+  }
+  .ct-grid {
+    stroke: rgba(127, 127, 127, 0.4) !important;
+  }
+
 /* Fade animation */
   .af {
     opacity: 0;
@@ -1052,7 +1068,7 @@
                   
                   <div class="name">
                     <span>wg/wrk</span>
-                    <span>starred 15 hours ago</span>
+                    <span>starred 19 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -1099,7 +1115,7 @@
                   
                   <div class="name">
                     <span>Ashutosh00710/github-readme-activity-graph</span>
-                    <span>starred 15 hours ago</span>
+                    <span>starred 19 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -1146,7 +1162,7 @@
                   
                   <div class="name">
                     <span>meetecho/janus-gateway</span>
-                    <span>starred 15 hours ago</span>
+                    <span>starred 19 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -1210,6 +1226,8 @@
       
         
 
+      
+        
       
         
 
