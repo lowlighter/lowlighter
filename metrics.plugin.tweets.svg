@@ -536,16 +536,15 @@
     margin-bottom: 0;
   }
 
-  .activity .repo, .activity .issue, .activity .commit .sha {
-    color: #58a6ff;
-    margin: 0 4px;
-  }
-
-  .activity .issue {
+  .activity .field .content {
     flex-grow: 1;
-    width: 0%;
     text-overflow: ellipsis;
     overflow: hidden;
+  }
+
+  .activity .repo, .activity .issue, .activity .commit .sha {
+    display: inline;
+    color: #58a6ff;
   }
 
   .activity .code {
@@ -564,7 +563,7 @@
   }
 
   .activity .details, .activity .timestamp {
-    padding-left: 42px;
+    padding-left: 38px;
     display: flex;
     flex-direction: column;
     font-size: 13px;
@@ -574,11 +573,6 @@
   .activity .timestamp {
     font-size: 10px;
     margin-top: 4px;
-  }
-
-  .activity .details &gt; div {
-    display: flex;
-    align-items: center;
   }
 
   .activity .commit .sha {
@@ -1064,15 +1058,15 @@
             
               
                 <div class="tweet">
-                  In honor of Women's History Month, learn how companies, open source communities, and individuals have built space for women developers to thrive. Get inspired on The ReadME Project!<br /><br /><span class="link">github.blog/2021-03-29-wom…</span>
+                  GitHub now automatically creates a table of contents for your README files 📖<br /><br />Works automatically based on your headers, no special markdown to insert. <br /><br />Let us know what you think! <span class="link">pic.twitter.com/1EYv0f0G07</span>
                   
-                  <div class="date">17:37 on 29/03/2021</div>
+                  <div class="date">20:45 on 29/03/2021</div>
                 </div>
               
                 <div class="tweet">
-                  Join <span class="mention">@bdougieYO</span> and <span class="mention">@helenhousandi</span> this Friday to learn how GitHub Actions can help with common needs for WordPress developers. <br /><br /><span class="link">meetup.com/github-virtual…</span> <span class="link">pic.twitter.com/mL0e3mljyC</span>
+                  RT <span class="mention">@githubOCTO</span>: Looking forward to a fascinating talk + discussion with <span class="mention">@brainwane</span> on healthy open source communities. <br /><br />🚨Tomorrow, 9:30a P…
                   
-                  <div class="date">15:17 on 29/03/2021</div>
+                  <div class="date">19:36 on 29/03/2021</div>
                 </div>
               
             
