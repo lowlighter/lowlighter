@@ -920,6 +920,7 @@
     border-radius: 10px;
     background-color: #030D21;
     overflow: hidden;
+	  transform: translateZ(0.1px);
   }
 
 /* Charts */
