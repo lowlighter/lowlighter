@@ -921,6 +921,7 @@
     background-color: #030D21;
     overflow: hidden;
 	  transform: translateZ(0.1px);
+	  will-change: transform;
   }
 
 /* Charts */
