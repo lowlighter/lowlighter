@@ -1050,8 +1050,8 @@
                             <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                         </mask>
                         <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                        <rect mask="url(#pr-bar)" x="0" y="0" width="218.40579710144928" height="8" fill="#6f42c1"/>
-                        <rect mask="url(#pr-bar)" x="218.40579710144928" y="0" width="1.5942028985507317" height="8" fill="#28a745"/>
+                        <rect mask="url(#pr-bar)" x="0" y="0" width="218.4115523465704" height="8" fill="#6f42c1"/>
+                        <rect mask="url(#pr-bar)" x="218.4115523465704" y="0" width="1.588447653429601" height="8" fill="#28a745"/>
                     </svg>
                     <div class="field horizontal fill-width">
                         <div class="field center">
@@ -1059,7 +1059,7 @@
                                 <path fill="#6f42c1" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                             </svg>
                             <span class="no-wrap">
-                                274 Merged
+                                275 Merged
                             </span>
                         </div>
                         <div class="field center">
