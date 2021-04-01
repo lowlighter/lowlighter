@@ -87,6 +87,9 @@
   .margin-bottom {
     margin-bottom: 16px;
   }
+  .no-margin-top {
+    margin-top: 0px;
+  }
 
 /* User avatar */
   .avatar {
@@ -1028,7 +1031,7 @@
                                             ❤️
                                         </text>
                                     </svg>
-                                    <span class="title">
+                                    <span class="title nowrap">
                                         16
                                         <small>
                                             %
@@ -1043,7 +1046,7 @@
                                             👍
                                         </text>
                                     </svg>
-                                    <span class="title">
+                                    <span class="title nowrap">
                                         72
                                         <small>
                                             %
@@ -1057,7 +1060,7 @@
                                             👎
                                         </text>
                                     </svg>
-                                    <span class="title">
+                                    <span class="title nowrap">
                                         0
                                         <small>
                                             %
@@ -1071,7 +1074,7 @@
                                             😄
                                         </text>
                                     </svg>
-                                    <span class="title">
+                                    <span class="title nowrap">
                                         0
                                         <small>
                                             %
@@ -1085,7 +1088,7 @@
                                             😕
                                         </text>
                                     </svg>
-                                    <span class="title">
+                                    <span class="title nowrap">
                                         0
                                         <small>
                                             %
@@ -1099,7 +1102,7 @@
                                             👀
                                         </text>
                                     </svg>
-                                    <span class="title">
+                                    <span class="title nowrap">
                                         0
                                         <small>
                                             %
@@ -1113,7 +1116,7 @@
                                             🚀
                                         </text>
                                     </svg>
-                                    <span class="title">
+                                    <span class="title nowrap">
                                         0
                                         <small>
                                             %
@@ -1128,7 +1131,7 @@
                                             🎉
                                         </text>
                                     </svg>
-                                    <span class="title">
+                                    <span class="title nowrap">
                                         12
                                         <small>
                                             %
