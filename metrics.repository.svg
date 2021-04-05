@@ -1074,8 +1074,8 @@
                             <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                         </mask>
                         <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                        <rect mask="url(#issues-bar)" x="0" y="0" width="217.21518987341773" height="8" fill="#d73a49"/>
-                        <rect mask="url(#issues-bar)" x="217.21518987341773" y="0" width="2.784810126582269" height="8" fill="#28a745"/>
+                        <rect mask="url(#issues-bar)" x="0" y="0" width="214.5" height="8" fill="#d73a49"/>
+                        <rect mask="url(#issues-bar)" x="214.5" y="0" width="5.500000000000005" height="8" fill="#28a745"/>
                     </svg>
                     <div class="field horizontal fill-width">
                         <div class="field center">
@@ -1091,7 +1091,7 @@
                                 <path fill="#28a745" fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                             </svg>
                             <span class="no-wrap">
-                                1 Open
+                                2 Open
                             </span>
                         </div>
                     </div>
@@ -1180,7 +1180,7 @@
             </section>
             <footer>
                 <span>
-                    Last updated Mon, 05 Apr 2021 02:21:55 GMT with lowlighter/metrics@3.6.0
+                    Last updated Mon, 05 Apr 2021 06:02:19 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
