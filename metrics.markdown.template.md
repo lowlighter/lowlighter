@@ -1,6 +1,6 @@
-### 👋 Hello, I'm {{ user.login }}
+### 👋 Hello, I'm {{ LOGIN }}
 
-I joined GitHub `{{ REGISTRATION }}`.
+I joined GitHub `{{ REGISTRATION_DATE }}`.
 I contributed to `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories and made `{{ COMMITS }}` commits.
 
 Elements in `inline code-block` were auto-magically templated by the **markdown template**.
