@@ -74,6 +74,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
+          debug: yes
           
       # Markdown template example (with plugins)
       - name: 📒 Markdown template (with plugins)
@@ -102,6 +103,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
+          debug: yes
 
       # ======================================================================================
       # 🧩 PLUGINS
