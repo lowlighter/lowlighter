@@ -68,7 +68,7 @@ jobs:
         uses: lowlighter/metrics@master
         with:
           template: markdown
-          filename: metrics.markdown.svg
+          filename: metrics.markdown.md
           markdown: metrics.markdown.template.md 
           config_output: markdown
           token: ${{ secrets.METRICS_TOKEN }}
@@ -78,19 +78,18 @@ jobs:
           
       # Markdown template example (with plugins)
       - name: 📒 Markdown template (with plugins)
-        if: false
-        #if: ${{ success() || failure() }}
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           template: markdown
-          filename: metrics.markdown.svg
+          filename: metrics.markdown.full.md
           markdown: https://raw.githubusercontent.com/lowlighter/metrics/master/source/templates/markdown/example.md
           config_output: markdown
           plugin_activity: yes
-          plugin_posts: yes
-          plugin_posts_source: dev.to
-          plugin_rss: yes
-          plugin_rss_source: https://news.ycombinator.com/rss
+          #plugin_posts: yes
+          #plugin_posts_source: dev.to
+          #plugin_rss: yes
+          #plugin_rss_source: https://news.ycombinator.com/rss
           #plugin_tweets: yes
           #plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           #plugin_tweets_user: github
