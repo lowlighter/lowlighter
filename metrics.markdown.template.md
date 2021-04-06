@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm {{ LOGIN }}
 
-I joined GitHub `{{ f.date(REGISTRATION_DATE, {timeStyle:"short", dateStyle:"short"}) }}`.
+I joined GitHub on `{{ f.date(REGISTRATION_DATE, {dateStyle:"short"}) }}`.
 I contributed to `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories and made `{{ COMMITS }}` commits.
 
 Elements in `inline code-block` were auto-magically templated by the **markdown template**.
