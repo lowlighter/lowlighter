@@ -978,7 +978,7 @@ jobs:
           script: |
             let sha = null
             try {
-              sha = await fetch("https://api.github.com/repos/lowlighter/lowlighter/contents/metrics.markdown.png").then(res => res.json())
+              ({sha} = await fetch("https://api.github.com/repos/lowlighter/lowlighter/contents/metrics.markdown.png").then(res => res.json()))
             } catch {}
             github.repos.createOrUpdateFileContents({
               ...context.repo,
