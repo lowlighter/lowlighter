@@ -73,9 +73,9 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [What have we lost? [video]](https://media.ccc.de/v/rc3-525180-what_have_we_lost)
+* [Et Tu, Signal?](https://www.stephendiehl.com/blog/signal.html)
   * *Published on 07/04/2021*
-* [Time to regulate AI that interprets human emotions](https://www.nature.com/articles/d41586-021-00868-5)
+* [What have we lost? [video]](https://media.ccc.de/v/rc3-525180-what_have_we_lost)
   * *Published on 07/04/2021*
 * [Writing HTML in HTML (2019)](http://john.ankarstrom.se/html/)
   * *Published on 07/04/2021*
