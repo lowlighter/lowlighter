@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `15` repositories and made `1363` commits.
+I contributed to `15` repositories and made `1365` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -27,16 +27,19 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
-* ➡️ Pushed 1 commit in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter) on branch `master`
-  * [#367cb18](https://github.com/lowlighter/lowlighter/commit/367cb18) Update alpha.yml
-* ➡️ Pushed 1 commit in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter) on branch `master`
-  * [#24f697f](https://github.com/lowlighter/lowlighter/commit/24f697f) Update metrics.yml
-* ➡️ Pushed 1 commit in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter) on branch `master`
-  * [#53519d6](https://github.com/lowlighter/lowlighter/commit/53519d6) Update alpha.yml
-* ➡️ Pushed 1 commit in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter) on branch `master`
-  * [#ff4a4d1](https://github.com/lowlighter/lowlighter/commit/ff4a4d1) Update alpha.yml
-* ➡️ Pushed 1 commit in [lowlighter/metrics](https://github.com/lowlighter/metrics) on branch `master`
-  * [#38fbcea](https://github.com/lowlighter/metrics/commit/38fbcea) Add gist upload output action (#212)
+* 🔃 Merged [#212 Add gist upload output action](https://github.com/lowlighter/metrics/pull/212) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 3 files changed `++24 --2`
+* 🔃 Opened [#212 Add gist upload output action](https://github.com/lowlighter/metrics/pull/212) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++21 --1`
+* 🔃 Merged [#208 Auto-generated metrics for run #727066100](https://github.com/lowlighter/lowlighter/pull/208) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
+  * 21 files changed `++248 --250`
+* 🔃 Merged [#207 Auto-generated metrics for run #726942671](https://github.com/lowlighter/lowlighter/pull/207) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
+  * 7 files changed `++101 --92`
+* ⏺️ Created new branch `feat-gist-upload` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#206 Auto-generated metrics for run #726942671](https://github.com/lowlighter/lowlighter/pull/206) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
+  * 6 files changed `++91 --79`
+* 🔃 Merged [#205 Auto-generated metrics for run #726913168](https://github.com/lowlighter/lowlighter/pull/205) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
+  * 25 files changed `++230 --216`
 
 
 ___
@@ -85,7 +88,7 @@ ___
   * *Published on 07/04/2021*
 * [Screw it, I’ll host it myself](https://www.markozivanovic.com/screw-it-ill-host-it-myself/)
   * *Published on 07/04/2021*
-* [SPAs Are Dead?](https://leastprivilege.com/2020/03/31/spas-are-dead/)
+* [BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution](https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html)
   * *Published on 07/04/2021*
 * [iOS 14 and Facebook Pixel causing increase in PSL inclusion requests](https://github.com/publicsuffix/list/issues/1245)
   * *Published on 07/04/2021*
