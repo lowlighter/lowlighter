@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `15` repositories and made `1365` commits.
+I contributed to `15` repositories and made `1366` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -88,9 +88,9 @@ ___
   * *Published on 07/04/2021*
 * [Screw it, I’ll host it myself](https://www.markozivanovic.com/screw-it-ill-host-it-myself/)
   * *Published on 07/04/2021*
-* [BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution](https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html)
+* [Metis and Bodybuilders](https://astralcodexten.substack.com/p/metis-and-bodybuilders)
   * *Published on 07/04/2021*
-* [iOS 14 and Facebook Pixel causing increase in PSL inclusion requests](https://github.com/publicsuffix/list/issues/1245)
+* [BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution](https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html)
   * *Published on 07/04/2021*
 
 
