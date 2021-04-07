@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `15` repositories and made `1350` commits.
+I contributed to `15` repositories and made `1363` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -27,17 +27,16 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
-* ⏺️ Created new branch `feat-gist-upload` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * ➡️ Pushed 1 commit in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter) on branch `master`
-  * [#61f8b1b](https://github.com/lowlighter/lowlighter/commit/61f8b1b) Update metrics.markdown.template.md
-* ➡️ Pushed 3 commits in [lowlighter/metrics](https://github.com/lowlighter/metrics) on branch `master`
-  * [#4583c8b](https://github.com/lowlighter/metrics/commit/4583c8b) Fix typo
-  * [#59f4189](https://github.com/lowlighter/metrics/commit/59f4189) Update README.md
-  * [#2a0aac3](https://github.com/lowlighter/metrics/commit/2a0aac3) Add markdown example screenshot script
+  * [#367cb18](https://github.com/lowlighter/lowlighter/commit/367cb18) Update alpha.yml
 * ➡️ Pushed 1 commit in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter) on branch `master`
-  * [#f1ca800](https://github.com/lowlighter/lowlighter/commit/f1ca800) Auto-generated metrics for run #726942671 (#206)
-* 🔃 Merged [#206 Auto-generated metrics for run #726942671](https://github.com/lowlighter/lowlighter/pull/206) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
-  * 6 files changed `++91 --79`
+  * [#24f697f](https://github.com/lowlighter/lowlighter/commit/24f697f) Update metrics.yml
+* ➡️ Pushed 1 commit in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter) on branch `master`
+  * [#53519d6](https://github.com/lowlighter/lowlighter/commit/53519d6) Update alpha.yml
+* ➡️ Pushed 1 commit in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter) on branch `master`
+  * [#ff4a4d1](https://github.com/lowlighter/lowlighter/commit/ff4a4d1) Update alpha.yml
+* ➡️ Pushed 1 commit in [lowlighter/metrics](https://github.com/lowlighter/metrics) on branch `master`
+  * [#38fbcea](https://github.com/lowlighter/metrics/commit/38fbcea) Add gist upload output action (#212)
 
 
 ___
@@ -86,9 +85,9 @@ ___
   * *Published on 07/04/2021*
 * [Screw it, I’ll host it myself](https://www.markozivanovic.com/screw-it-ill-host-it-myself/)
   * *Published on 07/04/2021*
-* [iOS 14 and Facebook Pixel causing increase in PSL inclusion requests](https://github.com/publicsuffix/list/issues/1245)
+* [SPAs Are Dead?](https://leastprivilege.com/2020/03/31/spas-are-dead/)
   * *Published on 07/04/2021*
-* [Modern CI Is Too Complex and Misdirected](https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/)
+* [iOS 14 and Facebook Pixel causing increase in PSL inclusion requests](https://github.com/publicsuffix/list/issues/1245)
   * *Published on 07/04/2021*
 
 
