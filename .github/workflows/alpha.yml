@@ -15,6 +15,7 @@ jobs:
     steps:
 
       - name: 🚧 Gist output
+        if: false
         uses: lowlighter/metrics@feat-gist-upload
         continue-on-error: true
         with:
@@ -24,10 +25,10 @@ jobs:
           output_action: gist
           use_prebuilt_image: no
 
- # test:
- #   runs-on: ubuntu-latest
- #   container: ghcr.io/lowlighter/metrics:v3.7-beta
- #   steps:
- #     - run: node /metrics/.github/markdown_example.mjs
- #     - run: ls -la /metrics/.github
+  test:
+    runs-on: ubuntu-latest
+    container: ghcr.io/lowlighter/metrics:v3.7-beta
+    steps:
+      - run: node /metrics/.github/markdown_example.mjs
+      - run: ls -la /metrics/.github
 
