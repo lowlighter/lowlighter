@@ -2,7 +2,7 @@
 
 This is a markdown template example which explain the basic usage of this template.
 
-See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/master/metrics.markdown.full.md).
+See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/master/metrics.markdown.full.md) and [original template source here](https://github.com/lowlighter/metrics/blob/master/source/templates/markdown/example.md).
 
 ## 🈂️ Templating syntax:
 
@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `15` repositories and made `1340` commits.
+I contributed to `15` repositories and made `1346` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -24,16 +24,21 @@ Most of plugins from SVG templates can be reused directly by including image sou
 
 See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin-compatibily-matrix) for more informations.
 
+___
+
 **[📰 Recent activity](https://github.com/lowlighter)**
 * ➡️ Pushed 1 commit in [lowlighter/metrics](https://github.com/lowlighter/metrics) on branch `master`
-  * [#a98530d](https://github.com/lowlighter/metrics/commit/a98530d) Plugin markdown update (#211)
-* 🔃 Merged [#211 Plugin markdown update](https://github.com/lowlighter/metrics/pull/211) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 10 files changed `++87 --30`
+  * [#f92ac7e](https://github.com/lowlighter/metrics/commit/f92ac7e) Apply linter
+* ➡️ Pushed 1 commit in [lowlighter/metrics](https://github.com/lowlighter/metrics) on branch `master`
+  * [#6b0e631](https://github.com/lowlighter/metrics/commit/6b0e631) Fix icons for topics plugin
 * ➡️ Pushed 1 commit in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter) on branch `master`
-  * [#a2cef1e](https://github.com/lowlighter/lowlighter/commit/a2cef1e) Update metrics.yml
-* 🔃 Opened [#211 Plugin markdown update](https://github.com/lowlighter/metrics/pull/211) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 10 files changed `++87 --30`
+  * [#8c103cc](https://github.com/lowlighter/lowlighter/commit/8c103cc) Update metrics.markdown.template.md
+* ➡️ Pushed 1 commit in [lowlighter/metrics](https://github.com/lowlighter/metrics) on branch `master`
+  * [#0dac122](https://github.com/lowlighter/metrics/commit/0dac122) Apply linter
+* 💬 Commented on [#206 URL support for hashnode posts in recent posts plugin](https://github.com/lowlighter/metrics/issues/206) from [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
+
+___
 
 **[✒️ Recent posts from dev.to](https://dev.to/lowlighter)**
 <table>
@@ -72,39 +77,35 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 </table>
 
 
+___
+
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Et Tu, Signal?](https://www.stephendiehl.com/blog/signal.html)
+* [Particle mystery: physicists confirm the muon is more magnetic than predicted](https://www.sciencemag.org/news/2021/04/particle-mystery-deepens-physicists-confirm-muon-more-magnetic-predicted)
   * *Published on 07/04/2021*
-* [What have we lost? [video]](https://media.ccc.de/v/rc3-525180-what_have_we_lost)
+* [Screw it, I’ll host it myself](https://www.markozivanovic.com/screw-it-ill-host-it-myself/)
   * *Published on 07/04/2021*
-* [Writing HTML in HTML (2019)](http://john.ankarstrom.se/html/)
+* [iOS 14 and Facebook Pixel causing increase in PSL inclusion requests](https://github.com/publicsuffix/list/issues/1245)
   * *Published on 07/04/2021*
 * [All C++20 core language features with examples](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)
   * *Published on 07/04/2021*
 
 
+___
+
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> Gather feedback and build the community around your project by enabling Discussions on a new release. Want to check and comment on a release on-the-go? You're in luck! Available on GitHub Mobile too. Download for iOS or Android. <a href="https://t.co/pcx9o3kYmv" class="link">github.blog/changelog/2021…</a> <br/><a href="https://t.co/58PLiMRALq" class="link">pic.twitter.com/58PLiMRALq</a>
+>
+> <a href=""><img src="https://pbs.twimg.com/media/EyYuh7lW8AU4SrW.jpg" alt="" height="200"></a>
+>
+> *17:00 on 07/04/2021*
+
 > 🙌🙌 <br/><a href="https://t.co/tK2RZLTCPy" class="link">twitter.com/GitHubPolicy/s…</a>
 >
 > *20:31 on 06/04/2021*
 
-> Sponsors also now supports custom sponsorship amounts, so you can fund projects above or below their standard tiers. New ways to support open source means more creativity for our communities. Watch this space 👀
->
-> *20:12 on 06/04/2021*
-
-> Ever wanted to pair program with your favorite open source maintainer, or book a support session with a project you use? GitHub Sponsors now supports one-time payments – go invest in the open source economy today. ✨ <br/><br/><a href="https://t.co/8vr3AixwY1" class="link">github.com/sponsors/commu…</a> <br/><a href="https://t.co/hh50hiAuAZ" class="link">pic.twitter.com/hh50hiAuAZ</a>
->
-> <a href=""><img src="https://pbs.twimg.com/media/EyUQx3mWYAAL02e.jpg" alt="" height="200"></a>
->
-> *20:11 on 06/04/2021*
-
-> Announcing the Global Maintainer Summit: A virtual gathering for the maintainers that make open source possible. ❤️ Join us June 8-9.<br/><br/>
->
-> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2021/04/global-maintainer-summit.png?fit=1200%2C630" alt="Announcing the Global Maintainer Summit - The GitHub Blog" height="200"></a>
->
-> *18:02 on 06/04/2021*
 
 
+___
 
 **[📌 Starred topics](https://github.com/lowlighter?tab=stars)**
 * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="24" height="24" alt=""> [JavaScript](https://github.com/topics/javascript)
@@ -119,5 +120,13 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="24" height="24" alt=""> [Vue.js](https://github.com/topics/vue.js)
 * <img src="" width="24" height="24" alt=""> [Deep learning](https://github.com/topics/deep-learning)
 * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="24" height="24" alt=""> [Git](https://github.com/topics/git)
-* <img src="" width="24" height="24" alt=""> [And 77 more...](https://github.com/topics/and-77-more...)
+* <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" width="24" height="24" alt=""> [Amazon Web Services](https://github.com/topics/amazon-web-services)
+* <img src="" width="24" height="24" alt=""> [Data structures](https://github.com/topics/data-structures)
+* <img src="" width="24" height="24" alt=""> [API](https://github.com/topics/api)
+* <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" width="24" height="24" alt=""> [Google](https://github.com/topics/google)
+* <img src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/database/database.png" width="24" height="24" alt=""> [Database](https://github.com/topics/database)
+* <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="24" height="24" alt=""> [SQL](https://github.com/topics/sql)
+* <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" width="24" height="24" alt=""> [Arduino](https://github.com/topics/arduino)
+* <img src="" width="24" height="24" alt=""> [Data visualization](https://github.com/topics/data-visualization)
+* <img src="" width="24" height="24" alt=""> [And 69 more...](https://github.com/topics/and-69-more...)
 
