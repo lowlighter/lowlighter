@@ -955,3 +955,32 @@ jobs:
           base: header
           debug_flags: --cakeday --hireable --halloween
           output_action: pull-request-squash
+
+# ======================================================================================
+# Below is a special job used to render markdown as images 
+# ======================================================================================
+
+  github-metrics-markdown:
+    needs: [github-metrics]
+    runs-on: ubuntu-latest
+    container: ghcr.io/lowlighter/metrics:v3.7-beta
+    steps:
+      - name: Screenshot markdown example
+        run: |
+          node /metrics/.github/markdown_example.mjs
+          echo "METRICS_MARKDOWN_EXAMPLE=$(base64 --wrap=0 metrics.markdown.png)" >> $GITHUB_ENV 
+      - name: Update markdown example
+        uses: actions/github-script@v3
+        with:
+          script: |
+            let sha = null
+            try {
+              sha = await fetch("https://api.github.com/repos/lowlighter/lowlighter/contents/metrics.markdown.png").then(res => res.json())
+            } catch {}
+            github.repos.createOrUpdateFileContents({
+              ...context.repo,
+              path:"metrics.markdown.png",
+              message:"Update metrics.markdown.png",
+              content:"${{ env.METRICS_MARKDOWN_EXAMPLE }}",
+              sha,
+            })
