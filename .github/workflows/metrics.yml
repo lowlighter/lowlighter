@@ -955,20 +955,3 @@ jobs:
           base: header
           debug_flags: --cakeday --hireable --halloween
           output_action: pull-request-squash
-
-      # ======================================================================================
-      # 🚧 Debug
-
-      - name: 🚧 Check retries feature
-        if: false
-        uses: lowlighter/metrics@master
-        continue-on-error: true
-        with:
-          token: ${{ secrets.METRICS_BOT_TOKEN }}
-          retries: 3
-          retries_delay: 0
-          debug_flags: --error
-          debug: yes
-          dryrun: yes
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-
