@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `15` repositories and made `1337` commits.
+I contributed to `15` repositories and made `1338` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -25,6 +25,8 @@ Most of plugins from SVG templates can be reused directly by including image sou
 ### 📰 Recent activity
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* ➡️ Pushed 1 commit in [lowlighter/metrics](https://github.com/lowlighter/metrics) on branch `master`
+  * [#f93da19](https://github.com/lowlighter/metrics/commit/f93da19) Update example.md
 * ➡️ Pushed 1 commit in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter) on branch `master`
   * [#db1b686](https://github.com/lowlighter/lowlighter/commit/db1b686) Update metrics.yml
 * ➡️ Pushed 4 commits in [lowlighter/metrics](https://github.com/lowlighter/metrics) on branch `master`
@@ -36,8 +38,6 @@ Most of plugins from SVG templates can be reused directly by including image sou
   * 8 files changed `++169 --147`
 * 🔃 Merged [#197 Auto-generated metrics for run #724158770](https://github.com/lowlighter/lowlighter/pulls/197) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
   * 8 files changed `++112 --115`
-* ➡️ Pushed 1 commit in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter) on branch `master`
-  * [#3d8e83d](https://github.com/lowlighter/lowlighter/commit/3d8e83d) Update metrics.yml
 
 
 ### ✒️ Recent posts
@@ -46,7 +46,16 @@ Most of plugins from SVG templates can be reused directly by including image sou
 
 ### 🗼 Rss feed
 
-*Coming soon*
+**[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [The Unparalleled Genius of John von Neumann (2019)](https://www.cantorsparadise.com/the-unparalleled-genius-of-john-von-neumann-791bb9f42a2d)
+  * Published on 05/04/2021
+* [7% of Americans don’t use the internet. Who are they?](https://www.pewresearch.org/fact-tank/2021/04/02/7-of-americans-dont-use-the-internet-who-are-they/)
+  * Published on 07/04/2021
+* [Show HN: Skruv – No-dependency, no-build, small JavaScript framework](https://skruv.io/)
+  * Published on 07/04/2021
+* [First C compiler ported to GCC](https://github.com/vegesm/first-cc-gcc)
+  * Published on 05/04/2021
+
 
 ### 🐤 Latest tweets
 
@@ -58,4 +67,18 @@ Most of plugins from SVG templates can be reused directly by including image sou
 
 ### 📌 Starred topics
 
-*Coming soon*
+**[📌 Starred topics](https://github.com/lowlighter?tab=stars)**
+* <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="24" height="24" alt=""> [JavaScript](https://github.com/topics/javascript)
+* <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="24" height="24" alt=""> [HTML](https://github.com/topics/html)
+* <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="24" height="24" alt=""> [Linux](https://github.com/topics/linux)
+* <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="24" height="24" alt=""> [C++](https://github.com/topics/c++)
+* <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="24" height="24" alt=""> [CSS](https://github.com/topics/css)
+* <img src="" width="24" height="24" alt=""> [Machine learning](https://github.com/topics/machine-learning)
+* <img src="" width="24" height="24" alt=""> [Algorithm](https://github.com/topics/algorithm)
+* <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="24" height="24" alt=""> [Node.js](https://github.com/topics/node.js)
+* <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="24" height="24" alt=""> [Docker](https://github.com/topics/docker)
+* <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="24" height="24" alt=""> [Vue.js](https://github.com/topics/vue.js)
+* <img src="" width="24" height="24" alt=""> [Deep learning](https://github.com/topics/deep-learning)
+* <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="24" height="24" alt=""> [Git](https://github.com/topics/git)
+* <img src="" width="24" height="24" alt=""> [And 77 more...](https://github.com/topics/and-77-more...)
+
