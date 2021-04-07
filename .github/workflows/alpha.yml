@@ -23,3 +23,11 @@ jobs:
           committer_gist: 12e52345cde46b891264e376f0719166
           output_action: gist
           use_prebuilt_image: no
+
+  test:
+    runs-on: ubuntu-latest
+    container: ghcr.io/lowlighter/metrics:v3.7-beta
+    steps:
+      - run: node /metrics/.github/markdown_example.mjs
+      - run: ls -la /metrics/.github
+
