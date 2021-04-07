@@ -9,26 +9,9 @@ on:
       - main
   workflow_dispatch:
 jobs:
-  alpha-metrics:
-    runs-on: ubuntu-latest
-    if: "github.repository == 'lowlighter/lowlighter'"
-    steps:
-
-      - name: 🚧 Gist output
-        if: false
-        uses: lowlighter/metrics@feat-gist-upload
-        continue-on-error: true
-        with:
-          token: ${{ secrets.TEST }}
-          debug: yes
-          committer_gist: 12e52345cde46b891264e376f0719166
-          output_action: gist
-          use_prebuilt_image: no
-
   test:
     runs-on: ubuntu-latest
     container: ghcr.io/lowlighter/metrics:v3.7-beta
     steps:
       - run: node /metrics/.github/markdown_example.mjs
-      - run: ls -la /metrics/.github
-
+      - run: ls -la 
