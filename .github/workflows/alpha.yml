@@ -14,7 +14,10 @@ jobs:
     container: ghcr.io/lowlighter/metrics:v3.7-beta
     steps:
       - run: node /metrics/.github/markdown_example.mjs
-      - run: echo "METRICS_MARKDOWN_EXAMPLE=$(base64 metrics.markdown.png)" >> $GITHUB_ENV 
+      - run: |
+          $BASE64="$(base64 metrics.markdown.png)"
+          echo $BASE64
+          echo "METRICS_MARKDOWN_EXAMPLE=$BASE64" >> $GITHUB_ENV 
       - uses: actions/github-script@v3
         with:
           script: |
