@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `15` repositories and made `1332` commits.
+I contributed to `15` repositories and made `1337` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -24,16 +24,20 @@ Most of plugins from SVG templates can be reused directly by including image sou
 
 ### 📰 Recent activity
 
+**[📰 Recent activity](https://github.com/lowlighter)**
+* ➡️ Pushed 1 commit in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter) on branch `master`
+  * [#db1b686](https://github.com/lowlighter/lowlighter/commit/db1b686) Update metrics.yml
+* ➡️ Pushed 4 commits in [lowlighter/metrics](https://github.com/lowlighter/metrics) on branch `master`
+  * [#8e248d4](https://github.com/lowlighter/metrics/commit/8e248d4) Ignore conversion of images to b64 when using markdown output
+  * [#fc25dc9](https://github.com/lowlighter/metrics/commit/fc25dc9) Update activity.ejs
+  * [#61114f3](https://github.com/lowlighter/metrics/commit/61114f3) Add RSS markdown template support
+  * [#d47a420](https://github.com/lowlighter/metrics/commit/d47a420) Add Topics markdown template support
 * 🔃 Merged [#198 Auto-generated metrics for run #724164995](https://github.com/lowlighter/lowlighter/pulls/198) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
-          * 8 files changed `++169 --147`
+  * 8 files changed `++169 --147`
 * 🔃 Merged [#197 Auto-generated metrics for run #724158770](https://github.com/lowlighter/lowlighter/pulls/197) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
-          * 8 files changed `++112 --115`
+  * 8 files changed `++112 --115`
 * ➡️ Pushed 1 commit in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter) on branch `master`
   * [#3d8e83d](https://github.com/lowlighter/lowlighter/commit/3d8e83d) Update metrics.yml
-* 🔃 Merged [#194 Auto-generated metrics for run #723914813](https://github.com/lowlighter/lowlighter/pulls/194) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
-          * 3 files changed `++23 --23`
-* 🔃 Merged [#196 Auto-generated metrics for run #724158770](https://github.com/lowlighter/lowlighter/pulls/196) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
-          * 7 files changed `++62 --58`
 
 
 ### ✒️ Recent posts
