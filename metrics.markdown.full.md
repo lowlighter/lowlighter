@@ -15,57 +15,96 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `15` repositories and made `1338` commits.
+I contributed to `15` repositories and made `1340` commits.
 ```
 
 ## 🧩 Markdown plugins
 
-Most of plugins from SVG templates can be reused directly by including image source in markdown, but some have them have their own **markdown** version which includes hyperlinks.
+Most of plugins from SVG templates can be reused directly by including image source in markdown, but some have them have their own **markdown** version which includes hyperlinks and reduce image overhead.
 
-### 📰 Recent activity
+See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin-compatibily-matrix) for more informations.
 
 **[📰 Recent activity](https://github.com/lowlighter)**
 * ➡️ Pushed 1 commit in [lowlighter/metrics](https://github.com/lowlighter/metrics) on branch `master`
-  * [#f93da19](https://github.com/lowlighter/metrics/commit/f93da19) Update example.md
+  * [#a98530d](https://github.com/lowlighter/metrics/commit/a98530d) Plugin markdown update (#211)
+* 🔃 Merged [#211 Plugin markdown update](https://github.com/lowlighter/metrics/pull/211) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 10 files changed `++87 --30`
 * ➡️ Pushed 1 commit in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter) on branch `master`
-  * [#db1b686](https://github.com/lowlighter/lowlighter/commit/db1b686) Update metrics.yml
-* ➡️ Pushed 4 commits in [lowlighter/metrics](https://github.com/lowlighter/metrics) on branch `master`
-  * [#8e248d4](https://github.com/lowlighter/metrics/commit/8e248d4) Ignore conversion of images to b64 when using markdown output
-  * [#fc25dc9](https://github.com/lowlighter/metrics/commit/fc25dc9) Update activity.ejs
-  * [#61114f3](https://github.com/lowlighter/metrics/commit/61114f3) Add RSS markdown template support
-  * [#d47a420](https://github.com/lowlighter/metrics/commit/d47a420) Add Topics markdown template support
-* 🔃 Merged [#198 Auto-generated metrics for run #724164995](https://github.com/lowlighter/lowlighter/pulls/198) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
-  * 8 files changed `++169 --147`
-* 🔃 Merged [#197 Auto-generated metrics for run #724158770](https://github.com/lowlighter/lowlighter/pulls/197) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
-  * 8 files changed `++112 --115`
+  * [#a2cef1e](https://github.com/lowlighter/lowlighter/commit/a2cef1e) Update metrics.yml
+* 🔃 Opened [#211 Plugin markdown update](https://github.com/lowlighter/metrics/pull/211) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 10 files changed `++87 --30`
 
 
-### ✒️ Recent posts
+**[✒️ Recent posts from dev.to](https://dev.to/lowlighter)**
+<table>
+  <tr>
+    <td rowspan="2" width="280">
+      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rbmokFTg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/idot5ak9irxtu948bgzs.png" alt="" width="280">
+    </td>
+    <th>
+      <a href="https://dev.to/lowlighter/metrics-v3-0-the-ultimate-tool-to-pimp-your-github-profile-g7p">Metrics v3.0, the ultimate tool to pimp your GitHub profile!</a>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      Metrics is an extensive SVG images generator plugged with various APIs (GitHub, Twitter, Spotify, ......
+      <br>
+      <i>Published on 04/01/2021</i>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td rowspan="2" width="280">
+      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Zzb2gnfo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dagm6ot2j5wro2nclayx.png" alt="" width="280">
+    </td>
+    <th>
+      <a href="https://dev.to/lowlighter/downtime-a-simple-uptime-response-time-monitor-using-github-actions-2m73">Downtime, a simple uptime/response time monitor using GitHub actions</a>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      Hi there 👋,   This is a small presentation of one of my recent projects : Downtime, an uptime/respons...
+      <br>
+      <i>Published on 12/12/2020</i>
+    </td>
+  </tr>
+</table>
 
-*Coming soon*
-
-### 🗼 Rss feed
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [The Unparalleled Genius of John von Neumann (2019)](https://www.cantorsparadise.com/the-unparalleled-genius-of-john-von-neumann-791bb9f42a2d)
-  * Published on 05/04/2021
-* [7% of Americans don’t use the internet. Who are they?](https://www.pewresearch.org/fact-tank/2021/04/02/7-of-americans-dont-use-the-internet-who-are-they/)
-  * Published on 07/04/2021
-* [Show HN: Skruv – No-dependency, no-build, small JavaScript framework](https://skruv.io/)
-  * Published on 07/04/2021
-* [First C compiler ported to GCC](https://github.com/vegesm/first-cc-gcc)
-  * Published on 05/04/2021
+* [What have we lost? [video]](https://media.ccc.de/v/rc3-525180-what_have_we_lost)
+  * *Published on 07/04/2021*
+* [Time to regulate AI that interprets human emotions](https://www.nature.com/articles/d41586-021-00868-5)
+  * *Published on 07/04/2021*
+* [Writing HTML in HTML (2019)](http://john.ankarstrom.se/html/)
+  * *Published on 07/04/2021*
+* [All C++20 core language features with examples](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)
+  * *Published on 07/04/2021*
 
 
-### 🐤 Latest tweets
+**[🐤 Latest tweets from @github](https://twitter.com/github)**
+> 🙌🙌 <br/><a href="https://t.co/tK2RZLTCPy" class="link">twitter.com/GitHubPolicy/s…</a>
+>
+> *20:31 on 06/04/2021*
 
-*Coming soon*
+> Sponsors also now supports custom sponsorship amounts, so you can fund projects above or below their standard tiers. New ways to support open source means more creativity for our communities. Watch this space 👀
+>
+> *20:12 on 06/04/2021*
 
-### 🌇 GitHub Skyline 3D calendar
+> Ever wanted to pair program with your favorite open source maintainer, or book a support session with a project you use? GitHub Sponsors now supports one-time payments – go invest in the open source economy today. ✨ <br/><br/><a href="https://t.co/8vr3AixwY1" class="link">github.com/sponsors/commu…</a> <br/><a href="https://t.co/hh50hiAuAZ" class="link">pic.twitter.com/hh50hiAuAZ</a>
+>
+> <a href=""><img src="https://pbs.twimg.com/media/EyUQx3mWYAAL02e.jpg" alt="" height="200"></a>
+>
+> *20:11 on 06/04/2021*
 
-*Coming soon*
+> Announcing the Global Maintainer Summit: A virtual gathering for the maintainers that make open source possible. ❤️ Join us June 8-9.<br/><br/>
+>
+> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2021/04/global-maintainer-summit.png?fit=1200%2C630" alt="Announcing the Global Maintainer Summit - The GitHub Blog" height="200"></a>
+>
+> *18:02 on 06/04/2021*
 
-### 📌 Starred topics
+
 
 **[📌 Starred topics](https://github.com/lowlighter?tab=stars)**
 * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="24" height="24" alt=""> [JavaScript](https://github.com/topics/javascript)
