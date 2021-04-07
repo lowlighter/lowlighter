@@ -1,7 +1,7 @@
 # This is a workflow which is used to test new features from lowlighter/metrics
 # ⚠️ Following jobs all uses @master branch (unstable branch with unreleased features)
 
-name: Metrics (examples)
+name: Metrics (alpha)
 on:
   push:
     branches:
