@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm lowlighter
 
 I joined GitHub on `20/10/2016`.
-I contributed to `15` repositories and made `1337` commits.
+I contributed to `15` repositories and made `1338` commits.
 
 Elements in `inline code-block` were auto-magically templated by the **markdown template**.
 See [documentation](https://github.com/lowlighter/metrics/blob/master/source/templates/markdown/README.md) for more informations.
