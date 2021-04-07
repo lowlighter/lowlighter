@@ -13,20 +13,4 @@ jobs:
     runs-on: ubuntu-latest
     container: ghcr.io/lowlighter/metrics:v3.7-beta
     steps:
-      - run: node /metrics/.github/markdown_example.mjs
-      - run: |
-          echo "METRICS_MARKDOWN_EXAMPLE=$(base64 --wrap=0 metrics.markdown.png)" >> $GITHUB_ENV 
-      - uses: actions/github-script@v3
-        with:
-          script: |
-            let sha = null
-            try {
-              sha = await fetch("https://api.github.com/repos/lowlighter/lowlighter/contents/metrics.markdown.png").then(res => res.json())
-            } catch {}
-            github.repos.createOrUpdateFileContents({
-              ...context.repo,
-              path:"metrics.markdown.png",
-              message:"Update metrics.markdown.png",
-              content:"${{ env.METRICS_MARKDOWN_EXAMPLE }}",
-              sha,
-            })
+      - run: echo hello
