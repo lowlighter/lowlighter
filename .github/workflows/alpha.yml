@@ -1,0 +1,25 @@
+# This is a workflow which is used to test new features from lowlighter/metrics
+# ⚠️ Following jobs all uses @master branch (unstable branch with unreleased features)
+
+name: Metrics (examples)
+on:
+  push:
+    branches:
+      - master
+      - main
+  workflow_dispatch:
+jobs:
+  alpha-metrics:
+    runs-on: ubuntu-latest
+    if: "github.repository == 'lowlighter/lowlighter'"
+    steps:
+
+      - name: 🚧 Gist output
+        uses: lowlighter/metrics@feat-gist-upload
+        continue-on-error: true
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          debug: yes
+          committer_gist: 12e52345cde46b891264e376f0719166
+          output_action: gist
+          use_prebuilt_image: no
