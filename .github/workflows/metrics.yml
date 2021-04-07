@@ -74,7 +74,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
-          debug: yes
           
       # Markdown template example (with plugins)
       - name: 📒 Markdown template (with plugins)
@@ -88,17 +87,19 @@ jobs:
           plugin_activity: yes
           plugin_posts: yes
           plugin_posts_source: dev.to
+          plugin_posts_descriptions: yes
+          plugin_posts_covers: yes
+          plugin_posts_limit: 2
           plugin_rss: yes
           plugin_rss_source: https://news.ycombinator.com/rss
+          plugin_rss_limit: 4
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_user: github
+          plugin_tweets_attachments: yes
+          plugin_tweets_limit: 4
           plugin_topics: yes
           plugin_topics_limit: 12
-          plugin_skyline: yes
-          plugin_skyline_year: 2020
-          plugin_skyline_frames: 6
-          plugin_skyline_quality: 1
           token: ${{ secrets.METRICS_TOKEN }}
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
