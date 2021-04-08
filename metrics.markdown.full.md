@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `15` repositories and made `1369` commits.
+I contributed to `15` repositories and made `1373` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -84,14 +84,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [A simple C implementation to stream H.264 to browser using WebRTC](https://github.com/sepfy/pear)
+* [The Architecture of a One-Man SaaS](https://anthonynsimon.com/blog/one-man-saas-architecture/)
   * *Published on 08/04/2021*
-* [FDA approves first test of CRISPR for genetic defect causing sickle cell disease](https://news.berkeley.edu/2021/03/30/fda-approves-first-test-of-crispr-to-correct-genetic-defect-causing-sickle-cell-disease/)
-  * *Published on 07/04/2021*
-* [AMD and Xilinx Stockholders Overwhelmingly Approve AMD’s Acquisition of Xilinx](https://www.amd.com/en/press-releases/2021-04-07-amd-and-xilinx-stockholders-overwhelmingly-approve-amd-s-acquisition)
+* [The Book](https://99percentinvisible.org/episode/the-real-book/)
   * *Published on 08/04/2021*
-* [Surprisingly Slow](https://gregoryszorc.com/blog/2021/04/06/surprisingly-slow/)
-  * *Published on 06/04/2021*
+* [Stop Spotify Surveillance](https://www.stopspotifysurveillance.org/)
+  * *Published on 08/04/2021*
+* [A third of Covid survivors suffer neurological or mental disorders: study](https://www.reuters.com/article/idUSKBN2BT2ZI)
+  * *Published on 08/04/2021*
 
 
 ___
