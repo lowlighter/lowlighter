@@ -976,14 +976,14 @@ jobs:
         uses: actions/github-script@v3
         with:
           script: |
-            let sha = null
             try {
-              ({sha} = await fetch("https://api.github.com/repos/lowlighter/lowlighter/contents/metrics.markdown.png").then(res => res.json()))
+              const {sha} = await fetch("https://api.github.com/repos/lowlighter/lowlighter/contents/metrics.markdown.png").then(res => res.json())
+              github.repos.createOrUpdateFileContents({
+                ...context.repo,
+                path:"metrics.markdown.png",
+                message:"Update metrics.markdown.png",
+                content:"${{ env.METRICS_MARKDOWN_EXAMPLE }}",
+                sha,
+              })
             } catch {}
-            github.repos.createOrUpdateFileContents({
-              ...context.repo,
-              path:"metrics.markdown.png",
-              message:"Update metrics.markdown.png",
-              content:"${{ env.METRICS_MARKDOWN_EXAMPLE }}",
-              sha,
-            })
+            
