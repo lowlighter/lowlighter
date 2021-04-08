@@ -27,6 +27,9 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Opened [#214 Feat plugin improves](https://github.com/lowlighter/metrics/pull/214) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 8 files changed `++80 --15`
+* ⏺️ Created new branch `feat-plugin-improves` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#212 Add gist upload output action](https://github.com/lowlighter/metrics/pull/212) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 3 files changed `++24 --2`
 * 🔃 Opened [#212 Add gist upload output action](https://github.com/lowlighter/metrics/pull/212) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -36,10 +39,6 @@ ___
 * 🔃 Merged [#207 Auto-generated metrics for run #726942671](https://github.com/lowlighter/lowlighter/pull/207) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
   * 7 files changed `++101 --92`
 * ⏺️ Created new branch `feat-gist-upload` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#206 Auto-generated metrics for run #726942671](https://github.com/lowlighter/lowlighter/pull/206) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
-  * 6 files changed `++91 --79`
-* 🔃 Merged [#205 Auto-generated metrics for run #726913168](https://github.com/lowlighter/lowlighter/pull/205) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
-  * 25 files changed `++230 --216`
 
 
 ___
@@ -84,13 +83,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [The Architecture of a One-Man SaaS](https://anthonynsimon.com/blog/one-man-saas-architecture/)
+* [Home-Built Scanning Tunneling Microscope](https://dberard.com/home-built-stm/)
   * *Published on 08/04/2021*
-* [The Book](https://99percentinvisible.org/episode/the-real-book/)
+* [The architecture behind a one-person tech startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
   * *Published on 08/04/2021*
-* [Stop Spotify Surveillance](https://www.stopspotifysurveillance.org/)
+* [Commits are snapshots not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
   * *Published on 08/04/2021*
-* [A third of Covid survivors suffer neurological or mental disorders: study](https://www.reuters.com/article/idUSKBN2BT2ZI)
+* [Oxidation is happening on the Moon. On a place with no atmosphere](http://www.psrd.hawaii.edu/Mar21/tarnished-Moon.html)
   * *Published on 08/04/2021*
 
 
