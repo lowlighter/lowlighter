@@ -755,6 +755,24 @@ jobs:
           plugin_rss_source: https://news.ycombinator.com/rss
           plugin_rss_limit: 4
           output_action: pull-request
+          
+      # ======================================================================================
+      # 📸 Website screenshot
+
+      # Display a website screenshot
+      - name: 📸 Website screenshot
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.screenshot.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_screenshot: yes
+          plugin_screenshot_title: XKCD of the day  
+          plugin_screenshot_url: https://xkcd.com
+          plugin_screenshot_selector: "#comic img"
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 🗨️ Stackoverflow plugin
