@@ -937,6 +937,12 @@
     stroke: rgba(127, 127, 127, 0.4) !important;
   }
 
+/* Autosize */
+  .autosize {
+    width: auto;
+    height: auto;
+  }
+
 /* Fade animation */
   .af {
     opacity: 0;
@@ -1064,7 +1070,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="129.26999999999998 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="129.57999999999998 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1083,7 +1089,7 @@
                                     Super stargazer
                                 </div>
                                 <div class="text">
-                                    Starred 917 repositories
+                                    Starred 918 repositories
                                 </div>
                             </div>
                         </div>
@@ -1121,6 +1127,9 @@
                             <div class="info">
                                 <div class="title">
                                     Great developer
+                                    <span class="gh">
+                                        ranked 1.29m out of 69m users
+                                    </span>
                                 </div>
                                 <div class="text">
                                     Published 22 public repositories
@@ -1137,7 +1146,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="89.57286432160804 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="91.13065326633166 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1165,7 +1174,7 @@
                                     Contributor
                                 </div>
                                 <div class="text">
-                                    Opened 116 pull requests
+                                    Opened 118 pull requests
                                 </div>
                             </div>
                         </div>
