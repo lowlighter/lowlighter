@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `15` repositories and made `1373` commits.
+I contributed to `15` repositories and made `1385` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -27,18 +27,17 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
-* 🔃 Opened [#214 Feat plugin improves](https://github.com/lowlighter/metrics/pull/214) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 8 files changed `++80 --15`
-* ⏺️ Created new branch `feat-plugin-improves` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#212 Add gist upload output action](https://github.com/lowlighter/metrics/pull/212) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 3 files changed `++24 --2`
-* 🔃 Opened [#212 Add gist upload output action](https://github.com/lowlighter/metrics/pull/212) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++21 --1`
-* 🔃 Merged [#208 Auto-generated metrics for run #727066100](https://github.com/lowlighter/lowlighter/pull/208) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
-  * 21 files changed `++248 --250`
-* 🔃 Merged [#207 Auto-generated metrics for run #726942671](https://github.com/lowlighter/lowlighter/pull/207) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
-  * 7 files changed `++101 --92`
-* ⏺️ Created new branch `feat-gist-upload` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* ⏺️ Created new branch `release-v37` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#217 Add screenshot plugin](https://github.com/lowlighter/metrics/pull/217) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 7 files changed `++147 --1`
+* 🔃 Opened [#217 Add screenshot plugin](https://github.com/lowlighter/metrics/pull/217) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 4 files changed `++53 --0`
+* ⏺️ Created new branch `feat-plugin-screenshot` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#215 Improvement on web server](https://github.com/lowlighter/metrics/pull/215) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 10 files changed `++42 --14`
+* #️⃣ Opened [#216 FakerJS deprecation warning (API change)](https://github.com/lowlighter/metrics/issues/216) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Opened [#215 Improvement on web server](https://github.com/lowlighter/metrics/pull/215) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 10 files changed `++42 --14`
 
 
 ___
@@ -83,13 +82,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [A man is looking for the friends who shipped him overseas in a crate in 1965](https://www.cbc.ca/radio/asithappens/as-it-happens-wednesday-edition-1.5978289/this-man-is-looking-for-the-friends-who-shipped-him-overseas-in-a-crate-in-1965-1.5978296)
+  * *Published on 08/04/2021*
 * [Home-Built Scanning Tunneling Microscope](https://dberard.com/home-built-stm/)
   * *Published on 08/04/2021*
 * [The architecture behind a one-person tech startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
   * *Published on 08/04/2021*
-* [Commits are snapshots not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
-  * *Published on 08/04/2021*
-* [Oxidation is happening on the Moon. On a place with no atmosphere](http://www.psrd.hawaii.edu/Mar21/tarnished-Moon.html)
+* [Why Keyboard Shortcuts don&#39;t work on non-US Layouts and how Devs could fix it](https://tkainrad.dev/posts/why-keyboard-shortcuts-dont-work-on-non-us-keyboard-layouts-and-how-to-fix-it/)
   * *Published on 08/04/2021*
 
 
