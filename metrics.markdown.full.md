@@ -84,14 +84,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [New Mexico Governor Signs Historic Legislation to End Qualified Immunity](https://innocenceproject.org/new-mexico-historic-legislation-to-end-qualified-immunity/)
+  * *Published on 08/04/2021*
+* [A simple C implementation to stream H.264 to browser using WebRTC](https://github.com/sepfy/pear)
+  * *Published on 08/04/2021*
 * [FDA approves first test of CRISPR for genetic defect causing sickle cell disease](https://news.berkeley.edu/2021/03/30/fda-approves-first-test-of-crispr-to-correct-genetic-defect-causing-sickle-cell-disease/)
   * *Published on 07/04/2021*
-* [Isp.netscape.com](https://isp.netscape.com)
+* [AMD and Xilinx Stockholders Overwhelmingly Approve AMD’s Acquisition of Xilinx](https://www.amd.com/en/press-releases/2021-04-07-amd-and-xilinx-stockholders-overwhelmingly-approve-amd-s-acquisition)
   * *Published on 08/04/2021*
-* [Screw it, I’ll host it myself](https://www.markozivanovic.com/screw-it-ill-host-it-myself/)
-  * *Published on 07/04/2021*
-* [Particle mystery: physicists confirm the muon is more magnetic than predicted](https://www.sciencemag.org/news/2021/04/particle-mystery-deepens-physicists-confirm-muon-more-magnetic-predicted)
-  * *Published on 07/04/2021*
 
 
 ___
