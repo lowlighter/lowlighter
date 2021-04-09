@@ -82,13 +82,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Facebook Down?](https://www.facebook.com/)
-  * *Published on 08/04/2021*
-* [A man is looking for the friends who shipped him overseas in a crate in 1965](https://www.cbc.ca/radio/asithappens/as-it-happens-wednesday-edition-1.5978289/this-man-is-looking-for-the-friends-who-shipped-him-overseas-in-a-crate-in-1965-1.5978296)
-  * *Published on 08/04/2021*
-* [Home-Built Scanning Tunneling Microscope](https://dberard.com/home-built-stm/)
+* [CPU-based algorithm trains deep neural nets up to 15 times faster than top GPU](https://techxplore.com/news/2021-04-rice-intel-optimize-ai-commodity.html)
+  * *Published on 09/04/2021*
+* [Monkey MindPong](https://neuralink.com/blog/)
   * *Published on 08/04/2021*
 * [The architecture behind a one-person tech startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
+  * *Published on 08/04/2021*
+* [Home-Built Scanning Tunneling Microscope (2015)](https://dberard.com/home-built-stm/)
   * *Published on 08/04/2021*
 
 
