@@ -20,8 +20,8 @@ jobs:
         with:
           script: |
             try {
-              console.log(github.repos.getContent({...context.repo, path:"metrics.markdown.png"}))
-              const {sha} = github.repos.getContent({...context.repo, path:"metrics.markdown.png"})
+              console.log(await github.repos.getContent({...context.repo, path:"metrics.markdown.png"}))
+              const {sha} = await github.repos.getContent({...context.repo, path:"metrics.markdown.png"})
               console.log(`current sha: ${sha}`)
               /*github.repos.createOrUpdateFileContents({
                 ...context.repo,
