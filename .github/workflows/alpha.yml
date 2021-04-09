@@ -9,25 +9,26 @@ on:
       - main
   workflow_dispatch:
 jobs:
-  runs-on: ubuntu-latest
-  container: ghcr.io/lowlighter/metrics:v3.7-beta
-  steps:
-    - name: Update markdown example
-      uses: actions/github-script@v3
-      env:
-        METRICS_MARKDOWN_EXAMPLE: "${{ env.METRICS_MARKDOWN_EXAMPLE }}"
-      with:
-        script: |
-          try {
-            const json = await fetch("https://api.github.com/repos/lowlighter/lowlighter/contents/metrics.markdown.png").then(res => res.json())
-            console.log(json)
-            const {sha} = json
-            console.log(`current sha: ${sha}`)
-            /*github.repos.createOrUpdateFileContents({
-              ...context.repo,
-              path:"metrics.markdown.png",
-              message:"Update metrics.markdown.png",
-              content:process.env.METRICS_MARKDOWN_EXAMPLE,
-              sha,
-            })*/
-          } catch (error) { console.log(error) }
+  test:
+    runs-on: ubuntu-latest
+    container: ghcr.io/lowlighter/metrics:v3.7-beta
+    steps:
+      - name: Update markdown example
+        uses: actions/github-script@v3
+        env:
+          METRICS_MARKDOWN_EXAMPLE: "${{ env.METRICS_MARKDOWN_EXAMPLE }}"
+        with:
+          script: |
+            try {
+              const json = await fetch("https://api.github.com/repos/lowlighter/lowlighter/contents/metrics.markdown.png").then(res => res.json())
+              console.log(json)
+              const {sha} = json
+              console.log(`current sha: ${sha}`)
+              /*github.repos.createOrUpdateFileContents({
+                ...context.repo,
+                path:"metrics.markdown.png",
+                message:"Update metrics.markdown.png",
+                content:process.env.METRICS_MARKDOWN_EXAMPLE,
+                sha,
+              })*/
+            } catch (error) { console.log(error) }
