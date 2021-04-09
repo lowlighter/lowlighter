@@ -82,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [CPU-based algorithm trains deep neural nets up to 15 times faster than top GPU](https://techxplore.com/news/2021-04-rice-intel-optimize-ai-commodity.html)
+* [Initial M1 support merged into Linux SoC tree](https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&amp;id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf)
+  * *Published on 09/04/2021*
+* [Docker without Docker](https://fly.io/blog/docker-without-docker/)
   * *Published on 09/04/2021*
 * [Monkey MindPong](https://neuralink.com/blog/)
   * *Published on 08/04/2021*
-* [The architecture behind a one-person tech startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
-  * *Published on 08/04/2021*
-* [Home-Built Scanning Tunneling Microscope (2015)](https://dberard.com/home-built-stm/)
-  * *Published on 08/04/2021*
+* [Hawking Hawking](https://www.math.columbia.edu/~woit/wordpress/?p=12235)
+  * *Published on 09/04/2021*
 
 
 ___
