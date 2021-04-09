@@ -584,6 +584,20 @@ jobs:
           output_action: pull-request
 
       # ======================================================================================
+      # 🎩 Notable contributions
+
+      # Display badges of organizations with at least one commit from user
+      - name: 🎩 Notable contributions
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.notable.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_notable: yes
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
+
+      # ======================================================================================
       # 🧑‍🤝‍🧑 People plugin
 
       # Display followers and followed users
