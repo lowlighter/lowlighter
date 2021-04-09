@@ -992,6 +992,8 @@ jobs:
           echo "METRICS_MARKDOWN_EXAMPLE=$(base64 --wrap=0 metrics.markdown.png)" >> $GITHUB_ENV 
       - name: Update markdown example
         uses: actions/github-script@v3
+        env:
+          METRICS_MARKDOWN_EXAMPLE: "${{ env.METRICS_MARKDOWN_EXAMPLE }}"
         with:
           script: |
             try {
@@ -1003,7 +1005,7 @@ jobs:
                 ...context.repo,
                 path:"metrics.markdown.png",
                 message:"Update metrics.markdown.png",
-                content:"${{ env.METRICS_MARKDOWN_EXAMPLE }}",
+                content:process.env.METRICS_MARKDOWN_EXAMPLE,
                 sha,
               })
             } catch {}
