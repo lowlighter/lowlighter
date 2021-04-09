@@ -85,11 +85,11 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
   * *Published on 09/04/2021*
+* [Zoom zero-day discovery makes calls safer, hackers $200k richer](https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/)
+  * *Published on 09/04/2021*
 * [Initial M1 support merged into Linux SoC tree](https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&amp;id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf)
   * *Published on 09/04/2021*
-* [The Web MiniDisc App (2020)](https://stefano.brilli.me/blog/web-minidisc/)
-  * *Published on 09/04/2021*
-* [Zoom zero-day discovery makes calls safer, hackers $200k richer](https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/)
+* [Why Hypercard Had to Die](http://www.loper-os.org/?p=568)
   * *Published on 09/04/2021*
 
 
