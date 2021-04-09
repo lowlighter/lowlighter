@@ -997,9 +997,7 @@ jobs:
         with:
           script: |
             try {
-              const json = await fetch("https://api.github.com/repos/lowlighter/lowlighter/contents/metrics.markdown.png").then(res => res.json())
-              console.log(json)
-              const {sha} = json
+              const {data:{sha}} = await github.repos.getContent({...context.repo, path:"metrics.markdown.png"})
               console.log(`current sha: ${sha}`)
               github.repos.createOrUpdateFileContents({
                 ...context.repo,
@@ -1008,5 +1006,5 @@ jobs:
                 content:process.env.METRICS_MARKDOWN_EXAMPLE,
                 sha,
               })
-            } catch {}
+            } catch (error) { console.log(error) }
             
