@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `15` repositories and made `1389` commits.
+I contributed to `15` repositories and made `1397` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -87,9 +87,9 @@ ___
   * *Published on 09/04/2021*
 * [Initial M1 support merged into Linux SoC tree](https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&amp;id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf)
   * *Published on 09/04/2021*
-* [Docker without Docker](https://fly.io/blog/docker-without-docker/)
+* [The Web MiniDisc App (2020)](https://stefano.brilli.me/blog/web-minidisc/)
   * *Published on 09/04/2021*
-* [The Web MiniDisc App: Bringing Back to Life the MiniDisc with WebUSB and WASM](https://stefano.brilli.me/blog/web-minidisc/)
+* [Zoom zero-day discovery makes calls safer, hackers $200k richer](https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/)
   * *Published on 09/04/2021*
 
 
