@@ -88,7 +88,7 @@ ___
   * *Published on 09/04/2021*
 * [Monkey MindPong](https://neuralink.com/blog/)
   * *Published on 08/04/2021*
-* [Hawking Hawking](https://www.math.columbia.edu/~woit/wordpress/?p=12235)
+* [Scalable, Resilient Brainfuck as a service](https://zserge.com/posts/bfaas/)
   * *Published on 09/04/2021*
 
 
