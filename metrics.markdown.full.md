@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `15` repositories and made `1397` commits.
+I contributed to `27` repositories and made `1400` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -27,6 +27,10 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#222 Add notable contributions plugin](https://github.com/lowlighter/metrics/pull/222) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 15 files changed `++218 --4`
+* 🔃 Opened [#222 Add notable contributions plugin](https://github.com/lowlighter/metrics/pull/222) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 15 files changed `++218 --4`
 * ⏺️ Created new branch `feat-base-orgs-contributions` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Opened [#220 Prepare release v3.7](https://github.com/lowlighter/metrics/pull/220) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 3 files changed `++4 --4`
@@ -34,9 +38,6 @@ ___
   * 3 files changed `++4 --4`
 * #️⃣ Closed [#213 Recent activity plugin marks closed pull requests as &#34;Merged&#34;](https://github.com/lowlighter/metrics/issues/213) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#219 Update faker API](https://github.com/lowlighter/metrics/pull/219) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 28 files changed `++362 --362`
-* #️⃣ Closed [#216 FakerJS deprecation warning (API change)](https://github.com/lowlighter/metrics/issues/216) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Opened [#219 Update faker API](https://github.com/lowlighter/metrics/pull/219) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 28 files changed `++362 --362`
 
 
@@ -82,30 +83,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Zoom zero-day discovery](https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/)
+* [Why uBlock Origin works best on Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox)
   * *Published on 09/04/2021*
-* [HW accelerated Xwayland rendering for Nvidia merged](https://gitlab.freedesktop.org/xorg/xserver/-/merge_requests/587)
+* [Vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs](https://github.com/DualCoder/vgpu_unlock)
   * *Published on 09/04/2021*
-* [SEC Charges 1inMM Capital, LLC with Operating a $690M Ponzi Scheme](https://www.sec.gov/news/press-release/2021-58)
+* [Embrace the Grind](https://jacobian.org/2021/apr/7/embrace-the-grind/)
   * *Published on 09/04/2021*
-* [Oliver Heaviside (1850-1925) – Physical Mathematician (1983)](https://sci-hub.se/10.1093/teamat/2.2.55)
+* [A Guide to Color from 1692](https://www.openculture.com/2021/04/a-900-page-pre-pantone-guide-to-color-from-1692-a-complete-high-resolution-digital-scan.html)
   * *Published on 09/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> RT <span class="mention">@githubOCTO</span>: 📈🎨🧠 We're hosting <span class="mention">@mmeckf</span>, CEO of <span class="mention">@observablehq</span>, on the next episode of the OCTO Speaker Series! She'll be talking about da…
+>
+> *21:09 on 09/04/2021*
+
 > Check out our latest Availability Report with updates on GitHub status over the past month.<br/><br/>
 >
 > <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2019/03/BlogHeaders_Aligned_ENGINEERING_x2_v3.png?fit=2016%2C1204" alt="GitHub Availability Report: March 2021 - The GitHub Blog" height="200"></a>
 >
 > *19:07 on 07/04/2021*
-
-> Gather feedback and build the community around your project by enabling Discussions on a new release. Want to check and comment on a release on-the-go? You're in luck! Available on GitHub Mobile too. Download for iOS or Android. <a href="https://t.co/pcx9o3kYmv" class="link">github.blog/changelog/2021…</a> <br/><a href="https://t.co/58PLiMRALq" class="link">pic.twitter.com/58PLiMRALq</a>
->
-> <a href=""><img src="https://pbs.twimg.com/media/EyYuh7lW8AU4SrW.jpg" alt="" height="200"></a>
->
-> *17:00 on 07/04/2021*
 
 
 
