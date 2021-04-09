@@ -27,6 +27,7 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* ⏺️ Created new branch `feat-base-orgs-contributions` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Opened [#220 Prepare release v3.7](https://github.com/lowlighter/metrics/pull/220) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 3 files changed `++4 --4`
 * 🔃 Merged [#218 Fix &#34;merged&#34; state in activity plugin](https://github.com/lowlighter/metrics/pull/218) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -37,8 +38,6 @@ ___
 * #️⃣ Closed [#216 FakerJS deprecation warning (API change)](https://github.com/lowlighter/metrics/issues/216) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Opened [#219 Update faker API](https://github.com/lowlighter/metrics/pull/219) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 28 files changed `++362 --362`
-* 🔃 Opened [#218 Fix &#34;merged&#34; state in activity plugin](https://github.com/lowlighter/metrics/pull/218) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 3 files changed `++4 --4`
 
 
 ___
@@ -83,13 +82,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+* [Zoom zero-day discovery](https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/)
   * *Published on 09/04/2021*
-* [Zoom zero-day discovery makes calls safer, hackers $200k richer](https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/)
+* [HW accelerated Xwayland rendering for Nvidia merged](https://gitlab.freedesktop.org/xorg/xserver/-/merge_requests/587)
   * *Published on 09/04/2021*
-* [Initial M1 support merged into Linux SoC tree](https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&amp;id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf)
+* [SEC Charges 1inMM Capital, LLC with Operating a $690M Ponzi Scheme](https://www.sec.gov/news/press-release/2021-58)
   * *Published on 09/04/2021*
-* [Why Hypercard Had to Die](http://www.loper-os.org/?p=568)
+* [Oliver Heaviside (1850-1925) – Physical Mathematician (1983)](https://sci-hub.se/10.1093/teamat/2.2.55)
   * *Published on 09/04/2021*
 
 
