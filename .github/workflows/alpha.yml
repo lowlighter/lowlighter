@@ -20,7 +20,7 @@ jobs:
         with:
           script: |
             try {
-              const {sha} = octokit.rest.repos.getContent({...context.repo, path:"metrics.markdown.png"})
+              const {sha} = github.repos.getContent({...context.repo, path:"metrics.markdown.png"})
               console.log(`current sha: ${sha}`)
               /*github.repos.createOrUpdateFileContents({
                 ...context.repo,
