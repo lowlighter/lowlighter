@@ -20,9 +20,7 @@ jobs:
         with:
           script: |
             try {
-              const json = await fetch("https://api.github.com/repos/lowlighter/lowlighter/contents/metrics.markdown.png").then(res => res.json())
-              console.log(json)
-              const {sha} = json
+              const {sha} = octokit.rest.repos.getContent({...context.repo, path:"metrics.markdown.png"})
               console.log(`current sha: ${sha}`)
               /*github.repos.createOrUpdateFileContents({
                 ...context.repo,
