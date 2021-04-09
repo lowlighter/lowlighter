@@ -97,8 +97,32 @@
     margin: 0 6px;
   }
 
-  .avatar.organization {
+  .organization.avatar {
     border-radius: 15%;
+  }
+
+  .organization.name {
+    white-space: nowrap;
+  }
+
+  .organization.contributions {
+    margin: 0 8px;
+    flex-wrap: wrap;
+  }
+
+  .contribution.organization {
+    display: flex;
+    border: 1px solid #959da5;
+    border-radius: 6px;
+    padding: 2px 6px;
+    padding-left: 0;
+    margin: 2px;
+    font-size: 12px;
+    background-color: #959da520;
+  }
+
+  .contribution.organization .avatar {
+    margin: 0 4px;
   }
 
 /* Commit calendar */
@@ -1030,13 +1054,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="337.5837099450529" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="337.5837099450529" y="0" width="94.7299127342328" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="432.3136226792857" y="0" width="11.584947013993967" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="443.8985696932796" y="0" width="6.335114832777053" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="450.2336845260567" y="0" width="5.94218355018758" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="456.1758680762443" y="0" width="2.105614176689896" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="458.28148225293415" y="0" width="1.7185177470658" height="8" fill="#2c3e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="337.55352456405285" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="337.55352456405285" y="0" width="94.56384627790521" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="432.11737084195806" y="0" width="11.56463800027457" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="443.6820088422327" y="0" width="6.568796542012601" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="450.25080538424527" y="0" width="5.931766593847757" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="456.18257197809305" y="0" width="2.1019229256940566" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="458.2844949037871" y="0" width="1.7155050962129281" height="8" fill="#2c3e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1052,7 +1076,7 @@
                                     2.20 MB
                                 </div>
                                 <div>
-                                    73.39%
+                                    73.38%
                                 </div>
                             </small>
                         </div>
@@ -1068,7 +1092,7 @@
                                     75.4 kB
                                 </div>
                                 <div>
-                                    2.52%
+                                    2.51%
                                 </div>
                             </small>
                         </div>
@@ -1118,7 +1142,7 @@
                                     616 kB
                                 </div>
                                 <div>
-                                    20.59%
+                                    20.56%
                                 </div>
                             </small>
                         </div>
@@ -1131,10 +1155,10 @@
                             </div>
                             <small>
                                 <div>
-                                    41.2 kB
+                                    42.8 kB
                                 </div>
                                 <div>
-                                    1.38%
+                                    1.43%
                                 </div>
                             </small>
                         </div>
