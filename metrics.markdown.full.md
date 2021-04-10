@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `27` repositories and made `1400` commits.
+I contributed to `27` repositories and made `1401` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -83,14 +83,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Everyone is still terrible at creating software at scale](https://margint.blog/2021/04/05/creating-software-at-scale/)
+  * *Published on 10/04/2021*
 * [uBlock Origin works best on Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox)
   * *Published on 09/04/2021*
 * [Embrace the Grind](https://jacobian.org/2021/apr/7/embrace-the-grind/)
   * *Published on 09/04/2021*
-* [The patent troll that won a $308M jury trial against Apple](https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a)
-  * *Published on 09/04/2021*
-* [Vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs](https://github.com/DualCoder/vgpu_unlock)
-  * *Published on 09/04/2021*
+* [Free Python Books](https://github.com/pamoroso/free-python-books)
+  * *Published on 10/04/2021*
 
 
 ___
