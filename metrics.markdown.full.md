@@ -85,9 +85,9 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [uBlock Origin works best on Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox)
   * *Published on 09/04/2021*
-* [The patent troll that won a $308M jury trial against Apple](https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a)
-  * *Published on 09/04/2021*
 * [Embrace the Grind](https://jacobian.org/2021/apr/7/embrace-the-grind/)
+  * *Published on 09/04/2021*
+* [The patent troll that won a $308M jury trial against Apple](https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a)
   * *Published on 09/04/2021*
 * [Vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs](https://github.com/DualCoder/vgpu_unlock)
   * *Published on 09/04/2021*
