@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `27` repositories and made `1403` commits.
+I contributed to `28` repositories and made `1403` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -27,18 +27,16 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* #️⃣ Closed [#221 Organisation count is 0](https://github.com/lowlighter/metrics/issues/221) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* ⏺️ Created new branch `feat-std-log-off-level` in [lowlighter/deno_std](https://github.com/lowlighter/deno_std)
+* 🔃 Opened [#849 fix(std/testing): equals does not differentiate undefined/absent keys](https://github.com/denoland/deno_std/pull/849) in [denoland/deno_std](https://github.com/denoland/deno_std)
+  * 2 files changed `++6 --0`
+* 🍽️ Forked [denoland/deno_std](https://github.com/denoland/deno_std)
 * 🔃 Merged [#222 Add notable contributions plugin](https://github.com/lowlighter/metrics/pull/222) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 15 files changed `++218 --4`
 * 🔃 Opened [#222 Add notable contributions plugin](https://github.com/lowlighter/metrics/pull/222) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 15 files changed `++218 --4`
 * ⏺️ Created new branch `feat-base-orgs-contributions` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Opened [#220 Prepare release v3.7](https://github.com/lowlighter/metrics/pull/220) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 3 files changed `++4 --4`
-* 🔃 Merged [#218 Fix &#34;merged&#34; state in activity plugin](https://github.com/lowlighter/metrics/pull/218) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 3 files changed `++4 --4`
-* #️⃣ Closed [#213 Recent activity plugin marks closed pull requests as &#34;Merged&#34;](https://github.com/lowlighter/metrics/issues/213) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#219 Update faker API](https://github.com/lowlighter/metrics/pull/219) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 28 files changed `++362 --362`
 
 
 ___
@@ -83,13 +81,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [NASA space copter ready for first Mars flight](https://phys.org/news/2021-04-nasa-space-copter-ready-mars.html)
+* [End of Support for Firefox on Amazon Devices](https://support.mozilla.org/en-US/kb/end-support-firefox-amazon-devices)
   * *Published on 10/04/2021*
-* [Ink 1.0 – open-source scripting language for interactive narrative](https://www.inklestudios.com/2021/02/22/ink-version-1.html)
+* [Best practices for writing SQL queries](https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices)
   * *Published on 10/04/2021*
-* [Setting Up Starlink, SpaceX&#39;s Satellite Internet](https://www.jeffgeerling.com/blog/2021/setting-starlink-spacexs-satellite-internet)
+* [PSD is not my favourite file format](https://b3n.org/psd-is-not-my-favourite-file-format/)
   * *Published on 10/04/2021*
-* [Everyone is still terrible at creating software at scale](https://margint.blog/2021/04/05/creating-software-at-scale/)
+* [Google is exploring a health record tool for patients](https://www.statnews.com/2021/04/09/google-health-records-app-care-studio/)
   * *Published on 10/04/2021*
 
 
