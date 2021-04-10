@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `28` repositories and made `1403` commits.
+I contributed to `28` repositories and made `1404` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -81,13 +81,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [End of Support for Firefox on Amazon Devices](https://support.mozilla.org/en-US/kb/end-support-firefox-amazon-devices)
+* [Brave disables Chromium FLoC features](https://github.com/brave/brave-core/pull/8468)
   * *Published on 10/04/2021*
-* [Best practices for writing SQL queries](https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices)
+* [Evaluating Modest SaaS Business Ideas](https://greaterdanorequalto.com/evaluating-modest-saas-business-ideas/)
   * *Published on 10/04/2021*
-* [PSD is not my favourite file format](https://b3n.org/psd-is-not-my-favourite-file-format/)
+* [I Made a Mobile App for My Significant Other (and She Won&#39;t Use It)](https://jerseyfonseca.com/blogs/wewatch)
   * *Published on 10/04/2021*
-* [Google is exploring a health record tool for patients](https://www.statnews.com/2021/04/09/google-health-records-app-care-studio/)
+* [Towards the Science of Essential Decentralised Infrastructures](https://dl.acm.org/doi/abs/10.1145/3428662.3429744)
   * *Published on 10/04/2021*
 
 
