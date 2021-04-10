@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `27` repositories and made `1401` commits.
+I contributed to `27` repositories and made `1403` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -83,13 +83,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Everyone is still terrible at creating software at scale](https://margint.blog/2021/04/05/creating-software-at-scale/)
+* [NASA space copter ready for first Mars flight](https://phys.org/news/2021-04-nasa-space-copter-ready-mars.html)
   * *Published on 10/04/2021*
-* [uBlock Origin works best on Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox)
-  * *Published on 09/04/2021*
-* [Embrace the Grind](https://jacobian.org/2021/apr/7/embrace-the-grind/)
-  * *Published on 09/04/2021*
-* [Free Python Books](https://github.com/pamoroso/free-python-books)
+* [Ink 1.0 – open-source scripting language for interactive narrative](https://www.inklestudios.com/2021/02/22/ink-version-1.html)
+  * *Published on 10/04/2021*
+* [Setting Up Starlink, SpaceX&#39;s Satellite Internet](https://www.jeffgeerling.com/blog/2021/setting-starlink-spacexs-satellite-internet)
+  * *Published on 10/04/2021*
+* [Everyone is still terrible at creating software at scale](https://margint.blog/2021/04/05/creating-software-at-scale/)
   * *Published on 10/04/2021*
 
 
