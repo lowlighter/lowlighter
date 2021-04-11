@@ -81,13 +81,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [The Shape of Rome (2013)](https://www.exurbe.com/the-shape-of-rome/)
+* [Making Librem 5 Apps](https://puri.sm/posts/the-simplicity-of-making-librem-5-apps/)
   * *Published on 11/04/2021*
-* [Chronology of the Liberation](https://www.buchenwald.de/en/399/)
+* [The Ponzi Career](https://www.drorpoleg.com/the-ponzi-career/)
   * *Published on 11/04/2021*
-* [Is It Pokemon or Big Data?](http://pixelastic.github.io/pokemonorbigdata/)
+* [Internet-monitoring – A Docker Stack which Monitors your home network](https://github.com/geerlingguy/internet-monitoring)
   * *Published on 11/04/2021*
-* [M1 dev setup with a virtual Linux box](https://kristiandupont.medium.com/m1-dev-setup-with-a-virtual-linux-box-1a2688231667)
+* [The Nuclear Lightbulb – A Brief Introduction](https://beyondnerva.com/2020/03/21/the-nuclear-lightbulb-a-brief-introduction/)
   * *Published on 11/04/2021*
 
 
