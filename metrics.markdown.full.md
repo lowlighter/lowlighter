@@ -81,14 +81,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [The Economic Consequences of Increasing Sleep Among the Urban Poor](https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjab013/6217436?redirectedFrom=fulltext)
+* [The Shape of Rome (2013)](https://www.exurbe.com/the-shape-of-rome/)
   * *Published on 11/04/2021*
-* [Photopea, the free alternative to Photoshop, generates $250k/year from ads](https://www.reddit.com/r/IAmA/comments/i8j5te/i_made_a_free_alternative_to_photoshop_that_is/g18ush0/)
+* [Chronology of the Liberation](https://www.buchenwald.de/en/399/)
+  * *Published on 11/04/2021*
+* [Is It Pokemon or Big Data?](http://pixelastic.github.io/pokemonorbigdata/)
   * *Published on 11/04/2021*
 * [M1 dev setup with a virtual Linux box](https://kristiandupont.medium.com/m1-dev-setup-with-a-virtual-linux-box-1a2688231667)
   * *Published on 11/04/2021*
-* [Discovery of Lost ‘Golden’ City in Luxor, Egypt](https://egyptianstreets.com/2021/04/08/egyptologist-zahi-hawass-announces-discovery-of-lost-golden-city-in-luxor/)
-  * *Published on 09/04/2021*
 
 
 ___
