@@ -11,22 +11,24 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
-    container: ghcr.io/lowlighter/metrics:v3.7-beta
     steps:
-      - name: Update markdown example
-        uses: actions/github-script@v3
-        env:
-          METRICS_MARKDOWN_EXAMPLE: "${{ env.METRICS_MARKDOWN_EXAMPLE }}"
+      - uses: lowlighter/metrics@feat-better-token-error-msg
+        if: ${{ success() || failure() }}
         with:
-          script: |
-            try {
-              const {data:{sha}} = await github.repos.getContent({...context.repo, path:"metrics.markdown.png"})
-              console.log(`current sha: ${sha}`)
-              github.repos.createOrUpdateFileContents({
-                ...context.repo,
-                path:"metrics.markdown.png",
-                message:"Update metrics.markdown.png",
-                content:process.env.METRICS_MARKDOWN_EXAMPLE,
-                sha,
-              })
-            } catch (error) { console.log(error) }
+          token: ${{ github.token }}
+      - uses: lowlighter/metrics@feat-better-token-error-msg
+        if: ${{ success() || failure() }}
+        with:
+          token: MOCKED_TOKEN
+      - uses: lowlighter/metrics@feat-better-token-error-msg
+        if: ${{ success() || failure() }}
+        with:
+          token: NOT_NEEDED
+      - uses: lowlighter/metrics@feat-better-token-error-msg
+        if: ${{ success() || failure() }}
+        with:
+          token: DUMMY_TOKEN
+      - uses: lowlighter/metrics@feat-better-token-error-msg
+        if: ${{ success() || failure() }}
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
