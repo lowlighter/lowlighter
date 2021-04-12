@@ -86,10 +86,10 @@ ___
   * *Published on 11/04/2021*
 * [MiSTer, an open-source FPGA gaming project](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
   * *Published on 11/04/2021*
-* [Anxiety is in your body, not your mind](https://elemental.medium.com/anxiety-is-in-your-body-not-your-mind-93031abd14eb)
+* [std::unique_ptr implementation backed by Ethereum NFTs](https://github.com/zhuowei/nft_ptr)
   * *Published on 11/04/2021*
-* [Show HN: An encoding of the UK&#39;s self-isolation rules in Prolog](https://github.com/jamespwilliams/prolog-isolation-checker)
-  * *Published on 11/04/2021*
+* [Creating a minimalist blog with Jekyll Now](https://vdf.dev/blog/Creating-minimalist-blog-with-Jekyll-now/)
+  * *Published on 12/04/2021*
 
 
 ___
