@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `28` repositories and made `1388` commits.
+I contributed to `28` repositories and made `1391` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -27,6 +27,10 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#228 Introducing metrics insights!](https://github.com/lowlighter/metrics/pull/228) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 11 files changed `++886 --14`
+* 🔃 Opened [#228 Introducing metrics insights!](https://github.com/lowlighter/metrics/pull/228) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 10 files changed `++878 --13`
 * ⏺️ Created new branch `feat-metrics-insights` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * #️⃣ Closed [#226 Cannot read property &#39;split&#39; of undefined](https://github.com/lowlighter/metrics/issues/226) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#227 Improve token error msg](https://github.com/lowlighter/metrics/pull/227) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -35,8 +39,6 @@ ___
   * 1 file changed `++8 --1`
 * 🔃 Closed [#231 Auto-generated metrics for run #735664437](https://github.com/lowlighter/lowlighter/pull/231) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
   * 2 files changed `++3 --3`
-* ⏺️ Created new branch `feat-better-token-error-msg` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* #️⃣ Closed [#221 Organisation count is 0](https://github.com/lowlighter/metrics/issues/221) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 
 ___
@@ -81,11 +83,11 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [How People Get Rich Now](http://paulgraham.com/richnow.html)
+* [OpenSearch: AWS fork of Elasticsearch and Kibana](https://aws.amazon.com/blogs/opensource/introducing-opensearch/)
+  * *Published on 12/04/2021*
+* [Building React and Vue Support for Tailwind UI](https://blog.tailwindcss.com/building-react-and-vue-support-for-tailwind-ui)
   * *Published on 12/04/2021*
 * [Microsoft buys Nuance for nearly $20B](https://www.axios.com/microsoft-readies-deal-frenzy-bbc807a2-fd5b-48a7-99d1-cf06d0a41547.html)
-  * *Published on 12/04/2021*
-* [AWS releases forked Elasticsearch code. Announces new name: OpenSearch](https://aws.amazon.com/blogs/opensource/introducing-opensearch/)
   * *Published on 12/04/2021*
 * [Use console.log() like a pro (2020)](https://markodenic.com/use-console-log-like-a-pro/)
   * *Published on 12/04/2021*
