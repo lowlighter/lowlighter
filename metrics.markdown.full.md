@@ -27,6 +27,7 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* #️⃣ Closed [#226 Cannot read property &#39;split&#39; of undefined](https://github.com/lowlighter/metrics/issues/226) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#227 Improve token error msg](https://github.com/lowlighter/metrics/pull/227) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 1 file changed `++8 --1`
 * 🔃 Opened [#227 Improve token error msg](https://github.com/lowlighter/metrics/pull/227) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -36,8 +37,6 @@ ___
 * ⏺️ Created new branch `feat-better-token-error-msg` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * #️⃣ Closed [#221 Organisation count is 0](https://github.com/lowlighter/metrics/issues/221) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * ⏺️ Created new branch `feat-std-log-off-level` in [lowlighter/deno_std](https://github.com/lowlighter/deno_std)
-* 🔃 Opened [#849 fix(std/testing): equals does not differentiate undefined/absent keys](https://github.com/denoland/deno_std/pull/849) in [denoland/deno_std](https://github.com/denoland/deno_std)
-  * 2 files changed `++6 --0`
 
 
 ___
@@ -82,14 +81,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [What was the point of [ “x$var” = “xval” ]?](https://www.vidarholen.net/contents/blog/?p=1035)
+  * *Published on 12/04/2021*
+* [When real world mapping meets Tolkien](https://www.ordnancesurvey.co.uk/newsroom/blog/real-world-mapping-meets-tolkien)
+  * *Published on 11/04/2021*
+* [Traversing nested data-structures in various languages](https://github.com/josevalim/nested-data-structure-traversal)
+  * *Published on 12/04/2021*
 * [MLJ.jl: A Julia package for composable machine learning](https://alan-turing-institute.github.io/MLJ.jl/dev/#Key-features)
   * *Published on 11/04/2021*
-* [MiSTer, an open-source FPGA gaming project](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
-  * *Published on 11/04/2021*
-* [std::unique_ptr implementation backed by Ethereum NFTs](https://github.com/zhuowei/nft_ptr)
-  * *Published on 11/04/2021*
-* [Creating a minimalist blog with Jekyll Now](https://vdf.dev/blog/Creating-minimalist-blog-with-Jekyll-now/)
-  * *Published on 12/04/2021*
 
 
 ___
