@@ -81,14 +81,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Microsoft buys Nuance for nearly $20B](https://www.axios.com/microsoft-readies-deal-frenzy-bbc807a2-fd5b-48a7-99d1-cf06d0a41547.html)
+  * *Published on 12/04/2021*
+* [Yuri Gagarin: Sixty years since the first man went into space [video]](https://www.bbc.co.uk/news/av/science-environment-56690949)
+  * *Published on 12/04/2021*
 * [What was the point of [ “x$var” = “xval” ]?](https://www.vidarholen.net/contents/blog/?p=1035)
   * *Published on 12/04/2021*
-* [When real world mapping meets Tolkien](https://www.ordnancesurvey.co.uk/newsroom/blog/real-world-mapping-meets-tolkien)
-  * *Published on 11/04/2021*
-* [Traversing nested data-structures in various languages](https://github.com/josevalim/nested-data-structure-traversal)
+* [Mugo, a toy compiler for a subset of Go that can compile itself](https://benhoyt.com/writings/mugo/)
   * *Published on 12/04/2021*
-* [MLJ.jl: A Julia package for composable machine learning](https://alan-turing-institute.github.io/MLJ.jl/dev/#Key-features)
-  * *Published on 11/04/2021*
 
 
 ___
