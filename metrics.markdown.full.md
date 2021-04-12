@@ -27,6 +27,7 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* ⏺️ Created new branch `feat-metrics-insights` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * #️⃣ Closed [#226 Cannot read property &#39;split&#39; of undefined](https://github.com/lowlighter/metrics/issues/226) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#227 Improve token error msg](https://github.com/lowlighter/metrics/pull/227) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 1 file changed `++8 --1`
@@ -36,7 +37,6 @@ ___
   * 2 files changed `++3 --3`
 * ⏺️ Created new branch `feat-better-token-error-msg` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * #️⃣ Closed [#221 Organisation count is 0](https://github.com/lowlighter/metrics/issues/221) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* ⏺️ Created new branch `feat-std-log-off-level` in [lowlighter/deno_std](https://github.com/lowlighter/deno_std)
 
 
 ___
@@ -81,28 +81,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [How People Get Rich Now](http://paulgraham.com/richnow.html)
+  * *Published on 12/04/2021*
 * [Microsoft buys Nuance for nearly $20B](https://www.axios.com/microsoft-readies-deal-frenzy-bbc807a2-fd5b-48a7-99d1-cf06d0a41547.html)
   * *Published on 12/04/2021*
-* [Yuri Gagarin: Sixty years since the first man went into space [video]](https://www.bbc.co.uk/news/av/science-environment-56690949)
+* [AWS releases forked Elasticsearch code. Announces new name: OpenSearch](https://aws.amazon.com/blogs/opensource/introducing-opensearch/)
   * *Published on 12/04/2021*
-* [What was the point of [ “x$var” = “xval” ]?](https://www.vidarholen.net/contents/blog/?p=1035)
-  * *Published on 12/04/2021*
-* [Mugo, a toy compiler for a subset of Go that can compile itself](https://benhoyt.com/writings/mugo/)
+* [Use console.log() like a pro (2020)](https://markodenic.com/use-console-log-like-a-pro/)
   * *Published on 12/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> Check out what's coming next for GitHub Actions, including manual approvals in workflows and more in this month's updates to the GitHub public roadmap. 
+>
+> <a href="GitHub"><img src="https://repository-images.githubusercontent.com/251747948/e493f800-9845-11eb-9cd6-3976c0d360e0" alt="github/roadmap" height="200"></a>
+>
+> *18:00 on 12/04/2021*
+
 > RT <span class="mention">@githubOCTO</span>: 📈🎨🧠 We're hosting <span class="mention">@mmeckf</span>, CEO of <span class="mention">@observablehq</span>, on the next episode of the OCTO Speaker Series! She'll be talking about da…
 >
 > *21:09 on 09/04/2021*
-
-> Check out our latest Availability Report with updates on GitHub status over the past month.<br/><br/>
->
-> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2019/03/BlogHeaders_Aligned_ENGINEERING_x2_v3.png?fit=2016%2C1204" alt="GitHub Availability Report: March 2021 - The GitHub Blog" height="200"></a>
->
-> *19:07 on 07/04/2021*
 
 
 
