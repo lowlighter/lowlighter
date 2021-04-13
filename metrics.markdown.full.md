@@ -27,6 +27,9 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Opened [#233 Improve UX on web instances](https://github.com/lowlighter/metrics/pull/233) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 6 files changed `++148 --57`
+* ⏺️ Created new branch `feat-web-better-ux` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#231 Add GitHub community support plugin](https://github.com/lowlighter/metrics/pull/231) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 6 files changed `++167 --0`
 * 🔃 Opened [#231 Add GitHub community support plugin](https://github.com/lowlighter/metrics/pull/231) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -36,9 +39,6 @@ ___
   * 10 files changed `++509 --268`
 * 🔃 Opened [#230 Add achievements plugin support for organization account](https://github.com/lowlighter/metrics/pull/230) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 10 files changed `++509 --268`
-* ⏺️ Created new branch `feat-achievements-orgs` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#228 Introducing metrics insights!](https://github.com/lowlighter/metrics/pull/228) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 11 files changed `++886 --14`
 
 
 ___
@@ -83,13 +83,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Deno 1.9](https://deno.com/blog/v1.9)
+  * *Published on 13/04/2021*
 * [System76 Developing “Cosmic” Desktop Environment](https://blog.system76.com/post/648371526931038208/cosmic-to-arrive-in-june-release-of-popos-2104)
   * *Published on 13/04/2021*
-* [FreeBSD 13 Released](https://www.freebsd.org/releases/13.0R/announce/)
+* [Pass: The standard Unix password manager](https://www.passwordstore.org/)
   * *Published on 13/04/2021*
-* [Deno 1.9 - native http2, blob URL, import completion and huge performance boost](https://deno.com/blog/v1.9)
-  * *Published on 13/04/2021*
-* [Room temperature superconductivity at 1 ATM for 7 days](https://arxiv.org/abs/2104.05662)
+* [1Password Secrets Automation](https://blog.1password.com/introducing-secrets-automation/)
   * *Published on 13/04/2021*
 
 
