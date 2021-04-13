@@ -280,6 +280,20 @@ jobs:
           plugin_gists: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
+          
+      # ======================================================================================
+      # 🗨️ GitHub Community Support
+
+      # GitHub community support statistics
+      - name: 🗨️ GitHub Community Support
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.support.svg
+          token: NOT_NEEDED
+          plugin_support: yes
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 🌇 GitHub Skyline 3D calendar
