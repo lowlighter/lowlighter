@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `28` repositories and made `1393` commits.
+I contributed to `28` repositories and made `1399` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -27,6 +27,11 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#231 Add GitHub community support plugin](https://github.com/lowlighter/metrics/pull/231) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 6 files changed `++167 --0`
+* 🔃 Opened [#231 Add GitHub community support plugin](https://github.com/lowlighter/metrics/pull/231) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 6 files changed `++167 --0`
+* ⏺️ Created new branch `feat-plugin-support` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#230 Add achievements plugin support for organization account](https://github.com/lowlighter/metrics/pull/230) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 10 files changed `++509 --268`
 * 🔃 Opened [#230 Add achievements plugin support for organization account](https://github.com/lowlighter/metrics/pull/230) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -34,10 +39,6 @@ ___
 * ⏺️ Created new branch `feat-achievements-orgs` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#228 Introducing metrics insights!](https://github.com/lowlighter/metrics/pull/228) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 11 files changed `++886 --14`
-* 🔃 Opened [#228 Introducing metrics insights!](https://github.com/lowlighter/metrics/pull/228) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 10 files changed `++878 --13`
-* ⏺️ Created new branch `feat-metrics-insights` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* #️⃣ Closed [#226 Cannot read property &#39;split&#39; of undefined](https://github.com/lowlighter/metrics/issues/226) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 
 ___
@@ -82,30 +83,30 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [The True Meaning of Technical Debt](https://refactoring.fm/p/the-true-meaning-of-technical-debt)
+* [Book Review: “A Thousand Brains” by Jeff Hawkins](https://www.lesswrong.com/posts/ixZLTmFfnKRbaStA5/book-review-a-thousand-brains-by-jeff-hawkins)
   * *Published on 13/04/2021*
-* [Show HN: Deephn.org full-text search 30M Hacker News posts AND linked web pages](https://deephn.org)
+* [Figma: Changes to free plan after April 21, 2021](https://help.figma.com/hc/en-us/articles/360061769534)
   * *Published on 13/04/2021*
-* [Discord to block all access to NSFW servers via iOS app](https://support.discord.com/hc/en-us/articles/1500005389362-NSFW-Server-Designation)
+* [Marbles (2016)](http://www.erasmatazz.com/library/life-in-general/marbles.html)
   * *Published on 13/04/2021*
-* [The French armed forces are planning for high-intensity war](https://www.economist.com/europe/2021/03/31/the-french-armed-forces-are-planning-for-high-intensity-war)
+* [1Password Secrets Automation](https://blog.1password.com/introducing-secrets-automation/)
   * *Published on 13/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> We sat down with <span class="mention">@_eliperkins</span> to see the new push notifications, scheduling, and releases in action on GitHub Mobile!<br/><br/>Checkout the full conversation. <a href="https://t.co/iIC0AAqrZ6" class="link">youtube.com/watch?v=9LpSKQ…</a> <br/><a href="https://t.co/NOvmkcaPWi" class="link">pic.twitter.com/NOvmkcaPWi</a>
+>
+> <a href=""><img src="https://pbs.twimg.com/media/Ey3oDPIXMAEd-c6.jpg" alt="" height="200"></a>
+>
+> *17:00 on 13/04/2021*
+
 > For Michał <span class="mention">@m_gol</span> Gołębiowski-Owczarek, being part of <span class="mention">@jquery</span> is like being part of history. Read how he helped the library get to where it is today: 
 >
 > <a href="GitHub"><img src="https://github.githubassets.com/images/modules/site/readme/michal-golebiowski-owczarek/michal-golebiowski-owczarek-social.jpg" alt="Michał Gołębiowski-Owczarek · The ReadME Project" height="200"></a>
 >
 > *09:00 on 13/04/2021*
-
-> Check out what's coming next for GitHub Actions, including manual approvals in workflows and more in this month's updates to the GitHub public roadmap. 
->
-> <a href="GitHub"><img src="https://repository-images.githubusercontent.com/251747948/e493f800-9845-11eb-9cd6-3976c0d360e0" alt="github/roadmap" height="200"></a>
->
-> *18:00 on 12/04/2021*
 
 
 
