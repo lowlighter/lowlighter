@@ -83,13 +83,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [CEO: Intel in talks to produce chips for automakers within six to nine months](https://www.reuters.com/article/us-usa-semiconductors-idUSKBN2BZ2C4)
+  * *Published on 12/04/2021*
+* [Chrome zero-day released on GitHub (fixed on V8 but still works on latest)](https://github.com/r4j0x00/exploits/commit/7ba55e5ab034d05877498e83f144e187d3ddb160)
+  * *Published on 12/04/2021*
+* [Let Us Now Praise Tiny Ants](https://www.nytimes.com/2021/04/05/science/ants-wilson-photography-niga-rice.html)
+  * *Published on 13/04/2021*
 * [OpenSearch: AWS fork of Elasticsearch and Kibana](https://aws.amazon.com/blogs/opensource/introducing-opensearch/)
-  * *Published on 12/04/2021*
-* [Building React and Vue Support for Tailwind UI](https://blog.tailwindcss.com/building-react-and-vue-support-for-tailwind-ui)
-  * *Published on 12/04/2021*
-* [Microsoft buys Nuance for nearly $20B](https://www.axios.com/microsoft-readies-deal-frenzy-bbc807a2-fd5b-48a7-99d1-cf06d0a41547.html)
-  * *Published on 12/04/2021*
-* [Use console.log() like a pro (2020)](https://markodenic.com/use-console-log-like-a-pro/)
   * *Published on 12/04/2021*
 
 
