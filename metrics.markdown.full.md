@@ -83,12 +83,12 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [A Wikipedia editor&#39;s long-running campaign to discredit anti-war campaigners](https://wikipedia.fivefilters.org/)
+* [Kaboom – JavaScript game programming library and environment](https://replit.com/kaboom)
+  * *Published on 13/04/2021*
+* [Vincent Chan: Inside PayPal (2010)](http://paulgraham.com/paypal.html)
   * *Published on 13/04/2021*
 * [Gitlet.js – Git implemented in 1k lines of JavaScript (2015)](http://gitlet.maryrosecook.com/docs/gitlet.html)
   * *Published on 13/04/2021*
-* [CEO: Intel in talks to produce chips for automakers within six to nine months](https://www.reuters.com/article/us-usa-semiconductors-idUSKBN2BZ2C4)
-  * *Published on 12/04/2021*
 * [Chrome zero-day released on GitHub (fixed on V8 but still works on latest)](https://github.com/r4j0x00/exploits/commit/7ba55e5ab034d05877498e83f144e187d3ddb160)
   * *Published on 12/04/2021*
 
@@ -96,15 +96,17 @@ ___
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> For Michał <span class="mention">@m_gol</span> Gołębiowski-Owczarek, being part of <span class="mention">@jquery</span> is like being part of history. Read how he helped the library get to where it is today: 
+>
+> <a href="GitHub"><img src="https://github.githubassets.com/images/modules/site/readme/michal-golebiowski-owczarek/michal-golebiowski-owczarek-social.jpg" alt="Michał Gołębiowski-Owczarek · The ReadME Project" height="200"></a>
+>
+> *09:00 on 13/04/2021*
+
 > Check out what's coming next for GitHub Actions, including manual approvals in workflows and more in this month's updates to the GitHub public roadmap. 
 >
 > <a href="GitHub"><img src="https://repository-images.githubusercontent.com/251747948/e493f800-9845-11eb-9cd6-3976c0d360e0" alt="github/roadmap" height="200"></a>
 >
 > *18:00 on 12/04/2021*
-
-> RT <span class="mention">@githubOCTO</span>: 📈🎨🧠 We're hosting <span class="mention">@mmeckf</span>, CEO of <span class="mention">@observablehq</span>, on the next episode of the OCTO Speaker Series! She'll be talking about da…
->
-> *21:09 on 09/04/2021*
 
 
 
