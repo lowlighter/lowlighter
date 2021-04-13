@@ -83,13 +83,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [A Wikipedia editor&#39;s long-running campaign to discredit anti-war campaigners](https://wikipedia.fivefilters.org/)
+  * *Published on 13/04/2021*
+* [Gitlet.js – Git implemented in 1k lines of JavaScript (2015)](http://gitlet.maryrosecook.com/docs/gitlet.html)
+  * *Published on 13/04/2021*
 * [CEO: Intel in talks to produce chips for automakers within six to nine months](https://www.reuters.com/article/us-usa-semiconductors-idUSKBN2BZ2C4)
   * *Published on 12/04/2021*
 * [Chrome zero-day released on GitHub (fixed on V8 but still works on latest)](https://github.com/r4j0x00/exploits/commit/7ba55e5ab034d05877498e83f144e187d3ddb160)
-  * *Published on 12/04/2021*
-* [Let Us Now Praise Tiny Ants](https://www.nytimes.com/2021/04/05/science/ants-wilson-photography-niga-rice.html)
-  * *Published on 13/04/2021*
-* [OpenSearch: AWS fork of Elasticsearch and Kibana](https://aws.amazon.com/blogs/opensource/introducing-opensearch/)
   * *Published on 12/04/2021*
 
 
