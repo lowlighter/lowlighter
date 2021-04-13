@@ -282,10 +282,10 @@ jobs:
           output_action: pull-request
           
       # ======================================================================================
-      # 🗨️ GitHub Community Support
+      # 💭 GitHub Community Support
 
       # GitHub community support statistics
-      - name: 🗨️ GitHub Community Support
+      - name: 💭 GitHub Community Support
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
