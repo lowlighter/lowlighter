@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `28` repositories and made `1399` commits.
+I contributed to `28` repositories and made `1401` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -83,30 +83,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Book Review: “A Thousand Brains” by Jeff Hawkins](https://www.lesswrong.com/posts/ixZLTmFfnKRbaStA5/book-review-a-thousand-brains-by-jeff-hawkins)
+* [System76 Developing “Cosmic” Desktop Environment](https://blog.system76.com/post/648371526931038208/cosmic-to-arrive-in-june-release-of-popos-2104)
   * *Published on 13/04/2021*
-* [Figma: Changes to free plan after April 21, 2021](https://help.figma.com/hc/en-us/articles/360061769534)
+* [FreeBSD 13 Released](https://www.freebsd.org/releases/13.0R/announce/)
   * *Published on 13/04/2021*
-* [Marbles (2016)](http://www.erasmatazz.com/library/life-in-general/marbles.html)
+* [Deno 1.9 - native http2, blob URL, import completion and huge performance boost](https://deno.com/blog/v1.9)
   * *Published on 13/04/2021*
-* [1Password Secrets Automation](https://blog.1password.com/introducing-secrets-automation/)
+* [Room temperature superconductivity at 1 ATM for 7 days](https://arxiv.org/abs/2104.05662)
   * *Published on 13/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> We sat down with <span class="mention">@_eliperkins</span> to see the new push notifications, scheduling, and releases in action on GitHub Mobile!<br/><br/>Checkout the full conversation. <a href="https://t.co/iIC0AAqrZ6" class="link">youtube.com/watch?v=9LpSKQ…</a> <br/><a href="https://t.co/NOvmkcaPWi" class="link">pic.twitter.com/NOvmkcaPWi</a>
+> RT <span class="mention">@GitHubEnt</span>: GitHub Demo Days are back this Friday, and this season we'll be deep diving into OSS, collab, and IaC. First: An intro to op…
 >
-> <a href=""><img src="https://pbs.twimg.com/media/Ey3oDPIXMAEd-c6.jpg" alt="" height="200"></a>
->
-> *17:00 on 13/04/2021*
+> *20:19 on 13/04/2021*
 
-> For Michał <span class="mention">@m_gol</span> Gołębiowski-Owczarek, being part of <span class="mention">@jquery</span> is like being part of history. Read how he helped the library get to where it is today: 
+> How do you apply the principle of least privilege when you're integrating external systems with GitHub Actions? Check out some tips! <br/><br/>
 >
-> <a href="GitHub"><img src="https://github.githubassets.com/images/modules/site/readme/michal-golebiowski-owczarek/michal-golebiowski-owczarek-social.jpg" alt="Michał Gołębiowski-Owczarek · The ReadME Project" height="200"></a>
+> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2019/03/product-social.png?fit=1201%2C630" alt="Implementing least privilege for secrets in GitHub Actions - The GitHub Blog" height="200"></a>
 >
-> *09:00 on 13/04/2021*
+> *19:16 on 13/04/2021*
 
 
 
