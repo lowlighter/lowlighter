@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `28` repositories and made `1402` commits.
+I contributed to `28` repositories and made `1403` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -87,10 +87,10 @@ ___
   * *Published on 13/04/2021*
 * [Deno 1.9](https://deno.com/blog/v1.9)
   * *Published on 13/04/2021*
-* [Show HN: RentMyCPU – An open-source computational network](https://github.com/franklbt/RentMyCPU)
+* [Download the FCC Speed Test App](https://www.fcc.gov/BroadbandData/consumers#speed-test)
   * *Published on 14/04/2021*
-* [The most important statistical ideas of the past 50 years](https://fermatslibrary.com/s/what-are-the-most-important-statistical-ideas-of-the-past-50-years)
-  * *Published on 13/04/2021*
+* [Bitcoin Is a ‘Boon for Surveillance’, Says Former CIA Director](https://decrypt.co/66411/cia-bitcoin-surveillance)
+  * *Published on 14/04/2021*
 
 
 ___
