@@ -1168,9 +1168,9 @@
                     </div>
                     <div class="entry">
                         <span class="value">
-                            7
+                            5
                         </span>
-                        <div class="bar" style="height: 43.75px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        <div class="bar" style="height: 31.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         19
                     </div>
                     <div class="entry">
@@ -1244,9 +1244,9 @@
                         </div>
                         <div class="entry">
                             <span class="value">
-                                7
+                                5
                             </span>
-                            <div class="bar" style="height: 35px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Fri
                         </div>
                         <div class="entry">
@@ -1267,7 +1267,7 @@
                             <span class="name">
                                 JavaScript
                             </span>
-                            <div class="bar" style="width: 59.864%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 60.00800000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">
                                 75%
                             </span>
@@ -1276,25 +1276,25 @@
                             <span class="name">
                                 HTML
                             </span>
-                            <div class="bar" style="width: 12.408%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 12.648000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 16%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
-                                EJS
+                                CSS
                             </span>
-                            <div class="bar" style="width: 3.504%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 3.104%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 4%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
-                                CSS
+                                EJS
                             </span>
-                            <div class="bar" style="width: 3.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 3.056%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 4%
                             </span>
@@ -1303,7 +1303,7 @@
                             <span class="name">
                                 TypeScript
                             </span>
-                            <div class="bar" style="width: 1.16%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.1840000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 1%
                             </span>
