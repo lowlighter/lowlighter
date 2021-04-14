@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `28` repositories and made `1410` commits.
+I contributed to `28` repositories and made `1411` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -27,17 +27,17 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Opened [#855 feat(http): allow custom http codes along with custom response text](https://github.com/denoland/deno_std/pull/855) in [denoland/deno_std](https://github.com/denoland/deno_std)
+  * 3 files changed `++9 --35`
+* ⏺️ Created new branch `feat-http-allow-custom-error-codes` in [lowlighter/deno_std](https://github.com/lowlighter/deno_std)
+* 🔃 Opened [#854 feat(path/glob): add caseInsensitive option](https://github.com/denoland/deno_std/pull/854) in [denoland/deno_std](https://github.com/denoland/deno_std)
+  * 3 files changed `++26 --5`
+* ⏺️ Created new branch `feat-path-glob-case-insensitive` in [lowlighter/deno_std](https://github.com/lowlighter/deno_std)
+* 🔃 Closed [#258 Auto-generated metrics for run #748565891](https://github.com/lowlighter/lowlighter/pull/258) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
+  * 9 files changed `++50 --58`
 * 🍽️ Forked [denoland/deno_std](https://github.com/denoland/deno_std)
 * 🔃 Merged [#233 Improve UX on web instances](https://github.com/lowlighter/metrics/pull/233) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 6 files changed `++148 --57`
-* 🔃 Opened [#233 Improve UX on web instances](https://github.com/lowlighter/metrics/pull/233) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 6 files changed `++148 --57`
-* ⏺️ Created new branch `feat-web-better-ux` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#231 Add GitHub community support plugin](https://github.com/lowlighter/metrics/pull/231) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 6 files changed `++167 --0`
-* 🔃 Opened [#231 Add GitHub community support plugin](https://github.com/lowlighter/metrics/pull/231) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 6 files changed `++167 --0`
-* ⏺️ Created new branch `feat-plugin-support` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 
 ___
@@ -82,28 +82,30 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Show HN: Lofi.cafe](https://lofi.cafe)
-  * *Published on 14/04/2021*
 * [Coinbase from YC to IPO](https://blog.ycombinator.com/coinbase-from-yc-to-ipo/)
   * *Published on 14/04/2021*
-* [Europe seeks to limit use of high-risk AI in society](https://www.bbc.com/news/technology-56745730)
+* [An RFC that adds support for Rust to the Linux kernel](https://lkml.org/lkml/2021/4/14/1023)
   * *Published on 14/04/2021*
-* [The first 18 months of a startup](https://twitter.com/Suhail/status/1382351985584721926)
+* [Show HN: Lofi.cafe](https://lofi.cafe)
+  * *Published on 14/04/2021*
+* [A new twist on using ‘personalized’ stem cells for studying dementia](https://singularityhub.com/2021/04/13/a-massive-new-gene-editing-project-is-out-to-crush-alzheimers/)
   * *Published on 14/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> When Evan <span class="mention">@youyuxi</span> You built <span class="mention">@vuejs</span>, he realized his preferences overlapped with many others, driving him to make it even better. Vue is now fully powered by the community that inspired him. Read his story: 
+>
+> <a href="GitHub"><img src="https://github.githubassets.com/images/modules/site/readme/evan-you/evan-you-social.jpg" alt="Evan You · The ReadME Project" height="200"></a>
+>
+> *22:00 on 14/04/2021*
+
 > If you’re building a <span class="mention">@reactjs</span> application, <span class="mention">@tannerlinsley</span> wants the first three things you install to be React, React Dom, and React Query. See why and read the rest of his story: 
 >
 > <a href="GitHub"><img src="https://github.githubassets.com/images/modules/site/readme/tanner-linsley/tanner-linsley-social.jpg" alt="Tanner Linsley · The ReadME Project" height="200"></a>
 >
 > *18:00 on 14/04/2021*
-
-> RT <span class="mention">@GitHubEnt</span>: GitHub Demo Days are back this Friday, and this season we'll be deep diving into OSS, collab, and IaC. First: An intro to op…
->
-> *20:19 on 13/04/2021*
 
 
 
