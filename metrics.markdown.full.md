@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `28` repositories and made `1403` commits.
+I contributed to `28` repositories and made `1407` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -82,13 +82,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Yamauchi No.10 Family Office](https://y-n10.com/)
+* [Show HN: Lofi.cafe](https://lofi.cafe)
   * *Published on 14/04/2021*
-* [Employee refuses to download app that monitors location, says it got her fired](https://www.cbc.ca/news/gopublic/tattleware-privacy-employment-1.5978337?__vfz=medium%3Dsharebar)
-  * *Published on 14/04/2021*
-* [Is WebAssembly magic performance pixie dust?](https://surma.dev/things/js-to-asc/)
+* [Logica: Modern Logic Programming](https://opensource.googleblog.com/2021/04/logica-organizing-your-data-queries.html)
   * *Published on 14/04/2021*
 * [My simple GitHub project went Viral](https://gourav.io/blog/my-simple-github-project-went-viral)
+  * *Published on 14/04/2021*
+* [Once on the Brink of Eradication, Syphilis Is Raging Again](https://www.npr.org/sections/health-shots/2021/04/14/986997576/once-on-the-brink-of-eradication-syphilis-is-raging-again)
   * *Published on 14/04/2021*
 
 
