@@ -27,6 +27,7 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🍽️ Forked [denoland/deno_std](https://github.com/denoland/deno_std)
 * 🔃 Merged [#233 Improve UX on web instances](https://github.com/lowlighter/metrics/pull/233) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 6 files changed `++148 --57`
 * 🔃 Opened [#233 Improve UX on web instances](https://github.com/lowlighter/metrics/pull/233) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -37,8 +38,6 @@ ___
 * 🔃 Opened [#231 Add GitHub community support plugin](https://github.com/lowlighter/metrics/pull/231) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 6 files changed `++167 --0`
 * ⏺️ Created new branch `feat-plugin-support` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#230 Add achievements plugin support for organization account](https://github.com/lowlighter/metrics/pull/230) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 10 files changed `++509 --268`
 
 
 ___
@@ -83,13 +82,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Effort to disrupt exploitation of Microsoft Exchange Server vulnerabilities](https://www.justice.gov/usao-sdtx/pr/justice-department-announces-court-authorized-effort-disrupt-exploitation-microsoft)
-  * *Published on 13/04/2021*
-* [Deno 1.9](https://deno.com/blog/v1.9)
-  * *Published on 13/04/2021*
-* [Download the FCC Speed Test App](https://www.fcc.gov/BroadbandData/consumers#speed-test)
+* [Yamauchi No.10 Family Office](https://y-n10.com/)
   * *Published on 14/04/2021*
-* [Bitcoin Is a ‘Boon for Surveillance’, Says Former CIA Director](https://decrypt.co/66411/cia-bitcoin-surveillance)
+* [Employee refuses to download app that monitors location, says it got her fired](https://www.cbc.ca/news/gopublic/tattleware-privacy-employment-1.5978337?__vfz=medium%3Dsharebar)
+  * *Published on 14/04/2021*
+* [Is WebAssembly magic performance pixie dust?](https://surma.dev/things/js-to-asc/)
+  * *Published on 14/04/2021*
+* [My simple GitHub project went Viral](https://gourav.io/blog/my-simple-github-project-went-viral)
   * *Published on 14/04/2021*
 
 
