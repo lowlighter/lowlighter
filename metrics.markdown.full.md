@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `28` repositories and made `1401` commits.
+I contributed to `28` repositories and made `1402` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -27,6 +27,8 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#233 Improve UX on web instances](https://github.com/lowlighter/metrics/pull/233) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 6 files changed `++148 --57`
 * 🔃 Opened [#233 Improve UX on web instances](https://github.com/lowlighter/metrics/pull/233) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 6 files changed `++148 --57`
 * ⏺️ Created new branch `feat-web-better-ux` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -36,8 +38,6 @@ ___
   * 6 files changed `++167 --0`
 * ⏺️ Created new branch `feat-plugin-support` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#230 Add achievements plugin support for organization account](https://github.com/lowlighter/metrics/pull/230) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 10 files changed `++509 --268`
-* 🔃 Opened [#230 Add achievements plugin support for organization account](https://github.com/lowlighter/metrics/pull/230) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 10 files changed `++509 --268`
 
 
@@ -83,13 +83,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Effort to disrupt exploitation of Microsoft Exchange Server vulnerabilities](https://www.justice.gov/usao-sdtx/pr/justice-department-announces-court-authorized-effort-disrupt-exploitation-microsoft)
+  * *Published on 13/04/2021*
 * [Deno 1.9](https://deno.com/blog/v1.9)
   * *Published on 13/04/2021*
-* [System76 Developing “Cosmic” Desktop Environment](https://blog.system76.com/post/648371526931038208/cosmic-to-arrive-in-june-release-of-popos-2104)
-  * *Published on 13/04/2021*
-* [Pass: The standard Unix password manager](https://www.passwordstore.org/)
-  * *Published on 13/04/2021*
-* [1Password Secrets Automation](https://blog.1password.com/introducing-secrets-automation/)
+* [Show HN: RentMyCPU – An open-source computational network](https://github.com/franklbt/RentMyCPU)
+  * *Published on 14/04/2021*
+* [The most important statistical ideas of the past 50 years](https://fermatslibrary.com/s/what-are-the-most-important-statistical-ideas-of-the-past-50-years)
   * *Published on 13/04/2021*
 
 
