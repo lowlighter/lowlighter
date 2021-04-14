@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `28` repositories and made `1403` commits.
+I contributed to `28` repositories and made `1410` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -82,28 +82,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Yamauchi No.10 Family Office](https://y-n10.com/)
+* [Show HN: Lofi.cafe](https://lofi.cafe)
   * *Published on 14/04/2021*
-* [Employee refuses to download app that monitors location, says it got her fired](https://www.cbc.ca/news/gopublic/tattleware-privacy-employment-1.5978337?__vfz=medium%3Dsharebar)
+* [Coinbase from YC to IPO](https://blog.ycombinator.com/coinbase-from-yc-to-ipo/)
   * *Published on 14/04/2021*
-* [Is WebAssembly magic performance pixie dust?](https://surma.dev/things/js-to-asc/)
+* [Europe seeks to limit use of high-risk AI in society](https://www.bbc.com/news/technology-56745730)
   * *Published on 14/04/2021*
-* [My simple GitHub project went Viral](https://gourav.io/blog/my-simple-github-project-went-viral)
+* [The first 18 months of a startup](https://twitter.com/Suhail/status/1382351985584721926)
   * *Published on 14/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> If you’re building a <span class="mention">@reactjs</span> application, <span class="mention">@tannerlinsley</span> wants the first three things you install to be React, React Dom, and React Query. See why and read the rest of his story: 
+>
+> <a href="GitHub"><img src="https://github.githubassets.com/images/modules/site/readme/tanner-linsley/tanner-linsley-social.jpg" alt="Tanner Linsley · The ReadME Project" height="200"></a>
+>
+> *18:00 on 14/04/2021*
+
 > RT <span class="mention">@GitHubEnt</span>: GitHub Demo Days are back this Friday, and this season we'll be deep diving into OSS, collab, and IaC. First: An intro to op…
 >
 > *20:19 on 13/04/2021*
-
-> How do you apply the principle of least privilege when you're integrating external systems with GitHub Actions? Check out some tips! <br/><br/>
->
-> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2019/03/product-social.png?fit=1201%2C630" alt="Implementing least privilege for secrets in GitHub Actions - The GitHub Blog" height="200"></a>
->
-> *19:16 on 13/04/2021*
 
 
 
