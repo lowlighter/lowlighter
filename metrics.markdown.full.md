@@ -82,30 +82,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Time flies in Google Earth’s biggest update in years](https://blog.google/products/earth/timelapse-in-google-earth/)
+  * *Published on 15/04/2021*
+* [Unusual Stock Trading by Whales in US Congress](https://unusualwhales.com/i_am_the_senate)
+  * *Published on 15/04/2021*
 * [Higher quality audio makes people sound smarter](https://tips.ariyh.com/p/good-sound-quality-smarter)
   * *Published on 15/04/2021*
-* [Cohort IDs can be collected over time to create cross-site tracking IDs](https://github.com/WICG/floc/issues/100)
-  * *Published on 15/04/2021*
-* [A New Standard for Mobile App Security](https://security.googleblog.com/2021/04/a-new-standard-for-mobile-app-security.html)
-  * *Published on 15/04/2021*
-* [Reuters website goes behind paywall in new strategy](https://www.reuters.com/article/us-thomson-reuters-professional-website/reuters-website-goes-behind-paywall-in-new-strategy-idUSKBN2C21QU)
+* [Golem democratizes society’s access to computing power](https://blog.golemproject.net/golem-primer/)
   * *Published on 15/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> When Evan <span class="mention">@youyuxi</span> You built <span class="mention">@vuejs</span>, he realized his preferences overlapped with many others, driving him to make it even better. Vue is now fully powered by the community that inspired him. Read his story: 
+> To dig in deeper, check out <span class="mention">@nate_smith</span>'s demo of all the new things you can do with GitHub Actions from your terminal with GitHub CLI. <br/>
 >
-> <a href="GitHub"><img src="https://github.githubassets.com/images/modules/site/readme/evan-you/evan-you-social.jpg" alt="Evan You · The ReadME Project" height="200"></a>
+> <a href="YouTube"><img src="https://i.ytimg.com/vi/UM73gUIoWmE/maxresdefault.jpg" alt="gh + actions demo" height="200"></a>
 >
-> *22:00 on 14/04/2021*
+> *17:50 on 15/04/2021*
 
-> If you’re building a <span class="mention">@reactjs</span> application, <span class="mention">@tannerlinsley</span> wants the first three things you install to be React, React Dom, and React Query. See why and read the rest of his story: 
+> GitHub Actions, meet the command line. GitHub CLI 1.9 unlocks the power of GitHub Actions in your terminal. Rerun jobs when builds fail, list and view your workflows and runs, trigger a workflow, and even watch runs in progress! 🏃‍♀️👀<br/><a href="https://t.co/L4h3MlW482" class="link">github.blog/2021-04-15-wor…</a> <br/><a href="https://t.co/PjDGnUg3Vv" class="link">pic.twitter.com/PjDGnUg3Vv</a>
 >
-> <a href="GitHub"><img src="https://github.githubassets.com/images/modules/site/readme/tanner-linsley/tanner-linsley-social.jpg" alt="Tanner Linsley · The ReadME Project" height="200"></a>
->
-> *18:00 on 14/04/2021*
+> *17:49 on 15/04/2021*
 
 
 
