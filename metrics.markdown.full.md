@@ -82,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Coinbase from YC to IPO](https://blog.ycombinator.com/coinbase-from-yc-to-ipo/)
+* [Australian developers score the highest on coding tests](https://devskiller.com/it-skills-report/#Twelve)
+  * *Published on 15/04/2021*
+* [Coinbase from YC to DPO](https://blog.ycombinator.com/coinbase-from-yc-to-ipo/)
   * *Published on 14/04/2021*
-* [Show HN: Lofi.cafe](https://lofi.cafe)
-  * *Published on 14/04/2021*
-* [Python 3 Types in the Wild: A Tale of Two Type Systems [pdf]](https://www.cs.rpi.edu/~milanova/docs/dls2020.pdf)
+* [Don&#39;t Pick Up: Missed calls in India](https://restofworld.org/2021/the-rise-and-fall-of-missed-calls-in-india/)
+  * *Published on 15/04/2021*
+* [History of Logo (2020) [pdf]](https://escholarship.org/content/qt1623m1p3/qt1623m1p3.pdf)
   * *Published on 13/04/2021*
-* [The TTY Demystified (2008)](http://www.linusakesson.net/programming/tty/index.php)
-  * *Published on 14/04/2021*
 
 
 ___
