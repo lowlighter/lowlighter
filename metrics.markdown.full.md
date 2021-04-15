@@ -84,11 +84,11 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [Coinbase from YC to IPO](https://blog.ycombinator.com/coinbase-from-yc-to-ipo/)
   * *Published on 14/04/2021*
-* [An RFC that adds support for Rust to the Linux kernel](https://lkml.org/lkml/2021/4/14/1023)
-  * *Published on 14/04/2021*
 * [Show HN: Lofi.cafe](https://lofi.cafe)
   * *Published on 14/04/2021*
-* [A new twist on using ‘personalized’ stem cells for studying dementia](https://singularityhub.com/2021/04/13/a-massive-new-gene-editing-project-is-out-to-crush-alzheimers/)
+* [Python 3 Types in the Wild: A Tale of Two Type Systems [pdf]](https://www.cs.rpi.edu/~milanova/docs/dls2020.pdf)
+  * *Published on 13/04/2021*
+* [The TTY Demystified (2008)](http://www.linusakesson.net/programming/tty/index.php)
   * *Published on 14/04/2021*
 
 
