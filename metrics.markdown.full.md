@@ -82,13 +82,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [IT companies warn in open letter: EU wants to ban encryption](https://mailbox.org/en/post/it-companies-warn-eu-plans-to-ban-encryption)
+  * *Published on 15/04/2021*
 * [Time flies in Google Earth’s biggest update in years](https://blog.google/products/earth/timelapse-in-google-earth/)
   * *Published on 15/04/2021*
-* [Unusual Stock Trading by Whales in US Congress](https://unusualwhales.com/i_am_the_senate)
+* [How I made $10k in one month from an online Vim course](https://www.slip.so/blog/how-I-made-10k-teaching-vim)
   * *Published on 15/04/2021*
-* [Higher quality audio makes people sound smarter](https://tips.ariyh.com/p/good-sound-quality-smarter)
-  * *Published on 15/04/2021*
-* [Golem democratizes society’s access to computing power](https://blog.golemproject.net/golem-primer/)
+* [TSMC sees chip shortage lasting into 2022](https://www.reuters.com/article/us-tsmc-results-idUSKBN2C20IH)
   * *Published on 15/04/2021*
 
 
