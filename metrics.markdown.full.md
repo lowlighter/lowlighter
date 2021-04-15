@@ -82,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Calendso: The open source Calendly alternative](https://calendso.com)
+* [Higher quality audio makes people sound smarter](https://tips.ariyh.com/p/good-sound-quality-smarter)
   * *Published on 15/04/2021*
-* [Don&#39;t Pick Up: Missed calls in India](https://restofworld.org/2021/the-rise-and-fall-of-missed-calls-in-india/)
+* [Cohort IDs can be collected over time to create cross-site tracking IDs](https://github.com/WICG/floc/issues/100)
   * *Published on 15/04/2021*
-* [Images of Hatha Yoga from the Joga Pradīpikā (19th Century)](https://publicdomainreview.org/collection/hatha-yoga-images-from-the-joga-pradipika)
-  * *Published on 14/04/2021*
-* [We Keep Telling the Myth of a Renaissance Golden Age and Bad Middle Ages (2020)](https://www.exurbe.com/black-death-covid-and-why-we-keep-telling-the-myth-of-a-renaissance-golden-age-and-bad-middle-ages/)
-  * *Published on 13/04/2021*
+* [A New Standard for Mobile App Security](https://security.googleblog.com/2021/04/a-new-standard-for-mobile-app-security.html)
+  * *Published on 15/04/2021*
+* [Reuters website goes behind paywall in new strategy](https://www.reuters.com/article/us-thomson-reuters-professional-website/reuters-website-goes-behind-paywall-in-new-strategy-idUSKBN2C21QU)
+  * *Published on 15/04/2021*
 
 
 ___
