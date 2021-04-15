@@ -82,13 +82,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Australian developers score the highest on coding tests](https://devskiller.com/it-skills-report/#Twelve)
+* [Calendso: The open source Calendly alternative](https://calendso.com)
   * *Published on 15/04/2021*
-* [Coinbase from YC to DPO](https://blog.ycombinator.com/coinbase-from-yc-to-ipo/)
-  * *Published on 14/04/2021*
 * [Don&#39;t Pick Up: Missed calls in India](https://restofworld.org/2021/the-rise-and-fall-of-missed-calls-in-india/)
   * *Published on 15/04/2021*
-* [History of Logo (2020) [pdf]](https://escholarship.org/content/qt1623m1p3/qt1623m1p3.pdf)
+* [Images of Hatha Yoga from the Joga Pradīpikā (19th Century)](https://publicdomainreview.org/collection/hatha-yoga-images-from-the-joga-pradipika)
+  * *Published on 14/04/2021*
+* [We Keep Telling the Myth of a Renaissance Golden Age and Bad Middle Ages (2020)](https://www.exurbe.com/black-death-covid-and-why-we-keep-telling-the-myth-of-a-renaissance-golden-age-and-bad-middle-ages/)
   * *Published on 13/04/2021*
 
 
