@@ -82,28 +82,30 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Google misled consumers about the collection and use of location data](https://www.accc.gov.au/media-release/google-misled-consumers-about-the-collection-and-use-of-location-data)
-  * *Published on 16/04/2021*
 * [Linus Torvalds on Rust support in kernel](https://lkml.org/lkml/2021/4/14/1099)
+  * *Published on 16/04/2021*
+* [First of its kind study pits psilocybin against a common antidepressant](https://www.statnews.com/2021/04/14/psilocybin-depression-psychedelics-escitalopram/)
   * *Published on 16/04/2021*
 * [My Go Executable Files Are Still Getting Larger (What&#39;s New in 2021 and Go 1.16)](https://www.cockroachlabs.com/blog/go-file-size-update/)
   * *Published on 16/04/2021*
-* [U.S. House committee approves blueprint for Big Tech crackdown](https://www.reuters.com/business/us-house-committee-approves-blueprint-big-tech-crackdown-2021-04-15/)
+* [A top audio engineer explains NPR’s signature sound (2015)](https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/)
   * *Published on 16/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> Issy <span class="mention">@issyl0</span> Long wasn’t expecting to be invited to be a maintainer for <span class="mention">@MacHomebrew</span>, but it’s one of their proudest moments. See how they got there: 
+>
+> <a href="GitHub"><img src="https://github.githubassets.com/images/modules/site/readme/issy-long/issy-long-social.jpg" alt="Issy Long · The ReadME Project" height="200"></a>
+>
+> *14:00 on 16/04/2021*
+
 > To dig in deeper, check out <span class="mention">@nate_smith</span>'s demo of all the new things you can do with GitHub Actions from your terminal with GitHub CLI. <br/>
 >
 > <a href="YouTube"><img src="https://i.ytimg.com/vi/UM73gUIoWmE/maxresdefault.jpg" alt="gh + actions demo" height="200"></a>
 >
 > *17:50 on 15/04/2021*
-
-> GitHub Actions, meet the command line. GitHub CLI 1.9 unlocks the power of GitHub Actions in your terminal. Rerun jobs when builds fail, list and view your workflows and runs, trigger a workflow, and even watch runs in progress! 🏃‍♀️👀<br/><a href="https://t.co/L4h3MlW482" class="link">github.blog/2021-04-15-wor…</a> <br/><a href="https://t.co/PjDGnUg3Vv" class="link">pic.twitter.com/PjDGnUg3Vv</a>
->
-> *17:49 on 15/04/2021*
 
 
 
