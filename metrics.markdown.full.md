@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `29` repositories and made `1418` commits.
+I contributed to `29` repositories and made `1422` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -27,6 +27,8 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#220 Prepare release v3.7](https://github.com/lowlighter/metrics/pull/220) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 3 files changed `++4 --4`
 * 🔃 Merged [#30 fix: very small typo error 😅](https://github.com/lowlighter/gracidea/pull/30) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
   * 1 file changed `++1 --1`
 * 🔍 Reviewed [#30 fix: very small typo error 😅](https://github.com/lowlighter/gracidea/pull/30) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
@@ -36,8 +38,6 @@ ___
 * 🔃 Opened [#855 feat(http): allow custom http codes along with custom response text](https://github.com/denoland/deno_std/pull/855) in [denoland/deno_std](https://github.com/denoland/deno_std)
   * 3 files changed `++9 --35`
 * ⏺️ Created new branch `feat-http-allow-custom-error-codes` in [lowlighter/deno_std](https://github.com/lowlighter/deno_std)
-* 🔃 Opened [#854 feat(path/glob): add caseInsensitive option](https://github.com/denoland/deno_std/pull/854) in [denoland/deno_std](https://github.com/denoland/deno_std)
-  * 3 files changed `++26 --5`
 
 
 ___
@@ -82,13 +82,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Facebook faces mass legal action over data leak](https://www.bbc.com/news/technology-56772772)
+  * *Published on 16/04/2021*
+* [QUIC and HTTP/3 Support Now in Firefox Nightly and Beta](https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/)
+  * *Published on 16/04/2021*
 * [Squarespace S1](https://www.sec.gov/Archives/edgar/data/1496963/000110465921051251/tm213918-6_s1.htm)
   * *Published on 16/04/2021*
-* [Kelly Criterion](https://en.wikipedia.org/wiki/Kelly_criterion)
-  * *Published on 16/04/2021*
-* [GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds](https://nvlabs.github.io/GANcraft/)
-  * *Published on 16/04/2021*
-* [Chaos Computer Club calls for immediate moratorium on contact tracing app Luca](https://www.ccc.de/en/updates/2021/luca-app-ccc-fordert-bundesnotbremse)
+* [Neurons might contain something within them](https://join.substack.com/p/is-this-the-most-interesting-idea)
   * *Published on 16/04/2021*
 
 
