@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `28` repositories and made `1417` commits.
+I contributed to `29` repositories and made `1418` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -82,30 +82,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Linus Torvalds on Rust support in kernel](https://lkml.org/lkml/2021/4/14/1099)
+* [Squarespace S1](https://www.sec.gov/Archives/edgar/data/1496963/000110465921051251/tm213918-6_s1.htm)
   * *Published on 16/04/2021*
-* [First of its kind study pits psilocybin against a common antidepressant](https://www.statnews.com/2021/04/14/psilocybin-depression-psychedelics-escitalopram/)
+* [Kelly Criterion](https://en.wikipedia.org/wiki/Kelly_criterion)
   * *Published on 16/04/2021*
-* [My Go Executable Files Are Still Getting Larger (What&#39;s New in 2021 and Go 1.16)](https://www.cockroachlabs.com/blog/go-file-size-update/)
+* [GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds](https://nvlabs.github.io/GANcraft/)
   * *Published on 16/04/2021*
-* [A top audio engineer explains NPR’s signature sound (2015)](https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/)
+* [Chaos Computer Club calls for immediate moratorium on contact tracing app Luca](https://www.ccc.de/en/updates/2021/luca-app-ccc-fordert-bundesnotbremse)
   * *Published on 16/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> RT <span class="mention">@GitHubEnt</span>: We’re live on Demo Days! GitHub Star of the Year <span class="mention">@EddieJaoude</span> is sharing the 101 on how to get your organization started wit…
+>
+> *17:59 on 16/04/2021*
+
 > Issy <span class="mention">@issyl0</span> Long wasn’t expecting to be invited to be a maintainer for <span class="mention">@MacHomebrew</span>, but it’s one of their proudest moments. See how they got there: 
 >
 > <a href="GitHub"><img src="https://github.githubassets.com/images/modules/site/readme/issy-long/issy-long-social.jpg" alt="Issy Long · The ReadME Project" height="200"></a>
 >
 > *14:00 on 16/04/2021*
-
-> To dig in deeper, check out <span class="mention">@nate_smith</span>'s demo of all the new things you can do with GitHub Actions from your terminal with GitHub CLI. <br/>
->
-> <a href="YouTube"><img src="https://i.ytimg.com/vi/UM73gUIoWmE/maxresdefault.jpg" alt="gh + actions demo" height="200"></a>
->
-> *17:50 on 15/04/2021*
 
 
 
