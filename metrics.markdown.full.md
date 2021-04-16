@@ -82,13 +82,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [IT companies warn in open letter: EU wants to ban encryption](https://mailbox.org/en/post/it-companies-warn-eu-plans-to-ban-encryption)
-  * *Published on 15/04/2021*
 * [Time flies in Google Earth’s biggest update in years](https://blog.google/products/earth/timelapse-in-google-earth/)
   * *Published on 15/04/2021*
-* [How I made $10k in one month from an online Vim course](https://www.slip.so/blog/how-I-made-10k-teaching-vim)
+* [Mac Chimes of Death](https://512pixels.net/2021/04/mac-chimes-of-death/)
   * *Published on 15/04/2021*
-* [TSMC sees chip shortage lasting into 2022](https://www.reuters.com/article/us-tsmc-results-idUSKBN2C20IH)
+* [Morrowind rebooted the original Xbox](https://hackaday.com/2021/04/14/morrowind-rebooted-the-original-xbox-without-you-ever-noticing/)
+  * *Published on 15/04/2021*
+* [PEP 563, PEP 649 and the future of pydantic and FastAPI](https://github.com/samuelcolvin/pydantic/issues/2678)
   * *Published on 15/04/2021*
 
 
