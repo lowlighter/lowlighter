@@ -82,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Lisp and the Web: Creating Web Apps Through Lisp and GCE](https://medium.math.dev/lisp-the-web-4c00c88d11f9)
+  * *Published on 16/04/2021*
+* [Turkey bans use of cryptocurrencies for payments](https://www.reuters.com/technology/turkey-bans-use-cryptocurrencies-payments-sends-bitcoin-down-2021-04-16/)
+  * *Published on 16/04/2021*
 * [Opting Your Website Out of Google&#39;s FLoC Network](https://paramdeo.com/blog/opting-your-website-out-of-googles-floc-network)
   * *Published on 16/04/2021*
-* [How to fight back against Google FLoC](https://plausible.io/blog/google-floc)
-  * *Published on 16/04/2021*
-* [Docker Desktop for Mac (Apple Silicon)](https://www.docker.com/blog/released-docker-desktop-for-mac-apple-silicon/)
-  * *Published on 16/04/2021*
-* [Time flies in Google Earth’s biggest update in years](https://blog.google/products/earth/timelapse-in-google-earth/)
-  * *Published on 15/04/2021*
+* [The Leitmotifs of Wagner&#39;s Ring](https://www.pjb.com.au/mus/wagner)
+  * *Published on 14/04/2021*
 
 
 ___
