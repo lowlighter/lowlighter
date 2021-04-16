@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `28` repositories and made `1411` commits.
+I contributed to `28` repositories and made `1417` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -27,17 +27,17 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#30 fix: very small typo error 😅](https://github.com/lowlighter/gracidea/pull/30) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+  * 1 file changed `++1 --1`
+* 🔍 Reviewed [#30 fix: very small typo error 😅](https://github.com/lowlighter/gracidea/pull/30) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+* 🔃 Merged [#235 fix: small error](https://github.com/lowlighter/metrics/pull/235) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 1 file changed `++1 --1`
+* 🔍 Reviewed [#235 fix: small error](https://github.com/lowlighter/metrics/pull/235) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Opened [#855 feat(http): allow custom http codes along with custom response text](https://github.com/denoland/deno_std/pull/855) in [denoland/deno_std](https://github.com/denoland/deno_std)
   * 3 files changed `++9 --35`
 * ⏺️ Created new branch `feat-http-allow-custom-error-codes` in [lowlighter/deno_std](https://github.com/lowlighter/deno_std)
 * 🔃 Opened [#854 feat(path/glob): add caseInsensitive option](https://github.com/denoland/deno_std/pull/854) in [denoland/deno_std](https://github.com/denoland/deno_std)
   * 3 files changed `++26 --5`
-* ⏺️ Created new branch `feat-path-glob-case-insensitive` in [lowlighter/deno_std](https://github.com/lowlighter/deno_std)
-* 🔃 Closed [#258 Auto-generated metrics for run #748565891](https://github.com/lowlighter/lowlighter/pull/258) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
-  * 9 files changed `++50 --58`
-* 🍽️ Forked [denoland/deno_std](https://github.com/denoland/deno_std)
-* 🔃 Merged [#233 Improve UX on web instances](https://github.com/lowlighter/metrics/pull/233) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 6 files changed `++148 --57`
 
 
 ___
@@ -82,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Lisp and the Web: Creating Web Apps Through Lisp and GCE](https://medium.math.dev/lisp-the-web-4c00c88d11f9)
+* [Google misled consumers about the collection and use of location data](https://www.accc.gov.au/media-release/google-misled-consumers-about-the-collection-and-use-of-location-data)
   * *Published on 16/04/2021*
-* [Turkey bans use of cryptocurrencies for payments](https://www.reuters.com/technology/turkey-bans-use-cryptocurrencies-payments-sends-bitcoin-down-2021-04-16/)
+* [Linus Torvalds on Rust support in kernel](https://lkml.org/lkml/2021/4/14/1099)
   * *Published on 16/04/2021*
-* [Opting Your Website Out of Google&#39;s FLoC Network](https://paramdeo.com/blog/opting-your-website-out-of-googles-floc-network)
+* [My Go Executable Files Are Still Getting Larger (What&#39;s New in 2021 and Go 1.16)](https://www.cockroachlabs.com/blog/go-file-size-update/)
   * *Published on 16/04/2021*
-* [The Leitmotifs of Wagner&#39;s Ring](https://www.pjb.com.au/mus/wagner)
-  * *Published on 14/04/2021*
+* [U.S. House committee approves blueprint for Big Tech crackdown](https://www.reuters.com/business/us-house-committee-approves-blueprint-big-tech-crackdown-2021-04-15/)
+  * *Published on 16/04/2021*
 
 
 ___
