@@ -82,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Librem 14 Begins Shipping](https://puri.sm/posts/librem-14-begins-shipping/)
+* [Self-Supervised Video Object Segmentation by Motion Grouping](https://charigyang.github.io/motiongroup/)
+  * *Published on 17/04/2021*
+* [I&#39;d like to review your README](https://liw.fi/readme-review/)
   * *Published on 17/04/2021*
 * [QUIC and HTTP/3 Support Now in Firefox Nightly and Beta](https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/)
   * *Published on 16/04/2021*
 * [Content-aware image resizing in JavaScript](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/)
   * *Published on 16/04/2021*
-* [EasyDNS is now accepting Dogecoin for payments](https://easydns.com/blog/2021/04/16/easydns-now-accepting-doge-payments/)
-  * *Published on 17/04/2021*
 
 
 ___
