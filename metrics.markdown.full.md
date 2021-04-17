@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `29` repositories and made `1424` commits.
+I contributed to `29` repositories and made `1425` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -82,13 +82,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Are the top websites using WebGL for fingerprinting?](https://jonatron.github.io/webgl-fingerprinting/)
+* [The Brain ‘Rotates’ Memories to Save Them from New Sensations](https://www.quantamagazine.org/the-brain-rotates-memories-to-save-them-from-new-sensations-20210415/)
+  * *Published on 16/04/2021*
+* [Why most non-fiction authors don&#39;t make any money](https://writeusefulbooks.com/resources/why-nonfiction-fails-to-make-money/)
+  * *Published on 16/04/2021*
+* [Show HN: I built a Guitar Hero robot [video]](https://www.youtube.com/watch?v=htk6eXxpSNA)
   * *Published on 17/04/2021*
-* [Everything Easy is Hard Again (2018)](https://frankchimero.com/blog/2018/everything-easy/)
-  * *Published on 17/04/2021*
-* [WinGet is terrible. I want AppGet back](https://niemarwinget.medium.com/winget-is-terrible-i-want-appget-back-41b3ca598596)
-  * *Published on 17/04/2021*
-* [5G: The outsourced elephant in the room](https://berthub.eu/articles/posts/5g-elephant-in-the-room/)
+* [Buy it for life: Durable, Quality, Practical](https://www.buyforlife.com/)
   * *Published on 17/04/2021*
 
 
