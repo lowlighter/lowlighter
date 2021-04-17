@@ -82,13 +82,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [5G: The Outsourced Elephant in the Room](https://berthub.eu/articles/posts/5g-elephant-in-the-room/)
+* [Are the top websites using WebGL for fingerprinting?](https://jonatron.github.io/webgl-fingerprinting/)
   * *Published on 17/04/2021*
-* [Show HN: 25 science and math flavored programming problems for beginners](https://projectlovelace.net/problems/)
+* [Everything Easy is Hard Again (2018)](https://frankchimero.com/blog/2018/everything-easy/)
   * *Published on 17/04/2021*
-* [What’s the Origin of the Phrase “Big Data Doesn’t Fit in Excel”?](https://shkspr.mobi/blog/2021/04/whats-the-origin-of-the-phrase-big-data-doesnt-fit-in-excel/)
+* [WinGet is terrible. I want AppGet back](https://niemarwinget.medium.com/winget-is-terrible-i-want-appget-back-41b3ca598596)
   * *Published on 17/04/2021*
-* [Onboarding with an M1](https://authzed.com/blog/onboarding-with-an-m1/)
+* [5G: The outsourced elephant in the room](https://berthub.eu/articles/posts/5g-elephant-in-the-room/)
   * *Published on 17/04/2021*
 
 
