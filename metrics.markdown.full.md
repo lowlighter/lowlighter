@@ -82,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Librem 14 Begins Shipping](https://puri.sm/posts/librem-14-begins-shipping/)
+  * *Published on 17/04/2021*
 * [QUIC and HTTP/3 Support Now in Firefox Nightly and Beta](https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/)
   * *Published on 16/04/2021*
 * [Content-aware image resizing in JavaScript](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/)
   * *Published on 16/04/2021*
-* [Squarespace S1](https://www.sec.gov/Archives/edgar/data/1496963/000110465921051251/tm213918-6_s1.htm)
-  * *Published on 16/04/2021*
-* [Standard Notes is a safe place for your notes, thoughts, and life&#39;s work](https://standardnotes.org)
-  * *Published on 16/04/2021*
+* [EasyDNS is now accepting Dogecoin for payments](https://easydns.com/blog/2021/04/16/easydns-now-accepting-doge-payments/)
+  * *Published on 17/04/2021*
 
 
 ___
