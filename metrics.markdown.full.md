@@ -27,6 +27,9 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Opened [#31 Draft refacto ](https://github.com/lowlighter/gracidea/pull/31) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+  * 16 files changed `++612 --389`
+* ⏺️ Created new branch `feat-refacto-ts-deno` in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 * 🔃 Merged [#220 Prepare release v3.7](https://github.com/lowlighter/metrics/pull/220) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 3 files changed `++4 --4`
 * 🔃 Merged [#30 fix: very small typo error 😅](https://github.com/lowlighter/gracidea/pull/30) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
@@ -35,9 +38,6 @@ ___
 * 🔃 Merged [#235 fix: small error](https://github.com/lowlighter/metrics/pull/235) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 1 file changed `++1 --1`
 * 🔍 Reviewed [#235 fix: small error](https://github.com/lowlighter/metrics/pull/235) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Opened [#855 feat(http): allow custom http codes along with custom response text](https://github.com/denoland/deno_std/pull/855) in [denoland/deno_std](https://github.com/denoland/deno_std)
-  * 3 files changed `++9 --35`
-* ⏺️ Created new branch `feat-http-allow-custom-error-codes` in [lowlighter/deno_std](https://github.com/lowlighter/deno_std)
 
 
 ___
@@ -82,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [The Brain ‘Rotates’ Memories to Save Them from New Sensations](https://www.quantamagazine.org/the-brain-rotates-memories-to-save-them-from-new-sensations-20210415/)
-  * *Published on 16/04/2021*
-* [Why most non-fiction authors don&#39;t make any money](https://writeusefulbooks.com/resources/why-nonfiction-fails-to-make-money/)
-  * *Published on 16/04/2021*
-* [Show HN: I built a Guitar Hero robot [video]](https://www.youtube.com/watch?v=htk6eXxpSNA)
+* [Thanks for the Bonus, I Quit](https://madned.substack.com/p/thanks-for-the-bonus-i-quit)
   * *Published on 17/04/2021*
-* [Buy it for life: Durable, Quality, Practical](https://www.buyforlife.com/)
-  * *Published on 17/04/2021*
+* [A Potato Battery Can Light Up a Room for over a Month](https://www.smithsonianmag.com/innovation/a-potato-battery-can-light-up-a-room-for-over-a-month-180948260/)
+  * *Published on 18/04/2021*
+* [Replace Google Analytics with a shell script](https://www.go350.com/posts/replace-google-analytics-with-a-shell-script/)
+  * *Published on 18/04/2021*
+* [The brain ‘rotates’ memories to save them from new sensations](https://www.quantamagazine.org/the-brain-rotates-memories-to-save-them-from-new-sensations-20210415/)
+  * *Published on 16/04/2021*
 
 
 ___
