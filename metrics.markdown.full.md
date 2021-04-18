@@ -84,7 +84,7 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [Thanks for the Bonus, I Quit](https://madned.substack.com/p/thanks-for-the-bonus-i-quit)
   * *Published on 17/04/2021*
-* [A Potato Battery Can Light Up a Room for over a Month](https://www.smithsonianmag.com/innovation/a-potato-battery-can-light-up-a-room-for-over-a-month-180948260/)
+* [Soviet children’s books became collectors’ items in India](https://www.atlasobscura.com/articles/soviet-childrens-books-in-india)
   * *Published on 18/04/2021*
 * [Replace Google Analytics with a shell script](https://www.go350.com/posts/replace-google-analytics-with-a-shell-script/)
   * *Published on 18/04/2021*
