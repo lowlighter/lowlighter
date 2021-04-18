@@ -82,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Reducing Rust Incremental Compilation Times on macOS by 70%](https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-macos-by-70-percent/)
+  * *Published on 18/04/2021*
+* [The “WAT” talk – a few programming languages quirks](https://www.destroyallsoftware.com/talks/wat)
+  * *Published on 18/04/2021*
 * [Thanks for the Bonus, I Quit](https://madned.substack.com/p/thanks-for-the-bonus-i-quit)
   * *Published on 17/04/2021*
 * [Soviet children’s books became collectors’ items in India](https://www.atlasobscura.com/articles/soviet-childrens-books-in-india)
   * *Published on 18/04/2021*
-* [Replace Google Analytics with a shell script](https://www.go350.com/posts/replace-google-analytics-with-a-shell-script/)
-  * *Published on 18/04/2021*
-* [The brain ‘rotates’ memories to save them from new sensations](https://www.quantamagazine.org/the-brain-rotates-memories-to-save-them-from-new-sensations-20210415/)
-  * *Published on 16/04/2021*
 
 
 ___
