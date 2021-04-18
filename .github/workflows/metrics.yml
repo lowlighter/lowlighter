@@ -817,7 +817,7 @@ jobs:
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 1
           plugin_stackoverflow_sections: answers-top
-          plugin_stackoverflow_limit: 1
+          plugin_stackoverflow_limit: 2
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
 
