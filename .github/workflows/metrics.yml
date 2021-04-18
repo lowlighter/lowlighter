@@ -611,6 +611,19 @@ jobs:
           plugin_notable: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
+          
+      # Display badges of organizations with at least one commit from user
+      - name: 🎩 Notable contributions (with repositories name)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.notable.repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_notable: yes
+          plugin_notable_repositories: yes
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
 
       # ======================================================================================
       # 🧑‍🤝‍🧑 People plugin
