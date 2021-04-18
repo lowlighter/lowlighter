@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `29` repositories and made `1431` commits.
+I contributed to `29` repositories and made `1403` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -27,6 +27,8 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#240 Feat notable options](https://github.com/lowlighter/metrics/pull/240) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 8 files changed `++67 --36`
 * 🔃 Opened [#240 Feat notable options](https://github.com/lowlighter/metrics/pull/240) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 5 files changed `++63 --11`
 * ⏺️ Created new branch `feat-notable-options` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -36,8 +38,6 @@ ___
 * 🔃 Opened [#238 Add support for `extras_css` option](https://github.com/lowlighter/metrics/pull/238) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 5 files changed `++36 --1`
 * ⏺️ Created new branch `feat-extras-css` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#237 Markdown interpretation](https://github.com/lowlighter/metrics/pull/237) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 14 files changed `++240 --49`
 
 
 ___
@@ -82,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Livebook: A collaborative and interactive code notebook for Elixir](https://dashbit.co/blog/announcing-livebook?new=1)
+* [Huawei could have wiretapped KPN](https://nltimes.nl/2021/04/17/huawei-able-eavesdrop-dutch-mobile-network-kpn-report)
   * *Published on 18/04/2021*
-* [Proposal: Treat FLoC as a security concern](https://make.wordpress.org/core/2021/04/18/proposal-treat-floc-as-a-security-concern/)
+* [Paternoster Lift](https://en.wikipedia.org/wiki/Paternoster_lift)
+  * *Published on 18/04/2021*
+* [Livebook: A collaborative and interactive code notebook for Elixir](https://dashbit.co/blog/announcing-livebook?new=1)
   * *Published on 18/04/2021*
 * [Internet Search Tips](https://www.gwern.net/Search)
   * *Published on 17/04/2021*
-* [Product-Led Is Just as Bad as Sales-Driven](https://itamargilad.com/product-led/)
-  * *Published on 18/04/2021*
 
 
 ___
