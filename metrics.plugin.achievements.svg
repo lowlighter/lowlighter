@@ -2,8 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>
-        /* SVG global context */
+    <style>/* SVG global context */
   svg {
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
     font-size: 14px;
@@ -615,7 +614,7 @@
     white-space: nowrap;
   }
 
-  .activity .details .comment {
+  .activity .details &gt; .comment {
     overflow: hidden;
     text-overflow: ellipsis;
     display: block;
@@ -623,7 +622,6 @@
     margin-top: 6px;
     border-left: 3px solid #777777B2;
     padding-left: 6px;
-    max-height: 38px;
     /* May not work in all browsers */
     display: -webkit-box;
     -webkit-line-clamp: 2;
@@ -945,6 +943,56 @@
     overflow: hidden;
   }
 
+/* Syntax highlighting */
+  code {
+    background-color: #7777771F;
+    display: inline-block;
+    border-radius: 6px;
+    color: #777777;
+    padding: 1px 5px;
+    font-size: 80%;
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+  }
+  code[class^=language-] {
+    white-space: pre-wrap;
+    width: 97%;
+    margin-top: 4px;
+  }
+  .token.comment, .token.prolog, .token.doctype, .token.cdata {
+    color: #6a737d;
+  }
+  .token.punctuation {
+    color: #24292e;
+  }
+  .token.namespace, .token.property, .token.tag, .token.boolean, .token.number, .token.constant, .token.symbol {
+    color: #d73a49;
+  }
+  .token.selector, .token.attr-name, .token.string, .token.char, .token.builtin, .token.inserted {
+    color: #032f62;
+  }
+  .token.operator, .token.entity, .token.url, .language-css .token.string, .style .token.string, .token.variable {
+    color: #005cc5;
+  }
+  .token.atrule, .token.attr-value, .token.keyword {
+    color: #6f42c1
+  }
+  .token.regex, .token.important {
+    color: #e90;
+  }
+  .token.important, .token.bold {
+    font-weight: bold;
+  }
+  .token.italic {
+    font-style: italic;
+  }
+  .token.deleted {
+    color: red;
+  }
+  .token.trimmed {
+    font-style: italic;
+    color: #77777760
+  }
+
 /* Charts */
   .ct-line {
     stroke-width: 2px !important;
@@ -1036,19 +1084,16 @@
     animation-duration: 0s !important;
     animation-play-state: paused !important;
     caret-color: transparent !important;
-  }
-    </style>
+  }</style>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink">
             <div class="row">
             </div>
             <section>
                 <h2 class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                        <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
-                    </svg>
-                    Achievements
-                </h2>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/></svg>
+      Achievements
+    </h2>
                 <div class="row">
                     <section>
                         <div class="achievement a">
@@ -1077,11 +1122,10 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                                    Super polyglot
-                                </div>
-                                <div class="text">
-                                    Using 19 different programming languages
-                                </div>
+                  Super polyglot
+                  
+                </div>
+                                <div class="text">Using 19 different programming languages</div>
                             </div>
                         </div>
                         <div class="achievement a">
@@ -1110,11 +1154,10 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                                    Super stargazer
-                                </div>
-                                <div class="text">
-                                    Starred 980 repositories
-                                </div>
+                  Super stargazer
+                  
+                </div>
+                                <div class="text">Starred 980 repositories</div>
                             </div>
                         </div>
                         <div class="achievement b">
@@ -1150,14 +1193,14 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                                    Great developer
-                                    <span class="gh">
-                                        ranked 1.22m out of 69m users
-                                    </span>
-                                </div>
-                                <div class="text">
-                                    Published 23 public repositories
-                                </div>
+                  Great developer
+                  
+                    <span class="gh">
+                      ranked 1.22m out of 69m users
+                    </span>
+                  
+                </div>
+                                <div class="text">Published 23 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement c">
@@ -1170,7 +1213,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="102.03517587939697 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="102.81407035175879 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1195,11 +1238,10 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                                    Contributor
-                                </div>
-                                <div class="text">
-                                    Opened 132 pull requests
-                                </div>
+                  Contributor
+                  
+                </div>
+                                <div class="text">Opened 133 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement secret">
@@ -1243,11 +1285,10 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                                    Octonaut
-                                </div>
-                                <div class="text">
-                                    Following octocat
-                                </div>
+                  Octonaut
+                  
+                </div>
+                                <div class="text">Following octocat</div>
                             </div>
                         </div>
                     </section>
