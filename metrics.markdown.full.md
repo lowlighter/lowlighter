@@ -27,6 +27,9 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Opened [#237 Markdown interpretation](https://github.com/lowlighter/metrics/pull/237) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 12 files changed `++206 --43`
+* ⏺️ Created new branch `feat-markdown-support` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Opened [#31 Draft refacto ](https://github.com/lowlighter/gracidea/pull/31) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
   * 16 files changed `++612 --389`
 * ⏺️ Created new branch `feat-refacto-ts-deno` in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
@@ -35,9 +38,6 @@ ___
 * 🔃 Merged [#30 fix: very small typo error 😅](https://github.com/lowlighter/gracidea/pull/30) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
   * 1 file changed `++1 --1`
 * 🔍 Reviewed [#30 fix: very small typo error 😅](https://github.com/lowlighter/gracidea/pull/30) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-* 🔃 Merged [#235 fix: small error](https://github.com/lowlighter/metrics/pull/235) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 1 file changed `++1 --1`
-* 🔍 Reviewed [#235 fix: small error](https://github.com/lowlighter/metrics/pull/235) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 
 ___
@@ -82,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Reducing Rust Incremental Compilation Times on macOS by 70%](https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-macos-by-70-percent/)
+* [How Developers Choose Names](https://arxiv.org/abs/2103.07487)
   * *Published on 18/04/2021*
-* [The “WAT” talk – a few programming languages quirks](https://www.destroyallsoftware.com/talks/wat)
+* [Product-Led Is Just as Bad as Sales-Driven](https://itamargilad.com/product-led/)
+  * *Published on 18/04/2021*
+* [Wikimedia: wprov](https://wikitech.wikimedia.org/wiki/Provenance)
   * *Published on 18/04/2021*
 * [Thanks for the Bonus, I Quit](https://madned.substack.com/p/thanks-for-the-bonus-i-quit)
   * *Published on 17/04/2021*
-* [Soviet children’s books became collectors’ items in India](https://www.atlasobscura.com/articles/soviet-childrens-books-in-india)
-  * *Published on 18/04/2021*
 
 
 ___
