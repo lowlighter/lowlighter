@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `29` repositories and made `1427` commits.
+I contributed to `29` repositories and made `1431` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -27,17 +27,17 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Opened [#240 Feat notable options](https://github.com/lowlighter/metrics/pull/240) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 5 files changed `++63 --11`
+* ⏺️ Created new branch `feat-notable-options` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#238 Add support for `extras_css` option](https://github.com/lowlighter/metrics/pull/238) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 5 files changed `++36 --1`
 * #️⃣ Opened [#239 Release v3.8](https://github.com/lowlighter/metrics/issues/239) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Opened [#238 Add support for `extras_css` option](https://github.com/lowlighter/metrics/pull/238) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 5 files changed `++36 --1`
 * ⏺️ Created new branch `feat-extras-css` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#237 Markdown interpretation](https://github.com/lowlighter/metrics/pull/237) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 14 files changed `++240 --49`
-* 🔃 Opened [#237 Markdown interpretation](https://github.com/lowlighter/metrics/pull/237) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 12 files changed `++206 --43`
-* ⏺️ Created new branch `feat-markdown-support` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Opened [#31 Draft refacto ](https://github.com/lowlighter/gracidea/pull/31) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-  * 16 files changed `++612 --389`
 
 
 ___
@@ -82,13 +82,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [How Developers Choose Names](https://arxiv.org/abs/2103.07487)
+* [Livebook: A collaborative and interactive code notebook for Elixir](https://dashbit.co/blog/announcing-livebook?new=1)
   * *Published on 18/04/2021*
-* [Product-Led Is Just as Bad as Sales-Driven](https://itamargilad.com/product-led/)
+* [Proposal: Treat FLoC as a security concern](https://make.wordpress.org/core/2021/04/18/proposal-treat-floc-as-a-security-concern/)
   * *Published on 18/04/2021*
-* [Thanks for the Bonus, I Quit](https://madned.substack.com/p/thanks-for-the-bonus-i-quit)
+* [Internet Search Tips](https://www.gwern.net/Search)
   * *Published on 17/04/2021*
-* [Wikimedia: wprov](https://wikitech.wikimedia.org/wiki/Provenance)
+* [Product-Led Is Just as Bad as Sales-Driven](https://itamargilad.com/product-led/)
   * *Published on 18/04/2021*
 
 
