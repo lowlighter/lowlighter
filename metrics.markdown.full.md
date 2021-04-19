@@ -82,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Huawei could have wiretapped KPN](https://nltimes.nl/2021/04/17/huawei-able-eavesdrop-dutch-mobile-network-kpn-report)
-  * *Published on 18/04/2021*
-* [Paternoster Lift](https://en.wikipedia.org/wiki/Paternoster_lift)
+* [Dissecting the Apple M1 GPU, Part III](https://rosenzweig.io/blog/asahi-gpu-part-3.html)
+  * *Published on 19/04/2021*
+* [Robot-woven sneaker with 3D-printed soles](https://spectrum.ieee.org/tech-talk/robotics/industrial-robots/adidas-futurecraft-3d-printed-robot-woven-sneaker)
+  * *Published on 16/04/2021*
+* [Show HN: Side project passed $2.5k/mo revenue after 2 years (Phoenix and Vue)](https://news.ycombinator.com/item?id=26855726)
   * *Published on 18/04/2021*
 * [Livebook: A collaborative and interactive code notebook for Elixir](https://dashbit.co/blog/announcing-livebook?new=1)
   * *Published on 18/04/2021*
-* [Internet Search Tips](https://www.gwern.net/Search)
-  * *Published on 17/04/2021*
 
 
 ___
