@@ -27,17 +27,16 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
-* 🔃 Merged [#243 Fix &#34;No commits between&#34; error](https://github.com/lowlighter/metrics/pull/243) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 1 file changed `++17 --10`
-* 🔃 Opened [#243 Fix &#34;No commits between&#34; error](https://github.com/lowlighter/metrics/pull/243) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 1 file changed `++17 --10`
-* ⏺️ Created new branch `fix-pr-no-diff` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔍 Reviewed [#242 Condense merge commits](https://github.com/lowlighter/metrics/pull/242) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#240 Feat notable options](https://github.com/lowlighter/metrics/pull/240) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 8 files changed `++67 --36`
-* 🔃 Opened [#240 Feat notable options](https://github.com/lowlighter/metrics/pull/240) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 5 files changed `++63 --11`
-* ⏺️ Created new branch `feat-notable-options` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Opened [#246 Improve markdown support and css tokens](https://github.com/lowlighter/metrics/pull/246) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 3 files changed `++38 --31`
+* ⏺️ Created new branch `feat-improved-markdown` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#244 Reverse order of commits listed in a recent activity entry](https://github.com/lowlighter/metrics/pull/244) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 1 file changed `++1 --1`
+* 🔍 Reviewed [#244 Reverse order of commits listed in a recent activity entry](https://github.com/lowlighter/metrics/pull/244) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔍 Reviewed [#244 Reverse order of commits listed in a recent activity entry](https://github.com/lowlighter/metrics/pull/244) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#242 Condense merge commits](https://github.com/lowlighter/metrics/pull/242) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 1 file changed `++3 --2`
+* #️⃣ Closed [#241 Merge commits are not condensed](https://github.com/lowlighter/metrics/issues/241) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 
 ___
@@ -82,28 +81,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Microsoft says mandatory password changing is “ancient and obsolete” (2019)](https://arstechnica.com/information-technology/2019/06/microsoft-says-mandatory-password-changing-is-ancient-and-obsolete/)
+* [The “Granny Knot”](https://www.fieggen.com/shoelace/grannyknot.htm)
   * *Published on 19/04/2021*
-* [Large-Scale Abuse of Contact Discovery in Mobile Messengers [pdf]](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1C-3_23159_paper.pdf)
+* [Zenreader: A 4.7 Inches E-Ink RSS Reader Powered by ESP32](https://www.tnhh.net/posts/zenreader-4.7-in-rss-eink-reader.html)
   * *Published on 19/04/2021*
-* [SmartFarm device to harvest air moisture for self-sustaining urban farming](https://news.nus.edu.sg/smartfarm-harvest-air-moisture-for-urban-farming/)
+* [Born secret – the heavy burden of bomb physics](https://www.nature.com/articles/d41586-021-01024-9)
   * *Published on 19/04/2021*
-* [DIY Camera Using Raspberry Pi](https://ruha.camera/)
+* [J2 open processor: an open source processor using the SuperH ISA](https://j-core.org/)
   * *Published on 19/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> urql is a GraphQL client that exposes a set of helpers for several frameworks including React, Vue, and Svelte. Join <span class="mention">@bdougieYO</span> and <span class="mention">@_philpl</span> in learning the latest in consuming GraphQL.<br/><br/><a href="https://t.co/TPGqVteVhe" class="link">meetup.com/github-virtual…</a> <br/><a href="https://t.co/DYGEdoW28i" class="link">pic.twitter.com/DYGEdoW28i</a>
+>
+> <a href=""><img src="https://pbs.twimg.com/media/EzW2Ii-VoA0cWqS.jpg" alt="" height="200"></a>
+>
+> *18:30 on 19/04/2021*
+
 > Nearly 12,000 people in the open source community helped <span class="mention">@NASAPersevere</span> write the code for the first autonomous powered flight on another planet. Find out how we’re celebrating these interplanetary devs. <a href="https://t.co/snaMNMMjqV" class="link">github.blog/2021-04-19-ope…</a> <br/><a href="https://t.co/QrTwGsewP7" class="link">pic.twitter.com/QrTwGsewP7</a>
 >
 > *15:33 on 19/04/2021*
-
-> Ever dream of going to Mars? Your code may have done just that. Check out how open source contributors helped the <span class="mention">@NASAJPL</span> Ingenuity  <span class="hashtag">#MarsHelicopter</span>  fly on the fourth rock from the sun. <a href="https://t.co/ypNa8H2PoN" class="link">github.com/readme/nasa-in…</a> <br/><a href="https://t.co/YzZH59jmbR" class="link">pic.twitter.com/YzZH59jmbR</a>
->
-> <a href=""><img src="https://pbs.twimg.com/ext_tw_video_thumb/1384130386767204360/pu/img/tMMxEkT8lgZED9oj.jpg" alt="" height="200"></a>
->
-> *13:03 on 19/04/2021*
 
 
 
