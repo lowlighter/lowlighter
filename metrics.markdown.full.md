@@ -82,13 +82,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Monster (fun fact about me is that when I was a kid id write capital E’s with..)](https://idlnmclean.tumblr.com/post/644363337362292736/fun-fact-about-me-is-that-when-i-was-a-kid-id)
+* [Large-Scale Abuse of Contact Discovery in Mobile Messengers [pdf]](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1C-3_23159_paper.pdf)
+  * *Published on 19/04/2021*
+* [Bank of England Statement on Central Bank Digital Currency](https://www.bankofengland.co.uk/news/2021/april/bank-of-england-statement-on-central-bank-digital-currency)
+  * *Published on 19/04/2021*
+* [Deriving the piano keyboard from biological principles using clustering](https://fiftysevendegreesofrad.github.io/JupyterNotes/piano.html)
   * *Published on 19/04/2021*
 * [Dissecting the Apple M1 GPU, Part III](https://rosenzweig.io/blog/asahi-gpu-part-3.html)
-  * *Published on 19/04/2021*
-* [Open source “split-flap” mechanical display](https://github.com/scottbez1/splitflap)
-  * *Published on 19/04/2021*
-* [India may build new coal plants due to low cost despite climate change](https://www.reuters.com/world/india/exclusive-india-may-build-new-coal-plants-due-low-cost-despite-climate-change-2021-04-18/)
   * *Published on 19/04/2021*
 
 
