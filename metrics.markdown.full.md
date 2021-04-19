@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `29` repositories and made `1403` commits.
+I contributed to `29` repositories and made `1407` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -27,6 +27,10 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Opened [#243 Fix &#34;No commits between&#34; error](https://github.com/lowlighter/metrics/pull/243) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 1 file changed `++17 --10`
+* ⏺️ Created new branch `fix-pr-no-diff` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔍 Reviewed [#242 Condense merge commits](https://github.com/lowlighter/metrics/pull/242) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#240 Feat notable options](https://github.com/lowlighter/metrics/pull/240) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 8 files changed `++67 --36`
 * 🔃 Opened [#240 Feat notable options](https://github.com/lowlighter/metrics/pull/240) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -34,10 +38,6 @@ ___
 * ⏺️ Created new branch `feat-notable-options` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#238 Add support for `extras_css` option](https://github.com/lowlighter/metrics/pull/238) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 5 files changed `++36 --1`
-* #️⃣ Opened [#239 Release v3.8](https://github.com/lowlighter/metrics/issues/239) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Opened [#238 Add support for `extras_css` option](https://github.com/lowlighter/metrics/pull/238) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 5 files changed `++36 --1`
-* ⏺️ Created new branch `feat-extras-css` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 
 ___
@@ -82,28 +82,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [First Flight of the Ingenuity Mars Helicopter: Live from Mission Control [video]](https://www.youtube.com/watch?v=p1KolyCqICI)
+  * *Published on 19/04/2021*
 * [Large-Scale Abuse of Contact Discovery in Mobile Messengers [pdf]](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1C-3_23159_paper.pdf)
   * *Published on 19/04/2021*
-* [Bank of England Statement on Central Bank Digital Currency](https://www.bankofengland.co.uk/news/2021/april/bank-of-england-statement-on-central-bank-digital-currency)
+* [Rob Pike proposes expression to create pointer to simple types in Golang](https://github.com/golang/go/issues/45624)
   * *Published on 19/04/2021*
-* [Deriving the piano keyboard from biological principles using clustering](https://fiftysevendegreesofrad.github.io/JupyterNotes/piano.html)
-  * *Published on 19/04/2021*
-* [Dissecting the Apple M1 GPU, Part III](https://rosenzweig.io/blog/asahi-gpu-part-3.html)
+* [U.K. to intervene in Nvidia&#39;s ARM acquisition](https://www.gov.uk/government/publications/proposed-acquisition-of-arm-limited-by-nvidia-corporation-public-interest-intervention)
   * *Published on 19/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> Ever dream of going to Mars? Your code may have done just that. Check out how open source contributors helped the <span class="mention">@NASAJPL</span> Ingenuity  <span class="hashtag">#MarsHelicopter</span>  fly on the fourth rock from the sun. <a href="https://t.co/ypNa8H2PoN" class="link">github.com/readme/nasa-in…</a> <br/><a href="https://t.co/YzZH59jmbR" class="link">pic.twitter.com/YzZH59jmbR</a>
+>
+> <a href=""><img src="https://pbs.twimg.com/ext_tw_video_thumb/1384130386767204360/pu/img/tMMxEkT8lgZED9oj.jpg" alt="" height="200"></a>
+>
+> *13:03 on 19/04/2021*
+
 > RT <span class="mention">@GitHubEnt</span>: We’re live on Demo Days! GitHub Star of the Year <span class="mention">@EddieJaoude</span> is sharing the 101 on how to get your organization started wit…
 >
 > *17:59 on 16/04/2021*
-
-> Issy <span class="mention">@issyl0</span> Long wasn’t expecting to be invited to be a maintainer for <span class="mention">@MacHomebrew</span>, but it’s one of their proudest moments. See how they got there: 
->
-> <a href="GitHub"><img src="https://github.githubassets.com/images/modules/site/readme/issy-long/issy-long-social.jpg" alt="Issy Long · The ReadME Project" height="200"></a>
->
-> *14:00 on 16/04/2021*
 
 
 
