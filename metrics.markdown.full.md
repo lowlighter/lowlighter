@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `29` repositories and made `1407` commits.
+I contributed to `29` repositories and made `1408` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -27,6 +27,8 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#243 Fix &#34;No commits between&#34; error](https://github.com/lowlighter/metrics/pull/243) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 1 file changed `++17 --10`
 * 🔃 Opened [#243 Fix &#34;No commits between&#34; error](https://github.com/lowlighter/metrics/pull/243) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 1 file changed `++17 --10`
 * ⏺️ Created new branch `fix-pr-no-diff` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -36,8 +38,6 @@ ___
 * 🔃 Opened [#240 Feat notable options](https://github.com/lowlighter/metrics/pull/240) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 5 files changed `++63 --11`
 * ⏺️ Created new branch `feat-notable-options` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#238 Add support for `extras_css` option](https://github.com/lowlighter/metrics/pull/238) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 5 files changed `++36 --1`
 
 
 ___
@@ -82,28 +82,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [First Flight of the Ingenuity Mars Helicopter: Live from Mission Control [video]](https://www.youtube.com/watch?v=p1KolyCqICI)
+* [Microsoft says mandatory password changing is “ancient and obsolete” (2019)](https://arstechnica.com/information-technology/2019/06/microsoft-says-mandatory-password-changing-is-ancient-and-obsolete/)
   * *Published on 19/04/2021*
 * [Large-Scale Abuse of Contact Discovery in Mobile Messengers [pdf]](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1C-3_23159_paper.pdf)
   * *Published on 19/04/2021*
-* [Rob Pike proposes expression to create pointer to simple types in Golang](https://github.com/golang/go/issues/45624)
+* [SmartFarm device to harvest air moisture for self-sustaining urban farming](https://news.nus.edu.sg/smartfarm-harvest-air-moisture-for-urban-farming/)
   * *Published on 19/04/2021*
-* [U.K. to intervene in Nvidia&#39;s ARM acquisition](https://www.gov.uk/government/publications/proposed-acquisition-of-arm-limited-by-nvidia-corporation-public-interest-intervention)
+* [DIY Camera Using Raspberry Pi](https://ruha.camera/)
   * *Published on 19/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> Nearly 12,000 people in the open source community helped <span class="mention">@NASAPersevere</span> write the code for the first autonomous powered flight on another planet. Find out how we’re celebrating these interplanetary devs. <a href="https://t.co/snaMNMMjqV" class="link">github.blog/2021-04-19-ope…</a> <br/><a href="https://t.co/QrTwGsewP7" class="link">pic.twitter.com/QrTwGsewP7</a>
+>
+> *15:33 on 19/04/2021*
+
 > Ever dream of going to Mars? Your code may have done just that. Check out how open source contributors helped the <span class="mention">@NASAJPL</span> Ingenuity  <span class="hashtag">#MarsHelicopter</span>  fly on the fourth rock from the sun. <a href="https://t.co/ypNa8H2PoN" class="link">github.com/readme/nasa-in…</a> <br/><a href="https://t.co/YzZH59jmbR" class="link">pic.twitter.com/YzZH59jmbR</a>
 >
 > <a href=""><img src="https://pbs.twimg.com/ext_tw_video_thumb/1384130386767204360/pu/img/tMMxEkT8lgZED9oj.jpg" alt="" height="200"></a>
 >
 > *13:03 on 19/04/2021*
-
-> RT <span class="mention">@GitHubEnt</span>: We’re live on Demo Days! GitHub Star of the Year <span class="mention">@EddieJaoude</span> is sharing the 101 on how to get your organization started wit…
->
-> *17:59 on 16/04/2021*
 
 
 
