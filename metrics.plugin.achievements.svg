@@ -943,7 +943,11 @@
     overflow: hidden;
   }
 
-/* Syntax highlighting */
+/* Markdown and syntax highlighting */
+  .markdown b, .markdown i {
+    display: inline-block;
+    width: 97%;
+  }
   code {
     background-color: #7777771F;
     display: inline-block;
@@ -958,35 +962,23 @@
     width: 97%;
     margin-top: 4px;
   }
-  .token.comment, .token.prolog, .token.doctype, .token.cdata {
-    color: #6a737d;
+  .token.comment {
+    color: #669900;
   }
   .token.punctuation {
-    color: #24292e;
+    color: #8a93a8;
   }
-  .token.namespace, .token.property, .token.tag, .token.boolean, .token.number, .token.constant, .token.symbol {
-    color: #d73a49;
+  .token.namespace, .token.constant, .token.symbol, .token.keyword {
+    color: #b44418;
   }
-  .token.selector, .token.attr-name, .token.string, .token.char, .token.builtin, .token.inserted {
-    color: #032f62;
+  .token.regex, .token.string, .token.char, .token.number, .token.boolean {
+    color: #2777AA;
   }
-  .token.operator, .token.entity, .token.url, .language-css .token.string, .style .token.string, .token.variable {
-    color: #005cc5;
+  .token.property, .token.tag {
+    color: #48428a;
   }
-  .token.atrule, .token.attr-value, .token.keyword {
-    color: #6f42c1
-  }
-  .token.regex, .token.important {
-    color: #e90;
-  }
-  .token.important, .token.bold {
-    font-weight: bold;
-  }
-  .token.italic {
-    font-style: italic;
-  }
-  .token.deleted {
-    color: red;
+  .token.builtin, .token.operator {
+    color: #106cbc;
   }
   .token.trimmed {
     font-style: italic;
@@ -1138,7 +1130,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="149.42 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="150.97 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1157,7 +1149,7 @@
                   Super stargazer
                   
                 </div>
-                                <div class="text">Starred 982 repositories</div>
+                                <div class="text">Starred 987 repositories</div>
                             </div>
                         </div>
                         <div class="achievement b">
