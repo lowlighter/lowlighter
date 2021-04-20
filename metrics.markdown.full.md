@@ -82,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [The Endless Acid Banger: algorithmic self-composing acid techno music](https://www.vitling.xyz/toys/acid-banger/)
+* [Apple TV4K Gets A12 Bionic](https://www.apple.com/apple-tv-4k/)
   * *Published on 20/04/2021*
-* [Firefox to regularly nag users to change their default browser](https://bugzilla.mozilla.org/show_bug.cgi?id=1703874)
+* [Grafana, Loki, and Tempo will be relicensed to AGPLv3](https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/)
   * *Published on 20/04/2021*
-* [Munin Website Redesigned](https://munin-monitoring.org/)
+* [iPad Pro M1](https://www.apple.com/newsroom/2021/04/apple-unveils-new-ipad-pro-with-m1-chip-and-stunning-liquid-retina-xdr-display/)
   * *Published on 20/04/2021*
-* [Power consumption of Game Boy flash cartridges](https://gekkio.fi/blog/2021/power-consumption-of-game-boy-flash-cartridges/)
-  * *Published on 18/04/2021*
+* [Node.js 16 Available Now](https://nodejs.medium.com/node-js-16-available-now-7f5099a97e70)
+  * *Published on 20/04/2021*
 
 
 ___
