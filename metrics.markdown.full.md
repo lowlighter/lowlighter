@@ -82,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [IBM employee forced to stop kernel work for using personal email address](https://git.kernel.org/pub/scm/linux/kernel/git/netdev/net.git/commit/?id=4acd47644ef1e1c8f8f5bc40b7cf1c5b9bcbbc4e)
+* [The Endless Acid Banger: algorithmic self-composing acid techno music](https://www.vitling.xyz/toys/acid-banger/)
+  * *Published on 20/04/2021*
+* [Neighbour manages to pollute the 2.4 ghz spectrum with his 120 IoT devices](https://devrant.com/rants/4186069/dev-my-neighbours-have-so-many-fucking-iot-devices-that-they-basically-fuck-over)
   * *Published on 20/04/2021*
 * [The “Granny Knot”](https://www.fieggen.com/shoelace/grannyknot.htm)
   * *Published on 19/04/2021*
 * [Software Infrastructure 2.0: A Wishlist](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html)
   * *Published on 19/04/2021*
-* [Shadow Simulator – run real applications over a simulated Internet topology](https://shadow.github.io/)
-  * *Published on 20/04/2021*
 
 
 ___
