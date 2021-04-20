@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `29` repositories and made `1408` commits.
+I contributed to `29` repositories and made `1409` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -27,6 +27,10 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#292 Auto-generated metrics for run #765099442](https://github.com/lowlighter/lowlighter/pull/292) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
+  * 37 files changed `++337 --343`
+* 🔃 Merged [#246 Improve markdown support and css tokens](https://github.com/lowlighter/metrics/pull/246) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 3 files changed `++38 --31`
 * 🔃 Opened [#246 Improve markdown support and css tokens](https://github.com/lowlighter/metrics/pull/246) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 3 files changed `++38 --31`
 * ⏺️ Created new branch `feat-improved-markdown` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -34,9 +38,6 @@ ___
   * 1 file changed `++1 --1`
 * 🔍 Reviewed [#244 Reverse order of commits listed in a recent activity entry](https://github.com/lowlighter/metrics/pull/244) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔍 Reviewed [#244 Reverse order of commits listed in a recent activity entry](https://github.com/lowlighter/metrics/pull/244) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#242 Condense merge commits](https://github.com/lowlighter/metrics/pull/242) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 1 file changed `++3 --2`
-* #️⃣ Closed [#241 Merge commits are not condensed](https://github.com/lowlighter/metrics/issues/241) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 
 ___
@@ -81,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [IBM employee forced to stop kernel work for using personal email address](https://git.kernel.org/pub/scm/linux/kernel/git/netdev/net.git/commit/?id=4acd47644ef1e1c8f8f5bc40b7cf1c5b9bcbbc4e)
+  * *Published on 20/04/2021*
 * [The “Granny Knot”](https://www.fieggen.com/shoelace/grannyknot.htm)
   * *Published on 19/04/2021*
-* [Zenreader: A 4.7 Inches E-Ink RSS Reader Powered by ESP32](https://www.tnhh.net/posts/zenreader-4.7-in-rss-eink-reader.html)
+* [Software Infrastructure 2.0: A Wishlist](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html)
   * *Published on 19/04/2021*
-* [Born secret – the heavy burden of bomb physics](https://www.nature.com/articles/d41586-021-01024-9)
-  * *Published on 19/04/2021*
-* [J2 open processor: an open source processor using the SuperH ISA](https://j-core.org/)
-  * *Published on 19/04/2021*
+* [Shadow Simulator – run real applications over a simulated Internet topology](https://shadow.github.io/)
+  * *Published on 20/04/2021*
 
 
 ___

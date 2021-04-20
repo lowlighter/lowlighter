@@ -943,7 +943,11 @@
     overflow: hidden;
   }
 
-/* Syntax highlighting */
+/* Markdown and syntax highlighting */
+  .markdown b, .markdown i {
+    display: inline-block;
+    width: 97%;
+  }
   code {
     background-color: #7777771F;
     display: inline-block;
@@ -958,35 +962,23 @@
     width: 97%;
     margin-top: 4px;
   }
-  .token.comment, .token.prolog, .token.doctype, .token.cdata {
-    color: #6a737d;
+  .token.comment {
+    color: #669900;
   }
   .token.punctuation {
-    color: #24292e;
+    color: #8a93a8;
   }
-  .token.namespace, .token.property, .token.tag, .token.boolean, .token.number, .token.constant, .token.symbol {
-    color: #d73a49;
+  .token.namespace, .token.constant, .token.symbol, .token.keyword {
+    color: #b44418;
   }
-  .token.selector, .token.attr-name, .token.string, .token.char, .token.builtin, .token.inserted {
-    color: #032f62;
+  .token.regex, .token.string, .token.char, .token.number, .token.boolean {
+    color: #2777AA;
   }
-  .token.operator, .token.entity, .token.url, .language-css .token.string, .style .token.string, .token.variable {
-    color: #005cc5;
+  .token.property, .token.tag {
+    color: #48428a;
   }
-  .token.atrule, .token.attr-value, .token.keyword {
-    color: #6f42c1
-  }
-  .token.regex, .token.important {
-    color: #e90;
-  }
-  .token.important, .token.bold {
-    font-weight: bold;
-  }
-  .token.italic {
-    font-style: italic;
-  }
-  .token.deleted {
-    color: red;
+  .token.builtin, .token.operator {
+    color: #106cbc;
   }
   .token.trimmed {
     font-style: italic;
@@ -1099,14 +1091,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="297.16819996329264" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="297.16819996329264" y="0" width="81.38450376250344" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="378.5527037257961" y="0" width="35.89185670367991" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="414.44456042947604" y="0" width="27.212111131504084" height="8" fill="#dad8d8"/>
-                    <rect mask="url(#languages-bar)" x="441.6566715609801" y="0" width="9.952876938606957" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="451.6095484995871" y="0" width="5.105057584656328" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="456.7146060842434" y="0" width="1.8089783885473065" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="458.52358447279073" y="0" width="1.4764155272093238" height="8" fill="#2c3e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="297.1909445466166" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="297.1909445466166" y="0" width="81.3719492438592" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="378.5628937904758" y="0" width="35.88869410232545" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="414.45158789280123" y="0" width="27.207913342726673" height="8" fill="#dad8d8"/>
+                    <rect mask="url(#languages-bar)" x="441.6595012355279" y="0" width="9.95134159006623" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="451.61084282559415" y="0" width="5.104270069371926" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="456.71511289496607" y="0" width="1.8086993323160083" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="458.5238122272821" y="0" width="1.476187772717915" height="8" fill="#2c3e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1117,7 +1109,7 @@
                   </div>
                             <small>
                                 <div>2.25 MB</div>
-                                <div>64.6%</div>
+                                <div>64.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1169,7 +1161,7 @@
                   </div>
                             <small>
                                 <div>206 kB</div>
-                                <div>5.92%</div>
+                                <div>5.91%</div>
                             </small>
                         </div>
                         <div class="field language details">
