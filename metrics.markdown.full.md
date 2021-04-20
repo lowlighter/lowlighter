@@ -82,28 +82,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Apple TV4K Gets A12 Bionic](https://www.apple.com/apple-tv-4k/)
+* [Pulumi 3.0](https://www.pulumi.com/blog/pulumi-3-0/)
+  * *Published on 20/04/2021*
+* [Python Software Foundation Is Hiring a Python Packaging Project Manager](https://pyfound.blogspot.com/2021/04/the-psf-is-hiring-python-packaging.html)
   * *Published on 20/04/2021*
 * [Grafana, Loki, and Tempo will be relicensed to AGPLv3](https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/)
   * *Published on 20/04/2021*
-* [iPad Pro M1](https://www.apple.com/newsroom/2021/04/apple-unveils-new-ipad-pro-with-m1-chip-and-stunning-liquid-retina-xdr-display/)
-  * *Published on 20/04/2021*
-* [Node.js 16 Available Now](https://nodejs.medium.com/node-js-16-available-now-7f5099a97e70)
+* [Show HN: I&#39;m working on a open-source, self-hosted alternative to Disqus](https://cusdis.com)
   * *Published on 20/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> RT <span class="mention">@GitHubEnt</span>: The key for teams using open source securely? Security overviews, Dependabot, and dependency reviews for organizations and t…
+>
+> *19:21 on 20/04/2021*
+
 > urql is a GraphQL client that exposes a set of helpers for several frameworks including React, Vue, and Svelte. Join <span class="mention">@bdougieYO</span> and <span class="mention">@_philpl</span> in learning the latest in consuming GraphQL.<br/><br/><a href="https://t.co/TPGqVteVhe" class="link">meetup.com/github-virtual…</a> <br/><a href="https://t.co/DYGEdoW28i" class="link">pic.twitter.com/DYGEdoW28i</a>
 >
 > <a href=""><img src="https://pbs.twimg.com/media/EzW2Ii-VoA0cWqS.jpg" alt="" height="200"></a>
 >
 > *18:30 on 19/04/2021*
-
-> Nearly 12,000 people in the open source community helped <span class="mention">@NASAPersevere</span> write the code for the first autonomous powered flight on another planet. Find out how we’re celebrating these interplanetary devs. <a href="https://t.co/snaMNMMjqV" class="link">github.blog/2021-04-19-ope…</a> <br/><a href="https://t.co/QrTwGsewP7" class="link">pic.twitter.com/QrTwGsewP7</a>
->
-> *15:33 on 19/04/2021*
 
 
 
