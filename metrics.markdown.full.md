@@ -84,12 +84,12 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [The Endless Acid Banger: algorithmic self-composing acid techno music](https://www.vitling.xyz/toys/acid-banger/)
   * *Published on 20/04/2021*
-* [Neighbour manages to pollute the 2.4 ghz spectrum with his 120 IoT devices](https://devrant.com/rants/4186069/dev-my-neighbours-have-so-many-fucking-iot-devices-that-they-basically-fuck-over)
+* [Show HN: Shepherd.com – Discover books in a new way, like wandering a bookstore](https://shepherd.com/)
   * *Published on 20/04/2021*
-* [The “Granny Knot”](https://www.fieggen.com/shoelace/grannyknot.htm)
-  * *Published on 19/04/2021*
-* [Software Infrastructure 2.0: A Wishlist](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html)
-  * *Published on 19/04/2021*
+* [Power consumption of Game Boy flash cartridges](https://gekkio.fi/blog/2021/power-consumption-of-game-boy-flash-cartridges/)
+  * *Published on 18/04/2021*
+* [PSPad: A freeware programmer&#39;s editor for Windows](https://www.pspad.com/en/)
+  * *Published on 20/04/2021*
 
 
 ___
