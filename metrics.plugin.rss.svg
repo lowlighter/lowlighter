@@ -1091,6 +1091,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Netdata: Open-source real-time monitoring platform</div>
+                                <div class="date">21/04/2021</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Tetris-OS: An operating system that only plays Tetris</div>
                                 <div class="date">21/04/2021</div>
                             </div>
@@ -1100,16 +1109,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Git from the Bottom Up</div>
-                                <div class="date">21/04/2021</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Apple Introduces AirTag</div>
+                                <div class="title">Write Your First Quantum Program (Common Lisp)</div>
                                 <div class="date">20/04/2021</div>
                             </div>
                         </div>
@@ -1118,7 +1118,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">.NET MAUI: .NET Multi-Platform App UI</div>
+                                <div class="title">Porting Doom to the Fastly edge serverless platform</div>
                                 <div class="date">20/04/2021</div>
                             </div>
                         </div>
