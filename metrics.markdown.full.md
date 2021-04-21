@@ -82,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Tetris-OS: An operating system that only plays Tetris](https://github.com/jdah/tetris-os)
+* [Beam VM Wisdoms](http://beam-wisdoms.clau.se/en/latest/)
   * *Published on 21/04/2021*
-* [Netdata: Open-source real-time monitoring platform](https://github.com/netdata/netdata)
+* [Tracking the WhatsApp habits of 5000 random Smartphones](https://jorislacance.fr/blog/2021/04/16/whatsapp-tracking-2)
   * *Published on 21/04/2021*
-* [Belarusian regime’s thugs shut down Imaguru, the country’s key startup hub](https://techcrunch.com/2021/04/20/belarusian-regimes-thugs-shut-down-imaguru-the-countrys-key-startup-hub/)
+* [Hunting down the stuck BGP routes](https://blog.benjojo.co.uk/post/bgp-stuck-routes-tcp-zero-window)
   * *Published on 21/04/2021*
-* [Porting Doom to the Fastly edge serverless platform](https://www.fastly.com/blog/compute-edge-porting-the-iconic-video-game-doom)
-  * *Published on 20/04/2021*
+* [“They introduce kernel bugs on purpose”](https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/)
+  * *Published on 21/04/2021*
 
 
 ___
