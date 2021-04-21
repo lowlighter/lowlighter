@@ -84,11 +84,11 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [Tetris-OS: An operating system that only plays Tetris](https://github.com/jdah/tetris-os)
   * *Published on 21/04/2021*
-* [Apple Introduces AirTag](https://www.apple.com/newsroom/2021/04/apple-introduces-airtag/)
-  * *Published on 20/04/2021*
-* [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
+* [Netdata: Open-source real-time monitoring platform](https://github.com/netdata/netdata)
   * *Published on 21/04/2021*
-* [.NET MAUI: .NET Multi-Platform App UI](https://github.com/dotnet/maui)
+* [Belarusian regime’s thugs shut down Imaguru, the country’s key startup hub](https://techcrunch.com/2021/04/20/belarusian-regimes-thugs-shut-down-imaguru-the-countrys-key-startup-hub/)
+  * *Published on 21/04/2021*
+* [Porting Doom to the Fastly edge serverless platform](https://www.fastly.com/blog/compute-edge-porting-the-iconic-video-game-doom)
   * *Published on 20/04/2021*
 
 
