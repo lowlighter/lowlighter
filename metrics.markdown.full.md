@@ -82,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Linux bans University of Minnesota for sending buggy patches in name of research](https://www.neowin.net/news/linux-bans-university-of-minnesota-for-sending-buggy-patches-in-the-name-of-research/)
+* [UMN CS&amp;E Statement on Linux Kernel Research](https://cse.umn.edu/cs/statement-cse-linux-kernel-research-april-21-2021)
   * *Published on 21/04/2021*
-* [New Bill to Ban US Government from Buying Location Data [pdf]](https://www.wyden.senate.gov/imo/media/doc/The%20Fourth%20Amendment%20Is%20Not%20For%20Sale%20Act%20of%202021%20Bill%20Text.pdf)
+* [Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer](https://signal.org/blog/cellebrite-vulnerabilities/)
   * *Published on 21/04/2021*
-* [Exploiting Vulnerabilities in Cellebrite UFED and Physical Analyzer](https://signal.org/blog/cellebrite-vulnerabilities/)
+* [“They introduce kernel bugs on purpose”](https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/)
   * *Published on 21/04/2021*
-* [Large collection of machine learning paper notes](https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c)
-  * *Published on 21/04/2021*
+* [Cellular Automata (1983) [pdf]](https://content.wolfram.com/uploads/sites/34/2020/07/cellular-automata.pdf)
+  * *Published on 19/04/2021*
 
 
 ___
