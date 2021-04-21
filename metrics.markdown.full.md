@@ -82,28 +82,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Beam VM Wisdoms](http://beam-wisdoms.clau.se/en/latest/)
+* [Linux bans University of Minnesota for sending buggy patches in name of research](https://www.neowin.net/news/linux-bans-university-of-minnesota-for-sending-buggy-patches-in-the-name-of-research/)
   * *Published on 21/04/2021*
-* [Tracking the WhatsApp habits of 5000 random Smartphones](https://jorislacance.fr/blog/2021/04/16/whatsapp-tracking-2)
+* [New Bill to Ban US Government from Buying Location Data [pdf]](https://www.wyden.senate.gov/imo/media/doc/The%20Fourth%20Amendment%20Is%20Not%20For%20Sale%20Act%20of%202021%20Bill%20Text.pdf)
   * *Published on 21/04/2021*
-* [Hunting down the stuck BGP routes](https://blog.benjojo.co.uk/post/bgp-stuck-routes-tcp-zero-window)
+* [Exploiting Vulnerabilities in Cellebrite UFED and Physical Analyzer](https://signal.org/blog/cellebrite-vulnerabilities/)
   * *Published on 21/04/2021*
-* [“They introduce kernel bugs on purpose”](https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/)
+* [Large collection of machine learning paper notes](https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c)
   * *Published on 21/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> It's the GitHub Release Radar! Check out some of the projects we're keeping an eye on. <a href="https://t.co/UysNiPl6W6" class="link">github.blog/2021-04-09-rel…</a> <br/><a href="https://t.co/MuH9Nt46gT" class="link">pic.twitter.com/MuH9Nt46gT</a>
+>
+> <a href=""><img src="https://pbs.twimg.com/media/Ezg8J76X0AEObjm.jpg" alt="" height="200"></a>
+>
+> *17:32 on 21/04/2021*
+
 > RT <span class="mention">@GitHubEnt</span>: The key for teams using open source securely? Security overviews, Dependabot, and dependency reviews for organizations and t…
 >
 > *19:21 on 20/04/2021*
-
-> urql is a GraphQL client that exposes a set of helpers for several frameworks including React, Vue, and Svelte. Join <span class="mention">@bdougieYO</span> and <span class="mention">@_philpl</span> in learning the latest in consuming GraphQL.<br/><br/><a href="https://t.co/TPGqVteVhe" class="link">meetup.com/github-virtual…</a> <br/><a href="https://t.co/DYGEdoW28i" class="link">pic.twitter.com/DYGEdoW28i</a>
->
-> <a href=""><img src="https://pbs.twimg.com/media/EzW2Ii-VoA0cWqS.jpg" alt="" height="200"></a>
->
-> *18:30 on 19/04/2021*
 
 
 
