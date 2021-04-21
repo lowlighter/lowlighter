@@ -82,13 +82,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Pulumi 3.0](https://www.pulumi.com/blog/pulumi-3-0/)
+* [Tetris-OS: An operating system that only plays Tetris](https://github.com/jdah/tetris-os)
+  * *Published on 21/04/2021*
+* [.NET MAUI: .NET Multi-Platform App UI](https://github.com/dotnet/maui)
   * *Published on 20/04/2021*
-* [Python Software Foundation Is Hiring a Python Packaging Project Manager](https://pyfound.blogspot.com/2021/04/the-psf-is-hiring-python-packaging.html)
+* [Apple Introduces AirTag](https://www.apple.com/newsroom/2021/04/apple-introduces-airtag/)
   * *Published on 20/04/2021*
-* [Grafana, Loki, and Tempo will be relicensed to AGPLv3](https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/)
-  * *Published on 20/04/2021*
-* [Show HN: I&#39;m working on a open-source, self-hosted alternative to Disqus](https://cusdis.com)
+* [.NET for Beginners (2020)](https://dusted.codes/dotnet-for-beginners)
   * *Published on 20/04/2021*
 
 
