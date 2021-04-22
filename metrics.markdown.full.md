@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `29` repositories and made `1413` commits.
+I contributed to `29` repositories and made `1418` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -27,18 +27,17 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
-* 🔃 Merged [#251 Add `repositories_skipped` option](https://github.com/lowlighter/metrics/pull/251) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 5 files changed `++17 --1`
-* 🔃 Opened [#251 Add `repositories_skipped` option](https://github.com/lowlighter/metrics/pull/251) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 5 files changed `++17 --1`
-* ⏺️ Created new branch `feat-repositories-skip-global` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#249 Add `plugin_lines_skipped` option](https://github.com/lowlighter/metrics/pull/249) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++10 --3`
-* 🔃 Opened [#250 Add user follow-up section](https://github.com/lowlighter/metrics/pull/250) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 13 files changed `++167 --69`
-* ⏺️ Created new branch `feat-followup-user` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Opened [#249 Add `plugin_lines_skipped` option](https://github.com/lowlighter/metrics/pull/249) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++10 --3`
+* 🔃 Closed [#305 Auto-generated metrics for run #772709856](https://github.com/lowlighter/lowlighter/pull/305) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
+  * 8 files changed `++75 --78`
+* #️⃣ Opened [#254 Auto parse reference to issues/pr in metrics insights](https://github.com/lowlighter/metrics/issues/254) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#252 Add `plugin_activity_skipped` option](https://github.com/lowlighter/metrics/pull/252) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++12 --1`
+* #️⃣ Opened [#253 Add copy-paste button on website for action/markdown](https://github.com/lowlighter/metrics/issues/253) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Opened [#252 Add `plugin_activity_skipped` option](https://github.com/lowlighter/metrics/pull/252) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++12 --1`
+* ⏺️ Created new branch `feat-activity-skipped` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#250 Add user follow-up section](https://github.com/lowlighter/metrics/pull/250) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 14 files changed `++180 --69`
 
 
 ___
@@ -83,28 +82,30 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Show HN: How to Find a Job as a Software Engineer in Germany – Guide](https://germantechjobs.de/blog/how-to-find-job-as-software-developer-in-germany-complete-guide)
+* [Semgrep: Semantic grep for code](https://semgrep.dev)
+  * *Published on 22/04/2021*
+* [Zellij – A Terminal Workspace and Multiplexer Written in Rust](http://zellij.dev/news/beta#)
+  * *Published on 22/04/2021*
+* [Show HN: Noise in Creative Coding](https://varun.ca/noise/)
   * *Published on 22/04/2021*
 * [Unicode Proposal – Textile Care Symbols](https://github.com/Crissov/unicode-proposals/issues/410)
-  * *Published on 22/04/2021*
-* [Challenges Building an Open-Source E Ink Laptop](https://alexsoto.dev/challenges-building-an-open-source-eink-laptop.html)
-  * *Published on 22/04/2021*
-* [Show HN: I made a sandbox game to help with financial planning](https://simulator.money/)
   * *Published on 22/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> Happy Earth Day! 🌎 GitHub is proudly committing to a sustainable future to support and improve the health of our planet.<br/><br/>
+>
+> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2019/03/community-twitter.png?fit=1201%2C630" alt="Environmental sustainability at GitHub - The GitHub Blog" height="200"></a>
+>
+> *17:17 on 22/04/2021*
+
 > It's the GitHub Release Radar! Check out some of the projects we're keeping an eye on. <a href="https://t.co/UysNiPl6W6" class="link">github.blog/2021-04-09-rel…</a> <br/><a href="https://t.co/MuH9Nt46gT" class="link">pic.twitter.com/MuH9Nt46gT</a>
 >
 > <a href=""><img src="https://pbs.twimg.com/media/Ezg8J76X0AEObjm.jpg" alt="" height="200"></a>
 >
 > *17:32 on 21/04/2021*
-
-> RT <span class="mention">@GitHubEnt</span>: The key for teams using open source securely? Security overviews, Dependabot, and dependency reviews for organizations and t…
->
-> *19:21 on 20/04/2021*
 
 
 

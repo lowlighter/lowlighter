@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="206" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="240" class="">
     <defs>
         <style/>
     </defs>
@@ -159,6 +159,22 @@
 
   .field.language.details &gt; *, .field.language.details small &gt; * {
     flex: 1 1 0;
+  }
+
+/* Follow-up */
+  .followup.legend {
+    font-size: 12px;
+  }
+  .followup.legend svg {
+    margin: 0 3px;
+    width: 14px;
+    height: 14px;
+  }
+  .followup.legend svg:first-child {
+    margin-left: 0;
+  }
+  .followup.legend svg:last-child {
+    margin-right: 0;
   }
 
 /* Labels */
@@ -1094,14 +1110,14 @@
             
           </div>
                         <div class="tweet">
+                  Happy Earth Day! 🌎 GitHub is proudly committing to a sustainable future to support and improve the health of our planet.<br /><br /><a href="https://t.co/lqW3IeE966" class="link">github.blog/2021-04-22-env…</a>
+                  
+                  <div class="date">17:17 on 22/04/2021</div>
+                </div>
+                        <div class="tweet">
                   It's the GitHub Release Radar! Check out some of the projects we're keeping an eye on. <a href="https://t.co/UysNiPl6W6" class="link">github.blog/2021-04-09-rel…</a> <a href="https://t.co/MuH9Nt46gT" class="link">pic.twitter.com/MuH9Nt46gT</a>
                   
                   <div class="date">17:32 on 21/04/2021</div>
-                </div>
-                        <div class="tweet">
-                  RT <span class="mention">@GitHubEnt</span>: The key for teams using open source securely? Security overviews, Dependabot, and dependency reviews for organizations and t…
-                  
-                  <div class="date">19:21 on 20/04/2021</div>
                 </div>
                     </section>
                 </div>
