@@ -82,13 +82,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer](https://signal.org/blog/cellebrite-vulnerabilities/)
-  * *Published on 21/04/2021*
-* [Running code within another process&#39;s address space](https://lwn.net/SubscriberLink/852662/af59b68d9663b1a0/)
+* [The Real Reason to End the Death Penalty](http://paulgraham.com/real.html)
   * *Published on 22/04/2021*
-* [Godot 3.3](https://godotengine.org/article/godot-3-3-has-arrived)
-  * *Published on 21/04/2021*
-* [Converting Markdown to ePub or Mobi Using Pandoc](https://themythicalengineer.com/converting-markdown-to-epub-mobi.html)
+* [Show HN: I made a sandbox game to help with financial planning](https://simulator.money/)
+  * *Published on 22/04/2021*
+* [Tiny Container Challenge: Building a 6kB Containerized HTTP Server](https://devopsdirective.com/posts/2021/04/tiny-container-image/)
+  * *Published on 22/04/2021*
+* [Unicode Proposal – Textile Care Symbols](https://github.com/Crissov/unicode-proposals/issues/410)
   * *Published on 22/04/2021*
 
 
