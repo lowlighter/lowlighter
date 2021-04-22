@@ -82,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [UMN CS&amp;E Statement on Linux Kernel Research](https://cse.umn.edu/cs/statement-cse-linux-kernel-research-april-21-2021)
-  * *Published on 21/04/2021*
 * [Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer](https://signal.org/blog/cellebrite-vulnerabilities/)
+  * *Published on 21/04/2021*
+* [OpenCV AI Competition 2021 Highlights and Team Profiles Part 1](https://opencv.org/opencv-ai-competition-2021-highlights-and-team-profiles-part-1/)
+  * *Published on 21/04/2021*
+* [Godot 3.3](https://godotengine.org/article/godot-3-3-has-arrived)
   * *Published on 21/04/2021*
 * [“They introduce kernel bugs on purpose”](https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/)
   * *Published on 21/04/2021*
-* [Cellular Automata (1983) [pdf]](https://content.wolfram.com/uploads/sites/34/2020/07/cellular-automata.pdf)
-  * *Published on 19/04/2021*
 
 
 ___
