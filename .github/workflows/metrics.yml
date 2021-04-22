@@ -254,7 +254,7 @@ jobs:
       # ======================================================================================
       # 🎟️ Follow-up of issues and pull requests
 
-      # Display ratio of open/closed/merged issues and pull requests
+      # Display ratio of open/closed/merged issues and pull requests on repositories
       - name: 🎟️ Follow-up plugin
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
@@ -263,6 +263,19 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_followup: yes
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
+          
+      # Display ratio of open/closed/merged issues and pull requests created by user
+      - name: 🎟️ Follow-up plugin (user)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.followup.user.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_sections: user
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
 
