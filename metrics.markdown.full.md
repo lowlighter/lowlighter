@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `29` repositories and made `1410` commits.
+I contributed to `29` repositories and made `1413` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -27,17 +27,18 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
-* 🔃 Merged [#292 Auto-generated metrics for run #765099442](https://github.com/lowlighter/lowlighter/pull/292) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
-  * 37 files changed `++337 --343`
-* 🔃 Merged [#246 Improve markdown support and css tokens](https://github.com/lowlighter/metrics/pull/246) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 3 files changed `++38 --31`
-* 🔃 Opened [#246 Improve markdown support and css tokens](https://github.com/lowlighter/metrics/pull/246) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 3 files changed `++38 --31`
-* ⏺️ Created new branch `feat-improved-markdown` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#244 Reverse order of commits listed in a recent activity entry](https://github.com/lowlighter/metrics/pull/244) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 1 file changed `++1 --1`
-* 🔍 Reviewed [#244 Reverse order of commits listed in a recent activity entry](https://github.com/lowlighter/metrics/pull/244) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔍 Reviewed [#244 Reverse order of commits listed in a recent activity entry](https://github.com/lowlighter/metrics/pull/244) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#251 Add `repositories_skipped` option](https://github.com/lowlighter/metrics/pull/251) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 5 files changed `++17 --1`
+* 🔃 Opened [#251 Add `repositories_skipped` option](https://github.com/lowlighter/metrics/pull/251) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 5 files changed `++17 --1`
+* ⏺️ Created new branch `feat-repositories-skip-global` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#249 Add `plugin_lines_skipped` option](https://github.com/lowlighter/metrics/pull/249) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++10 --3`
+* 🔃 Opened [#250 Add user follow-up section](https://github.com/lowlighter/metrics/pull/250) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 13 files changed `++167 --69`
+* ⏺️ Created new branch `feat-followup-user` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Opened [#249 Add `plugin_lines_skipped` option](https://github.com/lowlighter/metrics/pull/249) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++10 --3`
 
 
 ___
@@ -82,13 +83,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [The Real Reason to End the Death Penalty](http://paulgraham.com/real.html)
-  * *Published on 22/04/2021*
-* [Show HN: I made a sandbox game to help with financial planning](https://simulator.money/)
-  * *Published on 22/04/2021*
-* [Tiny Container Challenge: Building a 6kB Containerized HTTP Server](https://devopsdirective.com/posts/2021/04/tiny-container-image/)
+* [Show HN: How to Find a Job as a Software Engineer in Germany – Guide](https://germantechjobs.de/blog/how-to-find-job-as-software-developer-in-germany-complete-guide)
   * *Published on 22/04/2021*
 * [Unicode Proposal – Textile Care Symbols](https://github.com/Crissov/unicode-proposals/issues/410)
+  * *Published on 22/04/2021*
+* [Challenges Building an Open-Source E Ink Laptop](https://alexsoto.dev/challenges-building-an-open-source-eink-laptop.html)
+  * *Published on 22/04/2021*
+* [Show HN: I made a sandbox game to help with financial planning](https://simulator.money/)
   * *Published on 22/04/2021*
 
 
