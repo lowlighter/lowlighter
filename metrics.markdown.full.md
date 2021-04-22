@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `29` repositories and made `1418` commits.
+I contributed to `30` repositories and made `1418` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -27,6 +27,7 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* #️⃣ Opened [#302 Why only `void` type for routes?](https://github.com/oakserver/oak/issues/302) in [oakserver/oak](https://github.com/oakserver/oak)
 * 🔃 Closed [#305 Auto-generated metrics for run #772709856](https://github.com/lowlighter/lowlighter/pull/305) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
   * 8 files changed `++75 --78`
 * #️⃣ Opened [#254 Auto parse reference to issues/pr in metrics insights](https://github.com/lowlighter/metrics/issues/254) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -36,8 +37,6 @@ ___
 * 🔃 Opened [#252 Add `plugin_activity_skipped` option](https://github.com/lowlighter/metrics/pull/252) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 2 files changed `++12 --1`
 * ⏺️ Created new branch `feat-activity-skipped` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#250 Add user follow-up section](https://github.com/lowlighter/metrics/pull/250) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 14 files changed `++180 --69`
 
 
 ___
@@ -82,30 +81,30 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Stranded sailor allowed to leave abandoned ship after four years](https://www.bbc.com/news/world-middle-east-56842506)
+  * *Published on 22/04/2021*
+* [Cerebras’ New Monster AI Chip Adds 1.4T Transistors](https://spectrum.ieee.org/tech-talk/semiconductors/processors/cerebras-giant-ai-chip-now-has-a-trillions-more-transistors)
+  * *Published on 22/04/2021*
 * [Semgrep: Semantic grep for code](https://semgrep.dev)
   * *Published on 22/04/2021*
-* [Zellij – A Terminal Workspace and Multiplexer Written in Rust](http://zellij.dev/news/beta#)
-  * *Published on 22/04/2021*
-* [Show HN: Noise in Creative Coding](https://varun.ca/noise/)
-  * *Published on 22/04/2021*
-* [Unicode Proposal – Textile Care Symbols](https://github.com/Crissov/unicode-proposals/issues/410)
+* [Argentine version of Google falls into “wrong” hands](https://en.mercopress.com/2021/04/22/argentine-version-of-google-falls-into-wrong-hands-leading-to-search-engine-s-temporary-collapse)
   * *Published on 22/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> Happy Earth Day! 🌎 GitHub is proudly committing to a sustainable future to support and improve the health of our planet.<br/><br/>
+> To help protect maintainers from cryptomining abuse, we’ve made two changes to how we treat PRs from public forks in Actions. Check out the updates. <br/><br/>
 >
-> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2019/03/community-twitter.png?fit=1201%2C630" alt="Environmental sustainability at GitHub - The GitHub Blog" height="200"></a>
+> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2019/03/product-social.png?fit=1201%2C630" alt="GitHub Actions update: Helping maintainers combat bad actors - The GitHub Blog" height="200"></a>
 >
-> *17:17 on 22/04/2021*
+> *21:41 on 22/04/2021*
 
-> It's the GitHub Release Radar! Check out some of the projects we're keeping an eye on. <a href="https://t.co/UysNiPl6W6" class="link">github.blog/2021-04-09-rel…</a> <br/><a href="https://t.co/MuH9Nt46gT" class="link">pic.twitter.com/MuH9Nt46gT</a>
+> Interested in contributing to the open source software that's combating climate change? To protect our planet developers <span class="mention">@globalforests</span> are using open source software to fight deforestation. Check it out! 
 >
-> <a href=""><img src="https://pbs.twimg.com/media/Ezg8J76X0AEObjm.jpg" alt="" height="200"></a>
+> <a href="GitHub"><img src="https://github.githubassets.com/images/modules/site/readme/global-forest-watch/global-forest-watch-social.jpg" alt="How Global Forest Watch uses open source to fight deforestation · The ReadME Project" height="200"></a>
 >
-> *17:32 on 21/04/2021*
+> *18:50 on 22/04/2021*
 
 
 
