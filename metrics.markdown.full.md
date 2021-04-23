@@ -83,12 +83,12 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [Stranded sailor allowed to leave abandoned ship after four years](https://www.bbc.com/news/world-middle-east-56842506)
   * *Published on 22/04/2021*
-* [Cerebras’ New Monster AI Chip Adds 1.4T Transistors](https://spectrum.ieee.org/tech-talk/semiconductors/processors/cerebras-giant-ai-chip-now-has-a-trillions-more-transistors)
+* [The Rise of North Korea&#39;s Hacking Army](https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army)
   * *Published on 22/04/2021*
-* [Semgrep: Semantic grep for code](https://semgrep.dev)
+* [Cerebras’ new monster AI chip adds 1.4T transistors](https://spectrum.ieee.org/tech-talk/semiconductors/processors/cerebras-giant-ai-chip-now-has-a-trillions-more-transistors)
   * *Published on 22/04/2021*
-* [Argentine version of Google falls into “wrong” hands](https://en.mercopress.com/2021/04/22/argentine-version-of-google-falls-into-wrong-hands-leading-to-search-engine-s-temporary-collapse)
-  * *Published on 22/04/2021*
+* [The USPS is running a &#39;covert&#39; program to monitor Americans&#39; social media posts](https://news.yahoo.com/the-postal-service-is-running-a-running-a-covert-operations-program-that-monitors-americans-social-media-posts-160022919.html)
+  * *Published on 21/04/2021*
 
 
 ___
