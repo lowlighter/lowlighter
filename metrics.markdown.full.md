@@ -81,14 +81,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Bugs allowed hackers to dox John Deere tractor owners](https://www.vice.com/en/article/4avy8j/bugs-allowed-hackers-to-dox-all-john-deere-owners)
-  * *Published on 22/04/2021*
 * [Why Lichess will always be free](https://lichess.org/blog/YF-ZORQAACAA89PI/why-lichess-will-always-be-free.)
+  * *Published on 23/04/2021*
+* [Beej’s Guide to C Programming [pdf]](http://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf)
+  * *Published on 23/04/2021*
+* [Ask HN: I am building a bugtracker. What would you like to see?](https://bugasura.io/)
   * *Published on 23/04/2021*
 * [Stranded sailor allowed to leave abandoned ship after four years](https://www.bbc.com/news/world-middle-east-56842506)
   * *Published on 22/04/2021*
-* [The Boyer-Moore Fast String Searching Algorithm](https://www.cs.utexas.edu/users/moore/best-ideas/string-searching/)
-  * *Published on 23/04/2021*
 
 
 ___
