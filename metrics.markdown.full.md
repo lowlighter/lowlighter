@@ -81,28 +81,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Jaguar Land Rover to suspend output due to chip shortage](https://www.bbc.com/news/business-56841946)
+  * *Published on 23/04/2021*
+* [Light Pollution Map](https://www.lightpollutionmap.info/)
+  * *Published on 23/04/2021*
+* [Cycles X](https://code.blender.org/2021/04/cycles-x/)
+  * *Published on 23/04/2021*
 * [Lego Microscope](https://github.com/tobetz/LegoMicroscope)
-  * *Published on 23/04/2021*
-* [Convicted Post Office workers have names cleared after cover-up of flawed system](https://www.bbc.co.uk/news/business-56859357)
-  * *Published on 23/04/2021*
-* [Why Lichess will always be free](https://lichess.org/blog/YF-ZORQAACAA89PI/why-lichess-will-always-be-free.)
-  * *Published on 23/04/2021*
-* [How to Interchange Ed25119 Keys](https://www.tbray.org/ongoing/When/202x/2021/04/19/PKI-Detective)
   * *Published on 23/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> RT <span class="mention">@GitHubEnt</span>: We’re live on Demo Days! Learn best practices in this deep dive on how developers use open source securely within their orga…
+>
+> *18:11 on 23/04/2021*
+
 > Try out this handy tool from <span class="mention">@katherinecodes</span> to help create and customize your next project's README 📖  <a href="https://t.co/4qC7gGt6le" class="link">readme.so</a> <br/><a href="https://t.co/onFJj9rr7D" class="link">pic.twitter.com/onFJj9rr7D</a>
 >
 > <a href=""><img src="https://pbs.twimg.com/media/Ezp1hAQXsAEcTPX.jpg" alt="" height="200"></a>
 >
 > *11:00 on 23/04/2021*
-
-> 🎉  Happy 4.0 to n³ - the fast, extensible, full-featured terminal file manager for Linux, macOS, Pi, Cygwin, and more! <a href="https://t.co/McSAF5OgWo" class="link">github.com/jarun/nnn</a> <br/><a href="https://t.co/NeXReCACmD" class="link">pic.twitter.com/NeXReCACmD</a>
->
-> *04:00 on 23/04/2021*
 
 
 
