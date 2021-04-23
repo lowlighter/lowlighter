@@ -81,30 +81,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Bugs allowed hackers to dox John Deere tractor owners](https://www.vice.com/en/article/4avy8j/bugs-allowed-hackers-to-dox-all-john-deere-owners)
+  * *Published on 22/04/2021*
+* [Why Lichess will always be free](https://lichess.org/blog/YF-ZORQAACAA89PI/why-lichess-will-always-be-free.)
+  * *Published on 23/04/2021*
 * [Stranded sailor allowed to leave abandoned ship after four years](https://www.bbc.com/news/world-middle-east-56842506)
   * *Published on 22/04/2021*
-* [The Rise of North Korea&#39;s Hacking Army](https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army)
-  * *Published on 22/04/2021*
-* [Cerebras’ new monster AI chip adds 1.4T transistors](https://spectrum.ieee.org/tech-talk/semiconductors/processors/cerebras-giant-ai-chip-now-has-a-trillions-more-transistors)
-  * *Published on 22/04/2021*
-* [The USPS is running a &#39;covert&#39; program to monitor Americans&#39; social media posts](https://news.yahoo.com/the-postal-service-is-running-a-running-a-covert-operations-program-that-monitors-americans-social-media-posts-160022919.html)
-  * *Published on 21/04/2021*
+* [The Boyer-Moore Fast String Searching Algorithm](https://www.cs.utexas.edu/users/moore/best-ideas/string-searching/)
+  * *Published on 23/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> 🎉  Happy 4.0 to n³ - the fast, extensible, full-featured terminal file manager for Linux, macOS, Pi, Cygwin, and more! <a href="https://t.co/McSAF5OgWo" class="link">github.com/jarun/nnn</a> <br/><a href="https://t.co/NeXReCACmD" class="link">pic.twitter.com/NeXReCACmD</a>
+>
+> *04:00 on 23/04/2021*
+
 > To help protect maintainers from cryptomining abuse, we’ve made two changes to how we treat PRs from public forks in Actions. Check out the updates. <br/><br/>
 >
 > <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2019/03/product-social.png?fit=1201%2C630" alt="GitHub Actions update: Helping maintainers combat bad actors - The GitHub Blog" height="200"></a>
 >
 > *21:41 on 22/04/2021*
-
-> Interested in contributing to the open source software that's combating climate change? To protect our planet developers <span class="mention">@globalforests</span> are using open source software to fight deforestation. Check it out! 
->
-> <a href="GitHub"><img src="https://github.githubassets.com/images/modules/site/readme/global-forest-watch/global-forest-watch-social.jpg" alt="How Global Forest Watch uses open source to fight deforestation · The ReadME Project" height="200"></a>
->
-> *18:50 on 22/04/2021*
 
 
 
