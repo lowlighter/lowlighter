@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="52" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="269" class="">
     <defs>
         <style/>
     </defs>
@@ -1098,15 +1098,985 @@
             <section>
                 <h2 class="field">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M10.75 9a.75.75 0 000 1.5h1.5a.75.75 0 000-1.5h-1.5z"/><path fill-rule="evenodd" d="M0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0114.25 14H1.75A1.75 1.75 0 010 12.25v-8.5zm14.5 0V5h-13V3.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25zm0 2.75h-13v5.75c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V6.5z"/></svg>
-      Stock prices 
+      Stock prices for TSLA
     </h2>
-                <div class="row fill-width">
+                <div class="row">
                     <section>
-                        <div class="field error">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/></svg>
-            API returned 503
+                        <div class="field">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 14.25c0 .138.112.25.25.25H4v-1.25a.75.75 0 01.75-.75h2.5a.75.75 0 01.75.75v1.25h2.25a.25.25 0 00.25-.25V1.75a.25.25 0 00-.25-.25h-8.5a.25.25 0 00-.25.25v12.5zM1.75 16A1.75 1.75 0 010 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 00.25-.25V8.285a.25.25 0 00-.111-.208l-1.055-.703a.75.75 0 11.832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0114.25 16h-3.5a.75.75 0 01-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 01-.75-.75V14h-1v1.25a.75.75 0 01-.75.75h-3zM3 3.75A.75.75 0 013.75 3h.5a.75.75 0 010 1.5h-.5A.75.75 0 013 3.75zM3.75 6a.75.75 0 000 1.5h.5a.75.75 0 000-1.5h-.5zM3 9.75A.75.75 0 013.75 9h.5a.75.75 0 010 1.5h-.5A.75.75 0 013 9.75zM7.75 9a.75.75 0 000 1.5h.5a.75.75 0 000-1.5h-.5zM7 6.75A.75.75 0 017.75 6h.5a.75.75 0 010 1.5h-.5A.75.75 0 017 6.75zM7.75 3a.75.75 0 000 1.5h.5a.75.75 0 000-1.5h-.5z"/></svg>
+            Tesla, Inc.
+          </div>
+                        <div class="field">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/></svg>
+            Valued at 729.40 USD
           </div>
                     </section>
+                    <section>
+                        <div class="field">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"/></svg>
+            Today
+          </div>
+                        <div class="field">
+            
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M3.47 7.78a.75.75 0 010-1.06l4.25-4.25a.75.75 0 011.06 0l4.25 4.25a.75.75 0 01-1.06 1.06L9 4.81v7.44a.75.75 0 01-1.5 0V4.81L4.53 7.78a.75.75 0 01-1.06 0z"/></svg>
+            
+            +9.71 USD (+1.33%)
+          </div>
+                    </section>
+                </div>
+                <div class="stock-chart">
+                    <div class="ct-chart">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="480" height="160" class="ct-chart-line">
+                            <style>.ct-double-octave:after,
+.ct-major-eleventh:after,
+.ct-major-second:after,
+.ct-major-seventh:after,
+.ct-major-sixth:after,
+.ct-major-tenth:after,
+.ct-major-third:after,
+.ct-major-twelfth:after,
+.ct-minor-second:after,
+.ct-minor-seventh:after,
+.ct-minor-sixth:after,
+.ct-minor-third:after,
+.ct-octave:after,
+.ct-perfect-fifth:after,
+.ct-perfect-fourth:after,
+.ct-square:after {
+  content: "";
+  clear: both;
+}
+.ct-label {
+  fill: rgba(0, 0, 0, 0.4);
+  color: rgba(0, 0, 0, 0.4);
+  font-size: .75rem;
+  line-height: 1;
+}
+.ct-grid-background,
+.ct-line {
+  fill: none;
+}
+.ct-chart-bar .ct-label,
+.ct-chart-line .ct-label {
+  display: block;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+.ct-chart-donut .ct-label,
+.ct-chart-pie .ct-label {
+  dominant-baseline: central;
+}
+.ct-label.ct-horizontal.ct-start {
+  -webkit-box-align: flex-end;
+  -webkit-align-items: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
+  -webkit-box-pack: flex-start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  text-anchor: start;
+}
+.ct-label.ct-horizontal.ct-end {
+  -webkit-box-align: flex-start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  -webkit-box-pack: flex-start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  text-anchor: start;
+}
+.ct-label.ct-vertical.ct-start {
+  -webkit-box-align: flex-end;
+  -webkit-align-items: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
+  -webkit-box-pack: flex-end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: flex-end;
+  justify-content: flex-end;
+  text-align: right;
+  text-anchor: end;
+}
+.ct-label.ct-vertical.ct-end {
+  -webkit-box-align: flex-end;
+  -webkit-align-items: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
+  -webkit-box-pack: flex-start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  text-anchor: start;
+}
+.ct-chart-bar .ct-label.ct-horizontal.ct-start {
+  -webkit-box-align: flex-end;
+  -webkit-align-items: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  text-align: center;
+  text-anchor: start;
+}
+.ct-chart-bar .ct-label.ct-horizontal.ct-end {
+  -webkit-box-align: flex-start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  text-align: center;
+  text-anchor: start;
+}
+.ct-chart-bar.ct-horizontal-bars .ct-label.ct-horizontal.ct-start {
+  -webkit-box-align: flex-end;
+  -webkit-align-items: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
+  -webkit-box-pack: flex-start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  text-anchor: start;
+}
+.ct-chart-bar.ct-horizontal-bars .ct-label.ct-horizontal.ct-end {
+  -webkit-box-align: flex-start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  -webkit-box-pack: flex-start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  text-anchor: start;
+}
+.ct-chart-bar.ct-horizontal-bars .ct-label.ct-vertical.ct-start {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: flex-end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: flex-end;
+  justify-content: flex-end;
+  text-align: right;
+  text-anchor: end;
+}
+.ct-chart-bar.ct-horizontal-bars .ct-label.ct-vertical.ct-end {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: flex-start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  text-anchor: end;
+}
+.ct-grid {
+  stroke: rgba(0, 0, 0, 0.2);
+  stroke-width: 1px;
+  stroke-dasharray: 2px;
+}
+.ct-point {
+  stroke-width: 10px;
+  stroke-linecap: round;
+}
+.ct-line {
+  stroke-width: 4px;
+}
+.ct-area {
+  stroke: none;
+  fill-opacity: 0.1;
+}
+.ct-bar {
+  fill: none;
+  stroke-width: 10px;
+}
+.ct-slice-donut {
+  fill: none;
+  stroke-width: 60px;
+}
+.ct-series-a .ct-bar,
+.ct-series-a .ct-line,
+.ct-series-a .ct-point,
+.ct-series-a .ct-slice-donut {
+  stroke: #d70206;
+}
+.ct-series-a .ct-area,
+.ct-series-a .ct-slice-donut-solid,
+.ct-series-a .ct-slice-pie {
+  fill: #d70206;
+}
+.ct-series-b .ct-bar,
+.ct-series-b .ct-line,
+.ct-series-b .ct-point,
+.ct-series-b .ct-slice-donut {
+  stroke: #f05b4f;
+}
+.ct-series-b .ct-area,
+.ct-series-b .ct-slice-donut-solid,
+.ct-series-b .ct-slice-pie {
+  fill: #f05b4f;
+}
+.ct-series-c .ct-bar,
+.ct-series-c .ct-line,
+.ct-series-c .ct-point,
+.ct-series-c .ct-slice-donut {
+  stroke: #f4c63d;
+}
+.ct-series-c .ct-area,
+.ct-series-c .ct-slice-donut-solid,
+.ct-series-c .ct-slice-pie {
+  fill: #f4c63d;
+}
+.ct-series-d .ct-bar,
+.ct-series-d .ct-line,
+.ct-series-d .ct-point,
+.ct-series-d .ct-slice-donut {
+  stroke: #d17905;
+}
+.ct-series-d .ct-area,
+.ct-series-d .ct-slice-donut-solid,
+.ct-series-d .ct-slice-pie {
+  fill: #d17905;
+}
+.ct-series-e .ct-bar,
+.ct-series-e .ct-line,
+.ct-series-e .ct-point,
+.ct-series-e .ct-slice-donut {
+  stroke: #453d3f;
+}
+.ct-series-e .ct-area,
+.ct-series-e .ct-slice-donut-solid,
+.ct-series-e .ct-slice-pie {
+  fill: #453d3f;
+}
+.ct-series-f .ct-bar,
+.ct-series-f .ct-line,
+.ct-series-f .ct-point,
+.ct-series-f .ct-slice-donut {
+  stroke: #59922b;
+}
+.ct-series-f .ct-area,
+.ct-series-f .ct-slice-donut-solid,
+.ct-series-f .ct-slice-pie {
+  fill: #59922b;
+}
+.ct-series-g .ct-bar,
+.ct-series-g .ct-line,
+.ct-series-g .ct-point,
+.ct-series-g .ct-slice-donut {
+  stroke: #0544d3;
+}
+.ct-series-g .ct-area,
+.ct-series-g .ct-slice-donut-solid,
+.ct-series-g .ct-slice-pie {
+  fill: #0544d3;
+}
+.ct-series-h .ct-bar,
+.ct-series-h .ct-line,
+.ct-series-h .ct-point,
+.ct-series-h .ct-slice-donut {
+  stroke: #6b0392;
+}
+.ct-series-h .ct-area,
+.ct-series-h .ct-slice-donut-solid,
+.ct-series-h .ct-slice-pie {
+  fill: #6b0392;
+}
+.ct-series-i .ct-bar,
+.ct-series-i .ct-line,
+.ct-series-i .ct-point,
+.ct-series-i .ct-slice-donut {
+  stroke: #f05b4f;
+}
+.ct-series-i .ct-area,
+.ct-series-i .ct-slice-donut-solid,
+.ct-series-i .ct-slice-pie {
+  fill: #f05b4f;
+}
+.ct-series-j .ct-bar,
+.ct-series-j .ct-line,
+.ct-series-j .ct-point,
+.ct-series-j .ct-slice-donut {
+  stroke: #dda458;
+}
+.ct-series-j .ct-area,
+.ct-series-j .ct-slice-donut-solid,
+.ct-series-j .ct-slice-pie {
+  fill: #dda458;
+}
+.ct-series-k .ct-bar,
+.ct-series-k .ct-line,
+.ct-series-k .ct-point,
+.ct-series-k .ct-slice-donut {
+  stroke: #eacf7d;
+}
+.ct-series-k .ct-area,
+.ct-series-k .ct-slice-donut-solid,
+.ct-series-k .ct-slice-pie {
+  fill: #eacf7d;
+}
+.ct-series-l .ct-bar,
+.ct-series-l .ct-line,
+.ct-series-l .ct-point,
+.ct-series-l .ct-slice-donut {
+  stroke: #86797d;
+}
+.ct-series-l .ct-area,
+.ct-series-l .ct-slice-donut-solid,
+.ct-series-l .ct-slice-pie {
+  fill: #86797d;
+}
+.ct-series-m .ct-bar,
+.ct-series-m .ct-line,
+.ct-series-m .ct-point,
+.ct-series-m .ct-slice-donut {
+  stroke: #b2c326;
+}
+.ct-series-m .ct-area,
+.ct-series-m .ct-slice-donut-solid,
+.ct-series-m .ct-slice-pie {
+  fill: #b2c326;
+}
+.ct-series-n .ct-bar,
+.ct-series-n .ct-line,
+.ct-series-n .ct-point,
+.ct-series-n .ct-slice-donut {
+  stroke: #6188e2;
+}
+.ct-series-n .ct-area,
+.ct-series-n .ct-slice-donut-solid,
+.ct-series-n .ct-slice-pie {
+  fill: #6188e2;
+}
+.ct-series-o .ct-bar,
+.ct-series-o .ct-line,
+.ct-series-o .ct-point,
+.ct-series-o .ct-slice-donut {
+  stroke: #a748ca;
+}
+.ct-series-o .ct-area,
+.ct-series-o .ct-slice-donut-solid,
+.ct-series-o .ct-slice-pie {
+  fill: #a748ca;
+}
+.ct-square {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-square:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 100%;
+}
+.ct-square:after {
+  display: table;
+}
+.ct-square &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-minor-second {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-minor-second:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 93.75%;
+}
+.ct-minor-second:after {
+  display: table;
+}
+.ct-minor-second &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-major-second {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-major-second:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 88.88888889%;
+}
+.ct-major-second:after {
+  display: table;
+}
+.ct-major-second &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-minor-third {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-minor-third:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 83.33333333%;
+}
+.ct-minor-third:after {
+  display: table;
+}
+.ct-minor-third &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-major-third {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-major-third:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 80%;
+}
+.ct-major-third:after {
+  display: table;
+}
+.ct-major-third &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-perfect-fourth {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-perfect-fourth:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 75%;
+}
+.ct-perfect-fourth:after {
+  display: table;
+}
+.ct-perfect-fourth &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-perfect-fifth {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-perfect-fifth:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 66.66666667%;
+}
+.ct-perfect-fifth:after {
+  display: table;
+}
+.ct-perfect-fifth &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-minor-sixth {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-minor-sixth:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 62.5%;
+}
+.ct-minor-sixth:after {
+  display: table;
+}
+.ct-minor-sixth &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-golden-section {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-golden-section:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 61.80469716%;
+}
+.ct-golden-section:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.ct-golden-section &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-major-sixth {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-major-sixth:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 60%;
+}
+.ct-major-sixth:after {
+  display: table;
+}
+.ct-major-sixth &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-minor-seventh {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-minor-seventh:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 56.25%;
+}
+.ct-minor-seventh:after {
+  display: table;
+}
+.ct-minor-seventh &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-major-seventh {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-major-seventh:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 53.33333333%;
+}
+.ct-major-seventh:after {
+  display: table;
+}
+.ct-major-seventh &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-octave {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-octave:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 50%;
+}
+.ct-octave:after {
+  display: table;
+}
+.ct-octave &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-major-tenth {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-major-tenth:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 40%;
+}
+.ct-major-tenth:after {
+  display: table;
+}
+.ct-major-tenth &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-major-eleventh {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-major-eleventh:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 37.5%;
+}
+.ct-major-eleventh:after {
+  display: table;
+}
+.ct-major-eleventh &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-major-twelfth {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-major-twelfth:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 33.33333333%;
+}
+.ct-major-twelfth:after {
+  display: table;
+}
+.ct-major-twelfth &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-double-octave {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.ct-double-octave:before {
+  display: block;
+  float: left;
+  content: "";
+  width: 0;
+  height: 0;
+  padding-bottom: 25%;
+}
+.ct-double-octave:after {
+  display: table;
+}
+.ct-double-octave &gt; svg {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ct-legend {
+  margin-top: 1em;
+}
+.ct-legend .ct-variable {
+  display: inline-block;
+  margin: 0 0.1em;
+}
+.ct-legend .ct-variable .ct-swatch {
+  display: inline-block;
+  vertical-align: baseline;
+  margin-right: 0.3em;
+  width: 0.5em;
+  height: 0.5em;
+  border: 1px solid white;
+  border-radius: 0.14em;
+}
+.ct-series-a .ct-bar,
+.ct-series-a .ct-line,
+.ct-series-a .ct-point,
+.ct-series-a .ct-slice-donut,
+.ct-series-a .ct-swatch {
+  background-color: skyblue;
+  stroke: skyblue;
+}
+.ct-series-a .ct-area,
+.ct-series-a .ct-slice-pie {
+  fill: skyblue;
+}
+.ct-series-b .ct-bar,
+.ct-series-b .ct-line,
+.ct-series-b .ct-point,
+.ct-series-b .ct-slice-donut,
+.ct-series-b .ct-swatch {
+  background-color: limegreen;
+  stroke: limegreen;
+}
+.ct-series-b .ct-area,
+.ct-series-b .ct-slice-pie {
+  fill: limegreen;
+}
+.ct-series-c .ct-bar,
+.ct-series-c .ct-line,
+.ct-series-c .ct-point,
+.ct-series-c .ct-slice-donut,
+.ct-series-c .ct-swatch {
+  background-color: indianred;
+  stroke: indianred;
+}
+.ct-series-c .ct-area,
+.ct-series-c .ct-slice-pie {
+  fill: indianred;
+}
+.ct-series-d .ct-bar,
+.ct-series-d .ct-line,
+.ct-series-d .ct-point,
+.ct-series-d .ct-slice-donut,
+.ct-series-d .ct-swatch {
+  background-color: gold;
+  stroke: gold;
+}
+.ct-series-d .ct-area,
+.ct-series-d .ct-slice-pie {
+  fill: gold;
+}
+.ct-series-e .ct-bar,
+.ct-series-e .ct-line,
+.ct-series-e .ct-point,
+.ct-series-e .ct-slice-donut,
+.ct-series-e .ct-swatch {
+  background-color: orange;
+  stroke: orange;
+}
+.ct-series-e .ct-area,
+.ct-series-e .ct-slice-pie {
+  fill: orange;
+}
+.ct-series-f .ct-bar,
+.ct-series-f .ct-line,
+.ct-series-f .ct-point,
+.ct-series-f .ct-slice-donut,
+.ct-series-f .ct-swatch {
+  background-color: indianred;
+  stroke: indianred;
+}
+.ct-series-f .ct-area,
+.ct-series-f .ct-slice-pie {
+  fill: indianred;
+}
+.ct-series-g .ct-bar,
+.ct-series-g .ct-line,
+.ct-series-g .ct-point,
+.ct-series-g .ct-slice-donut,
+.ct-series-g .ct-swatch {
+  background-color: indianred;
+  stroke: indianred;
+}
+.ct-series-g .ct-area,
+.ct-series-g .ct-slice-pie {
+  fill: indianred;
+}
+.ct-series-h .ct-bar,
+.ct-series-h .ct-line,
+.ct-series-h .ct-point,
+.ct-series-h .ct-slice-donut,
+.ct-series-h .ct-swatch {
+  background-color: indianred;
+  stroke: indianred;
+}
+.ct-series-h .ct-area,
+.ct-series-h .ct-slice-pie {
+  fill: indianred;
+}
+.ct-series-i .ct-bar,
+.ct-series-i .ct-line,
+.ct-series-i .ct-point,
+.ct-series-i .ct-slice-donut,
+.ct-series-i .ct-swatch {
+  background-color: indianred;
+  stroke: indianred;
+}
+.ct-series-i .ct-area,
+.ct-series-i .ct-slice-pie {
+  fill: indianred;
+}
+.ct-series-j .ct-bar,
+.ct-series-j .ct-line,
+.ct-series-j .ct-point,
+.ct-series-j .ct-slice-donut,
+.ct-series-j .ct-swatch {
+  background-color: indianred;
+  stroke: indianred;
+}
+.ct-series-j .ct-area,
+.ct-series-j .ct-slice-pie {
+  fill: indianred;
+}
+.ct-series-k .ct-bar,
+.ct-series-k .ct-line,
+.ct-series-k .ct-point,
+.ct-series-k .ct-slice-donut,
+.ct-series-k .ct-swatch {
+  background-color: indianred;
+  stroke: indianred;
+}
+.ct-series-k .ct-area,
+.ct-series-k .ct-slice-pie {
+  fill: indianred;
+}
+.ct-series-l .ct-bar,
+.ct-series-l .ct-line,
+.ct-series-l .ct-point,
+.ct-series-l .ct-slice-donut,
+.ct-series-l .ct-swatch {
+  background-color: indianred;
+  stroke: indianred;
+}
+.ct-series-l .ct-area,
+.ct-series-l .ct-slice-pie {
+  fill: indianred;
+}
+.ct-series-m .ct-bar,
+.ct-series-m .ct-line,
+.ct-series-m .ct-point,
+.ct-series-m .ct-slice-donut,
+.ct-series-m .ct-swatch {
+  background-color: indianred;
+  stroke: indianred;
+}
+.ct-series-m .ct-area,
+.ct-series-m .ct-slice-pie {
+  fill: indianred;
+}
+.ct-series-n .ct-bar,
+.ct-series-n .ct-line,
+.ct-series-n .ct-point,
+.ct-series-n .ct-slice-donut,
+.ct-series-n .ct-swatch {
+  background-color: indianred;
+  stroke: indianred;
+}
+.ct-series-n .ct-area,
+.ct-series-n .ct-slice-pie {
+  fill: indianred;
+}
+.ct-series-o .ct-bar,
+.ct-series-o .ct-line,
+.ct-series-o .ct-point,
+.ct-series-o .ct-slice-donut,
+.ct-series-o .ct-swatch {
+  background-color: indianred;
+  stroke: indianred;
+}
+.ct-series-o .ct-area,
+.ct-series-o .ct-slice-pie {
+  fill: indianred;
+}
+</style>
+                            <g class="ct-grids">
+                                <line y1="125" y2="125" x1="50" x2="465" class="ct-grid ct-vertical"/>
+                                <line y1="88.33333333333334" y2="88.33333333333334" x1="50" x2="465" class="ct-grid ct-vertical"/>
+                                <line y1="51.66666666666667" y2="51.66666666666667" x1="50" x2="465" class="ct-grid ct-vertical"/>
+                                <line y1="15" y2="15" x1="50" x2="465" class="ct-grid ct-vertical"/>
+                            </g>
+                            <g>
+                                <g class="ct-series ct-series-a">
+                                    <path d="M50,125L50,108.903C50.72,104.98,51.441,98.683,52.161,97.133C52.882,95.584,53.602,94.864,54.323,94.237C55.043,93.609,55.764,93.384,56.484,92.843C57.205,92.302,57.925,91.888,58.646,90.9C59.366,89.912,60.087,86.225,60.807,84.667C61.528,83.108,62.248,82.91,62.969,80.927C63.689,78.943,64.41,66.37,65.13,66.37C65.851,66.37,66.571,71.533,67.292,71.907C68.012,72.28,68.733,72.21,69.453,72.53C70.174,72.85,70.894,74.62,71.615,74.62C72.335,74.62,73.056,74.583,73.776,74.583C74.497,74.583,75.217,75.998,75.938,77.003C76.658,78.008,77.378,81,78.099,81C78.819,81,79.54,78.572,80.26,78.397C80.981,78.221,81.701,78.103,82.422,78.103C83.142,78.103,83.863,85.987,84.583,85.987C85.304,85.987,86.024,80.78,86.745,80.78C87.465,80.78,88.186,84.667,88.906,84.667C89.627,84.667,90.347,82.247,91.068,82.247C91.788,82.247,92.509,84.667,93.229,84.667C93.95,84.667,94.67,84.667,95.391,84.667C96.111,84.667,96.832,84.667,97.552,84.667C98.273,84.667,98.993,83.383,99.714,83.383C100.434,83.383,101.155,83.823,101.875,83.823C102.595,83.823,103.316,75.61,104.036,75.61C104.757,75.61,105.477,77.067,106.198,77.113C106.918,77.16,107.639,77.187,108.359,77.187C109.08,77.187,109.8,77.15,110.521,77.15C111.241,77.15,111.962,77.847,112.682,77.847C113.403,77.847,114.123,75.977,114.844,75.977C115.564,75.977,116.285,76.655,117.005,77.15C117.726,77.645,118.446,78.287,119.167,79.167C119.887,80.046,120.608,82.98,121.328,82.98C122.049,82.98,122.769,81.732,123.49,81.477C124.21,81.222,124.931,80.963,125.651,80.963C126.372,80.963,127.092,85.357,127.813,87.197C128.533,89.036,129.253,92.147,129.974,92.147C130.694,92.147,131.415,91.839,132.135,91.413C132.856,90.988,133.576,86.463,134.297,86.463C135.017,86.463,135.738,91.915,136.458,91.963C137.179,92.012,137.899,92.037,138.62,92.037C139.34,92.037,140.061,89.454,140.781,88.333C141.502,87.212,142.222,85.253,142.943,85.253C143.663,85.253,144.384,87.417,145.104,87.417C145.825,87.417,146.545,86.671,147.266,85.987C147.986,85.303,148.707,83.028,149.427,82.357C150.148,81.685,150.868,80.963,151.589,80.963C152.309,80.963,153.03,81.623,153.75,81.623C154.47,81.623,155.191,76.527,155.911,76.527C156.632,76.527,157.352,77.255,158.073,77.59C158.793,77.925,159.514,78.543,160.234,78.543C160.955,78.543,161.675,77.15,162.396,77.15C163.116,77.15,163.837,77.435,164.557,77.737C165.278,78.038,165.998,79.717,166.719,79.717C167.439,79.717,168.16,77.333,168.88,77.333C169.601,77.333,170.321,80.138,171.042,81.77C171.762,83.402,172.483,86.238,173.203,87.233C173.924,88.228,174.644,88.876,175.365,89.287C176.085,89.697,176.806,90.167,177.526,90.167C178.247,90.167,178.967,83.75,179.688,83.75C180.408,83.75,181.128,95.667,181.849,95.667C182.569,95.667,183.29,88.847,184.01,88.847C184.731,88.847,185.451,95.85,186.172,95.85C186.892,95.85,187.613,94.008,188.333,92.917C189.054,91.825,189.774,90.373,190.495,89.213C191.215,88.053,191.936,87.242,192.656,85.932C193.377,84.621,194.097,81.934,194.818,81.033C195.538,80.132,196.259,80.224,196.979,79.167C197.7,78.109,198.42,70.578,199.141,68.607C199.861,66.635,200.582,66.4,201.302,64.5C202.023,62.6,202.743,55.686,203.464,55.186C204.184,54.685,204.905,54.792,205.625,54.369C206.345,53.947,207.066,52.258,207.786,51.535C208.507,50.812,209.227,49.778,209.948,49.778C210.668,49.778,211.389,52.636,212.109,53.5C212.83,54.363,213.55,55.488,214.271,55.488C214.991,55.488,215.712,48,216.432,48C217.153,48,217.873,48.105,218.594,48.293C219.314,48.482,220.035,54.101,220.755,56.03C221.476,57.958,222.196,60.65,222.917,60.65C223.637,60.65,224.358,56.543,225.078,56.543C225.799,56.543,226.519,59.237,227.24,59.77C227.96,60.303,228.681,60.833,229.401,60.833C230.122,60.833,230.842,43.448,231.563,43.448C232.283,43.448,233.003,46.521,233.724,47.246C234.444,47.971,235.165,48.771,235.885,48.771C236.606,48.771,237.326,33.663,238.047,33.663C238.767,33.663,239.488,33.946,240.208,34.213C240.929,34.481,241.649,35.698,242.37,35.698C243.09,35.698,243.811,35.305,244.531,34.8C245.252,34.295,245.972,29.96,246.693,29.96C247.413,29.96,248.134,33.223,248.854,33.223C249.575,33.223,250.295,26.924,251.016,26.924C251.736,26.924,252.457,30.439,253.177,31.965C253.898,33.491,254.618,35.814,255.339,36.157C256.059,36.5,256.78,36.743,257.5,36.743C258.22,36.743,258.941,36.597,259.661,36.597C260.382,36.597,261.102,44.372,261.823,44.869C262.543,45.367,263.264,45.69,263.984,45.69C264.705,45.69,265.425,40.667,266.146,40.667C266.866,40.667,267.587,46.662,268.307,46.662C269.028,46.662,269.748,42.047,270.469,40.905C271.189,39.763,271.91,38.467,272.63,38.467C273.351,38.467,274.071,39.519,274.792,39.519C275.512,39.519,276.233,37.687,276.953,37.037C277.674,36.386,278.394,35.43,279.115,35.43C279.835,35.43,280.556,37.738,281.276,38.312C281.997,38.887,282.717,39.059,283.438,39.541C284.158,40.022,284.878,40.644,285.599,41.29C286.319,41.935,287.04,43.458,287.76,43.458C288.481,43.458,289.201,43.311,289.922,43.27C290.642,43.229,291.363,43.238,292.083,43.178C292.804,43.119,293.524,40.447,294.245,40.447C294.965,40.447,295.686,41.143,296.406,41.143C297.127,41.143,297.847,38.54,298.568,38.54C299.288,38.54,300.009,41.791,300.729,42.793C301.45,43.796,302.17,44.301,302.891,45.119C303.611,45.936,304.332,47.714,305.052,47.714C305.773,47.714,306.493,46.937,307.214,46.937C307.934,46.937,308.655,54.808,309.375,56.012C310.095,57.215,310.816,58.265,311.536,58.265C312.257,58.265,312.977,58.034,313.698,58.034C314.418,58.034,315.139,71.833,315.859,71.833C316.58,71.833,317.3,68.905,318.021,67.472C318.741,66.039,319.462,63.235,320.182,63.235C320.903,63.235,321.623,64.98,322.344,66.81C323.064,68.64,323.785,78.163,324.505,78.621C325.226,79.079,325.946,79.35,326.667,79.35C327.387,79.35,328.108,77.232,328.828,75.409C329.549,73.587,330.269,69.378,330.99,66.48C331.71,63.582,332.431,58.01,333.151,58.01C333.872,58.01,334.592,66.876,335.313,66.876C336.033,66.876,336.753,62.757,337.474,60.705C338.194,58.653,338.915,54.563,339.635,54.563C340.356,54.563,341.076,55.297,341.797,55.297C342.517,55.297,343.238,54.988,343.958,54.747C344.679,54.506,345.399,54.182,346.12,53.69C346.84,53.198,347.561,51.544,348.281,51.245C349.002,50.946,349.722,50.695,350.443,50.695C351.163,50.695,351.884,56.363,352.604,57.246C353.325,58.128,354.045,58.905,354.766,58.905C355.486,58.905,356.207,55.739,356.927,55.113C357.648,54.488,358.368,53.867,359.089,53.867C359.809,53.867,360.53,56.58,361.25,56.58C361.97,56.58,362.691,54.673,363.411,54.673C364.132,54.673,364.852,54.985,365.573,54.985C366.293,54.985,367.014,53.463,367.734,53.463C368.455,53.463,369.175,53.814,369.896,53.94C370.616,54.066,371.337,54.252,372.057,54.252C372.778,54.252,373.498,54.233,374.219,54.233C374.939,54.233,375.66,54.82,376.38,54.82C377.101,54.82,377.821,54.259,378.542,54.197C379.262,54.134,379.983,54.123,380.703,54.087C381.424,54.05,382.144,53.977,382.865,53.977C383.585,53.977,384.306,54.747,385.026,54.747C385.747,54.747,386.467,54.158,387.188,54.087C387.908,54.015,388.628,53.958,389.349,53.958C390.069,53.958,390.79,54.348,391.51,54.398C392.231,54.449,392.951,54.434,393.672,54.49C394.392,54.546,395.113,55.35,395.833,55.517C396.554,55.683,397.274,55.847,397.995,55.847C398.715,55.847,399.436,54.681,400.156,54.417C400.877,54.152,401.597,53.867,402.318,53.867C403.038,53.867,403.759,54.272,404.479,54.398C405.2,54.524,405.92,54.56,406.641,54.692C407.361,54.823,408.082,55.297,408.802,55.297C409.523,55.297,410.243,55.209,410.964,55.113C411.684,55.018,412.405,54.453,413.125,54.453C413.845,54.453,414.566,55.297,415.286,55.297C416.007,55.297,416.727,55.183,417.448,55.15C418.168,55.117,418.889,55.106,419.609,55.077C420.33,55.047,421.05,54.967,421.771,54.967C422.491,54.967,423.212,55.297,423.932,55.297C424.653,55.297,425.373,55.168,426.094,55.113C426.814,55.059,427.535,54.999,428.255,54.967C428.976,54.934,429.696,54.937,430.417,54.893C431.137,54.849,431.858,54.233,432.578,54.233C433.299,54.233,434.019,54.233,434.74,54.233C435.46,54.233,436.181,53.841,436.901,53.5C437.622,53.159,438.342,51.813,439.063,51.813C439.783,51.813,440.503,53.463,441.224,53.463C441.944,53.463,442.665,52.684,443.385,52.583C444.106,52.482,444.826,52.42,445.547,52.4C446.267,52.38,446.988,52.387,447.708,52.363C448.429,52.34,449.149,51.905,449.87,51.667C450.59,51.429,451.311,50.933,452.031,50.933C452.752,50.933,453.472,51.667,454.193,51.667C454.913,51.667,455.634,51.65,456.354,51.63C457.075,51.61,457.795,51.567,458.516,51.483C459.236,51.4,459.957,50.64,460.677,50.64C461.398,50.64,462.118,50.713,462.839,50.75L462.839,125Z" class="ct-area"/>
+                                    <path d="M50,108.903C50.72,104.98,51.441,98.683,52.161,97.133C52.882,95.584,53.602,94.864,54.323,94.237C55.043,93.609,55.764,93.384,56.484,92.843C57.205,92.302,57.925,91.888,58.646,90.9C59.366,89.912,60.087,86.225,60.807,84.667C61.528,83.108,62.248,82.91,62.969,80.927C63.689,78.943,64.41,66.37,65.13,66.37C65.851,66.37,66.571,71.533,67.292,71.907C68.012,72.28,68.733,72.21,69.453,72.53C70.174,72.85,70.894,74.62,71.615,74.62C72.335,74.62,73.056,74.583,73.776,74.583C74.497,74.583,75.217,75.998,75.938,77.003C76.658,78.008,77.378,81,78.099,81C78.819,81,79.54,78.572,80.26,78.397C80.981,78.221,81.701,78.103,82.422,78.103C83.142,78.103,83.863,85.987,84.583,85.987C85.304,85.987,86.024,80.78,86.745,80.78C87.465,80.78,88.186,84.667,88.906,84.667C89.627,84.667,90.347,82.247,91.068,82.247C91.788,82.247,92.509,84.667,93.229,84.667C93.95,84.667,94.67,84.667,95.391,84.667C96.111,84.667,96.832,84.667,97.552,84.667C98.273,84.667,98.993,83.383,99.714,83.383C100.434,83.383,101.155,83.823,101.875,83.823C102.595,83.823,103.316,75.61,104.036,75.61C104.757,75.61,105.477,77.067,106.198,77.113C106.918,77.16,107.639,77.187,108.359,77.187C109.08,77.187,109.8,77.15,110.521,77.15C111.241,77.15,111.962,77.847,112.682,77.847C113.403,77.847,114.123,75.977,114.844,75.977C115.564,75.977,116.285,76.655,117.005,77.15C117.726,77.645,118.446,78.287,119.167,79.167C119.887,80.046,120.608,82.98,121.328,82.98C122.049,82.98,122.769,81.732,123.49,81.477C124.21,81.222,124.931,80.963,125.651,80.963C126.372,80.963,127.092,85.357,127.813,87.197C128.533,89.036,129.253,92.147,129.974,92.147C130.694,92.147,131.415,91.839,132.135,91.413C132.856,90.988,133.576,86.463,134.297,86.463C135.017,86.463,135.738,91.915,136.458,91.963C137.179,92.012,137.899,92.037,138.62,92.037C139.34,92.037,140.061,89.454,140.781,88.333C141.502,87.212,142.222,85.253,142.943,85.253C143.663,85.253,144.384,87.417,145.104,87.417C145.825,87.417,146.545,86.671,147.266,85.987C147.986,85.303,148.707,83.028,149.427,82.357C150.148,81.685,150.868,80.963,151.589,80.963C152.309,80.963,153.03,81.623,153.75,81.623C154.47,81.623,155.191,76.527,155.911,76.527C156.632,76.527,157.352,77.255,158.073,77.59C158.793,77.925,159.514,78.543,160.234,78.543C160.955,78.543,161.675,77.15,162.396,77.15C163.116,77.15,163.837,77.435,164.557,77.737C165.278,78.038,165.998,79.717,166.719,79.717C167.439,79.717,168.16,77.333,168.88,77.333C169.601,77.333,170.321,80.138,171.042,81.77C171.762,83.402,172.483,86.238,173.203,87.233C173.924,88.228,174.644,88.876,175.365,89.287C176.085,89.697,176.806,90.167,177.526,90.167C178.247,90.167,178.967,83.75,179.688,83.75C180.408,83.75,181.128,95.667,181.849,95.667C182.569,95.667,183.29,88.847,184.01,88.847C184.731,88.847,185.451,95.85,186.172,95.85C186.892,95.85,187.613,94.008,188.333,92.917C189.054,91.825,189.774,90.373,190.495,89.213C191.215,88.053,191.936,87.242,192.656,85.932C193.377,84.621,194.097,81.934,194.818,81.033C195.538,80.132,196.259,80.224,196.979,79.167C197.7,78.109,198.42,70.578,199.141,68.607C199.861,66.635,200.582,66.4,201.302,64.5C202.023,62.6,202.743,55.686,203.464,55.186C204.184,54.685,204.905,54.792,205.625,54.369C206.345,53.947,207.066,52.258,207.786,51.535C208.507,50.812,209.227,49.778,209.948,49.778C210.668,49.778,211.389,52.636,212.109,53.5C212.83,54.363,213.55,55.488,214.271,55.488C214.991,55.488,215.712,48,216.432,48C217.153,48,217.873,48.105,218.594,48.293C219.314,48.482,220.035,54.101,220.755,56.03C221.476,57.958,222.196,60.65,222.917,60.65C223.637,60.65,224.358,56.543,225.078,56.543C225.799,56.543,226.519,59.237,227.24,59.77C227.96,60.303,228.681,60.833,229.401,60.833C230.122,60.833,230.842,43.448,231.563,43.448C232.283,43.448,233.003,46.521,233.724,47.246C234.444,47.971,235.165,48.771,235.885,48.771C236.606,48.771,237.326,33.663,238.047,33.663C238.767,33.663,239.488,33.946,240.208,34.213C240.929,34.481,241.649,35.698,242.37,35.698C243.09,35.698,243.811,35.305,244.531,34.8C245.252,34.295,245.972,29.96,246.693,29.96C247.413,29.96,248.134,33.223,248.854,33.223C249.575,33.223,250.295,26.924,251.016,26.924C251.736,26.924,252.457,30.439,253.177,31.965C253.898,33.491,254.618,35.814,255.339,36.157C256.059,36.5,256.78,36.743,257.5,36.743C258.22,36.743,258.941,36.597,259.661,36.597C260.382,36.597,261.102,44.372,261.823,44.869C262.543,45.367,263.264,45.69,263.984,45.69C264.705,45.69,265.425,40.667,266.146,40.667C266.866,40.667,267.587,46.662,268.307,46.662C269.028,46.662,269.748,42.047,270.469,40.905C271.189,39.763,271.91,38.467,272.63,38.467C273.351,38.467,274.071,39.519,274.792,39.519C275.512,39.519,276.233,37.687,276.953,37.037C277.674,36.386,278.394,35.43,279.115,35.43C279.835,35.43,280.556,37.738,281.276,38.312C281.997,38.887,282.717,39.059,283.438,39.541C284.158,40.022,284.878,40.644,285.599,41.29C286.319,41.935,287.04,43.458,287.76,43.458C288.481,43.458,289.201,43.311,289.922,43.27C290.642,43.229,291.363,43.238,292.083,43.178C292.804,43.119,293.524,40.447,294.245,40.447C294.965,40.447,295.686,41.143,296.406,41.143C297.127,41.143,297.847,38.54,298.568,38.54C299.288,38.54,300.009,41.791,300.729,42.793C301.45,43.796,302.17,44.301,302.891,45.119C303.611,45.936,304.332,47.714,305.052,47.714C305.773,47.714,306.493,46.937,307.214,46.937C307.934,46.937,308.655,54.808,309.375,56.012C310.095,57.215,310.816,58.265,311.536,58.265C312.257,58.265,312.977,58.034,313.698,58.034C314.418,58.034,315.139,71.833,315.859,71.833C316.58,71.833,317.3,68.905,318.021,67.472C318.741,66.039,319.462,63.235,320.182,63.235C320.903,63.235,321.623,64.98,322.344,66.81C323.064,68.64,323.785,78.163,324.505,78.621C325.226,79.079,325.946,79.35,326.667,79.35C327.387,79.35,328.108,77.232,328.828,75.409C329.549,73.587,330.269,69.378,330.99,66.48C331.71,63.582,332.431,58.01,333.151,58.01C333.872,58.01,334.592,66.876,335.313,66.876C336.033,66.876,336.753,62.757,337.474,60.705C338.194,58.653,338.915,54.563,339.635,54.563C340.356,54.563,341.076,55.297,341.797,55.297C342.517,55.297,343.238,54.988,343.958,54.747C344.679,54.506,345.399,54.182,346.12,53.69C346.84,53.198,347.561,51.544,348.281,51.245C349.002,50.946,349.722,50.695,350.443,50.695C351.163,50.695,351.884,56.363,352.604,57.246C353.325,58.128,354.045,58.905,354.766,58.905C355.486,58.905,356.207,55.739,356.927,55.113C357.648,54.488,358.368,53.867,359.089,53.867C359.809,53.867,360.53,56.58,361.25,56.58C361.97,56.58,362.691,54.673,363.411,54.673C364.132,54.673,364.852,54.985,365.573,54.985C366.293,54.985,367.014,53.463,367.734,53.463C368.455,53.463,369.175,53.814,369.896,53.94C370.616,54.066,371.337,54.252,372.057,54.252C372.778,54.252,373.498,54.233,374.219,54.233C374.939,54.233,375.66,54.82,376.38,54.82C377.101,54.82,377.821,54.259,378.542,54.197C379.262,54.134,379.983,54.123,380.703,54.087C381.424,54.05,382.144,53.977,382.865,53.977C383.585,53.977,384.306,54.747,385.026,54.747C385.747,54.747,386.467,54.158,387.188,54.087C387.908,54.015,388.628,53.958,389.349,53.958C390.069,53.958,390.79,54.348,391.51,54.398C392.231,54.449,392.951,54.434,393.672,54.49C394.392,54.546,395.113,55.35,395.833,55.517C396.554,55.683,397.274,55.847,397.995,55.847C398.715,55.847,399.436,54.681,400.156,54.417C400.877,54.152,401.597,53.867,402.318,53.867C403.038,53.867,403.759,54.272,404.479,54.398C405.2,54.524,405.92,54.56,406.641,54.692C407.361,54.823,408.082,55.297,408.802,55.297C409.523,55.297,410.243,55.209,410.964,55.113C411.684,55.018,412.405,54.453,413.125,54.453C413.845,54.453,414.566,55.297,415.286,55.297C416.007,55.297,416.727,55.183,417.448,55.15C418.168,55.117,418.889,55.106,419.609,55.077C420.33,55.047,421.05,54.967,421.771,54.967C422.491,54.967,423.212,55.297,423.932,55.297C424.653,55.297,425.373,55.168,426.094,55.113C426.814,55.059,427.535,54.999,428.255,54.967C428.976,54.934,429.696,54.937,430.417,54.893C431.137,54.849,431.858,54.233,432.578,54.233C433.299,54.233,434.019,54.233,434.74,54.233C435.46,54.233,436.181,53.841,436.901,53.5C437.622,53.159,438.342,51.813,439.063,51.813C439.783,51.813,440.503,53.463,441.224,53.463C441.944,53.463,442.665,52.684,443.385,52.583C444.106,52.482,444.826,52.42,445.547,52.4C446.267,52.38,446.988,52.387,447.708,52.363C448.429,52.34,449.149,51.905,449.87,51.667C450.59,51.429,451.311,50.933,452.031,50.933C452.752,50.933,453.472,51.667,454.193,51.667C454.913,51.667,455.634,51.65,456.354,51.63C457.075,51.61,457.795,51.567,458.516,51.483C459.236,51.4,459.957,50.64,460.677,50.64C461.398,50.64,462.118,50.713,462.839,50.75" class="ct-line"/>
+                                </g>
+                            </g>
+                            <g class="ct-labels">
+                                <text x="50" y="145" width="2.1614583333333335" height="20" class="ct-label ct-horizontal ct-end">23/04, 08:00</text>
+                                <text x="153.75" y="145" width="2.161458333333343" height="20" class="ct-label ct-horizontal ct-end">23/04, 12:00</text>
+                                <text x="257.5" y="145" width="2.161458333333343" height="20" class="ct-label ct-horizontal ct-end">23/04, 16:00</text>
+                                <text x="361.25" y="145" width="2.1614583333333712" height="20" class="ct-label ct-horizontal ct-end">23/04, 20:00</text>
+                                <text y="125" x="40" height="36.666666666666664" width="30" class="ct-label ct-vertical ct-start">710</text>
+                                <text y="88.33333333333334" x="40" height="36.666666666666664" width="30" class="ct-label ct-vertical ct-start">720</text>
+                                <text y="51.66666666666667" x="40" height="36.66666666666667" width="30" class="ct-label ct-vertical ct-start">730</text>
+                                <text y="15" x="40" height="30" width="30" class="ct-label ct-vertical ct-start">740</text>
+                            </g>
+                        </svg>
+                        <div class="ct-legend">
+                        </div>
+                    </div>
                 </div>
             </section>
             <div id="metrics-end"></div>
