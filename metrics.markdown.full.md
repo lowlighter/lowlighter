@@ -83,11 +83,11 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [Earth Restored – 50 restored images of earth released](http://www.tobyord.com/earth)
   * *Published on 24/04/2021*
+* [Mal – Make a Lisp](https://github.com/kanaka/mal)
+  * *Published on 24/04/2021*
+* [Dirty Dollars](https://newsinteractive.post-gazette.com/ukraine-money-laundering/)
+  * *Published on 24/04/2021*
 * [Remote code execution in Homebrew by compromising the official Cask repository](https://blog.ryotak.me/post/homebrew-security-incident-en/)
-  * *Published on 24/04/2021*
-* [Gravity batteries try to beat chemical ones with winches, weights, mine shafts](https://www.sciencemag.org/news/2021/04/gravity-based-batteries-try-beat-their-chemical-cousins-winches-weights-and-mine-shafts)
-  * *Published on 24/04/2021*
-* [Several US utilities back out of deal to build novel nuclear power plant (2020)](https://www.sciencemag.org/news/2020/11/several-us-utilities-back-out-deal-build-novel-nuclear-power-plant)
   * *Published on 24/04/2021*
 
 
