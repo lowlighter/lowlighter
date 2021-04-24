@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `30` repositories and made `1418` commits.
+I contributed to `30` repositories and made `1420` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -27,16 +27,16 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* #️⃣ Closed [#224 Weird tweet attachment behaviour](https://github.com/lowlighter/metrics/issues/224) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Opened [#256 Add option to ignores users in reactions plugin](https://github.com/lowlighter/metrics/pull/256) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 5 files changed `++20 --4`
+* ⏺️ Created new branch `feat-reactions-ignore` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * #️⃣ Opened [#302 Why only `void` type for routes?](https://github.com/oakserver/oak/issues/302) in [oakserver/oak](https://github.com/oakserver/oak)
 * 🔃 Closed [#305 Auto-generated metrics for run #772709856](https://github.com/lowlighter/lowlighter/pull/305) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
   * 8 files changed `++75 --78`
 * #️⃣ Opened [#254 Auto parse reference to issues/pr in metrics insights](https://github.com/lowlighter/metrics/issues/254) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#252 Add `plugin_activity_skipped` option](https://github.com/lowlighter/metrics/pull/252) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 2 files changed `++12 --1`
-* #️⃣ Opened [#253 Add copy-paste button on website for action/markdown](https://github.com/lowlighter/metrics/issues/253) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Opened [#252 Add `plugin_activity_skipped` option](https://github.com/lowlighter/metrics/pull/252) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++12 --1`
-* ⏺️ Created new branch `feat-activity-skipped` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 
 ___
@@ -81,28 +81,26 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Earth Restored – 50 restored images of earth released](http://www.tobyord.com/earth)
+* [Resources for Amateur Compiler Writers](https://c9x.me/compile/bib/)
   * *Published on 24/04/2021*
-* [Mal – Make a Lisp](https://github.com/kanaka/mal)
+* [Millions of the Pentagon’s dormant IP addresses sprang to life on January 20](https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-mystery/)
   * *Published on 24/04/2021*
-* [Dirty Dollars](https://newsinteractive.post-gazette.com/ukraine-money-laundering/)
+* [Bad software sent postal workers to jail](https://www.theverge.com/2021/4/23/22399721/uk-post-office-software-bug-criminal-convictions-overturned)
   * *Published on 24/04/2021*
-* [Remote code execution in Homebrew by compromising the official Cask repository](https://blog.ryotak.me/post/homebrew-security-incident-en/)
+* [InfiniTime 1.0](https://www.pine64.org/2021/04/22/its-time-infinitime-1-0/)
   * *Published on 24/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> Neato! Generate triangulation art from any image using the command line, desktop app, or your browser: <a href="https://t.co/9qXbnnbSjg" class="link">github.com/RH12503/Triang…</a><br/>◅ △ ◣ ◥ ◤ ◁ ◣ ◥ <br/><a href="https://t.co/Pb86Uzyjqp" class="link">pic.twitter.com/Pb86Uzyjqp</a>
+>
+> *17:01 on 24/04/2021*
+
 > RT <span class="mention">@GitHubEnt</span>: We’re live on Demo Days! Learn best practices in this deep dive on how developers use open source securely within their orga…
 >
 > *18:11 on 23/04/2021*
-
-> Try out this handy tool from <span class="mention">@katherinecodes</span> to help create and customize your next project's README 📖  <a href="https://t.co/4qC7gGt6le" class="link">readme.so</a> <br/><a href="https://t.co/onFJj9rr7D" class="link">pic.twitter.com/onFJj9rr7D</a>
->
-> <a href=""><img src="https://pbs.twimg.com/media/Ezp1hAQXsAEcTPX.jpg" alt="" height="200"></a>
->
-> *11:00 on 23/04/2021*
 
 
 
