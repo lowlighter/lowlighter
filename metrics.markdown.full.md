@@ -80,14 +80,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Let&#39;s Stop Building APIs Around a Network Hack](https://apisyouwonthate.com/blog/lets-stop-building-apis-around-a-network-hack)
+* [Feynman: I am burned out and I&#39;ll never accomplish anything](https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html?repostindays=413)
   * *Published on 25/04/2021*
-* [Show HN: Verilog2factorio](https://github.com/Redcrafter/verilog2factorio/)
+* [Show HN: MarkShow – Create Slideshows with Markdown](https://mark.show)
   * *Published on 25/04/2021*
-* [Astronomical Algorithms](https://www.willbell.com/math/MC1.HTM)
+* [Cisco says computer chip shortage to last six months](https://www.bbc.co.uk/news/technology-56847518)
   * *Published on 25/04/2021*
-* [Common interface for Linux NIC statistics](https://people.kernel.org/kuba/common-interface-for-nic-statistics)
-  * *Published on 24/04/2021*
+* [Rust Language Cheat Sheet](https://cheats.rs/)
+  * *Published on 25/04/2021*
 
 
 ___
