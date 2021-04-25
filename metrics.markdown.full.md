@@ -80,13 +80,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Common interface for Linux NIC statistics](https://people.kernel.org/kuba/common-interface-for-nic-statistics)
-  * *Published on 24/04/2021*
-* [Verilog2factorio](https://github.com/Redcrafter/verilog2factorio/)
+* [Let&#39;s Stop Building APIs Around a Network Hack](https://apisyouwonthate.com/blog/lets-stop-building-apis-around-a-network-hack)
   * *Published on 25/04/2021*
-* [Pinephone Keyboard Update](https://forum.pine64.org/showthread.php?tid=13684)
-  * *Published on 24/04/2021*
-* [Millions of the Pentagon’s dormant IP addresses sprang to life on January 20](https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-mystery/)
+* [Show HN: Verilog2factorio](https://github.com/Redcrafter/verilog2factorio/)
+  * *Published on 25/04/2021*
+* [Astronomical Algorithms](https://www.willbell.com/math/MC1.HTM)
+  * *Published on 25/04/2021*
+* [Common interface for Linux NIC statistics](https://people.kernel.org/kuba/common-interface-for-nic-statistics)
   * *Published on 24/04/2021*
 
 
