@@ -27,18 +27,15 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* #️⃣ Opened [#264 Display confetti animation on cakeday](https://github.com/lowlighter/metrics/issues/264) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#262 Simplify GitHub URLs in comments](https://github.com/lowlighter/metrics/pull/262) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++20 --5`
+* #️⃣ Closed [#254 Auto parse reference to issues/pr in metrics insights](https://github.com/lowlighter/metrics/issues/254) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Opened [#263 Add `embed` method in markdown plugin](https://github.com/lowlighter/metrics/pull/263) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++23 --3`
+* ⏺️ Created new branch `feat-markdown-embed-methid` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔍 Reviewed [#262 Simplify GitHub URLs in comments](https://github.com/lowlighter/metrics/pull/262) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔍 Reviewed [#262 Simplify GitHub URLs in comments](https://github.com/lowlighter/metrics/pull/262) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#256 Add option to ignores users in reactions plugin](https://github.com/lowlighter/metrics/pull/256) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 5 files changed `++20 --4`
-* 🔃 Merged [#261 Bump puppeteer from 8.0.0 to 9.0.0](https://github.com/lowlighter/metrics/pull/261) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++17 --16`
-* 🔃 Merged [#260 Bump @octokit/rest from 18.5.2 to 18.5.3](https://github.com/lowlighter/metrics/pull/260) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++32 --32`
-* 🔃 Merged [#259 Bump simple-git from 2.37.0 to 2.38.0](https://github.com/lowlighter/metrics/pull/259) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++10 --10`
-* 🔃 Merged [#257 Bump faker from 5.5.2 to 5.5.3](https://github.com/lowlighter/metrics/pull/257) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++8 --8`
 
 
 ___
@@ -83,13 +80,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [The NCAA Erased My Career](https://www.theplayerstribune.com/posts/brittany-collens-tennis-ncaa-university-of-massachusetts)
+* [Common interface for Linux NIC statistics](https://people.kernel.org/kuba/common-interface-for-nic-statistics)
+  * *Published on 24/04/2021*
+* [Verilog2factorio](https://github.com/Redcrafter/verilog2factorio/)
+  * *Published on 25/04/2021*
+* [Pinephone Keyboard Update](https://forum.pine64.org/showthread.php?tid=13684)
   * *Published on 24/04/2021*
 * [Millions of the Pentagon’s dormant IP addresses sprang to life on January 20](https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-mystery/)
-  * *Published on 24/04/2021*
-* [The unreasonable effectiveness of print debugging](https://buttondown.email/geoffreylitt/archive/starting-this-newsletter-print-debugging-byoc/)
-  * *Published on 24/04/2021*
-* [Riot extorts League of Legends legacy version fan project?](https://old.reddit.com/r/pcgaming/comments/mx77lo/riot_extorts_league_of_legends_legacy_version_fan/)
   * *Published on 24/04/2021*
 
 
