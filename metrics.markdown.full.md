@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `30` repositories and made `1423` commits.
+I contributed to `30` repositories and made `1421` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -80,14 +80,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Has UML died without anyone noticing?](https://garba.org/posts/2021/uml/)
-  * *Published on 25/04/2021*
 * [Parsing Protobuf at 2+GB/S: How I Learned to Love Tail Calls in C](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html)
   * *Published on 25/04/2021*
-* [Java for Everything](https://www.teamten.com/lawrence/writings/java-for-everything.html)
+* [Heroku-style deployments with Docker and Git tags](https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/)
   * *Published on 25/04/2021*
-* [Renderman](https://renderman.pixar.com/)
-  * *Published on 24/04/2021*
+* [Last Resort Font (Mac)](http://mirror.informatimago.com/next/developer.apple.com/fonts/LastResortFont/index.html)
+  * *Published on 25/04/2021*
+* [Swift on the Server (2020)](https://theswiftdev.com/swift-on-the-server-in-2020/)
+  * *Published on 25/04/2021*
 
 
 ___
