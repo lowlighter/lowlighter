@@ -80,14 +80,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Feynman: I am burned out and I&#39;ll never accomplish anything (1985)](https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html?repostindays=413)
+* [Has UML died without anyone noticing?](https://garba.org/posts/2021/uml/)
   * *Published on 25/04/2021*
-* [Amtrak&#39;s 2035 Map Has People Talking About the Future of U.S. Train Travel](https://www.npr.org/2021/04/06/984464351/as-biden-pushes-major-rail-investments-rail-amtraks-2035-map-has-people-talking?t=1619351947832)
+* [Parsing Protobuf at 2+GB/S: How I Learned to Love Tail Calls in C](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html)
   * *Published on 25/04/2021*
-* [Cisco says computer chip shortage to last six months](https://www.bbc.co.uk/news/technology-56847518)
+* [Java for Everything](https://www.teamten.com/lawrence/writings/java-for-everything.html)
   * *Published on 25/04/2021*
-* [Apple sued for terminating account with $25,000 worth of apps and videos](https://arstechnica.com/tech-policy/2021/04/apple-faces-class-action-lawsuit-over-its-definition-of-the-word-buy/)
-  * *Published on 25/04/2021*
+* [Renderman](https://renderman.pixar.com/)
+  * *Published on 24/04/2021*
 
 
 ___
