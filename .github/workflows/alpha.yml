@@ -12,28 +12,13 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@feat-better-token-error-msg
+      - uses: lowlighter/metrics@feat-markdown-embed-methid
         if: ${{ success() || failure() }}
         with:
           token: ${{ github.token }}
-          use_prebuilt_image: no
-      - uses: lowlighter/metrics@feat-better-token-error-msg
-        if: ${{ success() || failure() }}
-        with:
-          token: MOCKED_TOKEN
-          use_prebuilt_image: no
-      - uses: lowlighter/metrics@feat-better-token-error-msg
-        if: ${{ success() || failure() }}
-        with:
-          token: NOT_NEEDED
-          use_prebuilt_image: no
-      - uses: lowlighter/metrics@feat-better-token-error-msg
-        if: ${{ success() || failure() }}
-        with:
-          token: DUMMY_TOKEN
-          use_prebuilt_image: no
-      - uses: lowlighter/metrics@feat-better-token-error-msg
-        if: ${{ success() || failure() }}
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          template: markdown
+          filename: test.md      # Output file
+          markdown: test_template.md    # Template file
+          markdown_cache: .cache   # Cache folder
+          config_output: markdown  # Output as markdown file
           use_prebuilt_image: no
