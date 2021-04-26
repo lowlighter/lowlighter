@@ -21,4 +21,5 @@ jobs:
           markdown: test_template.md    # Template file
           markdown_cache: .cache   # Cache folder
           config_output: markdown  # Output as markdown file
+          debug: yes
           #use_prebuilt_image: no
