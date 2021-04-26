@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `30` repositories and made `1432` commits.
+I contributed to `30` repositories and made `1452` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,18 +29,17 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Opened [#271 Release v38](https://github.com/lowlighter/metrics/pull/271) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 6 files changed `++49 --8`
+* ⏺️ Created new branch `release-v38` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* #️⃣ Closed [#264 Display confetti animation on cakeday](https://github.com/lowlighter/metrics/issues/264) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#270 Add `markdown-pdf` option as config output](https://github.com/lowlighter/metrics/pull/270) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 7 files changed `++81 --13`
+* 🔃 Opened [#270 Add `markdown-pdf` option as config output](https://github.com/lowlighter/metrics/pull/270) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 7 files changed `++81 --13`
+* ⏺️ Created new branch `feat-pdf-output` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#263 Add `embed` method in markdown plugin](https://github.com/lowlighter/metrics/pull/263) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 3 files changed `++58 --4`
-* 🔃 Merged [#266 Bump @actions/core from 1.2.6 to 1.2.7](https://github.com/lowlighter/metrics/pull/266) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++8 --8`
-* 🔃 Merged [#267 Bump js-yaml from 4.0.0 to 4.1.0](https://github.com/lowlighter/metrics/pull/267) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++8 --8`
-* 🔃 Merged [#268 Bump eslint from 7.23.0 to 7.25.0](https://github.com/lowlighter/metrics/pull/268) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++8 --8`
-* #️⃣ Opened [#264 Display confetti animation on cakeday](https://github.com/lowlighter/metrics/issues/264) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#262 Simplify GitHub URLs in comments](https://github.com/lowlighter/metrics/pull/262) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++20 --5`
-* #️⃣ Closed [#254 Auto parse reference to issues/pr in metrics insights](https://github.com/lowlighter/metrics/issues/254) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 
 ___
@@ -85,28 +84,30 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [iOS 14.5 delivers Unlock iPhone with Apple Watch, new privacy controls, and more](https://www.apple.com/newsroom/2021/04/ios-14-5-offers-unlock-iphone-with-apple-watch-diverse-siri-voices-and-more/)
+* [Woven Planet, a subsidiary of Toyota, to acquire Lyft’s self-driving car divisi](https://investor.lyft.com/news-and-events/news/news-details/2021/Woven-Planet-a-subsidiary-of-Toyota-to-acquire-Lyfts-self-driving-car-division/default.aspx)
   * *Published on 26/04/2021*
-* [New Proof Reveals That Graphs with No Pentagons Are Fundamentally Different](https://www.quantamagazine.org/new-proof-reveals-that-graphs-with-no-pentagons-are-fundamentally-different-20210426/)
+* [macOS gatekeeper and file quarantine bypass](https://objective-see.com/blog/blog_0x64.html)
+  * *Published on 26/04/2021*
+* [Lambda School Agrees to End Deceptive Educational Financing Practices](https://dfpi.ca.gov/2021/04/26/lambda-school-reaches-settlement-with-dfpi-agreeing-to-end-deceptive-educational-financing-practices)
   * *Published on 26/04/2021*
 * [Best Practices for Remote Software Engineering](https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-software-engineering/fulltext)
-  * *Published on 26/04/2021*
-* [Never Pay for Online Dating](https://www.gwern.net/docs/psychology/okcupid/whyyoushouldneverpayforonlinedating.html)
   * *Published on 26/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> 50k stars and counting 💫<br/>Onwards and upwards <span class="mention">@GatsbyJS</span> 🚀<br/>Give it a try on your next GitHub Pages project: 
+>
+> <a href="GitHub"><img src="https://opengraph.githubassets.com/71badfe4b34a96a25215170b29a36566651038b653319f026205cf7e5cf2561f/gatsbyjs/gatsby" alt="gatsbyjs/gatsby" height="200"></a>
+>
+> *20:37 on 26/04/2021*
+
 > Script Kit was launched in Beta with community-driven examples on GitHub discussions last month. Join <span class="mention">@bdougieYO</span> and <span class="mention">@johnlindquist</span> in learning how you can automate anything with Script Kit.<br/><br/><a href="https://t.co/mmBhVsPb48" class="link">meetup.com/github-virtual…</a> <br/><a href="https://t.co/6Tfk9J44u7" class="link">pic.twitter.com/6Tfk9J44u7</a>
 >
 > <a href=""><img src="https://pbs.twimg.com/media/Ez6vLmtXsAE04_K.jpg" alt="" height="200"></a>
 >
 > *17:46 on 26/04/2021*
-
-> RT <span class="mention">@GitHubEnt</span>: “Ten years ago, everyone built locally. Now people are using ChatOps to watch rollouts and get information live in Slack.”…
->
-> *17:05 on 26/04/2021*
 
 
 
@@ -142,7 +143,7 @@ ___
 
 To include SVGs metrics images without creating additional jobs, use the `embed` function:
 
-<img src="https://github.com/lowlighter/lowlighter/blob/master/.cache/[object Object].svg">
+<img src="https://github.com/lowlighter/lowlighter/blob/master/.cache/example-isocalendar.svg">
 
 It takes two arguments:
 - An unique identifier which will be used as filename withing `markdown_cache` folder
