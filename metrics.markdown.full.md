@@ -80,13 +80,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Parsing Protobuf at 2+GB/S: How I Learned to Love Tail Calls in C](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html)
-  * *Published on 25/04/2021*
-* [Heroku-style deployments with Docker and Git tags](https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/)
-  * *Published on 25/04/2021*
-* [Last Resort Font (Mac)](http://mirror.informatimago.com/next/developer.apple.com/fonts/LastResortFont/index.html)
-  * *Published on 25/04/2021*
-* [Swift on the Server (2020)](https://theswiftdev.com/swift-on-the-server-in-2020/)
+* [The Tamagotchi Cemetery](https://burialsandbeyond.com/2021/03/06/tamagotchi-cemetery/)
+  * *Published on 26/04/2021*
+* [Signald: Unofficial Daemon for Interacting with Signal](https://signald.org/)
+  * *Published on 26/04/2021*
+* [Greg Kroah-Hartman Rejects Apology from University of Minnesota Researchers](https://lore.kernel.org/lkml/YIV+pLR0nt94q0xQ@kroah.com/)
+  * *Published on 26/04/2021*
+* [How Facebook encodes videos](https://engineering.fb.com/2021/04/05/video-engineering/how-facebook-encodes-your-videos/)
   * *Published on 25/04/2021*
 
 
