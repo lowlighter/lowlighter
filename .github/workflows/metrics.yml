@@ -106,7 +106,22 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
-          debug: yes
+          
+      # Markdown template example (with plugins)
+      - name: 📒 Markdown template (pdf)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          template: markdown
+          filename: metrics.markdown.pdf.md
+          markdown: https://raw.githubusercontent.com/lowlighter/metrics/master/source/templates/markdown/example.pdf.md
+          config_output: markdown-pdf
+          plugin_rss: yes
+          plugin_rss_source: https://news.ycombinator.com/rss
+          plugin_rss_limit: 4
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request  
 
       # ======================================================================================
       # 🧩 PLUGINS
