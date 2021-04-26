@@ -1,1 +1,1 @@
-<%- await embed({isocalendar:true}) %>
+<%- await embed("test-isocalendar", {isocalendar:true}) %>
