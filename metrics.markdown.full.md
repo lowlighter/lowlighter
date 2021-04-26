@@ -15,27 +15,32 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `30` repositories and made `1424` commits.
+I contributed to `30` repositories and made `1432` commits.
 ```
 
-## 🧩 Markdown plugins
+## 🧩 Plugins
 
-Most of plugins from SVG templates can be reused directly by including image source in markdown, but some have them have their own **markdown** version which includes hyperlinks and reduce image overhead.
+### Using markdown plugins
+
+Some plugins have their own **markdown** version which includes hyperlinks and reduce image overhead.
 
 See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin-compatibily-matrix) for more informations.
 
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#263 Add `embed` method in markdown plugin](https://github.com/lowlighter/metrics/pull/263) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 3 files changed `++58 --4`
+* 🔃 Merged [#266 Bump @actions/core from 1.2.6 to 1.2.7](https://github.com/lowlighter/metrics/pull/266) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++8 --8`
+* 🔃 Merged [#267 Bump js-yaml from 4.0.0 to 4.1.0](https://github.com/lowlighter/metrics/pull/267) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++8 --8`
+* 🔃 Merged [#268 Bump eslint from 7.23.0 to 7.25.0](https://github.com/lowlighter/metrics/pull/268) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++8 --8`
 * #️⃣ Opened [#264 Display confetti animation on cakeday](https://github.com/lowlighter/metrics/issues/264) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#262 Simplify GitHub URLs in comments](https://github.com/lowlighter/metrics/pull/262) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 2 files changed `++20 --5`
 * #️⃣ Closed [#254 Auto parse reference to issues/pr in metrics insights](https://github.com/lowlighter/metrics/issues/254) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Opened [#263 Add `embed` method in markdown plugin](https://github.com/lowlighter/metrics/pull/263) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++23 --3`
-* ⏺️ Created new branch `feat-markdown-embed-methid` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔍 Reviewed [#262 Simplify GitHub URLs in comments](https://github.com/lowlighter/metrics/pull/262) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔍 Reviewed [#262 Simplify GitHub URLs in comments](https://github.com/lowlighter/metrics/pull/262) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 
 ___
@@ -80,26 +85,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Farming robot kills 100k weeds per hour with lasers](https://www.freethink.com/articles/farming-robot)
+* [iOS 14.5 delivers Unlock iPhone with Apple Watch, new privacy controls, and more](https://www.apple.com/newsroom/2021/04/ios-14-5-offers-unlock-iphone-with-apple-watch-diverse-siri-voices-and-more/)
   * *Published on 26/04/2021*
-* [We were promised Strong AI, but instead we got metadata analysis](https://calpaterson.com/metadata.html)
+* [New Proof Reveals That Graphs with No Pentagons Are Fundamentally Different](https://www.quantamagazine.org/new-proof-reveals-that-graphs-with-no-pentagons-are-fundamentally-different-20210426/)
   * *Published on 26/04/2021*
-* [Reliability of police mobile phone evidence questioned after hack](https://theferret.scot/reliability-of-police-mobile-phone-evidence-questioned-after-hack/)
+* [Best Practices for Remote Software Engineering](https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-software-engineering/fulltext)
   * *Published on 26/04/2021*
-* [QEMU Internals](https://airbus-seclab.github.io/qemu_blog/)
+* [Never Pay for Online Dating](https://www.gwern.net/docs/psychology/okcupid/whyyoushouldneverpayforonlinedating.html)
   * *Published on 26/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> Neato! Generate triangulation art from any image using the command line, desktop app, or your browser: <a href="https://t.co/9qXbnnbSjg" class="link">github.com/RH12503/Triang…</a><br/>◅ △ ◣ ◥ ◤ ◁ ◣ ◥ <br/><a href="https://t.co/Pb86Uzyjqp" class="link">pic.twitter.com/Pb86Uzyjqp</a>
+> Script Kit was launched in Beta with community-driven examples on GitHub discussions last month. Join <span class="mention">@bdougieYO</span> and <span class="mention">@johnlindquist</span> in learning how you can automate anything with Script Kit.<br/><br/><a href="https://t.co/mmBhVsPb48" class="link">meetup.com/github-virtual…</a> <br/><a href="https://t.co/6Tfk9J44u7" class="link">pic.twitter.com/6Tfk9J44u7</a>
 >
-> *17:01 on 24/04/2021*
+> <a href=""><img src="https://pbs.twimg.com/media/Ez6vLmtXsAE04_K.jpg" alt="" height="200"></a>
+>
+> *17:46 on 26/04/2021*
 
-> RT <span class="mention">@GitHubEnt</span>: We’re live on Demo Days! Learn best practices in this deep dive on how developers use open source securely within their orga…
+> RT <span class="mention">@GitHubEnt</span>: “Ten years ago, everyone built locally. Now people are using ChatOps to watch rollouts and get information live in Slack.”…
 >
-> *18:11 on 23/04/2021*
+> *17:05 on 26/04/2021*
 
 
 
@@ -130,3 +137,15 @@ ___
 
 [And 69 more...](https://github.com/lowlighter?tab=stars)
 
+
+### Embedding SVG metrics
+
+To include SVGs metrics images without creating additional jobs, use the `embed` function:
+
+<img src="https://github.com/lowlighter/lowlighter/blob/master/.cache/[object Object].svg">
+
+It takes two arguments:
+- An unique identifier which will be used as filename withing `markdown_cache` folder
+- Configuration options (see [action.yml](https://github.com/lowlighter/metrics/blob/master/action.yml))
+  - Tokens options are automatically passed down from your workflow job, do not pass them again
+  - Options syntax is same as web instance (i.e. dots (`.`) instead of underscores (`_`) and no `plugin_` prefixes)
