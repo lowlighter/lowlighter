@@ -15,7 +15,7 @@ jobs:
       - uses: lowlighter/metrics@feat-markdown-embed-methid
         if: ${{ success() || failure() }}
         with:
-          token: ${{ github.token }}
+          token: ${{ secrets.METRICS_TOKEN }}
           template: markdown
           filename: test.md      # Output file
           markdown: test_template.md    # Template file
