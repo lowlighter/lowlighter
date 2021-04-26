@@ -113,7 +113,7 @@ jobs:
         uses: lowlighter/metrics@master
         with:
           template: markdown
-          filename: metrics.markdown.pdf.md
+          filename: metrics.markdown.pdf
           markdown: https://raw.githubusercontent.com/lowlighter/metrics/master/source/templates/markdown/example.pdf.md
           config_output: markdown-pdf
           plugin_rss: yes
