@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `30` repositories and made `1452` commits.
+I contributed to `30` repositories and made `1455` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,6 +29,10 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Closed [#334 Auto-generated metrics for run #786945261](https://github.com/lowlighter/lowlighter/pull/334) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
+  * 17 files changed `++3245 --166`
+* 🔃 Merged [#335 Auto-generated metrics for run #786957256](https://github.com/lowlighter/lowlighter/pull/335) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
+  * 11 files changed `++3197 --107`
 * 🔃 Opened [#271 Release v38](https://github.com/lowlighter/metrics/pull/271) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 6 files changed `++49 --8`
 * ⏺️ Created new branch `release-v38` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -37,9 +41,6 @@ ___
   * 7 files changed `++81 --13`
 * 🔃 Opened [#270 Add `markdown-pdf` option as config output](https://github.com/lowlighter/metrics/pull/270) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 7 files changed `++81 --13`
-* ⏺️ Created new branch `feat-pdf-output` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#263 Add `embed` method in markdown plugin](https://github.com/lowlighter/metrics/pull/263) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 3 files changed `++58 --4`
 
 
 ___
@@ -86,11 +87,11 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [Woven Planet, a subsidiary of Toyota, to acquire Lyft’s self-driving car divisi](https://investor.lyft.com/news-and-events/news/news-details/2021/Woven-Planet-a-subsidiary-of-Toyota-to-acquire-Lyfts-self-driving-car-division/default.aspx)
   * *Published on 26/04/2021*
-* [macOS gatekeeper and file quarantine bypass](https://objective-see.com/blog/blog_0x64.html)
-  * *Published on 26/04/2021*
 * [Lambda School Agrees to End Deceptive Educational Financing Practices](https://dfpi.ca.gov/2021/04/26/lambda-school-reaches-settlement-with-dfpi-agreeing-to-end-deceptive-educational-financing-practices)
   * *Published on 26/04/2021*
-* [Best Practices for Remote Software Engineering](https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-software-engineering/fulltext)
+* [macOS gatekeeper and file quarantine bypass](https://objective-see.com/blog/blog_0x64.html)
+  * *Published on 26/04/2021*
+* [Pg_tmp – Run tests on an isolated, temporary PostgreSQL database](http://eradman.com/ephemeralpg/)
   * *Published on 26/04/2021*
 
 
@@ -99,7 +100,7 @@ ___
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
 > 50k stars and counting 💫<br/>Onwards and upwards <span class="mention">@GatsbyJS</span> 🚀<br/>Give it a try on your next GitHub Pages project: 
 >
-> <a href="GitHub"><img src="https://opengraph.githubassets.com/71badfe4b34a96a25215170b29a36566651038b653319f026205cf7e5cf2561f/gatsbyjs/gatsby" alt="gatsbyjs/gatsby" height="200"></a>
+> <a href="GitHub"><img src="https://opengraph.githubassets.com/fbe37a46cadcc63d9ef3db95a61de1c2c9c2404257b7c3ed6f1b78696f013a10/gatsbyjs/gatsby" alt="gatsbyjs/gatsby" height="200"></a>
 >
 > *20:37 on 26/04/2021*
 
