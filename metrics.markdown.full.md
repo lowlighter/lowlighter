@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `30` repositories and made `1421` commits.
+I contributed to `30` repositories and made `1424` commits.
 ```
 
 ## 🧩 Markdown plugins
@@ -80,13 +80,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [2021 Williams F1 Computational Fluid Dynamics](https://maxtayloraero.wordpress.com/2021/04/21/2021-williams-f1-cfd/)
+* [Farming robot kills 100k weeds per hour with lasers](https://www.freethink.com/articles/farming-robot)
   * *Published on 26/04/2021*
-* [The Two Cultures of Mathematics (2000) [pdf]](https://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf)
+* [We were promised Strong AI, but instead we got metadata analysis](https://calpaterson.com/metadata.html)
   * *Published on 26/04/2021*
-* [Red and blue functions are a good thing](https://blainehansen.me/post/red-blue-functions-are-actually-good/)
+* [Reliability of police mobile phone evidence questioned after hack](https://theferret.scot/reliability-of-police-mobile-phone-evidence-questioned-after-hack/)
   * *Published on 26/04/2021*
-* [Gisgraphy – open-source geocoder based on open data](https://www.gisgraphy.com/index.php)
+* [QEMU Internals](https://airbus-seclab.github.io/qemu_blog/)
   * *Published on 26/04/2021*
 
 
