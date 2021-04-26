@@ -80,14 +80,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [The Tamagotchi Cemetery](https://burialsandbeyond.com/2021/03/06/tamagotchi-cemetery/)
+* [Twitter Is Blocking Tweets That Criticize the Indian Government](https://thewire.in/tech/as-covid-19-crisis-deepens-twitter-takes-down-tweets-criticising-modi-government)
   * *Published on 26/04/2021*
-* [Signald: Unofficial Daemon for Interacting with Signal](https://signald.org/)
+* [Running Computational fluid dynamics on leaked 2021 Williams F1 CAD](https://maxtayloraero.wordpress.com/2021/04/21/2021-williams-f1-cfd/)
   * *Published on 26/04/2021*
-* [Greg Kroah-Hartman Rejects Apology from University of Minnesota Researchers](https://lore.kernel.org/lkml/YIV+pLR0nt94q0xQ@kroah.com/)
+* [The Two Cultures of Mathematics (2000) [pdf]](https://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf)
   * *Published on 26/04/2021*
-* [How Facebook encodes videos](https://engineering.fb.com/2021/04/05/video-engineering/how-facebook-encodes-your-videos/)
-  * *Published on 25/04/2021*
+* [The Last Page of the Web](http://users.csc.calpoly.edu/~jdalbey/TheLastWebPage.html)
+  * *Published on 26/04/2021*
 
 
 ___
