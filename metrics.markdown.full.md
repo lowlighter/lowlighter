@@ -80,13 +80,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Twitter Is Blocking Tweets That Criticize the Indian Government](https://thewire.in/tech/as-covid-19-crisis-deepens-twitter-takes-down-tweets-criticising-modi-government)
-  * *Published on 26/04/2021*
-* [Running Computational fluid dynamics on leaked 2021 Williams F1 CAD](https://maxtayloraero.wordpress.com/2021/04/21/2021-williams-f1-cfd/)
+* [2021 Williams F1 Computational Fluid Dynamics](https://maxtayloraero.wordpress.com/2021/04/21/2021-williams-f1-cfd/)
   * *Published on 26/04/2021*
 * [The Two Cultures of Mathematics (2000) [pdf]](https://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf)
   * *Published on 26/04/2021*
-* [The Last Page of the Web](http://users.csc.calpoly.edu/~jdalbey/TheLastWebPage.html)
+* [Red and blue functions are a good thing](https://blainehansen.me/post/red-blue-functions-are-actually-good/)
+  * *Published on 26/04/2021*
+* [Gisgraphy – open-source geocoder based on open data](https://www.gisgraphy.com/index.php)
   * *Published on 26/04/2021*
 
 
