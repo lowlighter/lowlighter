@@ -23,4 +23,16 @@ jobs:
           config_output: markdown  # Output as markdown file
           use_prebuilt_image: no
           debug: yes
-          #use_prebuilt_image: no
+          
+      - uses: lowlighter/metrics@feat-pdf-output
+        if: ${{ success() || failure() }}
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: markdown
+          filename: test.pdf      # Output file
+          markdown: test_template.md    # Template file
+          markdown_cache: .cache   # Cache folder
+          config_output: markdown  # Output as markdown file
+          use_prebuilt_image: no
+          debug: yes
+
