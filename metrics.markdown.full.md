@@ -85,14 +85,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [My Current HTML Boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
+  * *Published on 27/04/2021*
+* [The Blue Hole in the Red Sea Is the Deadliest Dive Site in the World](https://www.spiegel.de/international/zeitgeist/the-blue-hole-in-the-red-sea-is-the-deadliest-dive-site-in-the-world-a-844099.html)
+  * *Published on 27/04/2021*
 * [Experian’s credit freeze security is still a joke](https://krebsonsecurity.com/2021/04/experians-credit-freeze-security-is-still-a-joke/)
   * *Published on 26/04/2021*
 * [DDT dump site off L.A. coast much bigger than scientists expected](https://www.latimes.com/environment/story/2021-04-26/ddt-waste-barrels-off-la-coast-shock-california-scientists)
   * *Published on 27/04/2021*
-* [Karmada: Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration](https://github.com/karmada-io/karmada)
-  * *Published on 27/04/2021*
-* [Lambda School agrees to end deceptive educational financing practices](https://dfpi.ca.gov/2021/04/26/lambda-school-reaches-settlement-with-dfpi-agreeing-to-end-deceptive-educational-financing-practices)
-  * *Published on 26/04/2021*
 
 
 ___
@@ -100,7 +100,7 @@ ___
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
 > 50k stars and counting 💫<br/>Onwards and upwards <span class="mention">@GatsbyJS</span> 🚀<br/>Give it a try on your next GitHub Pages project: 
 >
-> <a href="GitHub"><img src="https://opengraph.githubassets.com/a542ceea17bdf830b277adae85bc0bc4d8110436e571930061cdb9492ffa7468/gatsbyjs/gatsby" alt="gatsbyjs/gatsby" height="200"></a>
+> <a href="GitHub"><img src="https://opengraph.githubassets.com/ae7d6d20f6bb3a043d4034516a893fa8826b6f19f8bea68083353277973f3c38/gatsbyjs/gatsby" alt="gatsbyjs/gatsby" height="200"></a>
 >
 > *20:37 on 26/04/2021*
 
