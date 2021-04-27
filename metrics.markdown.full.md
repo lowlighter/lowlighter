@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `30` repositories and made `1455` commits.
+I contributed to `30` repositories and made `1460` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,17 +29,18 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#273 Add templates metadata](https://github.com/lowlighter/metrics/pull/273) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 17 files changed `++142 --17`
+* 🔃 Merged [#272 Feat auto extension](https://github.com/lowlighter/metrics/pull/272) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 4 files changed `++7 --5`
+* 🔃 Opened [#273 Add templates metadata](https://github.com/lowlighter/metrics/pull/273) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 15 files changed `++90 --16`
+* ⏺️ Created new branch `feat-metadata-templates` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Opened [#272 Feat auto extension](https://github.com/lowlighter/metrics/pull/272) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 4 files changed `++7 --5`
 * ⏺️ Created new branch `feat-auto-extension` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Closed [#334 Auto-generated metrics for run #786945261](https://github.com/lowlighter/lowlighter/pull/334) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
   * 17 files changed `++3245 --166`
-* 🔃 Merged [#335 Auto-generated metrics for run #786957256](https://github.com/lowlighter/lowlighter/pull/335) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
-  * 11 files changed `++3197 --107`
-* 🔃 Opened [#271 Release v38](https://github.com/lowlighter/metrics/pull/271) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 6 files changed `++49 --8`
-* ⏺️ Created new branch `release-v38` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* #️⃣ Closed [#264 Display confetti animation on cakeday](https://github.com/lowlighter/metrics/issues/264) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#270 Add `markdown-pdf` option as config output](https://github.com/lowlighter/metrics/pull/270) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 7 files changed `++81 --13`
 
 
 ___
@@ -84,28 +85,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Google have declared Droidscript is malware](https://groups.google.com/g/androidscript/c/Mbh5TZ6YYnA/m/GflwflqaDAAJ)
+* [My experience with sexual harassment in the Scala community](https://yifanxing.medium.com/my-experience-with-sexual-harassment-in-the-scala-community-9245b4a139de)
   * *Published on 27/04/2021*
-* [Swimlanes.io – generated editable sequence diagrams](https://swimlanes.io/)
+* [Calibre – E-Book Management](https://calibre-ebook.com/)
   * *Published on 27/04/2021*
-* [Neutron stars may be bigger than expected, measurement of lead nucleus suggests](https://www.sciencemag.org/news/2021/04/neutron-stars-may-be-bigger-expected-measurement-lead-nucleus-suggests)
+* [Trans-Pacific deteriorating, brace for shipping ‘tsunami’](https://www.freightwaves.com/news/flexport-trans-pacific-deteriorating-brace-for-shipping-tsunami)
   * *Published on 27/04/2021*
-* [Some thoughts on the $660k copy of Super Mario Bros](http://famicomblog.blogspot.com/2021/04/air-raid-has-some-thoughts-on-660000.html)
-  * *Published on 26/04/2021*
+* [What’s wrong with Git? A conceptual design analysis (2016)](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
+  * *Published on 27/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> Lack of internet access and spotty electricity in Yemen never stopped Salah <span class="mention">@tech_chieftain</span> Al-Dhaferi from finding a coding education, starting with CDs and books. Get his full story: 
+>
+> <a href="GitHub"><img src="https://github.githubassets.com/images/modules/site/readme/salah-al-dhaferi/salah-al-dhaferi-social.jpg" alt="Salah Al-Dhaferi · The ReadME Project" height="200"></a>
+>
+> *18:30 on 27/04/2021*
+
 > RT <span class="mention">@GitHubEnt</span>: Establishing an office source program office (OSPO) with your organization can increase engineering efficiency, improve tran…
 >
 > *18:01 on 27/04/2021*
-
-> Sure, you can use feature flags to turn features on and off. But they’re good for a lot more! Check out how we use them to ship code faster and safer, plus a few of our shipping strategies. <br/><br/>
->
-> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2021/04/Blog_ENGINEERING_for-social.png?fit=1200%2C630" alt="How we ship code faster and safer with feature flags - The GitHub Blog" height="200"></a>
->
-> *17:13 on 27/04/2021*
 
 
 
@@ -147,4 +148,3 @@ It takes two arguments:
 - An unique identifier which will be used as filename withing `markdown_cache` folder
 - Configuration options (see [action.yml](https://github.com/lowlighter/metrics/blob/master/action.yml))
   - Tokens options are automatically passed down from your workflow job, do not pass them again
-  - Options syntax is same as web instance (i.e. dots (`.`) instead of underscores (`_`) and no `plugin_` prefixes)
