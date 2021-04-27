@@ -85,13 +85,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Woven Planet, a subsidiary of Toyota, to acquire Lyft’s self-driving car divisi](https://investor.lyft.com/news-and-events/news/news-details/2021/Woven-Planet-a-subsidiary-of-Toyota-to-acquire-Lyfts-self-driving-car-division/default.aspx)
+* [Experian’s credit freeze security is still a joke](https://krebsonsecurity.com/2021/04/experians-credit-freeze-security-is-still-a-joke/)
   * *Published on 26/04/2021*
-* [Lambda School Agrees to End Deceptive Educational Financing Practices](https://dfpi.ca.gov/2021/04/26/lambda-school-reaches-settlement-with-dfpi-agreeing-to-end-deceptive-educational-financing-practices)
+* [Nobody cares about your clean code](https://felipecsl.com/2021/04/26/nobody-cares-about-your-beautiful-code.html)
+  * *Published on 27/04/2021*
+* [Lambda School agrees to end deceptive educational financing practices](https://dfpi.ca.gov/2021/04/26/lambda-school-reaches-settlement-with-dfpi-agreeing-to-end-deceptive-educational-financing-practices)
   * *Published on 26/04/2021*
-* [macOS gatekeeper and file quarantine bypass](https://objective-see.com/blog/blog_0x64.html)
-  * *Published on 26/04/2021*
-* [Pg_tmp – Run tests on an isolated, temporary PostgreSQL database](http://eradman.com/ephemeralpg/)
+* [Subsidiary of Toyota to acquire Lyft’s self-driving car division](https://investor.lyft.com/news-and-events/news/news-details/2021/Woven-Planet-a-subsidiary-of-Toyota-to-acquire-Lyfts-self-driving-car-division/default.aspx)
   * *Published on 26/04/2021*
 
 
@@ -100,7 +100,7 @@ ___
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
 > 50k stars and counting 💫<br/>Onwards and upwards <span class="mention">@GatsbyJS</span> 🚀<br/>Give it a try on your next GitHub Pages project: 
 >
-> <a href="GitHub"><img src="https://opengraph.githubassets.com/fbe37a46cadcc63d9ef3db95a61de1c2c9c2404257b7c3ed6f1b78696f013a10/gatsbyjs/gatsby" alt="gatsbyjs/gatsby" height="200"></a>
+> <a href="GitHub"><img src="https://opengraph.githubassets.com/ab55dae6dfad31d804bbe821d0fdd47e781a28b951e02acc9ad00b6a61bdba1e/gatsbyjs/gatsby" alt="gatsbyjs/gatsby" height="200"></a>
 >
 > *20:37 on 26/04/2021*
 
