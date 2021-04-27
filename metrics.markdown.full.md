@@ -87,11 +87,11 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [Experian’s credit freeze security is still a joke](https://krebsonsecurity.com/2021/04/experians-credit-freeze-security-is-still-a-joke/)
   * *Published on 26/04/2021*
-* [Nobody cares about your clean code](https://felipecsl.com/2021/04/26/nobody-cares-about-your-beautiful-code.html)
+* [DDT dump site off L.A. coast much bigger than scientists expected](https://www.latimes.com/environment/story/2021-04-26/ddt-waste-barrels-off-la-coast-shock-california-scientists)
+  * *Published on 27/04/2021*
+* [Karmada: Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration](https://github.com/karmada-io/karmada)
   * *Published on 27/04/2021*
 * [Lambda School agrees to end deceptive educational financing practices](https://dfpi.ca.gov/2021/04/26/lambda-school-reaches-settlement-with-dfpi-agreeing-to-end-deceptive-educational-financing-practices)
-  * *Published on 26/04/2021*
-* [Subsidiary of Toyota to acquire Lyft’s self-driving car division](https://investor.lyft.com/news-and-events/news/news-details/2021/Woven-Planet-a-subsidiary-of-Toyota-to-acquire-Lyfts-self-driving-car-division/default.aspx)
   * *Published on 26/04/2021*
 
 
@@ -100,7 +100,7 @@ ___
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
 > 50k stars and counting 💫<br/>Onwards and upwards <span class="mention">@GatsbyJS</span> 🚀<br/>Give it a try on your next GitHub Pages project: 
 >
-> <a href="GitHub"><img src="https://opengraph.githubassets.com/ab55dae6dfad31d804bbe821d0fdd47e781a28b951e02acc9ad00b6a61bdba1e/gatsbyjs/gatsby" alt="gatsbyjs/gatsby" height="200"></a>
+> <a href="GitHub"><img src="https://opengraph.githubassets.com/a542ceea17bdf830b277adae85bc0bc4d8110436e571930061cdb9492ffa7468/gatsbyjs/gatsby" alt="gatsbyjs/gatsby" height="200"></a>
 >
 > *20:37 on 26/04/2021*
 
