@@ -29,6 +29,7 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* ⏺️ Created new branch `feat-auto-extension` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Closed [#334 Auto-generated metrics for run #786945261](https://github.com/lowlighter/lowlighter/pull/334) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
   * 17 files changed `++3245 --166`
 * 🔃 Merged [#335 Auto-generated metrics for run #786957256](https://github.com/lowlighter/lowlighter/pull/335) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
@@ -38,8 +39,6 @@ ___
 * ⏺️ Created new branch `release-v38` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * #️⃣ Closed [#264 Display confetti animation on cakeday](https://github.com/lowlighter/metrics/issues/264) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#270 Add `markdown-pdf` option as config output](https://github.com/lowlighter/metrics/pull/270) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 7 files changed `++81 --13`
-* 🔃 Opened [#270 Add `markdown-pdf` option as config output](https://github.com/lowlighter/metrics/pull/270) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 7 files changed `++81 --13`
 
 
@@ -85,30 +84,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Apple&#39;s follow-up to M1 chip goes into mass production for Mac](https://asia.nikkei.com/Business/Tech/Semiconductors/Apple-s-follow-up-to-M1-chip-goes-into-mass-production-for-Mac)
+* [Google have declared Droidscript is malware](https://groups.google.com/g/androidscript/c/Mbh5TZ6YYnA/m/GflwflqaDAAJ)
   * *Published on 27/04/2021*
-* [Tool can make photos undetectable to facial recognition without ruining them](https://www.dailydot.com/debug/donotpay-photo-ninja-facial-recognition/)
+* [Swimlanes.io – generated editable sequence diagrams](https://swimlanes.io/)
   * *Published on 27/04/2021*
-* [Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh](https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh)
+* [Neutron stars may be bigger than expected, measurement of lead nucleus suggests](https://www.sciencemag.org/news/2021/04/neutron-stars-may-be-bigger-expected-measurement-lead-nucleus-suggests)
   * *Published on 27/04/2021*
-* [Ransomware gang threatens to expose police informants if ransom is not paid](https://therecord.media/ransomware-gang-threatens-to-expose-police-informants-if-ransom-is-not-paid/)
-  * *Published on 27/04/2021*
+* [Some thoughts on the $660k copy of Super Mario Bros](http://famicomblog.blogspot.com/2021/04/air-raid-has-some-thoughts-on-660000.html)
+  * *Published on 26/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> 50k stars and counting 💫<br/>Onwards and upwards <span class="mention">@GatsbyJS</span> 🚀<br/>Give it a try on your next GitHub Pages project: 
+> RT <span class="mention">@GitHubEnt</span>: Establishing an office source program office (OSPO) with your organization can increase engineering efficiency, improve tran…
 >
-> <a href="GitHub"><img src="https://opengraph.githubassets.com/aa42e5a3438d3d46e1ca4121fad584ece86baf5e5df39bbaddfdec6960f6d01d/gatsbyjs/gatsby" alt="gatsbyjs/gatsby" height="200"></a>
->
-> *20:37 on 26/04/2021*
+> *18:01 on 27/04/2021*
 
-> Script Kit was launched in Beta with community-driven examples on GitHub discussions last month. Join <span class="mention">@bdougieYO</span> and <span class="mention">@johnlindquist</span> in learning how you can automate anything with Script Kit.<br/><br/><a href="https://t.co/mmBhVsPb48" class="link">meetup.com/github-virtual…</a> <br/><a href="https://t.co/6Tfk9J44u7" class="link">pic.twitter.com/6Tfk9J44u7</a>
+> Sure, you can use feature flags to turn features on and off. But they’re good for a lot more! Check out how we use them to ship code faster and safer, plus a few of our shipping strategies. <br/><br/>
 >
-> <a href=""><img src="https://pbs.twimg.com/media/Ez6vLmtXsAE04_K.jpg" alt="" height="200"></a>
+> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2021/04/Blog_ENGINEERING_for-social.png?fit=1200%2C630" alt="How we ship code faster and safer with feature flags - The GitHub Blog" height="200"></a>
 >
-> *17:46 on 26/04/2021*
+> *17:13 on 27/04/2021*
 
 
 
