@@ -91,22 +91,24 @@ ___
   * *Published on 28/04/2021*
 * [Dominance of Apple and Google’s app stores impacting competition and consumers](https://www.accc.gov.au/media-release/dominance-of-apple-and-google%E2%80%99s-app-stores-impacting-competition-and-consumers)
   * *Published on 28/04/2021*
-* [Trans-Pacific deteriorating, brace for shipping ‘tsunami’](https://www.freightwaves.com/news/flexport-trans-pacific-deteriorating-brace-for-shipping-tsunami)
-  * *Published on 27/04/2021*
+* [Grand jury subpoena for Signal user data, Central District of California](https://signal.org/bigbrother/central-california-grand-jury/)
+  * *Published on 28/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> It's been a decade since we first heard the word "DevOps"—so what’s next? <br/><br/>Join experts from GitHub, Skyscanner, BlaBlaCar, and RedMonk as we discuss the future of DevOps culture, tooling, and processes. Save your seat: <a href="https://t.co/MyN7KwttQD" class="link">github.co/3exoXiJ</a> <br/><a href="https://t.co/nM3mJmngEK" class="link">pic.twitter.com/nM3mJmngEK</a>
+>
+> <a href=""><img src="https://pbs.twimg.com/media/E0DEPtXWEAYuwTd.jpg" alt="" height="200"></a>
+>
+> *08:35 on 28/04/2021*
+
 > Lack of internet access and spotty electricity in Yemen never stopped Salah <span class="mention">@tech_chieftain</span> Al-Dhaferi from finding a coding education, starting with CDs and books. Get his full story: 
 >
 > <a href="GitHub"><img src="https://github.githubassets.com/images/modules/site/readme/salah-al-dhaferi/salah-al-dhaferi-social.jpg" alt="Salah Al-Dhaferi · The ReadME Project" height="200"></a>
 >
 > *18:30 on 27/04/2021*
-
-> RT <span class="mention">@GitHubEnt</span>: Establishing an office source program office (OSPO) with your organization can increase engineering efficiency, improve tran…
->
-> *18:01 on 27/04/2021*
 
 
 
