@@ -29,6 +29,9 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Opened [#274 Add preview](https://github.com/lowlighter/metrics/pull/274) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 3 files changed `++87 --1`
+* ⏺️ Created new branch `feat-preview` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#273 Add templates metadata](https://github.com/lowlighter/metrics/pull/273) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 17 files changed `++142 --17`
 * 🔃 Merged [#272 Feat auto extension](https://github.com/lowlighter/metrics/pull/272) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -38,9 +41,6 @@ ___
 * ⏺️ Created new branch `feat-metadata-templates` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Opened [#272 Feat auto extension](https://github.com/lowlighter/metrics/pull/272) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 4 files changed `++7 --5`
-* ⏺️ Created new branch `feat-auto-extension` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Closed [#334 Auto-generated metrics for run #786945261](https://github.com/lowlighter/lowlighter/pull/334) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
-  * 17 files changed `++3245 --166`
 
 
 ___
@@ -85,13 +85,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [My experience with sexual harassment in the Scala community](https://yifanxing.medium.com/my-experience-with-sexual-harassment-in-the-scala-community-9245b4a139de)
-  * *Published on 27/04/2021*
-* [Calibre – E-Book Management](https://calibre-ebook.com/)
-  * *Published on 27/04/2021*
+* [Dominance of Apple and Google’s app stores impacting competition and consumers](https://www.accc.gov.au/media-release/dominance-of-apple-and-google%E2%80%99s-app-stores-impacting-competition-and-consumers)
+  * *Published on 28/04/2021*
 * [Trans-Pacific deteriorating, brace for shipping ‘tsunami’](https://www.freightwaves.com/news/flexport-trans-pacific-deteriorating-brace-for-shipping-tsunami)
   * *Published on 27/04/2021*
-* [What’s wrong with Git? A conceptual design analysis (2016)](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
+* [Google have declared Droidscript is malware](https://groups.google.com/g/androidscript/c/Mbh5TZ6YYnA/m/GflwflqaDAAJ)
+  * *Published on 27/04/2021*
+* [Swimlanes.io – generated editable sequence diagrams](https://swimlanes.io/)
   * *Published on 27/04/2021*
 
 
