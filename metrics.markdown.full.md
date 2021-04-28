@@ -85,13 +85,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Never run Google ads if you have an Android app](https://danfabulich.medium.com/never-run-google-ads-if-you-have-an-android-app-897a20604450)
+  * *Published on 28/04/2021*
+* [Better air is the easiest way not to die](https://dynomight.net/air/)
+  * *Published on 28/04/2021*
 * [Dominance of Apple and Google’s app stores impacting competition and consumers](https://www.accc.gov.au/media-release/dominance-of-apple-and-google%E2%80%99s-app-stores-impacting-competition-and-consumers)
   * *Published on 28/04/2021*
 * [Trans-Pacific deteriorating, brace for shipping ‘tsunami’](https://www.freightwaves.com/news/flexport-trans-pacific-deteriorating-brace-for-shipping-tsunami)
-  * *Published on 27/04/2021*
-* [Google have declared Droidscript is malware](https://groups.google.com/g/androidscript/c/Mbh5TZ6YYnA/m/GflwflqaDAAJ)
-  * *Published on 27/04/2021*
-* [Swimlanes.io – generated editable sequence diagrams](https://swimlanes.io/)
   * *Published on 27/04/2021*
 
 
