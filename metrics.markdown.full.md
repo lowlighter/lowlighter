@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `30` repositories and made `1461` commits.
+I contributed to `31` repositories and made `1461` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,18 +29,14 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔍 Reviewed [#276 Add selfhosted wakatime integration (wakapi)](https://github.com/lowlighter/metrics/pull/276) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔍 Reviewed [#276 Add selfhosted wakatime integration (wakapi)](https://github.com/lowlighter/metrics/pull/276) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* #️⃣ Opened [#127 `semiColons: &#34;asi&#34;` with `useBraces: &#34;preferNone&#34;` sometimes break variable scopes](https://github.com/dprint/dprint-plugin-typescript/issues/127) in [dprint/dprint-plugin-typescript](https://github.com/dprint/dprint-plugin-typescript)
+* 🔍 Reviewed [#276 Add selfhosted wakatime integration (wakapi)](https://github.com/lowlighter/metrics/pull/276) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔍 Reviewed [#276 Add selfhosted wakatime integration (wakapi)](https://github.com/lowlighter/metrics/pull/276) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Opened [#274 Add preview](https://github.com/lowlighter/metrics/pull/274) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 3 files changed `++87 --1`
 * ⏺️ Created new branch `feat-preview` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#273 Add templates metadata](https://github.com/lowlighter/metrics/pull/273) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 17 files changed `++142 --17`
-* 🔃 Merged [#272 Feat auto extension](https://github.com/lowlighter/metrics/pull/272) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 4 files changed `++7 --5`
-* 🔃 Opened [#273 Add templates metadata](https://github.com/lowlighter/metrics/pull/273) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 15 files changed `++90 --16`
-* ⏺️ Created new branch `feat-metadata-templates` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Opened [#272 Feat auto extension](https://github.com/lowlighter/metrics/pull/272) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 4 files changed `++7 --5`
 
 
 ___
@@ -85,30 +81,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Proposed futex2 allows Linux to mimic the NT kernel for better wine performance](https://lkml.org/lkml/2021/4/27/1208)
+* [Michael Collins, Apollo 11 astronaut, has died](https://www.npr.org/2021/04/28/509599284/forgotten-astronaut-michael-collins-dies)
   * *Published on 28/04/2021*
-* [Vertical turbines far more efficient in large-scale wind farms](https://eandt.theiet.org/content/articles/2021/04/vertical-turbines-far-more-efficient-in-large-scale-wind-farms/)
+* [The number of cities with municipal broadband has jumped over 4x in two years](https://gammawire.com/the-number-of-cities-with-municipal-broadband-has-jumped-over-450-in-two-years/)
   * *Published on 28/04/2021*
-* [Diving Deep on S3 Consistency](https://www.allthingsdistributed.com/2021/04/s3-strong-consistency.html)
+* [Kaspersky believes it found new CIA malware](https://therecord.media/security-firm-kaspersky-believes-it-found-new-cia-malware/)
   * *Published on 28/04/2021*
-* [Grand jury subpoena for Signal user data, Central District of California](https://signal.org/bigbrother/central-california-grand-jury/)
+* [Show HN: I made a simulator for personal finance to help figure out your life](https://projectifi.io/)
   * *Published on 28/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> It's been a decade since we first heard the word "DevOps"—so what’s next? <br/><br/>Join experts from GitHub, Skyscanner, BlaBlaCar, and RedMonk as we discuss the future of DevOps culture, tooling, and processes. Save your seat: <a href="https://t.co/MyN7KwttQD" class="link">github.co/3exoXiJ</a> <br/><a href="https://t.co/nM3mJmngEK" class="link">pic.twitter.com/nM3mJmngEK</a>
+> Have you built your Readme page? Here are some tips on how to set up your profile, as well as some inspiration from other great profiles. What will you showcase? <br/><a href="https://t.co/1isCtQLdw1" class="link">pic.twitter.com/1isCtQLdw1</a>
 >
-> <a href=""><img src="https://pbs.twimg.com/media/E0DEPtXWEAYuwTd.jpg" alt="" height="200"></a>
+> <a href=""><img src="https://pbs.twimg.com/media/E0Ew78UX0AISqog.jpg" alt="" height="200"></a>
 >
-> *08:35 on 28/04/2021*
+> *16:29 on 28/04/2021*
 
-> Lack of internet access and spotty electricity in Yemen never stopped Salah <span class="mention">@tech_chieftain</span> Al-Dhaferi from finding a coding education, starting with CDs and books. Get his full story: 
+> With GitHub Desktop 2.8, you can:<br/>↕️ Expand diffs to get more context<br/>⬜️ Hide whitespace to more easily see what changed<br/>✍️ Create aliases for your local repositories<br/><a href="https://t.co/s1eF0uCWu2" class="link">github.blog/2021-04-28-git…</a> <br/><a href="https://t.co/jmgLuMUBzD" class="link">pic.twitter.com/jmgLuMUBzD</a>
 >
-> <a href="GitHub"><img src="https://github.githubassets.com/images/modules/site/readme/salah-al-dhaferi/salah-al-dhaferi-social.jpg" alt="Salah Al-Dhaferi · The ReadME Project" height="200"></a>
->
-> *18:30 on 27/04/2021*
+> *16:15 on 28/04/2021*
 
 
 
