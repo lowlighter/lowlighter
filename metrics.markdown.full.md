@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `30` repositories and made `1460` commits.
+I contributed to `30` repositories and made `1461` commits.
 ```
 
 ## 🧩 Plugins
@@ -85,11 +85,11 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Never run Google ads if you have an Android app](https://danfabulich.medium.com/never-run-google-ads-if-you-have-an-android-app-897a20604450)
+* [Proposed futex2 allows Linux to mimic the NT kernel for better wine performance](https://lkml.org/lkml/2021/4/27/1208)
   * *Published on 28/04/2021*
-* [Better air is the easiest way not to die](https://dynomight.net/air/)
+* [Vertical turbines far more efficient in large-scale wind farms](https://eandt.theiet.org/content/articles/2021/04/vertical-turbines-far-more-efficient-in-large-scale-wind-farms/)
   * *Published on 28/04/2021*
-* [Dominance of Apple and Google’s app stores impacting competition and consumers](https://www.accc.gov.au/media-release/dominance-of-apple-and-google%E2%80%99s-app-stores-impacting-competition-and-consumers)
+* [Diving Deep on S3 Consistency](https://www.allthingsdistributed.com/2021/04/s3-strong-consistency.html)
   * *Published on 28/04/2021*
 * [Grand jury subpoena for Signal user data, Central District of California](https://signal.org/bigbrother/central-california-grand-jury/)
   * *Published on 28/04/2021*
