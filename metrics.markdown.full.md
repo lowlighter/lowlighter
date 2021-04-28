@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `31` repositories and made `1461` commits.
+I contributed to `31` repositories and made `1471` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,14 +29,18 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#277 Auto-format code ](https://github.com/lowlighter/metrics/pull/277) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 10 files changed `++41 --20`
+* 🔃 Opened [#277 Auto-format code ](https://github.com/lowlighter/metrics/pull/277) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 10 files changed `++41 --20`
+* 🔃 Merged [#276 Add selfhosted wakatime integration (wakapi)](https://github.com/lowlighter/metrics/pull/276) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++69 --52`
+* ⏺️ Created new branch `feat-fmt` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#275 Bump open-graph-scraper from 4.8.1 to 4.8.2](https://github.com/lowlighter/metrics/pull/275) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++155 --94`
+* 🔃 Merged [#274 Add preview](https://github.com/lowlighter/metrics/pull/274) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 9 files changed `++121 --5`
 * 🔍 Reviewed [#276 Add selfhosted wakatime integration (wakapi)](https://github.com/lowlighter/metrics/pull/276) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔍 Reviewed [#276 Add selfhosted wakatime integration (wakapi)](https://github.com/lowlighter/metrics/pull/276) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* #️⃣ Opened [#127 `semiColons: &#34;asi&#34;` with `useBraces: &#34;preferNone&#34;` sometimes break variable scopes](https://github.com/dprint/dprint-plugin-typescript/issues/127) in [dprint/dprint-plugin-typescript](https://github.com/dprint/dprint-plugin-typescript)
-* 🔍 Reviewed [#276 Add selfhosted wakatime integration (wakapi)](https://github.com/lowlighter/metrics/pull/276) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔍 Reviewed [#276 Add selfhosted wakatime integration (wakapi)](https://github.com/lowlighter/metrics/pull/276) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Opened [#274 Add preview](https://github.com/lowlighter/metrics/pull/274) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 3 files changed `++87 --1`
-* ⏺️ Created new branch `feat-preview` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 
 ___
@@ -85,24 +89,26 @@ ___
   * *Published on 28/04/2021*
 * [The number of cities with municipal broadband has jumped over 4x in two years](https://gammawire.com/the-number-of-cities-with-municipal-broadband-has-jumped-over-450-in-two-years/)
   * *Published on 28/04/2021*
-* [Kaspersky believes it found new CIA malware](https://therecord.media/security-firm-kaspersky-believes-it-found-new-cia-malware/)
+* [Why we switched from Webpack to Vite](https://blog.replit.com/vite)
   * *Published on 28/04/2021*
-* [Show HN: I made a simulator for personal finance to help figure out your life](https://projectifi.io/)
+* [Kaspersky believes it found new CIA malware](https://therecord.media/security-firm-kaspersky-believes-it-found-new-cia-malware/)
   * *Published on 28/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> Have you built your Readme page? Here are some tips on how to set up your profile, as well as some inspiration from other great profiles. What will you showcase? <br/><a href="https://t.co/1isCtQLdw1" class="link">pic.twitter.com/1isCtQLdw1</a>
+> Wes <span class="mention">@wesmckinn</span> McKinney is driven to build an environment where open source projects—and the developers behind them—can thrive. Learn more how he’s carving out this space. 
 >
-> <a href=""><img src="https://pbs.twimg.com/media/E0Ew78UX0AISqog.jpg" alt="" height="200"></a>
+> <a href="GitHub"><img src="https://github.githubassets.com/images/modules/site/readme/wes-mckinney/wes-mckinney-social.jpg" alt="Wes McKinney · The ReadME Project" height="200"></a>
 >
-> *16:29 on 28/04/2021*
+> *20:30 on 28/04/2021*
 
-> With GitHub Desktop 2.8, you can:<br/>↕️ Expand diffs to get more context<br/>⬜️ Hide whitespace to more easily see what changed<br/>✍️ Create aliases for your local repositories<br/><a href="https://t.co/s1eF0uCWu2" class="link">github.blog/2021-04-28-git…</a> <br/><a href="https://t.co/jmgLuMUBzD" class="link">pic.twitter.com/jmgLuMUBzD</a>
+> Interested in using Actions for project management tasks? Check out how the GitHub Docs team manages their open source repo. <br/><br/>
 >
-> *16:15 on 28/04/2021*
+> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2020/07/new-docs-site.png?fit=1200%2C630" alt="How we use GitHub Actions to manage GitHub Docs - The GitHub Blog" height="200"></a>
+>
+> *18:17 on 28/04/2021*
 
 
 
