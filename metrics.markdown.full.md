@@ -87,11 +87,11 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [Michael Collins, Apollo 11 astronaut, has died](https://www.npr.org/2021/04/28/509599284/forgotten-astronaut-michael-collins-dies)
   * *Published on 28/04/2021*
-* [New Evidence That British Workplaces Are Losing Viewpoint Diversity](https://www.ethicalsystems.org/new-evidence-that-british-workplaces-are-losing-viewpoint-diversity/)
+* [AI Dungeon public disclosure vulnerability report](https://github.com/AetherDevSecOps/aid_adventure_vulnerability_report)
   * *Published on 29/04/2021*
-* [The United States Needs to Learn How to Learn](https://pedestrianobservations.com/2021/04/28/the-united-states-needs-to-learn-how-to-learn/)
-  * *Published on 28/04/2021*
 * [The number of cities with municipal broadband has jumped over 4x in two years](https://gammawire.com/the-number-of-cities-with-municipal-broadband-has-jumped-over-450-in-two-years/)
+  * *Published on 28/04/2021*
+* [Who won the Amstel Gold Race? Human error in photo-finishes](https://www.tglyn.ch/blog/amstel_gold/)
   * *Published on 28/04/2021*
 
 
