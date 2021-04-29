@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `31` repositories and made `1476` commits.
+I contributed to `31` repositories and made `1480` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,18 +29,18 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#280 Code formatting](https://github.com/lowlighter/metrics/pull/280) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 98 files changed `++10202 --9731`
+* 🔃 Opened [#280 Code formatting](https://github.com/lowlighter/metrics/pull/280) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 98 files changed `++10202 --9731`
+* ⏺️ Created new branch `chore-fmt-ini` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Closed [#278 Fmt](https://github.com/lowlighter/metrics/pull/278) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 1 file changed `++0 --0`
 * 🔃 Opened [#278 Fmt](https://github.com/lowlighter/metrics/pull/278) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 1 file changed `++0 --0`
 * ⏺️ Created new branch `chore-fmt` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#277 Auto-format code ](https://github.com/lowlighter/metrics/pull/277) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 10 files changed `++41 --20`
-* 🔃 Opened [#277 Auto-format code ](https://github.com/lowlighter/metrics/pull/277) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 10 files changed `++41 --20`
-* 🔃 Merged [#276 Add selfhosted wakatime integration (wakapi)](https://github.com/lowlighter/metrics/pull/276) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++69 --52`
-* ⏺️ Created new branch `feat-fmt` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#275 Bump open-graph-scraper from 4.8.1 to 4.8.2](https://github.com/lowlighter/metrics/pull/275) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++155 --94`
 
 
 ___
@@ -85,13 +85,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Show your costs to boost sales](https://tips.ariyh.com/p/show-costs-to-boost-sales)
+  * *Published on 29/04/2021*
+* [The Fourier transform is a neural network](https://sidsite.com/posts/fourier-nets/)
+  * *Published on 29/04/2021*
+* [Zanzibar: Google’s Consistent, Global Authorization System](https://research.google/pubs/pub48190/)
+  * *Published on 29/04/2021*
 * [History of Techno](https://www.beatportal.com/features/beatports-definitive-guide-to-techno/)
-  * *Published on 29/04/2021*
-* [Who won the Amstel Gold Race? Human error in photo-finishes](https://www.tglyn.ch/blog/amstel_gold/)
-  * *Published on 28/04/2021*
-* [AI Dungeon public disclosure vulnerability report](https://github.com/AetherDevSecOps/aid_adventure_vulnerability_report)
-  * *Published on 29/04/2021*
-* [DPA blocks facial recognition system in Italy and MP proposes moratorium](https://reclaimyourface.eu/italy-dpa-blocks-facial-recognition-system-mp-proposes-moratorium/)
   * *Published on 29/04/2021*
 
 
