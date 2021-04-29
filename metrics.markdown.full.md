@@ -84,28 +84,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Yayagram](https://twitter.com/mrcatacroquer/status/1386318806411325440)
+  * *Published on 29/04/2021*
 * [RotaJakiro: A long live secret backdoor with 0 VT detection](https://blog.netlab.360.com/stealth_rotajakiro_backdoor_en/)
   * *Published on 29/04/2021*
 * [An Update on the UMN Affair](https://lwn.net/SubscriberLink/854645/334317047842b6c3/)
   * *Published on 29/04/2021*
-* [Yayagram](https://twitter.com/mrcatacroquer/status/1386318806411325440)
-  * *Published on 29/04/2021*
-* [I booked my cheapest one-month trip](https://benbernardblog.com/how-i-booked-my-absolutely-cheapest-one-month-trip-ever/)
+* [Opera adds native support for blockchain domain names](https://blogs.opera.com/tips-and-tricks/2021/04/say-hello-to-web3-as-opera-adds-native-support-to-unstoppable-domains/)
   * *Published on 29/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> At the intersection of engineering and design, <span class="mention">@thesegunadebayo</span> applied empathy, accessibility, and inclusion to create <span class="mention">@chakra_ui</span>. Get the full story: 
+>
+> <a href="GitHub"><img src="https://github.githubassets.com/images/modules/site/readme/segun-adebayo/segun-adebayo-social.jpg" alt="Segun Adebayo · The ReadME Project" height="200"></a>
+>
+> *19:45 on 29/04/2021*
+
 > RT <span class="mention">@GitHubPolicy</span>: Review requested: updates to policies on how GitHub responds to abuse reports relating to malware and exploits. We believ…
 >
 > *17:24 on 29/04/2021*
-
-> GitHub hosts some of the fastest-growing repositories on the planet. Take a look at how we re-engineered part of our maintenance process to help keep them healthy.<br/><br/>
->
-> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2021/04/scaling-monorepo-maintainance-social.png?fit=1200%2C630" alt="Scaling monorepo maintenance - The GitHub Blog" height="200"></a>
->
-> *17:06 on 29/04/2021*
 
 
 
