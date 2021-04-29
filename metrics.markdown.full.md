@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `31` repositories and made `1473` commits.
+I contributed to `31` repositories and made `1476` commits.
 ```
 
 ## 🧩 Plugins
@@ -85,14 +85,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Michael Collins, Apollo 11 astronaut, has died](https://www.npr.org/2021/04/28/509599284/forgotten-astronaut-michael-collins-dies)
+* [History of Techno](https://www.beatportal.com/features/beatports-definitive-guide-to-techno/)
+  * *Published on 29/04/2021*
+* [Who won the Amstel Gold Race? Human error in photo-finishes](https://www.tglyn.ch/blog/amstel_gold/)
   * *Published on 28/04/2021*
 * [AI Dungeon public disclosure vulnerability report](https://github.com/AetherDevSecOps/aid_adventure_vulnerability_report)
   * *Published on 29/04/2021*
-* [The number of cities with municipal broadband has jumped over 4x in two years](https://gammawire.com/the-number-of-cities-with-municipal-broadband-has-jumped-over-450-in-two-years/)
-  * *Published on 28/04/2021*
-* [Who won the Amstel Gold Race? Human error in photo-finishes](https://www.tglyn.ch/blog/amstel_gold/)
-  * *Published on 28/04/2021*
+* [DPA blocks facial recognition system in Italy and MP proposes moratorium](https://reclaimyourface.eu/italy-dpa-blocks-facial-recognition-system-mp-proposes-moratorium/)
+  * *Published on 29/04/2021*
 
 
 ___
