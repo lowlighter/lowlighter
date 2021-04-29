@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `31` repositories and made `1471` commits.
+I contributed to `31` repositories and made `1473` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,6 +29,9 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Opened [#278 Fmt](https://github.com/lowlighter/metrics/pull/278) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 1 file changed `++0 --0`
+* ⏺️ Created new branch `chore-fmt` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#277 Auto-format code ](https://github.com/lowlighter/metrics/pull/277) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 10 files changed `++41 --20`
 * 🔃 Opened [#277 Auto-format code ](https://github.com/lowlighter/metrics/pull/277) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -38,9 +41,6 @@ ___
 * ⏺️ Created new branch `feat-fmt` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#275 Bump open-graph-scraper from 4.8.1 to 4.8.2](https://github.com/lowlighter/metrics/pull/275) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 2 files changed `++155 --94`
-* 🔃 Merged [#274 Add preview](https://github.com/lowlighter/metrics/pull/274) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 9 files changed `++121 --5`
-* 🔍 Reviewed [#276 Add selfhosted wakatime integration (wakapi)](https://github.com/lowlighter/metrics/pull/276) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 
 ___
@@ -87,11 +87,11 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [Michael Collins, Apollo 11 astronaut, has died](https://www.npr.org/2021/04/28/509599284/forgotten-astronaut-michael-collins-dies)
   * *Published on 28/04/2021*
+* [New Evidence That British Workplaces Are Losing Viewpoint Diversity](https://www.ethicalsystems.org/new-evidence-that-british-workplaces-are-losing-viewpoint-diversity/)
+  * *Published on 29/04/2021*
+* [The United States Needs to Learn How to Learn](https://pedestrianobservations.com/2021/04/28/the-united-states-needs-to-learn-how-to-learn/)
+  * *Published on 28/04/2021*
 * [The number of cities with municipal broadband has jumped over 4x in two years](https://gammawire.com/the-number-of-cities-with-municipal-broadband-has-jumped-over-450-in-two-years/)
-  * *Published on 28/04/2021*
-* [Why we switched from Webpack to Vite](https://blog.replit.com/vite)
-  * *Published on 28/04/2021*
-* [Kaspersky believes it found new CIA malware](https://therecord.media/security-firm-kaspersky-believes-it-found-new-cia-malware/)
   * *Published on 28/04/2021*
 
 
