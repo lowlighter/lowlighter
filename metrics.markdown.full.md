@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `31` repositories and made `1480` commits.
+I contributed to `31` repositories and made `1482` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,6 +29,10 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🍽️ Forked [AdityaKane2001/AdityaKane2001](https://github.com/AdityaKane2001/AdityaKane2001)
+* #️⃣ Closed [#239 Release v3.8](https://github.com/lowlighter/metrics/issues/239) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#281 Upgrade to GitHub-native Dependabot](https://github.com/lowlighter/metrics/pull/281) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 1 file changed `++15 --0`
 * 🔃 Merged [#280 Code formatting](https://github.com/lowlighter/metrics/pull/280) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 98 files changed `++10202 --9731`
 * 🔃 Opened [#280 Code formatting](https://github.com/lowlighter/metrics/pull/280) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -36,11 +40,6 @@ ___
 * ⏺️ Created new branch `chore-fmt-ini` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Closed [#278 Fmt](https://github.com/lowlighter/metrics/pull/278) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 1 file changed `++0 --0`
-* 🔃 Opened [#278 Fmt](https://github.com/lowlighter/metrics/pull/278) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 1 file changed `++0 --0`
-* ⏺️ Created new branch `chore-fmt` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#277 Auto-format code ](https://github.com/lowlighter/metrics/pull/277) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 10 files changed `++41 --20`
 
 
 ___
@@ -85,30 +84,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Show your costs to boost sales](https://tips.ariyh.com/p/show-costs-to-boost-sales)
+* [RotaJakiro: A long live secret backdoor with 0 VT detection](https://blog.netlab.360.com/stealth_rotajakiro_backdoor_en/)
   * *Published on 29/04/2021*
-* [The Fourier transform is a neural network](https://sidsite.com/posts/fourier-nets/)
+* [An Update on the UMN Affair](https://lwn.net/SubscriberLink/854645/334317047842b6c3/)
   * *Published on 29/04/2021*
-* [Zanzibar: Google’s Consistent, Global Authorization System](https://research.google/pubs/pub48190/)
+* [Yayagram](https://twitter.com/mrcatacroquer/status/1386318806411325440)
   * *Published on 29/04/2021*
-* [History of Techno](https://www.beatportal.com/features/beatports-definitive-guide-to-techno/)
+* [I booked my cheapest one-month trip](https://benbernardblog.com/how-i-booked-my-absolutely-cheapest-one-month-trip-ever/)
   * *Published on 29/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> Wes <span class="mention">@wesmckinn</span> McKinney is driven to build an environment where open source projects—and the developers behind them—can thrive. Learn more how he’s carving out this space. 
+> RT <span class="mention">@GitHubPolicy</span>: Review requested: updates to policies on how GitHub responds to abuse reports relating to malware and exploits. We believ…
 >
-> <a href="GitHub"><img src="https://github.githubassets.com/images/modules/site/readme/wes-mckinney/wes-mckinney-social.jpg" alt="Wes McKinney · The ReadME Project" height="200"></a>
->
-> *20:30 on 28/04/2021*
+> *17:24 on 29/04/2021*
 
-> Interested in using Actions for project management tasks? Check out how the GitHub Docs team manages their open source repo. <br/><br/>
+> GitHub hosts some of the fastest-growing repositories on the planet. Take a look at how we re-engineered part of our maintenance process to help keep them healthy.<br/><br/>
 >
-> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2020/07/new-docs-site.png?fit=1200%2C630" alt="How we use GitHub Actions to manage GitHub Docs - The GitHub Blog" height="200"></a>
+> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2021/04/scaling-monorepo-maintainance-social.png?fit=1200%2C630" alt="Scaling monorepo maintenance - The GitHub Blog" height="200"></a>
 >
-> *18:17 on 28/04/2021*
+> *17:06 on 29/04/2021*
 
 
 
