@@ -84,13 +84,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Wi-Fi packet capturing on M1 Macs is broken](https://www.intuitibits.com/2021/02/05/whats-going-on-apple-part-2/)
+  * *Published on 29/04/2021*
 * [Yayagram](https://twitter.com/mrcatacroquer/status/1386318806411325440)
   * *Published on 29/04/2021*
-* [RotaJakiro: A long live secret backdoor with 0 VT detection](https://blog.netlab.360.com/stealth_rotajakiro_backdoor_en/)
-  * *Published on 29/04/2021*
+* [Inheritance was invented as a performance hack](http://catern.com/inheritance.html)
+  * *Published on 30/04/2021*
 * [An Update on the UMN Affair](https://lwn.net/SubscriberLink/854645/334317047842b6c3/)
-  * *Published on 29/04/2021*
-* [Opera adds native support for blockchain domain names](https://blogs.opera.com/tips-and-tricks/2021/04/say-hello-to-web3-as-opera-adds-native-support-to-unstoppable-domains/)
   * *Published on 29/04/2021*
 
 
