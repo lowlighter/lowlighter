@@ -84,13 +84,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [QEMU Version 6.0.0 Released](https://www.qemu.org/2021/04/30/qemu-6-0-0/)
+  * *Published on 30/04/2021*
+* [Horses and Sparrows: The myth of &#39;trickle down&#39; economics](http://www.newmainetimes.org/articles/2012/07/30/horses-and-sparrows-myth-trickle-down-economics/)
+  * *Published on 30/04/2021*
 * [Building a Distributed Turn-Based Game System in Elixir](https://fly.io/blog/building-a-distributed-turn-based-game-system-in-elixir/)
   * *Published on 30/04/2021*
-* [Wi-Fi packet capturing on M1 Macs is broken](https://www.intuitibits.com/2021/02/05/whats-going-on-apple-part-2/)
-  * *Published on 29/04/2021*
-* [Yayagram](https://twitter.com/mrcatacroquer/status/1386318806411325440)
-  * *Published on 29/04/2021*
-* [Inheritance was invented as a performance hack](http://catern.com/inheritance.html)
+* [It&#39;s Arrived Now Behold the Intelligent Timing Lock](https://twitter.com/Foone/status/1387999563382857729)
   * *Published on 30/04/2021*
 
 
