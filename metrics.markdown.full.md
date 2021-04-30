@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `31` repositories and made `1482` commits.
+I contributed to `31` repositories and made `1486` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,6 +29,8 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#271 Release v3.8](https://github.com/lowlighter/metrics/pull/271) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++3 --3`
 * 🍽️ Forked [AdityaKane2001/AdityaKane2001](https://github.com/AdityaKane2001/AdityaKane2001)
 * #️⃣ Closed [#239 Release v3.8](https://github.com/lowlighter/metrics/issues/239) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#281 Upgrade to GitHub-native Dependabot](https://github.com/lowlighter/metrics/pull/281) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -38,8 +40,6 @@ ___
 * 🔃 Opened [#280 Code formatting](https://github.com/lowlighter/metrics/pull/280) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 98 files changed `++10202 --9731`
 * ⏺️ Created new branch `chore-fmt-ini` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Closed [#278 Fmt](https://github.com/lowlighter/metrics/pull/278) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 1 file changed `++0 --0`
 
 
 ___
@@ -84,28 +84,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [&#39;It&#39;s your device, you should be able to repair it&#39;](https://www.bbc.com/news/business-56799069)
+* [Internal Combustion Engine](https://ciechanow.ski/internal-combustion-engine/)
   * *Published on 30/04/2021*
-* [Everything Old Is New Again: Binary Security of WebAssembly [pdf]](https://www.unibw.de/patch/papers/usenixsecurity20-wasm.pdf)
+* [Show HN: Second-Chance Pool](https://news.ycombinator.com/pool)
   * *Published on 30/04/2021*
-* [A serverless email server on AWS using S3 and SES](https://github.com/0x4447/0x4447_product_s3_email)
+* [Space Cloud: Open-Source Firebase and Heroku on Kubernetes](https://github.com/spaceuptech/space-cloud)
   * *Published on 30/04/2021*
-* [Listen to your to PostgreSQL database in realtime via WebSockets](https://github.com/supabase/realtime)
-  * *Published on 28/04/2021*
+* [“About one-third of Basecamp employees accepted buyouts today”](https://twitter.com/CaseyNewton/status/1388212468510380034)
+  * *Published on 30/04/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> RT <span class="mention">@GitHubEnt</span>: We’re live on Demo Days! Care about increasing engineering efficiency? Improving transparency? Minimizing risk? Join us now…
+> Something changed? No worries - we've just made it a bit easier to view a single file in history. <br/><a href="https://t.co/dJT6nsUzw7" class="link">pic.twitter.com/dJT6nsUzw7</a>
 >
-> *18:02 on 30/04/2021*
+> <a href=""><img src="https://pbs.twimg.com/media/E0PtdpkWEAAd3fP.jpg" alt="" height="200"></a>
+>
+> *19:30 on 30/04/2021*
 
-> At the intersection of engineering and design, <span class="mention">@thesegunadebayo</span> applied empathy, accessibility, and inclusion to create <span class="mention">@chakra_ui</span>. Get the full story: 
+> RT <span class="mention">@GitHubPolicy</span>: <br/><a href="https://t.co/Uemyw64nXK" class="link">twitter.com/_mph4/status/1…</a>
 >
-> <a href="GitHub"><img src="https://github.githubassets.com/images/modules/site/readme/segun-adebayo/segun-adebayo-social.jpg" alt="Segun Adebayo · The ReadME Project" height="200"></a>
->
-> *19:45 on 29/04/2021*
+> *19:13 on 30/04/2021*
 
 
 
