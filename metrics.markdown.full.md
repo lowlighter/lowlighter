@@ -84,13 +84,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [QEMU Version 6.0.0 Released](https://www.qemu.org/2021/04/30/qemu-6-0-0/)
+* [A serverless email server on AWS using S3 and SES](https://github.com/0x4447/0x4447_product_s3_email)
   * *Published on 30/04/2021*
-* [Horses and Sparrows: The myth of &#39;trickle down&#39; economics](http://www.newmainetimes.org/articles/2012/07/30/horses-and-sparrows-myth-trickle-down-economics/)
+* [QEMU 6.0.0](https://www.qemu.org/2021/04/30/qemu-6-0-0/)
   * *Published on 30/04/2021*
-* [Building a Distributed Turn-Based Game System in Elixir](https://fly.io/blog/building-a-distributed-turn-based-game-system-in-elixir/)
+* [Squoosh: Make images smaller using best-in-class codecs, right in the browser](https://squoosh.app/)
   * *Published on 30/04/2021*
-* [It&#39;s Arrived Now Behold the Intelligent Timing Lock](https://twitter.com/Foone/status/1387999563382857729)
+* [YouTube TV removed from Roku channel store amid Google contract dispute](https://www.axios.com/roku-youtube-tv-removed-google-5580ffdf-b865-428c-91ca-8ad83802fedf.html)
   * *Published on 30/04/2021*
 
 
