@@ -84,14 +84,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Building a Distributed Turn-Based Game System in Elixir](https://fly.io/blog/building-a-distributed-turn-based-game-system-in-elixir/)
+  * *Published on 30/04/2021*
 * [Wi-Fi packet capturing on M1 Macs is broken](https://www.intuitibits.com/2021/02/05/whats-going-on-apple-part-2/)
   * *Published on 29/04/2021*
 * [Yayagram](https://twitter.com/mrcatacroquer/status/1386318806411325440)
   * *Published on 29/04/2021*
 * [Inheritance was invented as a performance hack](http://catern.com/inheritance.html)
   * *Published on 30/04/2021*
-* [An Update on the UMN Affair](https://lwn.net/SubscriberLink/854645/334317047842b6c3/)
-  * *Published on 29/04/2021*
 
 
 ___
