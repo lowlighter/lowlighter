@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `31` repositories and made `1486` commits.
+I contributed to `31` repositories and made `1498` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,17 +29,19 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
-* 🔃 Merged [#271 Release v3.8](https://github.com/lowlighter/metrics/pull/271) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++3 --3`
-* 🍽️ Forked [AdityaKane2001/AdityaKane2001](https://github.com/AdityaKane2001/AdityaKane2001)
-* #️⃣ Closed [#239 Release v3.8](https://github.com/lowlighter/metrics/issues/239) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#281 Upgrade to GitHub-native Dependabot](https://github.com/lowlighter/metrics/pull/281) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 1 file changed `++15 --0`
-* 🔃 Merged [#280 Code formatting](https://github.com/lowlighter/metrics/pull/280) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 98 files changed `++10202 --9731`
-* 🔃 Opened [#280 Code formatting](https://github.com/lowlighter/metrics/pull/280) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 98 files changed `++10202 --9731`
-* ⏺️ Created new branch `chore-fmt-ini` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* #️⃣ Closed [#52 Dependabot couldn&#39;t find a package.json for this project](https://github.com/lowlighter/gracidea/issues/52) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+* 🔃 Closed [#44 Upgrade to GitHub-native Dependabot](https://github.com/lowlighter/gracidea/pull/44) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+  * 1 file changed `++14 --0`
+* 🔃 Closed [#43 Bump rollup from 2.26.11 to 2.46.0](https://github.com/lowlighter/gracidea/pull/43) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+  * 2 files changed `++17 --16`
+* 🔃 Closed [#42 Bump pixi-viewport from 4.23.1 to 4.30.4](https://github.com/lowlighter/gracidea/pull/42) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+  * 2 files changed `++12 --10`
+* 🔃 Closed [#41 Bump @octokit/rest from 18.0.6 to 18.5.3](https://github.com/lowlighter/gracidea/pull/41) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+  * 2 files changed `++134 --126`
+* 🔃 Closed [#40 Bump webp-converter from 2.3.0 to 2.3.3](https://github.com/lowlighter/gracidea/pull/40) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+  * 2 files changed `++31 --10`
+* 🔃 Closed [#38 Bump @babel/plugin-proposal-nullish-coalescing-operator from 7.10.4 to 7.13.8](https://github.com/lowlighter/gracidea/pull/38) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+  * 2 files changed `++21 --18`
 
 
 ___
@@ -86,9 +88,9 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [Internal Combustion Engine](https://ciechanow.ski/internal-combustion-engine/)
   * *Published on 30/04/2021*
+* [Legal documents from the Philippines government have been exposed online](https://restofworld.org/2021/philippines-data-exposure/)
+  * *Published on 01/05/2021*
 * [Show HN: Second-Chance Pool](https://news.ycombinator.com/pool)
-  * *Published on 30/04/2021*
-* [“About one-third of Basecamp employees accepted buyouts today”](https://twitter.com/CaseyNewton/status/1388212468510380034)
   * *Published on 30/04/2021*
 * [Space Cloud: Open-Source Firebase and Heroku on Kubernetes](https://github.com/spaceuptech/space-cloud)
   * *Published on 30/04/2021*
