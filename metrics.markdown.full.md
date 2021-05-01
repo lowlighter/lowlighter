@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `31` repositories and made `1502` commits.
+I contributed to `32` repositories and made `1502` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,6 +29,7 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* #️⃣ Opened [#8 fetching local file returns a scrambled output](https://github.com/lucacasonato/deno_local_file_fetch/issues/8) in [lucacasonato/deno_local_file_fetch](https://github.com/lucacasonato/deno_local_file_fetch)
 * #️⃣ Closed [#52 Dependabot couldn&#39;t find a package.json for this project](https://github.com/lowlighter/gracidea/issues/52) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 * 🔃 Closed [#44 Upgrade to GitHub-native Dependabot](https://github.com/lowlighter/gracidea/pull/44) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
   * 1 file changed `++14 --0`
@@ -40,8 +41,6 @@ ___
   * 2 files changed `++134 --126`
 * 🔃 Closed [#40 Bump webp-converter from 2.3.0 to 2.3.3](https://github.com/lowlighter/gracidea/pull/40) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
   * 2 files changed `++31 --10`
-* 🔃 Closed [#38 Bump @babel/plugin-proposal-nullish-coalescing-operator from 7.10.4 to 7.13.8](https://github.com/lowlighter/gracidea/pull/38) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-  * 2 files changed `++21 --18`
 
 
 ___
@@ -86,14 +85,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Show HN: List of apps people pay for but have low rating](http://ideasfilter.com/)
+* [The Story Of One Whale Who Tried to Mimic Human Speech (2014)](https://www.smithsonianmag.com/science-nature/story-one-whale-who-tried-bridge-linguistic-divide-between-animals-humans-180951437/)
   * *Published on 01/05/2021*
-* [Readme.so – Easiest Way to Create a Readme](https://readme.so/)
+* [Fediverse.Party – Explore Federated Networks](https://fediverse.party/en/miscellaneous)
   * *Published on 01/05/2021*
-* [Scaling monorepo maintenance](https://github.blog/2021-04-29-scaling-monorepo-maintenance/)
-  * *Published on 30/04/2021*
-* [Market is the most important factor in a startup&#39;s success or failure (2007)](https://pmarchive.com/guide_to_startups_part4.html)
-  * *Published on 29/04/2021*
+* [List of apps people pay for but have low rating](http://ideasfilter.com/)
+  * *Published on 01/05/2021*
+* [EmuTOS: A Free OS for computers based on M68K processors including the Atari ST](https://emutos.sourceforge.io/)
+  * *Published on 01/05/2021*
 
 
 ___
