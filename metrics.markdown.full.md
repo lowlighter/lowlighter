@@ -88,12 +88,12 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [Internal Combustion Engine](https://ciechanow.ski/internal-combustion-engine/)
   * *Published on 30/04/2021*
-* [Legal documents from the Philippines government have been exposed online](https://restofworld.org/2021/philippines-data-exposure/)
+* [SSD Makers Start Warning That Mining Products Like Chia Coin Will Void Warranty](https://www.guru3d.com/news-story/ssd-makers-start-waring-that-mining-products-like-chia-coin-will-void-warranty.html)
   * *Published on 01/05/2021*
-* [Show HN: Second-Chance Pool](https://news.ycombinator.com/pool)
-  * *Published on 30/04/2021*
-* [Space Cloud: Open-Source Firebase and Heroku on Kubernetes](https://github.com/spaceuptech/space-cloud)
-  * *Published on 30/04/2021*
+* [India’s second wave of covid-19 feels nothing like its first](https://www.economist.com/diary/2021/04/30/indias-second-wave-of-covid-19-feels-nothing-like-its-first)
+  * *Published on 01/05/2021*
+* [P&amp;G Flocculant/Disinfectant Powder](https://www.cdc.gov/safewater/flocculant-filtration.html)
+  * *Published on 01/05/2021*
 
 
 ___
