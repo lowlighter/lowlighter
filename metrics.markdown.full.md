@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `31` repositories and made `1498` commits.
+I contributed to `31` repositories and made `1502` commits.
 ```
 
 ## 🧩 Plugins
@@ -86,14 +86,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Audacity Aquired by Muse Group](https://www.scoringnotes.com/news/muse-group-formed-to-support-musescore-ultimate-guitar-acquires-audacity/)
+* [Show HN: List of apps people pay for but have low rating](http://ideasfilter.com/)
   * *Published on 01/05/2021*
-* [Internal Combustion Engine](https://ciechanow.ski/internal-combustion-engine/)
+* [Readme.so – Easiest Way to Create a Readme](https://readme.so/)
+  * *Published on 01/05/2021*
+* [Scaling monorepo maintenance](https://github.blog/2021-04-29-scaling-monorepo-maintenance/)
   * *Published on 30/04/2021*
-* [Piano teacher gets copyright claim for Beethoven’s Moonlight Sonata [video]](https://www.youtube.com/watch?v=WcyOxtkafMs)
-  * *Published on 01/05/2021*
-* [GitHub repository for Sedgewick&#39;s Algorithms is taken down](https://github.com/kevin-wayne/algs4)
-  * *Published on 01/05/2021*
+* [Market is the most important factor in a startup&#39;s success or failure (2007)](https://pmarchive.com/guide_to_startups_part4.html)
+  * *Published on 29/04/2021*
 
 
 ___
