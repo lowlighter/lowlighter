@@ -86,13 +86,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Audacity Aquired by Muse Group](https://www.scoringnotes.com/news/muse-group-formed-to-support-musescore-ultimate-guitar-acquires-audacity/)
+  * *Published on 01/05/2021*
 * [Internal Combustion Engine](https://ciechanow.ski/internal-combustion-engine/)
   * *Published on 30/04/2021*
-* [Piano teacher gets copyright claim for playing Beethoven&#39;s Moonlight Sonata](https://www.youtube.com/watch?v=WcyOxtkafMs)
+* [Piano teacher gets copyright claim for Beethoven’s Moonlight Sonata [video]](https://www.youtube.com/watch?v=WcyOxtkafMs)
   * *Published on 01/05/2021*
-* [Cancel culture, Twitter trendings and radical transparency](https://blog.luap.info/cancel-culture-twitter-trendings-and-radical-transparency.html)
-  * *Published on 01/05/2021*
-* [Flocculant/Disinfectant Powder](https://www.cdc.gov/safewater/flocculant-filtration.html)
+* [GitHub repository for Sedgewick&#39;s Algorithms is taken down](https://github.com/kevin-wayne/algs4)
   * *Published on 01/05/2021*
 
 
