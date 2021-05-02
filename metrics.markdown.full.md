@@ -85,13 +85,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [The Story Of One Whale Who Tried to Mimic Human Speech (2014)](https://www.smithsonianmag.com/science-nature/story-one-whale-who-tried-bridge-linguistic-divide-between-animals-humans-180951437/)
+* [Torvalds: Shared libraries are not a good thing in general](https://lore.kernel.org/lkml/CAHk-=whs8QZf3YnifdLv57+FhBi5_WeNTG1B-suOES=RcUSmQg@mail.gmail.com/)
+  * *Published on 01/05/2021*
+* [The Ball and Supply Chain](https://puri.sm/posts/the-ball-and-supply-chain/)
+  * *Published on 02/05/2021*
+* [Comparative assessments of dietary sugars on cognitive performance (2018)](https://www.sciencedirect.com/science/article/abs/pii/S0031938417304328)
   * *Published on 01/05/2021*
 * [Fediverse.Party – Explore Federated Networks](https://fediverse.party/en/miscellaneous)
-  * *Published on 01/05/2021*
-* [List of apps people pay for but have low rating](http://ideasfilter.com/)
-  * *Published on 01/05/2021*
-* [EmuTOS: A Free OS for computers based on M68K processors including the Atari ST](https://emutos.sourceforge.io/)
   * *Published on 01/05/2021*
 
 
