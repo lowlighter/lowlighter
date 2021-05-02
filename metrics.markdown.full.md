@@ -86,11 +86,11 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [Bob Cassette Rewinder: Hacking Detergent DRM](https://github.com/dekuNukem/bob_cassette_rewinder)
   * *Published on 02/05/2021*
-* [The Linux kernel has surpassed one million git commits](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/)
+* [What Is Salesforce](https://retool.com/blog/salesforce-for-engineers/)
   * *Published on 02/05/2021*
-* [I Used to Write for Sports Illustrated. Now I Deliver Packages for Amazon (2018)](https://www.theatlantic.com/ideas/archive/2018/12/what-its-like-to-deliver-packages-for-amazon/578986/)
+* [Hosting SQLite databases on GitHub Pages (or any static file hoster)](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
   * *Published on 02/05/2021*
-* [What3Words – The Algorithm](https://cybergibbons.com/security-2/what3words-the-algorithm/)
+* [The FTC is seeking public comment on the subject of Dark Patterns in software](https://www.regulations.gov/document/FTC-2021-0019-0001/comment)
   * *Published on 02/05/2021*
 
 
