@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `32` repositories and made `1502` commits.
+I contributed to `32` repositories and made `1504` commits.
 ```
 
 ## 🧩 Plugins
@@ -85,13 +85,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Using libgccjit to make Emacs 2.3x to 42x faster [pdf] (2020)](https://arxiv.org/abs/2004.02504)
+* [Bringing GNU Emacs to Native Code (2020)](https://arxiv.org/abs/2004.02504)
   * *Published on 01/05/2021*
-* [Will Linux phones stay around this time?](https://linmob.net/will-linux-phones-stay-around-this-time/)
-  * *Published on 01/05/2021*
-* [The Ball and Supply Chain](https://puri.sm/posts/the-ball-and-supply-chain/)
+* [Michigan asphalt company paves first US public roads containing recycled plastic](https://www.secondwavemedia.com/epicenter/features/local-asphalt-company-paves-recycled-plastic-roads.aspx)
   * *Published on 02/05/2021*
-* [A whale who tried to mimic human speech (2014)](https://www.smithsonianmag.com/science-nature/story-one-whale-who-tried-bridge-linguistic-divide-between-animals-humans-180951437/)
+* [Cryptocurrency Mines Consume More Power Than Argentina–But PSUs Can Help](https://www.allaboutcircuits.com/news/cryptocurrency-mines-consume-more-power-argentina-psus-can-help/)
+  * *Published on 02/05/2021*
+* [Will Linux phones stay around this time?](https://linmob.net/will-linux-phones-stay-around-this-time/)
   * *Published on 01/05/2021*
 
 
