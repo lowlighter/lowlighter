@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `32` repositories and made `1504` commits.
+I contributed to `33` repositories and made `1521` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,6 +29,7 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* #️⃣ Opened [#28 TypeError: Headers are immutable. (doc invalid)](https://github.com/denoland/deploy_feedback/issues/28) in [denoland/deploy_feedback](https://github.com/denoland/deploy_feedback)
 * #️⃣ Opened [#10467 `Response.text()` may be broken](https://github.com/denoland/deno/issues/10467) in [denoland/deno](https://github.com/denoland/deno)
 * #️⃣ Opened [#8 fetching local file returns a scrambled output](https://github.com/lucacasonato/deno_local_file_fetch/issues/8) in [lucacasonato/deno_local_file_fetch](https://github.com/lucacasonato/deno_local_file_fetch)
 * #️⃣ Closed [#52 Dependabot couldn&#39;t find a package.json for this project](https://github.com/lowlighter/gracidea/issues/52) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
@@ -38,8 +39,6 @@ ___
   * 2 files changed `++17 --16`
 * 🔃 Closed [#42 Bump pixi-viewport from 4.23.1 to 4.30.4](https://github.com/lowlighter/gracidea/pull/42) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
   * 2 files changed `++12 --10`
-* 🔃 Closed [#41 Bump @octokit/rest from 18.0.6 to 18.5.3](https://github.com/lowlighter/gracidea/pull/41) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-  * 2 files changed `++134 --126`
 
 
 ___
@@ -84,13 +83,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Request for comments regarding topics to be discussed at Dark Patterns workshop](https://www.regulations.gov/document/FTC-2021-0019-0001/comment)
+  * *Published on 02/05/2021*
+* [Hosting SQLite databases on GitHub Pages or any static file hoster](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
+  * *Published on 02/05/2021*
 * [Bob Cassette Rewinder: Hacking Detergent DRM](https://github.com/dekuNukem/bob_cassette_rewinder)
   * *Published on 02/05/2021*
-* [What Is Salesforce](https://retool.com/blog/salesforce-for-engineers/)
-  * *Published on 02/05/2021*
-* [Hosting SQLite databases on GitHub Pages (or any static file hoster)](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
-  * *Published on 02/05/2021*
-* [The FTC is seeking public comment on the subject of Dark Patterns in software](https://www.regulations.gov/document/FTC-2021-0019-0001/comment)
+* [Principal Component Analysis Explained Visually](https://setosa.io/ev/principal-component-analysis/)
   * *Published on 02/05/2021*
 
 
