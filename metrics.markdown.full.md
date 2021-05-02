@@ -29,6 +29,7 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* #️⃣ Opened [#10467 `Response.text()` may be broken](https://github.com/denoland/deno/issues/10467) in [denoland/deno](https://github.com/denoland/deno)
 * #️⃣ Opened [#8 fetching local file returns a scrambled output](https://github.com/lucacasonato/deno_local_file_fetch/issues/8) in [lucacasonato/deno_local_file_fetch](https://github.com/lucacasonato/deno_local_file_fetch)
 * #️⃣ Closed [#52 Dependabot couldn&#39;t find a package.json for this project](https://github.com/lowlighter/gracidea/issues/52) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 * 🔃 Closed [#44 Upgrade to GitHub-native Dependabot](https://github.com/lowlighter/gracidea/pull/44) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
@@ -39,8 +40,6 @@ ___
   * 2 files changed `++12 --10`
 * 🔃 Closed [#41 Bump @octokit/rest from 18.0.6 to 18.5.3](https://github.com/lowlighter/gracidea/pull/41) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
   * 2 files changed `++134 --126`
-* 🔃 Closed [#40 Bump webp-converter from 2.3.0 to 2.3.3](https://github.com/lowlighter/gracidea/pull/40) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-  * 2 files changed `++31 --10`
 
 
 ___
@@ -85,14 +84,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Bringing GNU Emacs to Native Code (2020)](https://arxiv.org/abs/2004.02504)
-  * *Published on 01/05/2021*
-* [Michigan asphalt company paves first US public roads containing recycled plastic](https://www.secondwavemedia.com/epicenter/features/local-asphalt-company-paves-recycled-plastic-roads.aspx)
+* [Bob Cassette Rewinder: Hacking Detergent DRM](https://github.com/dekuNukem/bob_cassette_rewinder)
   * *Published on 02/05/2021*
-* [Cryptocurrency Mines Consume More Power Than Argentina–But PSUs Can Help](https://www.allaboutcircuits.com/news/cryptocurrency-mines-consume-more-power-argentina-psus-can-help/)
+* [The Linux kernel has surpassed one million git commits](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/)
   * *Published on 02/05/2021*
-* [Will Linux phones stay around this time?](https://linmob.net/will-linux-phones-stay-around-this-time/)
-  * *Published on 01/05/2021*
+* [I Used to Write for Sports Illustrated. Now I Deliver Packages for Amazon (2018)](https://www.theatlantic.com/ideas/archive/2018/12/what-its-like-to-deliver-packages-for-amazon/578986/)
+  * *Published on 02/05/2021*
+* [What3Words – The Algorithm](https://cybergibbons.com/security-2/what3words-the-algorithm/)
+  * *Published on 02/05/2021*
 
 
 ___
