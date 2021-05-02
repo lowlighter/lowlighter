@@ -85,13 +85,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Torvalds: Shared libraries are not a good thing in general](https://lore.kernel.org/lkml/CAHk-=whs8QZf3YnifdLv57+FhBi5_WeNTG1B-suOES=RcUSmQg@mail.gmail.com/)
+* [Using libgccjit to make Emacs 2.3x to 42x faster [pdf] (2020)](https://arxiv.org/abs/2004.02504)
+  * *Published on 01/05/2021*
+* [Will Linux phones stay around this time?](https://linmob.net/will-linux-phones-stay-around-this-time/)
   * *Published on 01/05/2021*
 * [The Ball and Supply Chain](https://puri.sm/posts/the-ball-and-supply-chain/)
   * *Published on 02/05/2021*
-* [Comparative assessments of dietary sugars on cognitive performance (2018)](https://www.sciencedirect.com/science/article/abs/pii/S0031938417304328)
-  * *Published on 01/05/2021*
-* [Fediverse.Party – Explore Federated Networks](https://fediverse.party/en/miscellaneous)
+* [A whale who tried to mimic human speech (2014)](https://www.smithsonianmag.com/science-nature/story-one-whale-who-tried-bridge-linguistic-divide-between-animals-humans-180951437/)
   * *Published on 01/05/2021*
 
 
