@@ -89,8 +89,8 @@ ___
   * *Published on 02/05/2021*
 * [Dissecting the Apple M1 GPU, Part IV](https://rosenzweig.io/blog/asahi-gpu-part-4.html)
   * *Published on 02/05/2021*
-* [How many engineers does it take to make subscripting work?](https://erthalion.info/2021/03/03/subscripting/)
-  * *Published on 01/05/2021*
+* [How Tech Loses Out](https://berthub.eu/articles/posts/how-tech-loses-out/)
+  * *Published on 02/05/2021*
 
 
 ___
