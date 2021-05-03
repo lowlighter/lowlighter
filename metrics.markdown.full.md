@@ -83,13 +83,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Request for comments regarding topics to be discussed at Dark Patterns workshop](https://www.regulations.gov/document/FTC-2021-0019-0001/comment)
-  * *Published on 02/05/2021*
-* [Hosting SQLite databases on GitHub Pages or any static file hoster](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
-  * *Published on 02/05/2021*
+* [Rust&#39;s Most Unrecognized Contributor](https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor)
+  * *Published on 03/05/2021*
+* [Stack on a Budget – A collection of services with free tiers](https://github.com/255kb/stack-on-a-budget)
+  * *Published on 03/05/2021*
+* [Don&#39;t make customers hunt for the Sign In button on your website](https://blog.stunning.co/stop-making-your-paying-customers-hunt-for-the-sign-in-button-on-your-website/)
+  * *Published on 03/05/2021*
 * [Dissecting the Apple M1 GPU, Part IV](https://rosenzweig.io/blog/asahi-gpu-part-4.html)
-  * *Published on 02/05/2021*
-* [How Tech Loses Out](https://berthub.eu/articles/posts/how-tech-loses-out/)
   * *Published on 02/05/2021*
 
 
