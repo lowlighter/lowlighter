@@ -83,14 +83,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Rust&#39;s Most Unrecognized Contributor](https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor)
+* [Amazon knew seller data was used to boost company sales](https://www.politico.eu/article/amazon-seller-data-company-sales/)
   * *Published on 03/05/2021*
-* [Stack on a Budget – A collection of services with free tiers](https://github.com/255kb/stack-on-a-budget)
+* [We Mailed 100 Letters to Test the Postal Service. We Did Not Get Speedy Delivery](https://www.wgbh.org/news/local-news/2021/04/23/we-mailed-100-letters-to-test-the-postal-service-we-did-not-get-speedy-delivery)
   * *Published on 03/05/2021*
-* [Don&#39;t make customers hunt for the Sign In button on your website](https://blog.stunning.co/stop-making-your-paying-customers-hunt-for-the-sign-in-button-on-your-website/)
+* [Microsoft bids $44.6B to buy Yahoo (2008)](https://www.reuters.com/article/us-microsoft-idUSWNAS894220080201)
   * *Published on 03/05/2021*
-* [Dissecting the Apple M1 GPU, Part IV](https://rosenzweig.io/blog/asahi-gpu-part-4.html)
-  * *Published on 02/05/2021*
+* [Verizon Selling AOL and Yahoo](https://www.nytimes.com/2021/05/03/business/verizon-aol-yahoo-sale.html)
+  * *Published on 03/05/2021*
 
 
 ___
