@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `33` repositories and made `1521` commits.
+I contributed to `33` repositories and made `1522` commits.
 ```
 
 ## 🧩 Plugins
@@ -87,10 +87,10 @@ ___
   * *Published on 02/05/2021*
 * [Hosting SQLite databases on GitHub Pages or any static file hoster](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
   * *Published on 02/05/2021*
-* [Bob Cassette Rewinder: Hacking Detergent DRM](https://github.com/dekuNukem/bob_cassette_rewinder)
+* [Dissecting the Apple M1 GPU, Part IV](https://rosenzweig.io/blog/asahi-gpu-part-4.html)
   * *Published on 02/05/2021*
-* [Principal Component Analysis Explained Visually](https://setosa.io/ev/principal-component-analysis/)
-  * *Published on 02/05/2021*
+* [How many engineers does it take to make subscripting work?](https://erthalion.info/2021/03/03/subscripting/)
+  * *Published on 01/05/2021*
 
 
 ___
