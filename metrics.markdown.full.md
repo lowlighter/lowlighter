@@ -83,28 +83,30 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Practical SQL for Data Analysis](https://hakibenita.com/sql-for-data-analysis)
+  * *Published on 03/05/2021*
 * [Amazon knew seller data was used to boost company sales](https://www.politico.eu/article/amazon-seller-data-company-sales/)
   * *Published on 03/05/2021*
-* [We Mailed 100 Letters to Test the Postal Service. We Did Not Get Speedy Delivery](https://www.wgbh.org/news/local-news/2021/04/23/we-mailed-100-letters-to-test-the-postal-service-we-did-not-get-speedy-delivery)
+* [What Nobody Says about Startup Moms](https://www.femfosec.com/what-nobody-says-about-startup-moms/)
   * *Published on 03/05/2021*
-* [Microsoft bids $44.6B to buy Yahoo (2008)](https://www.reuters.com/article/us-microsoft-idUSWNAS894220080201)
-  * *Published on 03/05/2021*
-* [Verizon Selling AOL and Yahoo](https://www.nytimes.com/2021/05/03/business/verizon-aol-yahoo-sale.html)
+* [Ask HN: Who is hiring? (May 2021)](https://news.ycombinator.com/item?id=27025922)
   * *Published on 03/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> Have you seen our latest GitHub-Flavoured Markdown updates?<br/><br/>Check them out now and try these for your next Markdown file, issue, or PR 👇 <br/><a href="https://t.co/xM7wHn1xIy" class="link">pic.twitter.com/xM7wHn1xIy</a>
+>
+> <a href=""><img src="https://pbs.twimg.com/media/E0e1pzoWYAUyM6M.jpg" alt="" height="200"></a>
+>
+> *18:00 on 03/05/2021*
+
 > Something changed? No worries - we've just made it a bit easier to view a single file in history. <br/><a href="https://t.co/dJT6nsUzw7" class="link">pic.twitter.com/dJT6nsUzw7</a>
 >
 > <a href=""><img src="https://pbs.twimg.com/media/E0PtdpkWEAAd3fP.jpg" alt="" height="200"></a>
 >
 > *19:30 on 30/04/2021*
-
-> RT <span class="mention">@GitHubPolicy</span>: <br/><a href="https://t.co/Uemyw64nXK" class="link">twitter.com/_mph4/status/1…</a>
->
-> *19:13 on 30/04/2021*
 
 
 
