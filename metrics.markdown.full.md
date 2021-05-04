@@ -83,14 +83,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Teens, tech and mental health: Oxford study finds no link](https://www.bbc.com/news/technology-56970368)
+* [Google banned almost 120k spam developer accounts in 2020 for the play store](https://security.googleblog.com/2021/04/how-we-fought-bad-apps-and-developers.html)
   * *Published on 04/05/2021*
-* [Casio AI-1000 Pocket Lisp Computer from 1989 [video]](https://www.youtube.com/watch?v=H-yuZ2pejGU&amp;list=PL4HH_QTuUTNCpGq4LW-3jCKmIUIt8aGhr)
-  * *Published on 03/05/2021*
-* [So you want to build a carbon capture company](https://caseyhandmer.wordpress.com/2021/05/04/so-you-want-to-build-a-carbon-capture-company/)
+* [uLisp](http://www.ulisp.com/)
   * *Published on 04/05/2021*
-* [Back in 1993, I was taking a number theory class](https://twitter.com/EricLengyel/status/1389106103179378689)
-  * *Published on 03/05/2021*
+* [Chiptunes on an ATtiny4 and the 3 Cent Micro](https://gir.st/chiptunes.html)
+  * *Published on 04/05/2021*
+* [An opinionated map of incremental and streaming systems](https://scattered-thoughts.net/writing/an-opinionated-map-of-incremental-and-streaming-systems)
+  * *Published on 04/05/2021*
 
 
 ___
