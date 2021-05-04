@@ -83,30 +83,26 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [How Big Tech got so big: Hundreds of acquisitions](https://www.washingtonpost.com/technology/interactive/2021/amazon-apple-facebook-google-acquisitions/)
+* [Multitasking hurts performance and may even damage the brain (2018)](https://www.linkedin.com/pulse/why-successful-people-dont-multitask-dr-travis-bradberry/)
   * *Published on 04/05/2021*
-* [The Instagram ads Facebook won&#39;t show you](https://signal.org/blog/the-instagram-ads-you-will-never-see)
+* [Cinder: Instagram&#39;s performance oriented fork of CPython](https://github.com/facebookincubator/cinder)
   * *Published on 04/05/2021*
-* [On Incels, Dead Bedrooms and the Hard Problems of Loneliness](https://residentcontrarian.substack.com/p/on-incels-dead-bedrooms-and-the-hard)
+* [Observable Plot](https://observablehq.com/@observablehq/introducing-observable-plot)
   * *Published on 04/05/2021*
-* [uLisp](http://www.ulisp.com/)
+* [Just Say No to Paxos Overhead: Replacing Consensus with Network Ordering (2016)](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/li)
   * *Published on 04/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> The GitHub front end is made up of components! Check out how we utilize Web Components to deliver front-end functionality to your browser.<br/><br/>
+> May the source be with you. Always. Check out this great round up of  <span class="hashtag">#StarWarsDay</span> -related open source projects from the community. <a href="https://t.co/DbpyeVQWvn" class="link">dev.to/leereilly/may-…</a> <br/><a href="https://t.co/uOejUo3fAA" class="link">pic.twitter.com/uOejUo3fAA</a>
 >
-> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2020/07/how-organizations-can-tackle-securing-the-worlds-code.png?fit=1200%2C630" alt="How we use Web Components at GitHub - The GitHub Blog" height="200"></a>
->
-> *16:53 on 04/05/2021*
+> *21:19 on 04/05/2021*
 
-> Have you seen our latest GitHub-Flavoured Markdown updates?<br/><br/>Check them out now and try these for your next Markdown file, issue, or PR 👇 <br/><a href="https://t.co/xM7wHn1xIy" class="link">pic.twitter.com/xM7wHn1xIy</a>
+> Need to flip back and forth to the dark side on macOS? Check out <span class="mention">@sindresorhus</span>' cool little command line app: <a href="https://t.co/DY55OR0O4B" class="link">github.com/sindresorhus/d…</a> 😎 <br/><a href="https://t.co/xOIubQyTla" class="link">pic.twitter.com/xOIubQyTla</a>
 >
-> <a href=""><img src="https://pbs.twimg.com/media/E0e1pzoWYAUyM6M.jpg" alt="" height="200"></a>
->
-> *18:00 on 03/05/2021*
+> *18:21 on 04/05/2021*
 
 
 
