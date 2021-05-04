@@ -83,13 +83,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Back in 1993, I was taking a number theory class](https://twitter.com/EricLengyel/status/1389106103179378689)
-  * *Published on 03/05/2021*
-* [First genetically modified mosquitoes released in the United States](https://www.nature.com/articles/d41586-021-01186-6)
+* [Teens, tech and mental health: Oxford study finds no link](https://www.bbc.com/news/technology-56970368)
   * *Published on 04/05/2021*
-* [The Unix Magic Poster](https://jpmens.net/2021/04/09/the-unix-magic-poster/)
+* [Casio AI-1000 Pocket Lisp Computer from 1989 [video]](https://www.youtube.com/watch?v=H-yuZ2pejGU&amp;list=PL4HH_QTuUTNCpGq4LW-3jCKmIUIt8aGhr)
   * *Published on 03/05/2021*
-* [ShellCheck: Finds bugs in your shell scripts](https://www.shellcheck.net/)
+* [So you want to build a carbon capture company](https://caseyhandmer.wordpress.com/2021/05/04/so-you-want-to-build-a-carbon-capture-company/)
+  * *Published on 04/05/2021*
+* [Back in 1993, I was taking a number theory class](https://twitter.com/EricLengyel/status/1389106103179378689)
   * *Published on 03/05/2021*
 
 
