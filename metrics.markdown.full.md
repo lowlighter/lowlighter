@@ -83,30 +83,30 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Google banned almost 120k spam developer accounts in 2020 for the play store](https://security.googleblog.com/2021/04/how-we-fought-bad-apps-and-developers.html)
+* [How Big Tech got so big: Hundreds of acquisitions](https://www.washingtonpost.com/technology/interactive/2021/amazon-apple-facebook-google-acquisitions/)
+  * *Published on 04/05/2021*
+* [The Instagram ads Facebook won&#39;t show you](https://signal.org/blog/the-instagram-ads-you-will-never-see)
+  * *Published on 04/05/2021*
+* [On Incels, Dead Bedrooms and the Hard Problems of Loneliness](https://residentcontrarian.substack.com/p/on-incels-dead-bedrooms-and-the-hard)
   * *Published on 04/05/2021*
 * [uLisp](http://www.ulisp.com/)
-  * *Published on 04/05/2021*
-* [Chiptunes on an ATtiny4 and the 3 Cent Micro](https://gir.st/chiptunes.html)
-  * *Published on 04/05/2021*
-* [An opinionated map of incremental and streaming systems](https://scattered-thoughts.net/writing/an-opinionated-map-of-incremental-and-streaming-systems)
   * *Published on 04/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> The GitHub front end is made up of components! Check out how we utilize Web Components to deliver front-end functionality to your browser.<br/><br/>
+>
+> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2020/07/how-organizations-can-tackle-securing-the-worlds-code.png?fit=1200%2C630" alt="How we use Web Components at GitHub - The GitHub Blog" height="200"></a>
+>
+> *16:53 on 04/05/2021*
+
 > Have you seen our latest GitHub-Flavoured Markdown updates?<br/><br/>Check them out now and try these for your next Markdown file, issue, or PR 👇 <br/><a href="https://t.co/xM7wHn1xIy" class="link">pic.twitter.com/xM7wHn1xIy</a>
 >
 > <a href=""><img src="https://pbs.twimg.com/media/E0e1pzoWYAUyM6M.jpg" alt="" height="200"></a>
 >
 > *18:00 on 03/05/2021*
-
-> Something changed? No worries - we've just made it a bit easier to view a single file in history. <br/><a href="https://t.co/dJT6nsUzw7" class="link">pic.twitter.com/dJT6nsUzw7</a>
->
-> <a href=""><img src="https://pbs.twimg.com/media/E0PtdpkWEAAd3fP.jpg" alt="" height="200"></a>
->
-> *19:30 on 30/04/2021*
 
 
 
