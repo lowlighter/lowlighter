@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `34` repositories and made `1541` commits.
+I contributed to `34` repositories and made `1552` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,13 +29,14 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Opened [#286 Release v3.9](https://github.com/lowlighter/metrics/pull/286) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++3 --3`
+* ⏺️ Created new branch `release-v39` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 📦 Released **v1.0.0** of [lowlighter/xml](https://github.com/lowlighter/xml)
+* ⏺️ Created new tag `v1.0.0` in [lowlighter/xml](https://github.com/lowlighter/xml)
 * ⏺️ Created new tag `v0.0.2` in [lowlighter/xml](https://github.com/lowlighter/xml)
-* 📦 Released **** of [lowlighter/xml](https://github.com/lowlighter/xml)
+* 📦 Released **v0.0.2** of [lowlighter/xml](https://github.com/lowlighter/xml)
 * ⏺️ Created new tag `v0.0.1` in [lowlighter/xml](https://github.com/lowlighter/xml)
-* 📦 Pre-released **Alpha release** of [lowlighter/xml](https://github.com/lowlighter/xml)
-* ⏺️ Created new tag `v.0.0.1` in [lowlighter/xml](https://github.com/lowlighter/xml)
-* ⏺️ Created new branch `master` in [lowlighter/xml](https://github.com/lowlighter/xml)
-* ⏺️ Created new repository `` in [lowlighter/xml](https://github.com/lowlighter/xml)
 
 
 ___
@@ -80,30 +81,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Netflix&#39;s “Love Is Blind” Wants Unpaid Photographer for Five Weddings](https://petapixel.com/2021/05/05/netflixs-love-is-blind-wants-unpaid-photographer-for-five-weddings/)
+* [As Amazon deforestation hits 12 year high, France rejects Brazilian soy](https://news.mongabay.com/2020/12/as-amazon-deforestation-hits-12-year-high-france-rejects-brazilian-soy/)
   * *Published on 05/05/2021*
-* [Orbit is now open source](https://github.com/andymatuschak/orbit)
+* [Indonesia coral reef partially restored in extensive project](https://www.bbc.com/news/av/science-environment-56985594)
   * *Published on 05/05/2021*
 * [Send: A Fork of Mozilla&#39;s Firefox Send](https://github.com/timvisee/send)
   * *Published on 05/05/2021*
-* [Apache Arrow 4.0.0 Release](https://arrow.apache.org/blog/2021/05/03/4.0.0-release/)
+* [Orbit: an experimental platform for small tasks repeated over time](https://github.com/andymatuschak/orbit)
   * *Published on 05/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> RT <span class="mention">@indigitalcolor</span>: I'm excited to have my tech journey featured in <span class="mention">@GitHub</span>'s ReadME Project alongside other amazing technologists who serv…
+>
+> *20:54 on 05/05/2021*
+
 > Check out our latest Availability Report with updates on GitHub status over the past month.<br/><br/>
 >
 > <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2021/04/Blog_ENGINEERING_for-social.png?fit=1200%2C630" alt="GitHub Availability Report: April 2021 - The GitHub Blog" height="200"></a>
 >
 > *16:37 on 05/05/2021*
-
-> Need to quickly visualize tabular data? You might be interested in this free and open source JS library from <span class="mention">@observablehq</span>: <a href="https://t.co/JrFwiVxt9i" class="link">observablehq.com/@observablehq/…</a> 📈 🚀
->
-> <a href=""><img src="https://static.observableusercontent.com/thumbnail/64f414fef8a91248865f5759641b0cf537bc87c0aaf57dc368ffe673013eccaa.jpg" alt="Observable Plot" height="200"></a>
->
-> *16:31 on 05/05/2021*
 
 
 
