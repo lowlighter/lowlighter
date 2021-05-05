@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `33` repositories and made `1533` commits.
+I contributed to `34` repositories and made `1535` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,16 +29,13 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 📦 Pre-released **Alpha release** of [lowlighter/xml](https://github.com/lowlighter/xml)
+* ⏺️ Created new tag `v.0.0.1` in [lowlighter/xml](https://github.com/lowlighter/xml)
+* ⏺️ Created new branch `master` in [lowlighter/xml](https://github.com/lowlighter/xml)
+* ⏺️ Created new repository `` in [lowlighter/xml](https://github.com/lowlighter/xml)
 * #️⃣ Opened [#28 TypeError: Headers are immutable. (doc invalid)](https://github.com/denoland/deploy_feedback/issues/28) in [denoland/deploy_feedback](https://github.com/denoland/deploy_feedback)
 * #️⃣ Opened [#10467 `Response.text()` may be broken](https://github.com/denoland/deno/issues/10467) in [denoland/deno](https://github.com/denoland/deno)
 * #️⃣ Opened [#8 fetching local file returns a scrambled output](https://github.com/lucacasonato/deno_local_file_fetch/issues/8) in [lucacasonato/deno_local_file_fetch](https://github.com/lucacasonato/deno_local_file_fetch)
-* #️⃣ Closed [#52 Dependabot couldn&#39;t find a package.json for this project](https://github.com/lowlighter/gracidea/issues/52) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-* 🔃 Closed [#44 Upgrade to GitHub-native Dependabot](https://github.com/lowlighter/gracidea/pull/44) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-  * 1 file changed `++14 --0`
-* 🔃 Closed [#43 Bump rollup from 2.26.11 to 2.46.0](https://github.com/lowlighter/gracidea/pull/43) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-  * 2 files changed `++17 --16`
-* 🔃 Closed [#42 Bump pixi-viewport from 4.23.1 to 4.30.4](https://github.com/lowlighter/gracidea/pull/42) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-  * 2 files changed `++12 --10`
 
 
 ___
@@ -83,13 +80,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Multitasking hurts performance and may even damage the brain (2018)](https://www.linkedin.com/pulse/why-successful-people-dont-multitask-dr-travis-bradberry/)
+* [60% of school apps are sending student data with third parties without consent](https://me2ba.org/me2ba-product-testing-spotlight-report-published-data-sharing-in-primary-secondary-school-mobile-apps-2/)
+  * *Published on 05/05/2021*
+* [Please fix the AWS free tier before somebody gets hurt](https://cloudirregular.substack.com/p/please-fix-the-aws-free-tier-before)
   * *Published on 04/05/2021*
-* [Cinder: Instagram&#39;s performance oriented fork of CPython](https://github.com/facebookincubator/cinder)
-  * *Published on 04/05/2021*
-* [Observable Plot](https://observablehq.com/@observablehq/introducing-observable-plot)
-  * *Published on 04/05/2021*
-* [Just Say No to Paxos Overhead: Replacing Consensus with Network Ordering (2016)](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/li)
+* [MH370 pilot made many turns and speed changes new report reveals](https://www.airlineratings.com/news/mh370-pilot-made-many-turns-speed-changes-new-report-reveals/)
+  * *Published on 05/05/2021*
+* [Cinder: Instagram&#39;s performance-oriented fork of CPython](https://github.com/facebookincubator/cinder)
   * *Published on 04/05/2021*
 
 
