@@ -80,13 +80,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [60% of school apps are sending student data with third parties without consent](https://me2ba.org/me2ba-product-testing-spotlight-report-published-data-sharing-in-primary-secondary-school-mobile-apps-2/)
-  * *Published on 05/05/2021*
-* [Please fix the AWS free tier before somebody gets hurt](https://cloudirregular.substack.com/p/please-fix-the-aws-free-tier-before)
-  * *Published on 04/05/2021*
-* [MH370 pilot made many turns and speed changes new report reveals](https://www.airlineratings.com/news/mh370-pilot-made-many-turns-speed-changes-new-report-reveals/)
-  * *Published on 05/05/2021*
 * [Cinder: Instagram&#39;s performance-oriented fork of CPython](https://github.com/facebookincubator/cinder)
+  * *Published on 04/05/2021*
+* [Z3 Tutorial](https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%20Tutorial.ipynb)
+  * *Published on 05/05/2021*
+* [How we use web components](https://github.blog/2021-05-04-how-we-use-web-components-at-github/)
+  * *Published on 05/05/2021*
+* [Multitasking hurts performance and may even damage the brain (2018)](https://www.linkedin.com/pulse/why-successful-people-dont-multitask-dr-travis-bradberry/)
   * *Published on 04/05/2021*
 
 
