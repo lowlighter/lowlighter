@@ -82,11 +82,11 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [ClearURLs – automatically remove tracking elements from URLs](https://github.com/ClearURLs/Addon/)
   * *Published on 05/05/2021*
-* [$1 Unistroke Recognizer](http://depts.washington.edu/acelab/proj/dollar/index.html)
+* [HN: The Good Parts](https://danluu.com/hn-comments/)
   * *Published on 05/05/2021*
-* [Doctors investigate mystery brain disease in Canada](https://www.bbc.com/news/world-us-canada-56910393)
+* [Go proposal: new package to provide generic slice functions](https://github.com/golang/go/issues/45955)
   * *Published on 05/05/2021*
-* [SeL4 on RISC-V Verified to Binary Code](https://microkerneldude.wordpress.com/2021/05/05/sel4-on-risc-v-verified-to-binary-code/)
+* [New book contends that Catch Me If You Can is mostly made up](https://whyy.org/segments/the-greatest-hoax-on-earth/)
   * *Published on 05/05/2021*
 
 
