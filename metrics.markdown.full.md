@@ -80,14 +80,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Cinder: Instagram&#39;s performance-oriented fork of CPython](https://github.com/facebookincubator/cinder)
-  * *Published on 04/05/2021*
-* [Z3 Tutorial](https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%20Tutorial.ipynb)
+* [ClearURLs – automatically remove tracking elements from URLs](https://github.com/ClearURLs/Addon/)
   * *Published on 05/05/2021*
-* [How we use web components](https://github.blog/2021-05-04-how-we-use-web-components-at-github/)
+* [$1 Unistroke Recognizer](http://depts.washington.edu/acelab/proj/dollar/index.html)
   * *Published on 05/05/2021*
-* [Multitasking hurts performance and may even damage the brain (2018)](https://www.linkedin.com/pulse/why-successful-people-dont-multitask-dr-travis-bradberry/)
-  * *Published on 04/05/2021*
+* [Doctors investigate mystery brain disease in Canada](https://www.bbc.com/news/world-us-canada-56910393)
+  * *Published on 05/05/2021*
+* [SeL4 on RISC-V Verified to Binary Code](https://microkerneldude.wordpress.com/2021/05/05/sel4-on-risc-v-verified-to-binary-code/)
+  * *Published on 05/05/2021*
 
 
 ___
