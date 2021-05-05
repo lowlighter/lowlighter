@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `34` repositories and made `1535` commits.
+I contributed to `34` repositories and made `1541` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,13 +29,13 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* ⏺️ Created new tag `v0.0.2` in [lowlighter/xml](https://github.com/lowlighter/xml)
+* 📦 Released **** of [lowlighter/xml](https://github.com/lowlighter/xml)
+* ⏺️ Created new tag `v0.0.1` in [lowlighter/xml](https://github.com/lowlighter/xml)
 * 📦 Pre-released **Alpha release** of [lowlighter/xml](https://github.com/lowlighter/xml)
 * ⏺️ Created new tag `v.0.0.1` in [lowlighter/xml](https://github.com/lowlighter/xml)
 * ⏺️ Created new branch `master` in [lowlighter/xml](https://github.com/lowlighter/xml)
 * ⏺️ Created new repository `` in [lowlighter/xml](https://github.com/lowlighter/xml)
-* #️⃣ Opened [#28 TypeError: Headers are immutable. (doc invalid)](https://github.com/denoland/deploy_feedback/issues/28) in [denoland/deploy_feedback](https://github.com/denoland/deploy_feedback)
-* #️⃣ Opened [#10467 `Response.text()` may be broken](https://github.com/denoland/deno/issues/10467) in [denoland/deno](https://github.com/denoland/deno)
-* #️⃣ Opened [#8 fetching local file returns a scrambled output](https://github.com/lucacasonato/deno_local_file_fetch/issues/8) in [lucacasonato/deno_local_file_fetch](https://github.com/lucacasonato/deno_local_file_fetch)
 
 
 ___
@@ -80,26 +80,30 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [ClearURLs – automatically remove tracking elements from URLs](https://github.com/ClearURLs/Addon/)
+* [Netflix&#39;s “Love Is Blind” Wants Unpaid Photographer for Five Weddings](https://petapixel.com/2021/05/05/netflixs-love-is-blind-wants-unpaid-photographer-for-five-weddings/)
   * *Published on 05/05/2021*
-* [HN: The Good Parts](https://danluu.com/hn-comments/)
+* [Orbit is now open source](https://github.com/andymatuschak/orbit)
   * *Published on 05/05/2021*
-* [Go proposal: new package to provide generic slice functions](https://github.com/golang/go/issues/45955)
+* [Send: A Fork of Mozilla&#39;s Firefox Send](https://github.com/timvisee/send)
   * *Published on 05/05/2021*
-* [New book contends that Catch Me If You Can is mostly made up](https://whyy.org/segments/the-greatest-hoax-on-earth/)
+* [Apache Arrow 4.0.0 Release](https://arrow.apache.org/blog/2021/05/03/4.0.0-release/)
   * *Published on 05/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> May the source be with you. Always. Check out this great round up of  <span class="hashtag">#StarWarsDay</span> -related open source projects from the community. <a href="https://t.co/DbpyeVQWvn" class="link">dev.to/leereilly/may-…</a> <br/><a href="https://t.co/uOejUo3fAA" class="link">pic.twitter.com/uOejUo3fAA</a>
+> Check out our latest Availability Report with updates on GitHub status over the past month.<br/><br/>
 >
-> *21:19 on 04/05/2021*
+> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2021/04/Blog_ENGINEERING_for-social.png?fit=1200%2C630" alt="GitHub Availability Report: April 2021 - The GitHub Blog" height="200"></a>
+>
+> *16:37 on 05/05/2021*
 
-> Need to flip back and forth to the dark side on macOS? Check out <span class="mention">@sindresorhus</span>' cool little command line app: <a href="https://t.co/DY55OR0O4B" class="link">github.com/sindresorhus/d…</a> 😎 <br/><a href="https://t.co/xOIubQyTla" class="link">pic.twitter.com/xOIubQyTla</a>
+> Need to quickly visualize tabular data? You might be interested in this free and open source JS library from <span class="mention">@observablehq</span>: <a href="https://t.co/JrFwiVxt9i" class="link">observablehq.com/@observablehq/…</a> 📈 🚀
 >
-> *18:21 on 04/05/2021*
+> <a href=""><img src="https://static.observableusercontent.com/thumbnail/64f414fef8a91248865f5759641b0cf537bc87c0aaf57dc368ffe673013eccaa.jpg" alt="Observable Plot" height="200"></a>
+>
+> *16:31 on 05/05/2021*
 
 
 
