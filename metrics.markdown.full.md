@@ -81,13 +81,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Fungi on Mars? Evidence of Growth and Behavior from Sequential Images [pdf]](https://www.researchgate.net/publication/351252619_Fungi_on_Mars_Evidence_of_Growth_and_Behavior_From_Sequential_Images)
+  * *Published on 06/05/2021*
+* [Hatetris – Tetris which always gives you the worst piece](https://github.com/qntm/hatetris)
+  * *Published on 06/05/2021*
+* [1988: P.R.E.S.T.A.V.B.A.](https://if50.substack.com/p/1988-prestavba)
+  * *Published on 06/05/2021*
 * [Crazy New Ideas](http://paulgraham.com/newideas.html)
-  * *Published on 06/05/2021*
-* [IBM Creates First 2nm Chip](https://www.anandtech.com/show/16656/ibm-creates-first-2nm-chip)
-  * *Published on 06/05/2021*
-* [DIY Boat Monitoring System](https://l-36.com/DIY-boat-monitoring-system.php)
-  * *Published on 06/05/2021*
-* [Show HN: Hatetris – Tetris which always gives you the worst piece](https://github.com/qntm/hatetris)
   * *Published on 06/05/2021*
 
 
