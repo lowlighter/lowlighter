@@ -81,11 +81,11 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [As Amazon deforestation hits 12 year high, France rejects Brazilian soy](https://news.mongabay.com/2020/12/as-amazon-deforestation-hits-12-year-high-france-rejects-brazilian-soy/)
-  * *Published on 05/05/2021*
-* [Indonesia coral reef partially restored in extensive project](https://www.bbc.com/news/av/science-environment-56985594)
-  * *Published on 05/05/2021*
+* [LiveLeak shuts down after 15 years](https://techstartups.com/2021/05/05/liveleak-shuts-15-years-online/)
+  * *Published on 06/05/2021*
 * [Send: A Fork of Mozilla&#39;s Firefox Send](https://github.com/timvisee/send)
+  * *Published on 05/05/2021*
+* [Show HN: CS Weapons – Counter-Strike weapon data comparison app](https://www.csweapons.com)
   * *Published on 05/05/2021*
 * [Orbit: an experimental platform for small tasks repeated over time](https://github.com/andymatuschak/orbit)
   * *Published on 05/05/2021*
