@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `34` repositories and made `1555` commits.
+I contributed to `34` repositories and made `1564` commits.
 ```
 
 ## 🧩 Plugins
@@ -81,28 +81,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Fungi on Mars? Evidence of Growth and Behavior from Sequential Images [pdf]](https://www.researchgate.net/publication/351252619_Fungi_on_Mars_Evidence_of_Growth_and_Behavior_From_Sequential_Images)
+* [Google Dataset Search](https://datasetsearch.research.google.com/)
   * *Published on 06/05/2021*
-* [Hatetris – Tetris which always gives you the worst piece](https://github.com/qntm/hatetris)
-  * *Published on 06/05/2021*
-* [1988: P.R.E.S.T.A.V.B.A.](https://if50.substack.com/p/1988-prestavba)
+* [Hatetris – Tetris which always gives you the worst piece](https://qntm.org/hatetris)
   * *Published on 06/05/2021*
 * [Crazy New Ideas](http://paulgraham.com/newideas.html)
+  * *Published on 06/05/2021*
+* [A centrifugal spin on a 500-year-old air compressor design](https://newatlas.com/good-thinking/carnot-centrifugal-air-compressor/)
   * *Published on 06/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> RT <span class="mention">@indigitalcolor</span>: I'm excited to have my tech journey featured in <span class="mention">@GitHub</span>'s ReadME Project alongside other amazing technologists who serv…
+> RT <span class="mention">@GitHubEnt</span>: GitHub Enterprise Server 3.1 is now available as a release candidate, including new GitHub Actions features, repository perf…
 >
-> *20:54 on 05/05/2021*
+> *21:22 on 06/05/2021*
 
-> Check out our latest Availability Report with updates on GitHub status over the past month.<br/><br/>
+> Is your fork behind? You can now sync from the parent repo with just a single click! 🖱💥 <br/><a href="https://t.co/4Zx6OwVTxO" class="link">pic.twitter.com/4Zx6OwVTxO</a>
 >
-> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2021/04/Blog_ENGINEERING_for-social.png?fit=1200%2C630" alt="GitHub Availability Report: April 2021 - The GitHub Blog" height="200"></a>
+> <a href=""><img src="https://pbs.twimg.com/media/E0uhiV7WYAEz9wD.jpg" alt="" height="200"></a>
 >
-> *16:37 on 05/05/2021*
+> *19:06 on 06/05/2021*
 
 
 
