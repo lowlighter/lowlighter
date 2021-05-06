@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `34` repositories and made `1552` commits.
+I contributed to `34` repositories and made `1555` commits.
 ```
 
 ## 🧩 Plugins
@@ -81,14 +81,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [LiveLeak shuts down after 15 years online](https://techstartups.com/2021/05/05/liveleak-shuts-15-years-online/)
+* [Crazy New Ideas](http://paulgraham.com/newideas.html)
   * *Published on 06/05/2021*
-* [Catala: A Programming Language for the Law](https://arxiv.org/abs/2103.03198)
+* [IBM Creates First 2nm Chip](https://www.anandtech.com/show/16656/ibm-creates-first-2nm-chip)
   * *Published on 06/05/2021*
-* [Pyston v2.2: faster and open source](https://blog.pyston.org/2021/05/05/pyston-v2-2-faster-and-open-source/)
+* [DIY Boat Monitoring System](https://l-36.com/DIY-boat-monitoring-system.php)
   * *Published on 06/05/2021*
-* [The Case of the 50ms request](https://mysteries.wizardzines.com/50ms-request.html)
-  * *Published on 05/05/2021*
+* [Show HN: Hatetris – Tetris which always gives you the worst piece](https://github.com/qntm/hatetris)
+  * *Published on 06/05/2021*
 
 
 ___
