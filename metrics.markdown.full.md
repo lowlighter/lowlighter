@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `34` repositories and made `1564` commits.
+I contributed to `34` repositories and made `1566` commits.
 ```
 
 ## 🧩 Plugins
@@ -81,13 +81,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Beyond Burger: 90% less greenhouse emissions, 99% less water, and 93% less land](http://css.umich.edu/publication/beyond-meats-beyond-burger-life-cycle-assessment-detailed-comparison-between-plant-based)
+  * *Published on 07/05/2021*
+* [Anime2Sketch: A sketch extractor for illustration, anime art, manga](https://github.com/Mukosame/Anime2Sketch)
+  * *Published on 07/05/2021*
 * [Google Dataset Search](https://datasetsearch.research.google.com/)
   * *Published on 06/05/2021*
 * [Hatetris – Tetris which always gives you the worst piece](https://qntm.org/hatetris)
-  * *Published on 06/05/2021*
-* [Crazy New Ideas](http://paulgraham.com/newideas.html)
-  * *Published on 06/05/2021*
-* [A centrifugal spin on a 500-year-old air compressor design](https://newatlas.com/good-thinking/carnot-centrifugal-air-compressor/)
   * *Published on 06/05/2021*
 
 
