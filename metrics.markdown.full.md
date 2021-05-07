@@ -81,28 +81,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Rufus: The Reliable USB Formatting Utility](https://github.com/pbatard/rufus)
+* [Rufus: Reliable USB Formatting Utility](https://github.com/pbatard/rufus)
   * *Published on 07/05/2021*
-* [How to survive a toxic workplace and how to avoid creating one](https://newsletter.timber.fm/p/how-to-survive-a-toxic-workplace)
+* [How Big Pharma Finds Sick Users on Facebook](https://themarkup.org/citizen-browser/2021/05/06/how-big-pharma-finds-sick-users-on-facebook)
+  * *Published on 07/05/2021*
+* [WinBox: Modern window manager for the web](https://github.com/nextapps-de/winbox)
   * *Published on 07/05/2021*
 * [Anime2Sketch: A sketch extractor for illustration, anime art, manga](https://github.com/Mukosame/Anime2Sketch)
-  * *Published on 07/05/2021*
-* [Shifting the impossible to the inevitable: A Private ARPA user manual](https://benjaminreinhardt.com/parpa)
   * *Published on 07/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> RT <span class="mention">@GitHubEnt</span>: GitHub Enterprise Server 3.1 is now available as a release candidate, including new GitHub Actions features, repository perf…
->
-> *21:22 on 06/05/2021*
-
-> Is your fork behind? You can now sync from the parent repo with just a single click! 🖱💥 <br/><a href="https://t.co/4Zx6OwVTxO" class="link">pic.twitter.com/4Zx6OwVTxO</a>
+> RT <span class="mention">@github</span>: Is your fork behind? You can now sync from the parent repo with just a single click! 🖱💥 <br/><a href="https://t.co/4Zx6OwVTxO" class="link">pic.twitter.com/4Zx6OwVTxO</a>
 >
 > <a href=""><img src="https://pbs.twimg.com/media/E0uhiV7WYAEz9wD.jpg" alt="" height="200"></a>
 >
-> *19:06 on 06/05/2021*
+> *09:20 on 07/05/2021*
+
+> RT <span class="mention">@GitHubEnt</span>: GitHub Enterprise Server 3.1 is now available as a release candidate, including new GitHub Actions features, repository perf…
+>
+> *21:22 on 06/05/2021*
 
 
 
