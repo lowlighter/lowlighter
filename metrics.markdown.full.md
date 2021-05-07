@@ -82,28 +82,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Amazon Fake Reviews Scam Exposed in Data Breach](https://www.safetydetectives.com/blog/amazon-reviews-leak-report/)
+* [Facebook threatens to make iOS users pay. Please do it, Mr. Zuckerberg](https://www.zdnet.com/article/facebook-threatens-to-make-ios-users-pay-please-do-it-mr-zuckerberg/)
   * *Published on 07/05/2021*
-* [Termite Is Obsoleted by Alacritty](https://github.com/thestinger/termite)
+* [The Pinecone Overlay Network](https://matrix.org/blog/2021/05/06/introducing-the-pinecone-overlay-network)
+  * *Published on 07/05/2021*
+* [True U.S. Death Toll from Covid Is More Than 900k, Study Finds](http://www.healthdata.org/special-analysis/estimation-excess-mortality-due-covid-19-and-scalars-reported-covid-19-deaths)
   * *Published on 07/05/2021*
 * [Searching the web for under $1000/month](https://quickwit.io/blog/commoncrawl/)
-  * *Published on 07/05/2021*
-* [Why are there so many people in prison in America? (2017)](http://braino.org/essays/why_so_many_people_in_prison/)
   * *Published on 07/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> RT <span class="mention">@GitHubEnt</span>: We’re live on Demo Days! Come learn how you and your team can use InnerSource to reduce silos, simplify your organization, a…
+>
+> *18:00 on 07/05/2021*
+
 > RT <span class="mention">@github</span>: Is your fork behind? You can now sync from the parent repo with just a single click! 🖱💥 <br/><a href="https://t.co/4Zx6OwVTxO" class="link">pic.twitter.com/4Zx6OwVTxO</a>
 >
 > <a href=""><img src="https://pbs.twimg.com/media/E0uhiV7WYAEz9wD.jpg" alt="" height="200"></a>
 >
 > *09:20 on 07/05/2021*
-
-> RT <span class="mention">@GitHubEnt</span>: GitHub Enterprise Server 3.1 is now available as a release candidate, including new GitHub Actions features, repository perf…
->
-> *21:22 on 06/05/2021*
 
 
 
