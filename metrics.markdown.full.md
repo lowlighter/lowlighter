@@ -29,14 +29,15 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#288 Bump libxmljs2 from 0.26.7 to 0.27.0](https://github.com/lowlighter/metrics/pull/288) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++8 --8`
+* 🔍 Reviewed [#288 Bump libxmljs2 from 0.26.7 to 0.27.0](https://github.com/lowlighter/metrics/pull/288) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔍 Reviewed [#855 feat(http): allow custom http codes along with custom response text](https://github.com/denoland/deno_std/pull/855) in [denoland/deno_std](https://github.com/denoland/deno_std)
 * 🔃 Opened [#286 Release v3.9](https://github.com/lowlighter/metrics/pull/286) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 2 files changed `++3 --3`
 * ⏺️ Created new branch `release-v39` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 📦 Released **v1.0.0** of [lowlighter/xml](https://github.com/lowlighter/xml)
 * ⏺️ Created new tag `v1.0.0` in [lowlighter/xml](https://github.com/lowlighter/xml)
-* ⏺️ Created new tag `v0.0.2` in [lowlighter/xml](https://github.com/lowlighter/xml)
-* 📦 Released **v0.0.2** of [lowlighter/xml](https://github.com/lowlighter/xml)
-* ⏺️ Created new tag `v0.0.1` in [lowlighter/xml](https://github.com/lowlighter/xml)
 
 
 ___
@@ -81,13 +82,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Rufus: Reliable USB Formatting Utility](https://github.com/pbatard/rufus)
+* [Amazon Fake Reviews Scam Exposed in Data Breach](https://www.safetydetectives.com/blog/amazon-reviews-leak-report/)
   * *Published on 07/05/2021*
-* [How Big Pharma Finds Sick Users on Facebook](https://themarkup.org/citizen-browser/2021/05/06/how-big-pharma-finds-sick-users-on-facebook)
+* [Termite Is Obsoleted by Alacritty](https://github.com/thestinger/termite)
   * *Published on 07/05/2021*
-* [WinBox: Modern window manager for the web](https://github.com/nextapps-de/winbox)
+* [Searching the web for under $1000/month](https://quickwit.io/blog/commoncrawl/)
   * *Published on 07/05/2021*
-* [Anime2Sketch: A sketch extractor for illustration, anime art, manga](https://github.com/Mukosame/Anime2Sketch)
+* [Why are there so many people in prison in America? (2017)](http://braino.org/essays/why_so_many_people_in_prison/)
   * *Published on 07/05/2021*
 
 
