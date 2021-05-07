@@ -81,14 +81,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Beyond Burger: 90% less greenhouse emissions, 99% less water, and 93% less land](http://css.umich.edu/publication/beyond-meats-beyond-burger-life-cycle-assessment-detailed-comparison-between-plant-based)
+* [Rufus: The Reliable USB Formatting Utility](https://github.com/pbatard/rufus)
+  * *Published on 07/05/2021*
+* [How to survive a toxic workplace and how to avoid creating one](https://newsletter.timber.fm/p/how-to-survive-a-toxic-workplace)
   * *Published on 07/05/2021*
 * [Anime2Sketch: A sketch extractor for illustration, anime art, manga](https://github.com/Mukosame/Anime2Sketch)
   * *Published on 07/05/2021*
-* [Google Dataset Search](https://datasetsearch.research.google.com/)
-  * *Published on 06/05/2021*
-* [Hatetris – Tetris which always gives you the worst piece](https://qntm.org/hatetris)
-  * *Published on 06/05/2021*
+* [Shifting the impossible to the inevitable: A Private ARPA user manual](https://benjaminreinhardt.com/parpa)
+  * *Published on 07/05/2021*
 
 
 ___
