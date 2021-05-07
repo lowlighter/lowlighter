@@ -82,28 +82,26 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Facebook threatens to make iOS users pay. Please do it, Mr. Zuckerberg](https://www.zdnet.com/article/facebook-threatens-to-make-ios-users-pay-please-do-it-mr-zuckerberg/)
+* [Starlink Satellites Tracker](https://findstarlink.com)
   * *Published on 07/05/2021*
-* [The Pinecone Overlay Network](https://matrix.org/blog/2021/05/06/introducing-the-pinecone-overlay-network)
+* [Apple Silicon Hardware Secrets: SPRR and Guarded Exception Levels (GXF)](https://blog.svenpeter.dev/posts/m1_sprr_gxf/)
   * *Published on 07/05/2021*
-* [True U.S. Death Toll from Covid Is More Than 900k, Study Finds](http://www.healthdata.org/special-analysis/estimation-excess-mortality-due-covid-19-and-scalars-reported-covid-19-deaths)
+* [Be in a field where tech is the limit](https://mathiaskirkbonde.substack.com/p/be-in-a-field-where-tech-is-the-limit)
   * *Published on 07/05/2021*
-* [Searching the web for under $1000/month](https://quickwit.io/blog/commoncrawl/)
+* [A New AWS SDK for Rust](https://aws.amazon.com/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/)
   * *Published on 07/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> RT <span class="mention">@GitHubEnt</span>: We’re live on Demo Days! Come learn how you and your team can use InnerSource to reduce silos, simplify your organization, a…
+> <span class="mention">@firstdrafthell</span> Thanks for everything you do for the community Patrik
 >
-> *18:00 on 07/05/2021*
+> *21:55 on 07/05/2021*
 
-> RT <span class="mention">@github</span>: Is your fork behind? You can now sync from the parent repo with just a single click! 🖱💥 <br/><a href="https://t.co/4Zx6OwVTxO" class="link">pic.twitter.com/4Zx6OwVTxO</a>
+> <span class="mention">@LaylaCodesIt</span> Thanks for all the great work you do Layla!
 >
-> <a href=""><img src="https://pbs.twimg.com/media/E0uhiV7WYAEz9wD.jpg" alt="" height="200"></a>
->
-> *09:20 on 07/05/2021*
+> *18:13 on 07/05/2021*
 
 
 
