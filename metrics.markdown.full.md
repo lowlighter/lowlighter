@@ -82,13 +82,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [The Amazon Rainforest Now Emits More Greenhouse Gases Than It Absorbs](https://www.smithsonianmag.com/smart-news/amazon-rainforest-now-emits-more-greenhouse-gases-it-absorbs-180977347/)
+* [I’ve had the same supper for 10 years](https://www.theguardian.com/lifeandstyle/2021/apr/16/experience-ive-had-the-same-supper-for-10-years)
   * *Published on 08/05/2021*
-* [Starlink Satellites Tracker](https://findstarlink.com)
-  * *Published on 07/05/2021*
+* [iPad Camera Multitasking](https://blog.thinktapwork.com/post/649630720084639744/ipad-camera-multitasking)
+  * *Published on 08/05/2021*
+* [Show HN: Lovetris – Tetris which always gives you the best piece](https://unrealwill.github.io/lovetris/)
+  * *Published on 08/05/2021*
 * [Smithy: A language for defining services and SDKs](https://awslabs.github.io/smithy/)
-  * *Published on 07/05/2021*
-* [The Complete Hypercard Handbook](https://archive.org/details/The_Complete_HyperCard_Handbook/)
   * *Published on 07/05/2021*
 
 
