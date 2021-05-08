@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `34` repositories and made `1566` commits.
+I contributed to `34` repositories and made `1574` commits.
 ```
 
 ## 🧩 Plugins
@@ -82,26 +82,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [The Amazon Rainforest Now Emits More Greenhouse Gases Than It Absorbs](https://www.smithsonianmag.com/smart-news/amazon-rainforest-now-emits-more-greenhouse-gases-it-absorbs-180977347/)
+  * *Published on 08/05/2021*
 * [Starlink Satellites Tracker](https://findstarlink.com)
   * *Published on 07/05/2021*
-* [Apple Silicon Hardware Secrets: SPRR and Guarded Exception Levels (GXF)](https://blog.svenpeter.dev/posts/m1_sprr_gxf/)
+* [Smithy: A language for defining services and SDKs](https://awslabs.github.io/smithy/)
   * *Published on 07/05/2021*
-* [Be in a field where tech is the limit](https://mathiaskirkbonde.substack.com/p/be-in-a-field-where-tech-is-the-limit)
-  * *Published on 07/05/2021*
-* [A New AWS SDK for Rust](https://aws.amazon.com/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/)
+* [The Complete Hypercard Handbook](https://archive.org/details/The_Complete_HyperCard_Handbook/)
   * *Published on 07/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> Congrats to these open source projects who shipped major (or big) releases this April 🎉 <br/><a href="https://t.co/eVqfnaY43w" class="link">github.blog/2021-05-07-rel…</a><br/><br/>Whether it's a huge project supporting 100s of developers, or a side hobby, we love seeing our community build amazing things.<br/><br/>What are you coding this weekend? <br/><a href="https://t.co/7Xtu1MEoC7" class="link">pic.twitter.com/7Xtu1MEoC7</a>
+>
+> <a href=""><img src="https://pbs.twimg.com/media/E00kBnFXIAA1KAE.jpg" alt="" height="200"></a>
+>
+> *23:15 on 07/05/2021*
+
 > <span class="mention">@firstdrafthell</span> Thanks for everything you do for the community Patrik
 >
 > *21:55 on 07/05/2021*
-
-> <span class="mention">@LaylaCodesIt</span> Thanks for all the great work you do Layla!
->
-> *18:13 on 07/05/2021*
 
 
 
