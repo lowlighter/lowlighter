@@ -29,14 +29,15 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Opened [#906 fix(testing): support array values in assertObjectMatch](https://github.com/denoland/deno_std/pull/906) in [denoland/deno_std](https://github.com/denoland/deno_std)
+  * 2 files changed `++18 --1`
+* ⏺️ Created new branch `fix-object-matching` in [lowlighter/deno_std](https://github.com/lowlighter/deno_std)
 * #️⃣ Opened [#687 `no-unused-vars` wrong diagnostic when using destructuring and defaults](https://github.com/denoland/deno_lint/issues/687) in [denoland/deno_lint](https://github.com/denoland/deno_lint)
 * #️⃣ Closed [#20 Alternate forms spawns](https://github.com/lowlighter/gracidea/issues/20) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 * #️⃣ Closed [#16 Make mirage locations randomly appear](https://github.com/lowlighter/gracidea/issues/16) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 * #️⃣ Opened [#30 Ability to delay deploy until other ci checks](https://github.com/denoland/deploy_feedback/issues/30) in [denoland/deploy_feedback](https://github.com/denoland/deploy_feedback)
 * 🔃 Merged [#288 Bump libxmljs2 from 0.26.7 to 0.27.0](https://github.com/lowlighter/metrics/pull/288) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 2 files changed `++8 --8`
-* 🔍 Reviewed [#288 Bump libxmljs2 from 0.26.7 to 0.27.0](https://github.com/lowlighter/metrics/pull/288) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔍 Reviewed [#855 feat(http): allow custom http codes along with custom response text](https://github.com/denoland/deno_std/pull/855) in [denoland/deno_std](https://github.com/denoland/deno_std)
 
 
 ___
@@ -81,13 +82,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Evidence from leaked account data on how elites use offshore banking [pdf]](https://www.brookings.edu/wp-content/uploads/2021/05/What-lies-beneath_Collin.pdf)
+  * *Published on 08/05/2021*
 * [Your ABI Is Probably Wrong](https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html)
   * *Published on 08/05/2021*
 * [Chrome extension recommends local businesses while shopping on Amazon or eBay](https://chrome.google.com/webstore/detail/buy-nearby/egoikpnpdihpdfenconkdnndbnhcfmkj)
   * *Published on 08/05/2021*
 * [If I fits I sits: illusory contour susceptibility in domestic cats](https://www.sciencedirect.com/science/article/abs/pii/S0168159121001258)
-  * *Published on 08/05/2021*
-* [Linux Foundation starts AgStack, an open-source agtech initiative](https://investableuniverse.com/2021/05/05/linux-foundation-agstack-open-source-agriculture-technology/)
   * *Published on 08/05/2021*
 
 
