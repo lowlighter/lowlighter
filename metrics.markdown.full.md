@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `34` repositories and made `1574` commits.
+I contributed to `34` repositories and made `1578` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,6 +29,7 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* #️⃣ Opened [#30 Ability to delay deploy until other ci checks](https://github.com/denoland/deploy_feedback/issues/30) in [denoland/deploy_feedback](https://github.com/denoland/deploy_feedback)
 * 🔃 Merged [#288 Bump libxmljs2 from 0.26.7 to 0.27.0](https://github.com/lowlighter/metrics/pull/288) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 2 files changed `++8 --8`
 * 🔍 Reviewed [#288 Bump libxmljs2 from 0.26.7 to 0.27.0](https://github.com/lowlighter/metrics/pull/288) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -37,7 +38,6 @@ ___
   * 2 files changed `++3 --3`
 * ⏺️ Created new branch `release-v39` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 📦 Released **v1.0.0** of [lowlighter/xml](https://github.com/lowlighter/xml)
-* ⏺️ Created new tag `v1.0.0` in [lowlighter/xml](https://github.com/lowlighter/xml)
 
 
 ___
@@ -82,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [The Amazon Rainforest Now Emits More Greenhouse Gases Than It Absorbs](https://www.smithsonianmag.com/smart-news/amazon-rainforest-now-emits-more-greenhouse-gases-it-absorbs-180977347/)
+* [I’ve had the same supper for 10 years](https://www.theguardian.com/lifeandstyle/2021/apr/16/experience-ive-had-the-same-supper-for-10-years)
   * *Published on 08/05/2021*
-* [Starlink Satellites Tracker](https://findstarlink.com)
-  * *Published on 07/05/2021*
-* [Smithy: A language for defining services and SDKs](https://awslabs.github.io/smithy/)
-  * *Published on 07/05/2021*
-* [The Complete Hypercard Handbook](https://archive.org/details/The_Complete_HyperCard_Handbook/)
-  * *Published on 07/05/2021*
+* [iPad Camera Multitasking](https://blog.thinktapwork.com/post/649630720084639744/ipad-camera-multitasking)
+  * *Published on 08/05/2021*
+* [Show HN: A portfolio website simulating macOS&#39;s GUI using React](https://portfolio.zxh.io)
+  * *Published on 08/05/2021*
+* [Rust for Windows 0.9](https://blogs.windows.com/windowsdeveloper/2021/05/06/announcing-rust-for-windows-v0-9/)
+  * *Published on 08/05/2021*
 
 
 ___
