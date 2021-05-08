@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `34` repositories and made `1578` commits.
+I contributed to `34` repositories and made `1586` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,6 +29,8 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* #️⃣ Closed [#20 Alternate forms spawns](https://github.com/lowlighter/gracidea/issues/20) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+* #️⃣ Closed [#16 Make mirage locations randomly appear](https://github.com/lowlighter/gracidea/issues/16) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 * #️⃣ Opened [#30 Ability to delay deploy until other ci checks](https://github.com/denoland/deploy_feedback/issues/30) in [denoland/deploy_feedback](https://github.com/denoland/deploy_feedback)
 * 🔃 Merged [#288 Bump libxmljs2 from 0.26.7 to 0.27.0](https://github.com/lowlighter/metrics/pull/288) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 2 files changed `++8 --8`
@@ -36,8 +38,6 @@ ___
 * 🔍 Reviewed [#855 feat(http): allow custom http codes along with custom response text](https://github.com/denoland/deno_std/pull/855) in [denoland/deno_std](https://github.com/denoland/deno_std)
 * 🔃 Opened [#286 Release v3.9](https://github.com/lowlighter/metrics/pull/286) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 2 files changed `++3 --3`
-* ⏺️ Created new branch `release-v39` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 📦 Released **v1.0.0** of [lowlighter/xml](https://github.com/lowlighter/xml)
 
 
 ___
@@ -82,13 +82,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [I’ve had the same supper for 10 years](https://www.theguardian.com/lifeandstyle/2021/apr/16/experience-ive-had-the-same-supper-for-10-years)
-  * *Published on 08/05/2021*
-* [iPad Camera Multitasking](https://blog.thinktapwork.com/post/649630720084639744/ipad-camera-multitasking)
+* [Over 96% of Apple Users Have Blocked Facebook from Tracking Them](https://techdator.net/over-96-of-apple-users-have-blocked-facebook-from-tracking-them/)
   * *Published on 08/05/2021*
 * [Show HN: A portfolio website simulating macOS&#39;s GUI using React](https://portfolio.zxh.io)
   * *Published on 08/05/2021*
-* [Rust for Windows 0.9](https://blogs.windows.com/windowsdeveloper/2021/05/06/announcing-rust-for-windows-v0-9/)
+* [I’ve had the same supper for 10 years](https://www.theguardian.com/lifeandstyle/2021/apr/16/experience-ive-had-the-same-supper-for-10-years)
+  * *Published on 08/05/2021*
+* [Chrome extension recommends local businesses while shopping on Amazon or eBay](https://chrome.google.com/webstore/detail/buy-nearby/egoikpnpdihpdfenconkdnndbnhcfmkj)
   * *Published on 08/05/2021*
 
 
