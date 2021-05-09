@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `35` repositories and made `1599` commits.
+I contributed to `35` repositories and made `1607` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,6 +29,7 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* ⏺️ Created new branch `ci-attachments` in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 * 🔃 Opened [#906 fix(testing): support array values in assertObjectMatch](https://github.com/denoland/deno_std/pull/906) in [denoland/deno_std](https://github.com/denoland/deno_std)
   * 2 files changed `++18 --1`
 * ⏺️ Created new branch `fix-object-matching` in [lowlighter/deno_std](https://github.com/lowlighter/deno_std)
@@ -36,8 +37,6 @@ ___
 * #️⃣ Closed [#20 Alternate forms spawns](https://github.com/lowlighter/gracidea/issues/20) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 * #️⃣ Closed [#16 Make mirage locations randomly appear](https://github.com/lowlighter/gracidea/issues/16) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 * #️⃣ Opened [#30 Ability to delay deploy until other ci checks](https://github.com/denoland/deploy_feedback/issues/30) in [denoland/deploy_feedback](https://github.com/denoland/deploy_feedback)
-* 🔃 Merged [#288 Bump libxmljs2 from 0.26.7 to 0.27.0](https://github.com/lowlighter/metrics/pull/288) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++8 --8`
 
 
 ___
@@ -82,13 +81,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Evidence from leaked account data on how elites use offshore banking [pdf]](https://www.brookings.edu/wp-content/uploads/2021/05/What-lies-beneath_Collin.pdf)
+* [The Time Everyone “Corrected” the World’s Smartest Woman](https://priceonomics.com/the-time-everyone-corrected-the-worlds-smartest/)
+  * *Published on 09/05/2021*
+* [Dungeon Crawl Stone Soup – An open-source roguelike adventure](https://crawl.develz.org/)
   * *Published on 08/05/2021*
-* [Your ABI Is Probably Wrong](https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html)
-  * *Published on 08/05/2021*
-* [Chrome extension recommends local businesses while shopping on Amazon or eBay](https://chrome.google.com/webstore/detail/buy-nearby/egoikpnpdihpdfenconkdnndbnhcfmkj)
-  * *Published on 08/05/2021*
-* [If I fits I sits: illusory contour susceptibility in domestic cats](https://www.sciencedirect.com/science/article/abs/pii/S0168159121001258)
+* [Top U.S. fuel pipeline operator&#39;s entire network down due to cyber attack](https://www.reuters.com/technology/colonial-pipeline-halts-all-pipeline-operations-after-cybersecurity-attack-2021-05-08/)
+  * *Published on 09/05/2021*
+* [TI-84 Plus CE Python Graphing Calculator](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-plus-ce-python)
   * *Published on 08/05/2021*
 
 
