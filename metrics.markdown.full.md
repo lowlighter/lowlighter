@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `35` repositories and made `1627` commits.
+I contributed to `35` repositories and made `1634` commits.
 ```
 
 ## 🧩 Plugins
@@ -82,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [There’s no such thing as a tree, phylogenetically](https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/)
+* [Chip shortage is starting to have major real-world consequences](https://www.cnbc.com/2021/05/07/chip-shortage-is-starting-to-have-major-real-world-consequences.html)
   * *Published on 09/05/2021*
-* [Gravity is a double copy of other forces](https://www.quantamagazine.org/how-gravity-is-a-double-copy-of-other-forces-20210504/)
+* [Wikipedia is up! (2001)](https://web.archive.org/web/20010506042824/www.nupedia.com/pipermail/nupedia-l/2001-January/000684.html)
   * *Published on 09/05/2021*
-* [US Customs Export Control Says: I’m Screwed](https://www.bigmessowires.com/2021/05/07/us-customs-export-control/)
+* [A review of correlations between big five personality types and life outcomes](https://dynomight.net/better-personalities/)
   * *Published on 09/05/2021*
-* [So what’s wrong with 1975 programming?](http://varnish-cache.org/docs/trunk/phk/notes.html#so-what-s-wrong-with-1975-programming)
-  * *Published on 08/05/2021*
+* [Google faces $5B lawsuit in U.S. for tracking &#39;private&#39; internet use](https://www.reuters.com/article/us-alphabet-google-privacy-lawsuit-idUSKBN23933H)
+  * *Published on 09/05/2021*
 
 
 ___
