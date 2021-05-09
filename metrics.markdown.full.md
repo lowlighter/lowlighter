@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `35` repositories and made `1620` commits.
+I contributed to `35` repositories and made `1627` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,6 +29,7 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* #️⃣ Opened [#31 Compress served responses ?](https://github.com/denoland/deploy_feedback/issues/31) in [denoland/deploy_feedback](https://github.com/denoland/deploy_feedback)
 * 🔃 Opened [#54 CI test](https://github.com/lowlighter/gracidea/pull/54) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
   * 1 file changed `++4 --4`
 * ⏺️ Created new branch `test-ci` in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
@@ -37,7 +38,6 @@ ___
   * 2 files changed `++18 --1`
 * ⏺️ Created new branch `fix-object-matching` in [lowlighter/deno_std](https://github.com/lowlighter/deno_std)
 * #️⃣ Opened [#687 `no-unused-vars` wrong diagnostic when using destructuring and defaults](https://github.com/denoland/deno_lint/issues/687) in [denoland/deno_lint](https://github.com/denoland/deno_lint)
-* #️⃣ Closed [#20 Alternate forms spawns](https://github.com/lowlighter/gracidea/issues/20) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 
 
 ___
@@ -82,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Gnuplot Is Not GNU](http://www.gnuplot.info/faq/faq.html#x1-70001.2)
+* [There’s no such thing as a tree, phylogenetically](https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/)
   * *Published on 09/05/2021*
-* [Eating sardines regularly helps prevent type 2 diabetes](https://www.uoc.edu/portal/en/news/actualitat/2021/115-health-nutrition-diabetes-sardines.html)
+* [Gravity is a double copy of other forces](https://www.quantamagazine.org/how-gravity-is-a-double-copy-of-other-forces-20210504/)
   * *Published on 09/05/2021*
-* [How I Practice Piano](https://frogurncitadel.wordpress.com/2021/03/27/how-i-practice-piano/)
+* [US Customs Export Control Says: I’m Screwed](https://www.bigmessowires.com/2021/05/07/us-customs-export-control/)
+  * *Published on 09/05/2021*
+* [So what’s wrong with 1975 programming?](http://varnish-cache.org/docs/trunk/phk/notes.html#so-what-s-wrong-with-1975-programming)
   * *Published on 08/05/2021*
-* [How gravity is a double copy of other forces](https://www.quantamagazine.org/how-gravity-is-a-double-copy-of-other-forces-20210504/)
-  * *Published on 09/05/2021*
 
 
 ___
