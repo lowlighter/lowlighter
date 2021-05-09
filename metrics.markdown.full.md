@@ -81,13 +81,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [The Time Everyone “Corrected” the World’s Smartest Woman](https://priceonomics.com/the-time-everyone-corrected-the-worlds-smartest/)
-  * *Published on 09/05/2021*
-* [Dungeon Crawl Stone Soup – An open-source roguelike adventure](https://crawl.develz.org/)
+* [How I Practice Piano](https://frogurncitadel.wordpress.com/2021/03/27/how-i-practice-piano/)
   * *Published on 08/05/2021*
-* [Top U.S. fuel pipeline operator&#39;s entire network down due to cyber attack](https://www.reuters.com/technology/colonial-pipeline-halts-all-pipeline-operations-after-cybersecurity-attack-2021-05-08/)
+* [Dungeon Crawl Stone Soup](https://crawl.develz.org/)
+  * *Published on 08/05/2021*
+* [What Happens to Stocks and Cryptocurrencies When the Fed Stops Raining Money?](https://www.wsj.com/articles/what-happens-to-stocks-and-cryptocurrencies-when-the-fed-stops-raining-money-11620446420)
   * *Published on 09/05/2021*
-* [TI-84 Plus CE Python Graphing Calculator](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-plus-ce-python)
+* [Dropping cache didn’t drop cache](https://blog.twitter.com/engineering/en_us/topics/open-source/2021/dropping-cache-didnt-drop-cache.html)
   * *Published on 08/05/2021*
 
 
