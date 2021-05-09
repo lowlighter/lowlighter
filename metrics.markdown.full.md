@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `35` repositories and made `1607` commits.
+I contributed to `35` repositories and made `1620` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,14 +29,15 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Opened [#54 CI test](https://github.com/lowlighter/gracidea/pull/54) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+  * 1 file changed `++4 --4`
+* ⏺️ Created new branch `test-ci` in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 * ⏺️ Created new branch `ci-attachments` in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 * 🔃 Opened [#906 fix(testing): support array values in assertObjectMatch](https://github.com/denoland/deno_std/pull/906) in [denoland/deno_std](https://github.com/denoland/deno_std)
   * 2 files changed `++18 --1`
 * ⏺️ Created new branch `fix-object-matching` in [lowlighter/deno_std](https://github.com/lowlighter/deno_std)
 * #️⃣ Opened [#687 `no-unused-vars` wrong diagnostic when using destructuring and defaults](https://github.com/denoland/deno_lint/issues/687) in [denoland/deno_lint](https://github.com/denoland/deno_lint)
 * #️⃣ Closed [#20 Alternate forms spawns](https://github.com/lowlighter/gracidea/issues/20) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-* #️⃣ Closed [#16 Make mirage locations randomly appear](https://github.com/lowlighter/gracidea/issues/16) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-* #️⃣ Opened [#30 Ability to delay deploy until other ci checks](https://github.com/denoland/deploy_feedback/issues/30) in [denoland/deploy_feedback](https://github.com/denoland/deploy_feedback)
 
 
 ___
@@ -81,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Gnuplot Is Not GNU](http://www.gnuplot.info/faq/faq.html#x1-70001.2)
+  * *Published on 09/05/2021*
+* [Eating sardines regularly helps prevent type 2 diabetes](https://www.uoc.edu/portal/en/news/actualitat/2021/115-health-nutrition-diabetes-sardines.html)
+  * *Published on 09/05/2021*
 * [How I Practice Piano](https://frogurncitadel.wordpress.com/2021/03/27/how-i-practice-piano/)
   * *Published on 08/05/2021*
-* [Dungeon Crawl Stone Soup](https://crawl.develz.org/)
-  * *Published on 08/05/2021*
-* [What Happens to Stocks and Cryptocurrencies When the Fed Stops Raining Money?](https://www.wsj.com/articles/what-happens-to-stocks-and-cryptocurrencies-when-the-fed-stops-raining-money-11620446420)
+* [How gravity is a double copy of other forces](https://www.quantamagazine.org/how-gravity-is-a-double-copy-of-other-forces-20210504/)
   * *Published on 09/05/2021*
-* [Dropping cache didn’t drop cache](https://blog.twitter.com/engineering/en_us/topics/open-source/2021/dropping-cache-didnt-drop-cache.html)
-  * *Published on 08/05/2021*
 
 
 ___
