@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `35` repositories and made `1634` commits.
+I contributed to `35` repositories and made `1660` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,15 +29,17 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
-* #️⃣ Opened [#31 Compress served responses ?](https://github.com/denoland/deploy_feedback/issues/31) in [denoland/deploy_feedback](https://github.com/denoland/deploy_feedback)
-* 🔃 Opened [#54 CI test](https://github.com/lowlighter/gracidea/pull/54) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+* 🔃 Opened [#56 Add creatures on route 111](https://github.com/lowlighter/gracidea/pull/56) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+  * 1 file changed `++126 --54`
+* ⏺️ Created new branch `route-111-creatures` in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+* 🔃 Merged [#55 Add Mt. Pyre](https://github.com/lowlighter/gracidea/pull/55) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+  * 1 file changed `++137 --102`
+* 🔃 Opened [#55 Add Mt. Pyre](https://github.com/lowlighter/gracidea/pull/55) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+  * 1 file changed `++137 --102`
+* ⏺️ Created new branch `mt-pyre` in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+* 🔃 Closed [#54 CI test](https://github.com/lowlighter/gracidea/pull/54) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
   * 1 file changed `++4 --4`
-* ⏺️ Created new branch `test-ci` in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-* ⏺️ Created new branch `ci-attachments` in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-* 🔃 Opened [#906 fix(testing): support array values in assertObjectMatch](https://github.com/denoland/deno_std/pull/906) in [denoland/deno_std](https://github.com/denoland/deno_std)
-  * 2 files changed `++18 --1`
-* ⏺️ Created new branch `fix-object-matching` in [lowlighter/deno_std](https://github.com/lowlighter/deno_std)
-* #️⃣ Opened [#687 `no-unused-vars` wrong diagnostic when using destructuring and defaults](https://github.com/denoland/deno_lint/issues/687) in [denoland/deno_lint](https://github.com/denoland/deno_lint)
+* ⏺️ Created new branch `patches` in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 
 
 ___
@@ -82,14 +84,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Chip shortage is starting to have major real-world consequences](https://www.cnbc.com/2021/05/07/chip-shortage-is-starting-to-have-major-real-world-consequences.html)
+* [The Ultimate Guide to Inflation](https://www.lynalden.com/inflation/)
   * *Published on 09/05/2021*
-* [Wikipedia is up! (2001)](https://web.archive.org/web/20010506042824/www.nupedia.com/pipermail/nupedia-l/2001-January/000684.html)
+* [The global chip shortage is starting to have consequences](https://www.cnbc.com/2021/05/07/chip-shortage-is-starting-to-have-major-real-world-consequences.html)
   * *Published on 09/05/2021*
 * [A review of correlations between big five personality types and life outcomes](https://dynomight.net/better-personalities/)
   * *Published on 09/05/2021*
-* [Google faces $5B lawsuit in U.S. for tracking &#39;private&#39; internet use](https://www.reuters.com/article/us-alphabet-google-privacy-lawsuit-idUSKBN23933H)
-  * *Published on 09/05/2021*
+* [Shelljs – Portable Unix shell commands for Node.js](https://github.com/shelljs/shelljs)
+  * *Published on 07/05/2021*
 
 
 ___
