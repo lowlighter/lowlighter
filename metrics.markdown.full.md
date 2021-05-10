@@ -85,13 +85,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [The word “decide” has deadly origins](https://www.etymologynerd.com/blog/choices)
+  * *Published on 10/05/2021*
 * [The Animal Is Tired](http://www.robinhobb.com/blog/posts/38429)
   * *Published on 09/05/2021*
 * [Teeing, a hidden gem in the Java API](https://blog.frankel.ch/teeing-java-api/)
   * *Published on 10/05/2021*
-* [The Ultimate Guide to Inflation](https://www.lynalden.com/inflation/)
-  * *Published on 09/05/2021*
-* [Why I Love Coding (2012)](https://henrikwarne.com/2012/06/02/why-i-love-coding/)
+* [Automatically transcribe an interview, meeting or video](https://voicedocs.com/en)
   * *Published on 10/05/2021*
 
 
