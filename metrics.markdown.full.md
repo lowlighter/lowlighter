@@ -85,14 +85,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [US declares state of emergency in infrastructure cyberattack](https://www.bbc.com/news/business-57050690)
-  * *Published on 10/05/2021*
 * [The Animal Is Tired](http://www.robinhobb.com/blog/posts/38429)
   * *Published on 09/05/2021*
+* [Teeing, a hidden gem in the Java API](https://blog.frankel.ch/teeing-java-api/)
+  * *Published on 10/05/2021*
 * [The Ultimate Guide to Inflation](https://www.lynalden.com/inflation/)
   * *Published on 09/05/2021*
-* [Simple bank shutdown goes awry, leaving customers without account access](https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown)
-  * *Published on 09/05/2021*
+* [Why I Love Coding (2012)](https://henrikwarne.com/2012/06/02/why-i-love-coding/)
+  * *Published on 10/05/2021*
 
 
 ___
