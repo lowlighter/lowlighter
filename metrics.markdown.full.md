@@ -87,11 +87,11 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [The word “decide” has deadly origins](https://www.etymologynerd.com/blog/choices)
   * *Published on 10/05/2021*
-* [The Animal Is Tired](http://www.robinhobb.com/blog/posts/38429)
-  * *Published on 09/05/2021*
-* [Teeing, a hidden gem in the Java API](https://blog.frankel.ch/teeing-java-api/)
+* [CVE-2021-32471 – Input validation in Marvin Minsky 1967 Turing Machine](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-32471)
   * *Published on 10/05/2021*
-* [Automatically transcribe an interview, meeting or video](https://voicedocs.com/en)
+* [Arbitrary Code Execution in the Universal Turing Machine](https://arxiv.org/abs/2105.02124)
+  * *Published on 10/05/2021*
+* [OpenPOWER Foundation announces LibreBMC, a POWER-based, fully open-source BMC](https://openpowerfoundation.org/openpower-foundation-announces-librebmc-a-power-based-fully-open-source-bmc/)
   * *Published on 10/05/2021*
 
 
