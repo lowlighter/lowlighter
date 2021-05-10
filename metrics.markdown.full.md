@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `35` repositories and made `1660` commits.
+I contributed to `35` repositories and made `1663` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,6 +29,8 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#56 Add creatures on route 111](https://github.com/lowlighter/gracidea/pull/56) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+  * 1 file changed `++126 --54`
 * 🔃 Opened [#56 Add creatures on route 111](https://github.com/lowlighter/gracidea/pull/56) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
   * 1 file changed `++126 --54`
 * ⏺️ Created new branch `route-111-creatures` in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
@@ -39,7 +41,6 @@ ___
 * ⏺️ Created new branch `mt-pyre` in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 * 🔃 Closed [#54 CI test](https://github.com/lowlighter/gracidea/pull/54) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
   * 1 file changed `++4 --4`
-* ⏺️ Created new branch `patches` in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 
 
 ___
@@ -84,14 +85,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [US declares state of emergency in infrastructure cyberattack](https://www.bbc.com/news/business-57050690)
+  * *Published on 10/05/2021*
+* [The Animal Is Tired](http://www.robinhobb.com/blog/posts/38429)
+  * *Published on 09/05/2021*
 * [The Ultimate Guide to Inflation](https://www.lynalden.com/inflation/)
   * *Published on 09/05/2021*
-* [The global chip shortage is starting to have consequences](https://www.cnbc.com/2021/05/07/chip-shortage-is-starting-to-have-major-real-world-consequences.html)
+* [Simple bank shutdown goes awry, leaving customers without account access](https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown)
   * *Published on 09/05/2021*
-* [A review of correlations between big five personality types and life outcomes](https://dynomight.net/better-personalities/)
-  * *Published on 09/05/2021*
-* [Shelljs – Portable Unix shell commands for Node.js](https://github.com/shelljs/shelljs)
-  * *Published on 07/05/2021*
 
 
 ___
