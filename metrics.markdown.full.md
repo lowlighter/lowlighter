@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `35` repositories and made `1671` commits.
+I contributed to `35` repositories and made `1681` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,19 +29,16 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* #️⃣ Closed [#29 map very laggy, especialy with water on](https://github.com/lowlighter/gracidea/issues/29) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+* #️⃣ Closed [#23 where is roucool ?!!!1!](https://github.com/lowlighter/gracidea/issues/23) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+* #️⃣ Closed [#4 Integrity checks](https://github.com/lowlighter/gracidea/issues/4) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+* #️⃣ Closed [#19 Hoenn anime exclusive locations](https://github.com/lowlighter/gracidea/issues/19) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 * 🔃 Merged [#287 Bump puppeteer from 9.0.0 to 9.1.1](https://github.com/lowlighter/metrics/pull/287) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 2 files changed `++8 --8`
 * 🔃 Merged [#290 Bump simple-git from 2.38.0 to 2.38.1](https://github.com/lowlighter/metrics/pull/290) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 2 files changed `++8 --8`
 * 🔃 Merged [#289 Bump eslint from 7.25.0 to 7.26.0](https://github.com/lowlighter/metrics/pull/289) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 2 files changed `++36 --18`
-* 🔃 Merged [#56 Add creatures on route 111](https://github.com/lowlighter/gracidea/pull/56) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-  * 1 file changed `++126 --54`
-* 🔃 Opened [#56 Add creatures on route 111](https://github.com/lowlighter/gracidea/pull/56) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-  * 1 file changed `++126 --54`
-* ⏺️ Created new branch `route-111-creatures` in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-* 🔃 Merged [#55 Add Mt. Pyre](https://github.com/lowlighter/gracidea/pull/55) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-  * 1 file changed `++137 --102`
 
 
 ___
@@ -86,30 +83,26 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [DragonflyBSD 6.0 Released](https://www.dragonflybsd.org/release60/)
+* [Samsung to jump into laptop processor market with Exynos chip in H2](https://www.kedglobal.com/newsView/ked202105090002)
+  * *Published on 10/05/2021*
+* [Using PostgreSQL as a Data Warehouse](https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/)
+  * *Published on 10/05/2021*
+* [Beware of Applications Misusing Root Stores](https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/)
   * *Published on 10/05/2021*
 * [Tracking One Year of Malicious Tor Exit Relay Activities (Part II)](https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df)
-  * *Published on 10/05/2021*
-* [The one where writing books is not really a good idea](https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors)
-  * *Published on 10/05/2021*
-* [OpenPOWER Foundation announces LibreBMC, a POWER-based, fully open-source BMC](https://openpowerfoundation.org/openpower-foundation-announces-librebmc-a-power-based-fully-open-source-bmc/)
   * *Published on 10/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> Ruby on Rails now supports the rendering of objects that respond to render_in. This change has enabled GitHub to develop a framework for building encapsulated views.<br/><br/>Join <span class="mention">@bdougieYO</span> and <span class="mention">@joelhawksley</span> in how to leverage ViewComponents in Rails.<br/><br/><a href="https://t.co/3d3LMAnOiR" class="link">github.co/20211405-0000-…</a> <br/><a href="https://t.co/pp88FACrKO" class="link">pic.twitter.com/pp88FACrKO</a>
+> Dark mode is now available on GitHub Docs 😎  <br/><br/><a href="https://t.co/q2FtnnO7sh" class="link">github.blog/changelog/2021…</a> <br/><a href="https://t.co/gPFyHtBAOX" class="link">pic.twitter.com/gPFyHtBAOX</a>
 >
-> <a href=""><img src="https://pbs.twimg.com/media/E1CYmfBWQAI75ZH.jpg" alt="" height="200"></a>
->
-> *15:40 on 10/05/2021*
+> *21:30 on 10/05/2021*
 
-> Congrats to these open source projects who shipped major (or big) releases this April 🎉 <br/><a href="https://t.co/eVqfnaY43w" class="link">github.blog/2021-05-07-rel…</a><br/><br/>Whether it's a huge project supporting 100s of developers, or a side hobby, we love seeing our community build amazing things.<br/><br/>What are you coding this weekend? <br/><a href="https://t.co/7Xtu1MEoC7" class="link">pic.twitter.com/7Xtu1MEoC7</a>
+> Copying and pasting Markdown code blocks just got a whole lot easier. Click to copy and paste away! 🖱️ 📋 💥 <br/><a href="https://t.co/VYZK79iDLF" class="link">pic.twitter.com/VYZK79iDLF</a>
 >
-> <a href=""><img src="https://pbs.twimg.com/media/E00kBnFXIAA1KAE.jpg" alt="" height="200"></a>
->
-> *23:15 on 07/05/2021*
+> *21:25 on 10/05/2021*
 
 
 
