@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `35` repositories and made `1681` commits.
+I contributed to `35` repositories and made `1682` commits.
 ```
 
 ## 🧩 Plugins
@@ -83,26 +83,26 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [You Can’t Buy a Thermapen on Amazon (2016)](https://blog.thermoworks.com/thermometer/new-warning-thermoworks-website-2/)
+* [Amazon Echo will start sharing your Internet with neighbors in June](https://www.amazon.com/Amazon-Sidewalk/b?node=21328123011)
   * *Published on 11/05/2021*
 * [Can I Email?](https://www.caniemail.com/)
   * *Published on 11/05/2021*
-* [I’m Trying to Understand Hedonic Adjustments](https://www.epsilontheory.com/im-trying-to-understand-hedonic-adjustments/)
+* [Hydrofoiling](https://www.tbray.org/ongoing/When/202x/2021/05/10/Hydrofoiling)
   * *Published on 11/05/2021*
-* [Atlas, a (hopefully) better engineering IDE](http://atlasengineering.io)
+* [Exploring the software that flies SpaceX rockets and starships](https://stackoverflow.blog/2021/05/10/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/)
   * *Published on 11/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> RT <span class="mention">@github</span>: Copying and pasting Markdown code blocks just got a whole lot easier. Click to copy and paste away! 🖱️ 📋 💥 https://t.co/VYZK79i…
+>
+> *09:11 on 11/05/2021*
+
 > Dark mode is now available on GitHub Docs 😎  <br/><br/><a href="https://t.co/q2FtnnO7sh" class="link">github.blog/changelog/2021…</a> <br/><a href="https://t.co/gPFyHtBAOX" class="link">pic.twitter.com/gPFyHtBAOX</a>
 >
 > *21:30 on 10/05/2021*
-
-> Copying and pasting Markdown code blocks just got a whole lot easier. Click to copy and paste away! 🖱️ 📋 💥 <br/><a href="https://t.co/VYZK79iDLF" class="link">pic.twitter.com/VYZK79iDLF</a>
->
-> *21:25 on 10/05/2021*
 
 
 
