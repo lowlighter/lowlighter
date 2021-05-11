@@ -83,13 +83,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [You Can’t Buy a Thermapen on Amazon](https://blog.thermoworks.com/thermometer/new-warning-thermoworks-website-2/)
+* [You Can’t Buy a Thermapen on Amazon (2016)](https://blog.thermoworks.com/thermometer/new-warning-thermoworks-website-2/)
   * *Published on 11/05/2021*
 * [Can I Email?](https://www.caniemail.com/)
   * *Published on 11/05/2021*
-* [Samsung to jump into laptop processor market with Exynos chip in H2](https://www.kedglobal.com/newsView/ked202105090002)
-  * *Published on 10/05/2021*
-* [How to write a resume that converts](https://www.productlessons.xyz/article/product-manager-resume-with-examples-keywords)
+* [I’m Trying to Understand Hedonic Adjustments](https://www.epsilontheory.com/im-trying-to-understand-hedonic-adjustments/)
+  * *Published on 11/05/2021*
+* [Atlas, a (hopefully) better engineering IDE](http://atlasengineering.io)
   * *Published on 11/05/2021*
 
 
