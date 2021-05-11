@@ -83,13 +83,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Workplace Wellbeing Is a Scam](https://tribunemag.co.uk/2021/05/workplace-wellbeing-is-a-scam)
-  * *Published on 11/05/2021*
 * [Exploring the software that flies SpaceX rockets and starships](https://stackoverflow.blog/2021/05/10/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/)
   * *Published on 11/05/2021*
 * [Can I Email?](https://www.caniemail.com/)
   * *Published on 11/05/2021*
-* [Amazon Echo will start sharing your Internet with neighbors in June](https://www.amazon.com/Amazon-Sidewalk/b?node=21328123011)
+* [Amazon Sidewalk](https://www.amazon.com/Amazon-Sidewalk/b?node=21328123011)
+  * *Published on 11/05/2021*
+* [Voyager 1 hears the hush of interstellar plasma](https://astronomycommunity.nature.com/posts/voyager-1-hears-the-hush-of-interstellar-plasma)
   * *Published on 11/05/2021*
 
 
