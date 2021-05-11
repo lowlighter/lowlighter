@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `35` repositories and made `1682` commits.
+I contributed to `35` repositories and made `1687` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,16 +29,15 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Closed [#406 Auto-generated metrics for run #822494842](https://github.com/lowlighter/lowlighter/pull/406) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
+  * 5 files changed `++11 --11`
+* 🔃 Opened [#291 Add followup, habits and introduction section in insights](https://github.com/lowlighter/metrics/pull/291) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 4 files changed `++150 --5`
+* ⏺️ Created new branch `metrics-new-plugins` in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * #️⃣ Closed [#29 map very laggy, especialy with water on](https://github.com/lowlighter/gracidea/issues/29) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 * #️⃣ Closed [#23 where is roucool ?!!!1!](https://github.com/lowlighter/gracidea/issues/23) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 * #️⃣ Closed [#4 Integrity checks](https://github.com/lowlighter/gracidea/issues/4) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 * #️⃣ Closed [#19 Hoenn anime exclusive locations](https://github.com/lowlighter/gracidea/issues/19) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-* 🔃 Merged [#287 Bump puppeteer from 9.0.0 to 9.1.1](https://github.com/lowlighter/metrics/pull/287) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++8 --8`
-* 🔃 Merged [#290 Bump simple-git from 2.38.0 to 2.38.1](https://github.com/lowlighter/metrics/pull/290) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++8 --8`
-* 🔃 Merged [#289 Bump eslint from 7.25.0 to 7.26.0](https://github.com/lowlighter/metrics/pull/289) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++36 --18`
 
 
 ___
@@ -85,11 +84,11 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [Amazon Echo will start sharing your Internet with neighbors in June](https://www.amazon.com/Amazon-Sidewalk/b?node=21328123011)
   * *Published on 11/05/2021*
+* [Exploring the software that flies SpaceX rockets and starships](https://stackoverflow.blog/2021/05/10/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/)
+  * *Published on 11/05/2021*
 * [Can I Email?](https://www.caniemail.com/)
   * *Published on 11/05/2021*
 * [Hydrofoiling](https://www.tbray.org/ongoing/When/202x/2021/05/10/Hydrofoiling)
-  * *Published on 11/05/2021*
-* [Exploring the software that flies SpaceX rockets and starships](https://stackoverflow.blog/2021/05/10/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/)
   * *Published on 11/05/2021*
 
 
