@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `35` repositories and made `1687` commits.
+I contributed to `35` repositories and made `1692` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,6 +29,8 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#291 Add followup, habits and introduction section in insights](https://github.com/lowlighter/metrics/pull/291) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 4 files changed `++156 --5`
 * 🔃 Closed [#406 Auto-generated metrics for run #822494842](https://github.com/lowlighter/lowlighter/pull/406) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
   * 5 files changed `++11 --11`
 * 🔃 Opened [#291 Add followup, habits and introduction section in insights](https://github.com/lowlighter/metrics/pull/291) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -37,7 +39,6 @@ ___
 * #️⃣ Closed [#29 map very laggy, especialy with water on](https://github.com/lowlighter/gracidea/issues/29) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 * #️⃣ Closed [#23 where is roucool ?!!!1!](https://github.com/lowlighter/gracidea/issues/23) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 * #️⃣ Closed [#4 Integrity checks](https://github.com/lowlighter/gracidea/issues/4) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-* #️⃣ Closed [#19 Hoenn anime exclusive locations](https://github.com/lowlighter/gracidea/issues/19) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 
 
 ___
@@ -82,13 +83,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Amazon Echo will start sharing your Internet with neighbors in June](https://www.amazon.com/Amazon-Sidewalk/b?node=21328123011)
+* [Workplace Wellbeing Is a Scam](https://tribunemag.co.uk/2021/05/workplace-wellbeing-is-a-scam)
   * *Published on 11/05/2021*
 * [Exploring the software that flies SpaceX rockets and starships](https://stackoverflow.blog/2021/05/10/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/)
   * *Published on 11/05/2021*
 * [Can I Email?](https://www.caniemail.com/)
   * *Published on 11/05/2021*
-* [Hydrofoiling](https://www.tbray.org/ongoing/When/202x/2021/05/10/Hydrofoiling)
+* [Amazon Echo will start sharing your Internet with neighbors in June](https://www.amazon.com/Amazon-Sidewalk/b?node=21328123011)
   * *Published on 11/05/2021*
 
 
