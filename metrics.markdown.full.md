@@ -83,14 +83,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [You Can’t Buy a Thermapen on Amazon](https://blog.thermoworks.com/thermometer/new-warning-thermoworks-website-2/)
+  * *Published on 11/05/2021*
+* [Can I Email?](https://www.caniemail.com/)
+  * *Published on 11/05/2021*
 * [Samsung to jump into laptop processor market with Exynos chip in H2](https://www.kedglobal.com/newsView/ked202105090002)
   * *Published on 10/05/2021*
-* [Using PostgreSQL as a Data Warehouse](https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/)
-  * *Published on 10/05/2021*
-* [Beware of Applications Misusing Root Stores](https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/)
-  * *Published on 10/05/2021*
-* [Tracking One Year of Malicious Tor Exit Relay Activities (Part II)](https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df)
-  * *Published on 10/05/2021*
+* [How to write a resume that converts](https://www.productlessons.xyz/article/product-manager-resume-with-examples-keywords)
+  * *Published on 11/05/2021*
 
 
 ___
