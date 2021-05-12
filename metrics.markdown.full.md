@@ -85,26 +85,24 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [FragAttacks: new security vulnerabilities that affect wi-fi devices](https://www.fragattacks.com/)
   * *Published on 11/05/2021*
-* [The Arduino IDE 2.0 (beta)](https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/)
+* [AirGradient: DIY Air Quality Monitoring with Open-Source Hardware &amp; Firmware](https://www.airgradient.com/diy/)
   * *Published on 11/05/2021*
-* [I mailed an AirTag and tracked its progress](https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/)
+* [The Arduino IDE 2.0 beta](https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/)
   * *Published on 11/05/2021*
-* [Consumer prices increase 2.6 percent](https://www.bls.gov/opub/ted/2021/consumer-prices-increase-2-6-percent-for-the-12-months-ending-march-2021.htm)
-  * *Published on 11/05/2021*
+* [Lasting immunity found after recovery from Covid-19](https://www.nih.gov/news-events/nih-research-matters/lasting-immunity-found-after-recovery-covid-19)
+  * *Published on 12/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> RT <span class="mention">@GitHubEducation</span>: We never let achievements like graduation go unnoticed. 🎓 Join the celebration with a pull request and grab your swag…
+>
+> *22:42 on 11/05/2021*
+
 > One for your bookmarks 🔖<br/><br/>How to undo anything in Git by <span class="mention">@bhupeshimself</span>: <a href="https://t.co/y39aB0MiLp" class="link">bhupesh.gitbook.io/notes/git/how-…</a> <br/><a href="https://t.co/mqMqqrtAZb" class="link">pic.twitter.com/mqMqqrtAZb</a>
 >
 > *20:00 on 11/05/2021*
-
-> We've revamped the pull request experience on GitHub Mobile! It's now easier to see the status of reviews, checks, and branch mergeability at the top of every pull request. Merging on the go just got a whole lot easier!<br/><br/>Download for iOS or Android: <a href="https://t.co/vQBkyZeXrJ" class="link">github.com/mobile</a> <br/><a href="https://t.co/U62tre47Pb" class="link">pic.twitter.com/U62tre47Pb</a>
->
-> <a href=""><img src="https://pbs.twimg.com/media/E1ICTzaWEAY7Dq8.jpg" alt="" height="200"></a>
->
-> *18:00 on 11/05/2021*
 
 
 
