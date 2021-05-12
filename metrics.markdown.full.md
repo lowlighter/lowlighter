@@ -83,14 +83,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [The Importance of Humility in Software Development](http://humbletoolsmith.com/2020/08/10/the-importance-of-humility-in-software-development/)
+  * *Published on 12/05/2021*
+* [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)
+  * *Published on 12/05/2021*
+* [PhotorealismEnhancement: Enhancing the Realism of Synthetic Images](https://intel-isl.github.io/PhotorealismEnhancement/)
+  * *Published on 12/05/2021*
 * [FragAttacks: new security vulnerabilities that affect wi-fi devices](https://www.fragattacks.com/)
   * *Published on 11/05/2021*
-* [AirGradient: DIY Air Quality Monitoring with Open-Source Hardware &amp; Firmware](https://www.airgradient.com/diy/)
-  * *Published on 11/05/2021*
-* [The Arduino IDE 2.0 beta](https://blog.arduino.cc/2021/03/01/announcing-the-arduino-ide-2-0-beta/)
-  * *Published on 11/05/2021*
-* [Lasting immunity found after recovery from Covid-19](https://www.nih.gov/news-events/nih-research-matters/lasting-immunity-found-after-recovery-covid-19)
-  * *Published on 12/05/2021*
 
 
 ___
