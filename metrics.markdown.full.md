@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `36` repositories and made `1692` commits.
+I contributed to `36` repositories and made `1700` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,16 +29,17 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
-* 🍽️ Forked [ctjlewis/ctjlewis](https://github.com/ctjlewis/ctjlewis)
+* 🔃 Merged [#293 Sort notable contributions by number of stars](https://github.com/lowlighter/metrics/pull/293) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 1 file changed `++2 --2`
+* 🔍 Reviewed [#293 Sort notable contributions by number of stars](https://github.com/lowlighter/metrics/pull/293) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#6 Bump y18n from 4.0.0 to 4.0.1](https://github.com/lowlighter/rakun/pull/6) in [lowlighter/rakun](https://github.com/lowlighter/rakun)
+  * 1 file changed `++3 --3`
+* 🔃 Merged [#7 Bump lodash from 4.17.19 to 4.17.21](https://github.com/lowlighter/rakun/pull/7) in [lowlighter/rakun](https://github.com/lowlighter/rakun)
+  * 1 file changed `++3 --3`
+* 🔃 Merged [#8 Bump hosted-git-info from 2.8.8 to 2.8.9](https://github.com/lowlighter/rakun/pull/8) in [lowlighter/rakun](https://github.com/lowlighter/rakun)
+  * 1 file changed `++3 --3`
+* 🍽️ Forked [ctjlewis/ctjlewis](https://github.com/ctjlewis/ctjlewis) to [lowlighter/ctjlewis](https://github.com/lowlighter/ctjlewis)
 * 🔍 Reviewed [#906 fix(testing): support array values in assertObjectMatch](https://github.com/denoland/deno_std/pull/906) in [denoland/deno_std](https://github.com/denoland/deno_std)
-* 🔍 Reviewed [#906 fix(testing): support array values in assertObjectMatch](https://github.com/denoland/deno_std/pull/906) in [denoland/deno_std](https://github.com/denoland/deno_std)
-* 🔃 Merged [#286 Release v3.9](https://github.com/lowlighter/metrics/pull/286) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++3 --3`
-* #️⃣ Closed [#284 Recent activity repository creation contains empty action param](https://github.com/lowlighter/metrics/issues/284) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#291 Add followup, habits and introduction section in insights](https://github.com/lowlighter/metrics/pull/291) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 4 files changed `++156 --5`
-* 🔃 Closed [#406 Auto-generated metrics for run #822494842](https://github.com/lowlighter/lowlighter/pull/406) in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
-  * 5 files changed `++11 --11`
 
 
 ___
@@ -83,26 +84,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Deno v1.10 Released](https://deno.com/blog/v1.10)
+* [Google Docs will now use canvas based rendering](https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html)
   * *Published on 12/05/2021*
-* [Enhancing Photorealism Enhancement](https://intel-isl.github.io/PhotorealismEnhancement/)
+* [Show HN: I wrote my own RTS game engine in 70k SLOC of C](https://github.com/eduard-permyakov/permafrost-engine)
   * *Published on 12/05/2021*
-* [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)
+* [Houdini – CSS is now extendable with JavaScript](https://developer.mozilla.org/en-US/docs/Web/Houdini)
   * *Published on 12/05/2021*
-* [How image search works at Dropbox](https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox)
+* [Docusaurus 2 Beta](https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta)
   * *Published on 12/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> RT <span class="mention">@GitHubEducation</span>: We never let achievements like graduation go unnoticed. 🎓 Join the celebration with a pull request and grab your swag…
+> RT <span class="mention">@GitHubEnt</span>: Tight deadline for your project? Reusable code can help—if you know where to look. Join us on Demo Days this Friday and lear…
 >
-> *22:42 on 11/05/2021*
+> *16:45 on 12/05/2021*
 
-> One for your bookmarks 🔖<br/><br/>How to undo anything in Git by <span class="mention">@bhupeshimself</span>: <a href="https://t.co/y39aB0MiLp" class="link">bhupesh.gitbook.io/notes/git/how-…</a> <br/><a href="https://t.co/mqMqqrtAZb" class="link">pic.twitter.com/mqMqqrtAZb</a>
+> Meet <span class="mention">@TheNikhita</span> Raghunath - the newest member of the GitHub Stars Program ⭐! Nikhita is an engineer, open source maintainer and speaker focusing on distributed systems and open source. Check out Nikhita's GitHub Star profile at 
 >
-> *20:00 on 11/05/2021*
+> <a href=""><img src="https://stars.github.com/stars-social-card-images/nikhita.png" alt="Nikhita Raghunath | GitHub Stars" height="200"></a>
+>
+> *11:00 on 12/05/2021*
 
 
 
