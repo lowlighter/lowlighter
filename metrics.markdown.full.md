@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `36` repositories and made `1700` commits.
+I contributed to `36` repositories and made `1701` commits.
 ```
 
 ## 🧩 Plugins
@@ -84,28 +84,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Instagram, Twitter blame glitches for deleting Palestinian posts](https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624)
+  * *Published on 12/05/2021*
+* [Neural implant lets paralyzed person type by imagining writing](https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/)
+  * *Published on 12/05/2021*
+* [Show HN: I wrote my own RTS game engine in C](https://github.com/eduard-permyakov/permafrost-engine)
+  * *Published on 12/05/2021*
 * [Google Docs will now use canvas based rendering](https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html)
-  * *Published on 12/05/2021*
-* [Show HN: I wrote my own RTS game engine in 70k SLOC of C](https://github.com/eduard-permyakov/permafrost-engine)
-  * *Published on 12/05/2021*
-* [Houdini – CSS is now extendable with JavaScript](https://developer.mozilla.org/en-US/docs/Web/Houdini)
-  * *Published on 12/05/2021*
-* [Docusaurus 2 Beta](https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta)
   * *Published on 12/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> Meet Patrik <span class="mention">@firstdrafthell</span> Svensson - the newest member of the GitHub Stars Program ⭐, Patrik is a developer, content creator, speaker and maintainer, focusing on DevOps and open source. You'll find him co-hosting a few DevOps and .NET user groups too! 
+>
+> <a href=""><img src="https://stars.github.com/stars-social-card-images/patriksvensson.png" alt="Patrik Svensson | GitHub Stars" height="200"></a>
+>
+> *21:00 on 12/05/2021*
+
 > RT <span class="mention">@GitHubEnt</span>: Tight deadline for your project? Reusable code can help—if you know where to look. Join us on Demo Days this Friday and lear…
 >
 > *16:45 on 12/05/2021*
-
-> Meet <span class="mention">@TheNikhita</span> Raghunath - the newest member of the GitHub Stars Program ⭐! Nikhita is an engineer, open source maintainer and speaker focusing on distributed systems and open source. Check out Nikhita's GitHub Star profile at 
->
-> <a href=""><img src="https://stars.github.com/stars-social-card-images/nikhita.png" alt="Nikhita Raghunath | GitHub Stars" height="200"></a>
->
-> *11:00 on 12/05/2021*
 
 
 
