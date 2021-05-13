@@ -88,10 +88,10 @@ ___
   * *Published on 12/05/2021*
 * [Show HN: I wrote my own RTS game engine in C](https://github.com/eduard-permyakov/permafrost-engine)
   * *Published on 12/05/2021*
-* [Google Docs will now use canvas based rendering](https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html)
+* [Pyodide: Python for the Browser](https://lwn.net/SubscriberLink/855875/25b1611bb7e4c9a4/)
   * *Published on 12/05/2021*
-* [Managing Dotfiles with GNU Stow](https://alexpearce.me/2016/02/managing-dotfiles-with-stow/)
-  * *Published on 13/05/2021*
+* [A Brief History of People Losing Their Minds in Antarctica](https://www.gq.com/story/insane-in-antarctica-excerpt)
+  * *Published on 12/05/2021*
 
 
 ___
