@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `36` repositories and made `1702` commits.
+I contributed to `36` repositories and made `1703` commits.
 ```
 
 ## 🧩 Plugins
@@ -84,14 +84,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Neural implant lets paralyzed person type by imagining writing](https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/)
-  * *Published on 12/05/2021*
-* [Show HN: I wrote my own RTS game engine in C](https://github.com/eduard-permyakov/permafrost-engine)
-  * *Published on 12/05/2021*
-* [Pyodide: Python for the Browser](https://lwn.net/SubscriberLink/855875/25b1611bb7e4c9a4/)
-  * *Published on 12/05/2021*
-* [A Brief History of People Losing Their Minds in Antarctica](https://www.gq.com/story/insane-in-antarctica-excerpt)
-  * *Published on 12/05/2021*
+* [Google fined 100M by Italian antitrust over Google Play abuse of dominance](https://www.repubblica.it/economia/2021/05/13/news/antitrust_sanzione_google-300745107)
+  * *Published on 13/05/2021*
+* [Apple Design Resources](https://developer.apple.com/design/resources/)
+  * *Published on 13/05/2021*
+* [Big list of HTTP static server one-liners](https://gist.github.com/willurd/5720255)
+  * *Published on 13/05/2021*
+* [Swiss spy chief exits after reports of row over CIA-linked firm](https://www.reuters.com/world/europe/swiss-spy-chief-exits-after-reports-row-over-cia-linked-firm-2021-05-12/)
+  * *Published on 13/05/2021*
 
 
 ___
