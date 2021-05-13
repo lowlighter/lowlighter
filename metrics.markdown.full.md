@@ -85,28 +85,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Notion launches its API in public beta](https://developers.notion.so)
+* [Notion API – public beta](https://developers.notion.so)
   * *Published on 13/05/2021*
-* [Enigma: GPT-2 trained on 10K Nature Papers: Can you spot the difference?](https://stefanzukin.com/enigma/)
+* [Vulnerability allows cross-browser tracking in Chrome, Firefox, Safari, and Tor](https://fingerprintjs.com/blog/external-protocol-flooding/)
   * *Published on 13/05/2021*
-* [Launch HN: Ditto (YC W20) – Keep product text in sync from design to production](https://news.ycombinator.com/item?id=27142930)
+* [Fly’s Prometheus Metrics](https://fly.io/blog/measuring-fly/)
   * *Published on 13/05/2021*
-* [What I learnt roasting 200 landing pages](https://blog.roastmylandingpage.com/landing-page-roasts/)
+* [A new era of personalised medicine: or how I got myself sequenced for free](https://souradip.mookerj.ee/blog/free-sequencing)
   * *Published on 13/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> Meet <span class="mention">@risingodegua</span> - the newest member of the GitHub Stars Program ⭐! Rising focuses on machine learning and using data science to build data driven applications. 
+>
+> <a href=""><img src="https://stars.github.com/stars-social-card-images/risenW.png" alt="Rising Odegua | GitHub Stars" height="200"></a>
+>
+> *22:00 on 13/05/2021*
+
 > You can now upload video for easier GitHub collaboration! 📽️ Reproducing a bug? Sharing a demo? Drop a comment below to let us know how you're using it.👇<br/><br/><a href="https://t.co/hASRXOHvvc" class="link">github.blog/2021-05-13-vid…</a> <br/><a href="https://t.co/tG5BYlVHR1" class="link">pic.twitter.com/tG5BYlVHR1</a>
 >
 > *16:52 on 13/05/2021*
-
-> Meet <span class="mention">@serahrono</span> - the newest member of the GitHub Stars Program ⭐! Serah is a writer, computer scientist and developer advocate dedicated to building and empowering developer communities. 
->
-> <a href=""><img src="https://stars.github.com/stars-social-card-images/serahrono.png" alt="Serah Njambi Rono | GitHub Stars" height="200"></a>
->
-> *15:00 on 13/05/2021*
 
 
 
