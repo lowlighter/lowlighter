@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `36` repositories and made `1703` commits.
+I contributed to `36` repositories and made `1705` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,6 +29,8 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#294 Bump @primer/css from 16.3.0 to 17.0.0](https://github.com/lowlighter/metrics/pull/294) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++19 --35`
 * 🔃 Merged [#293 Sort notable contributions by number of stars](https://github.com/lowlighter/metrics/pull/293) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 1 file changed `++2 --2`
 * 🔍 Reviewed [#293 Sort notable contributions by number of stars](https://github.com/lowlighter/metrics/pull/293) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -39,7 +41,6 @@ ___
 * 🔃 Merged [#8 Bump hosted-git-info from 2.8.8 to 2.8.9](https://github.com/lowlighter/rakun/pull/8) in [lowlighter/rakun](https://github.com/lowlighter/rakun)
   * 1 file changed `++3 --3`
 * 🍽️ Forked [ctjlewis/ctjlewis](https://github.com/ctjlewis/ctjlewis) to [lowlighter/ctjlewis](https://github.com/lowlighter/ctjlewis)
-* 🔍 Reviewed [#906 fix(testing): support array values in assertObjectMatch](https://github.com/denoland/deno_std/pull/906) in [denoland/deno_std](https://github.com/denoland/deno_std)
 
 
 ___
@@ -84,13 +85,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Google fined 100M by Italian antitrust over Google Play abuse of dominance](https://www.repubblica.it/economia/2021/05/13/news/antitrust_sanzione_google-300745107)
+* [Google fined €100M by Italian antitrust over Google Play abuse of dominance](https://www.repubblica.it/economia/2021/05/13/news/antitrust_sanzione_google-300745107)
   * *Published on 13/05/2021*
-* [Apple Design Resources](https://developer.apple.com/design/resources/)
+* [Show HN: We wrote a book about building business applications in Go](https://threedots.tech/go-with-the-domain/)
   * *Published on 13/05/2021*
-* [Big list of HTTP static server one-liners](https://gist.github.com/willurd/5720255)
+* [What I learnt roasting 200 landing pages](https://blog.roastmylandingpage.com/landing-page-roasts/)
   * *Published on 13/05/2021*
-* [Swiss spy chief exits after reports of row over CIA-linked firm](https://www.reuters.com/world/europe/swiss-spy-chief-exits-after-reports-row-over-cia-linked-firm-2021-05-12/)
+* [Vue 3 drops IE11 support plan](https://github.com/vuejs/rfcs/blob/master/active-rfcs/0038-vue3-ie11-support.md)
   * *Published on 13/05/2021*
 
 
