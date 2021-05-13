@@ -85,28 +85,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Google fined €100M by Italian antitrust over Google Play abuse of dominance](https://www.repubblica.it/economia/2021/05/13/news/antitrust_sanzione_google-300745107)
+* [Notion launches its API in public beta](https://developers.notion.so)
   * *Published on 13/05/2021*
-* [Show HN: We wrote a book about building business applications in Go](https://threedots.tech/go-with-the-domain/)
+* [Enigma: GPT-2 trained on 10K Nature Papers: Can you spot the difference?](https://stefanzukin.com/enigma/)
+  * *Published on 13/05/2021*
+* [Launch HN: Ditto (YC W20) – Keep product text in sync from design to production](https://news.ycombinator.com/item?id=27142930)
   * *Published on 13/05/2021*
 * [What I learnt roasting 200 landing pages](https://blog.roastmylandingpage.com/landing-page-roasts/)
-  * *Published on 13/05/2021*
-* [Vue 3 drops IE11 support plan](https://github.com/vuejs/rfcs/blob/master/active-rfcs/0038-vue3-ie11-support.md)
   * *Published on 13/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> Meet Patrik <span class="mention">@firstdrafthell</span> Svensson - the newest member of the GitHub Stars Program ⭐, Patrik is a developer, content creator, speaker and maintainer, focusing on DevOps and open source. You'll find him co-hosting a few DevOps and .NET user groups too! 
+> You can now upload video for easier GitHub collaboration! 📽️ Reproducing a bug? Sharing a demo? Drop a comment below to let us know how you're using it.👇<br/><br/><a href="https://t.co/hASRXOHvvc" class="link">github.blog/2021-05-13-vid…</a> <br/><a href="https://t.co/tG5BYlVHR1" class="link">pic.twitter.com/tG5BYlVHR1</a>
 >
-> <a href=""><img src="https://stars.github.com/stars-social-card-images/patriksvensson.png" alt="Patrik Svensson | GitHub Stars" height="200"></a>
->
-> *21:00 on 12/05/2021*
+> *16:52 on 13/05/2021*
 
-> RT <span class="mention">@GitHubEnt</span>: Tight deadline for your project? Reusable code can help—if you know where to look. Join us on Demo Days this Friday and lear…
+> Meet <span class="mention">@serahrono</span> - the newest member of the GitHub Stars Program ⭐! Serah is a writer, computer scientist and developer advocate dedicated to building and empowering developer communities. 
 >
-> *16:45 on 12/05/2021*
+> <a href=""><img src="https://stars.github.com/stars-social-card-images/serahrono.png" alt="Serah Njambi Rono | GitHub Stars" height="200"></a>
+>
+> *15:00 on 13/05/2021*
 
 
 
