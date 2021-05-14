@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `36` repositories and made `1705` commits.
+I contributed to `36` repositories and made `1706` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,17 +29,16 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Opened [#300 Release v3.10](https://github.com/lowlighter/metrics/pull/300) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++3 --3`
+* ⏺️ Created new branch release-v310 in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#299 WEB: Add copy button to action tab](https://github.com/lowlighter/metrics/pull/299) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 6 files changed `++28 --22`
+* #️⃣ Closed [#253 Add copy-paste button on website for action/markdown](https://github.com/lowlighter/metrics/issues/253) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔍 Reviewed [#299 WEB: Add copy button to action tab](https://github.com/lowlighter/metrics/pull/299) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#297 Bump simple-git from 2.38.1 to 2.39.0](https://github.com/lowlighter/metrics/pull/297) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 2 files changed `++8 --8`
 * 🔍 Reviewed [#297 Bump simple-git from 2.38.1 to 2.39.0](https://github.com/lowlighter/metrics/pull/297) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#296 Bump @primer/css from 17.0.0 to 17.0.1](https://github.com/lowlighter/metrics/pull/296) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++16 --16`
-* 🔍 Reviewed [#296 Bump @primer/css from 17.0.0 to 17.0.1](https://github.com/lowlighter/metrics/pull/296) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#294 Bump @primer/css from 16.3.0 to 17.0.0](https://github.com/lowlighter/metrics/pull/294) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++19 --35`
-* 🔃 Merged [#293 Sort notable contributions by number of stars](https://github.com/lowlighter/metrics/pull/293) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 1 file changed `++2 --2`
-* 🔍 Reviewed [#293 Sort notable contributions by number of stars](https://github.com/lowlighter/metrics/pull/293) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 
 ___
@@ -84,28 +83,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Tauri: Rust-based Electron alternative releases beta](https://tauri.studio/?hn)
-  * *Published on 14/05/2021*
-* [Mammals Can Breathe Through Their Intestines](https://www.sciencemag.org/news/2021/05/mammals-can-breathe-through-their-intestines)
+* [A URL Lengthener](https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/)
   * *Published on 14/05/2021*
 * [DarkSide ransomware gang quits after servers, Bitcoin stash seized](https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/)
   * *Published on 14/05/2021*
-* [Forth: Stack-Manipulation Operators](https://www.forth.com/starting-forth/2-stack-manipulation-operators-arithmetic/)
+* [Online, mug shots are forever – some states want to change that](https://news.yahoo.com/online-mug-shots-forever-states-181700675.html)
+  * *Published on 14/05/2021*
+* [Don&#39;t Talk to Corp Dev (2015)](http://www.paulgraham.com/corpdev.html)
   * *Published on 14/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> 🔊 We’re chatting with maintainers of some of your favorite open source projects, like Vue, Python, Das Blog, and more. Join hosts <span class="mention">@bdougieYO</span>  and <span class="mention">@simpsoka</span> for the brand new ReadME Podcast starting next week. Check out a sneak peek and subscribe now at <a href="https://t.co/QSZhH0NRjH" class="link">open.spotify.com/show/660KitvdJ…</a> <br/><a href="https://t.co/YDIyve9qe1" class="link">pic.twitter.com/YDIyve9qe1</a>
+>
+> <a href=""><img src="https://pbs.twimg.com/media/E1YRoiYX0AckcDD.jpg" alt="" height="200"></a>
+>
+> *21:41 on 14/05/2021*
+
 > RT <span class="mention">@GitHubEnt</span>: We’re live on Demo Days! Learn how to take InnerSource to the next level within your organization by improving discoverabili…
 >
 > *17:55 on 14/05/2021*
-
-> Meet <span class="mention">@LaylaCodesIt</span> Porter - the newest member of the GitHub Stars Program ⭐! Layla is a full-stack .NET developer. You can often find her live coding on Twitch and loves nothing more than sharing and building demos to help others learn. 
->
-> <a href=""><img src="https://stars.github.com/stars-social-card-images/Layla-P.png" alt="Layla Porter | GitHub Stars" height="200"></a>
->
-> *16:00 on 14/05/2021*
 
 
 
