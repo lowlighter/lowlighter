@@ -85,13 +85,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Notion API – public beta](https://developers.notion.so)
-  * *Published on 13/05/2021*
+* [Zulip 4.0: Threaded open source team chat](https://blog.zulip.com/2021/05/13/zulip-4-0-released/)
+  * *Published on 14/05/2021*
+* [Freshly made plutonium from outer space found on ocean floor](https://www.npr.org/2021/05/13/996499035/freshly-made-plutonium-from-outer-space-found-on-ocean-floor)
+  * *Published on 14/05/2021*
 * [Vulnerability allows cross-browser tracking in Chrome, Firefox, Safari, and Tor](https://fingerprintjs.com/blog/external-protocol-flooding/)
   * *Published on 13/05/2021*
-* [Fly’s Prometheus Metrics](https://fly.io/blog/measuring-fly/)
-  * *Published on 13/05/2021*
-* [A new era of personalised medicine: or how I got myself sequenced for free](https://souradip.mookerj.ee/blog/free-sequencing)
+* [How SpaceX lands Starship (sort of)](https://thomas-godden.medium.com/how-spacex-lands-starship-sort-of-ee96cdde650b)
   * *Published on 13/05/2021*
 
 
