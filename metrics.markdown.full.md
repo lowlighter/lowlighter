@@ -84,28 +84,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [I am resigning along with most other Freenode staff](https://p.haavard.me/407)
+* [Tauri: Rust-based Electron alternative releases beta](https://tauri.studio/?hn)
   * *Published on 14/05/2021*
-* [Scala 3.0](https://github.com/lampepfl/dotty/releases/tag/3.0.0)
+* [Mammals Can Breathe Through Their Intestines](https://www.sciencemag.org/news/2021/05/mammals-can-breathe-through-their-intestines)
   * *Published on 14/05/2021*
-* [Rust Weird Expressions](https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs)
+* [DarkSide ransomware gang quits after servers, Bitcoin stash seized](https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/)
   * *Published on 14/05/2021*
-* [Launch HN: Moonshot Brands (YC W21) – We buy and grow e-commerce companies](https://news.ycombinator.com/item?id=27154309)
+* [Forth: Stack-Manipulation Operators](https://www.forth.com/starting-forth/2-stack-manipulation-operators-arithmetic/)
   * *Published on 14/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> Meet <span class="mention">@risingodegua</span> - the newest member of the GitHub Stars Program ⭐! Rising focuses on machine learning and using data science to build data driven applications. 
+> RT <span class="mention">@GitHubEnt</span>: We’re live on Demo Days! Learn how to take InnerSource to the next level within your organization by improving discoverabili…
 >
-> <a href=""><img src="https://stars.github.com/stars-social-card-images/risenW.png" alt="Rising Odegua | GitHub Stars" height="200"></a>
->
-> *22:00 on 13/05/2021*
+> *17:55 on 14/05/2021*
 
-> You can now upload video for easier GitHub collaboration! 📽️ Reproducing a bug? Sharing a demo? Drop a comment below to let us know how you're using it.👇<br/><br/><a href="https://t.co/hASRXOHvvc" class="link">github.blog/2021-05-13-vid…</a> <br/><a href="https://t.co/tG5BYlVHR1" class="link">pic.twitter.com/tG5BYlVHR1</a>
+> Meet <span class="mention">@LaylaCodesIt</span> Porter - the newest member of the GitHub Stars Program ⭐! Layla is a full-stack .NET developer. You can often find her live coding on Twitch and loves nothing more than sharing and building demos to help others learn. 
 >
-> *16:52 on 13/05/2021*
+> <a href=""><img src="https://stars.github.com/stars-social-card-images/Layla-P.png" alt="Layla Porter | GitHub Stars" height="200"></a>
+>
+> *16:00 on 14/05/2021*
 
 
 
