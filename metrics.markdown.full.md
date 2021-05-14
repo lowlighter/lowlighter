@@ -85,13 +85,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Ads Are Impersonating Government Websites in Google Results, Despite Ban](https://themarkup.org/google-the-giant/2021/05/13/ads-are-impersonating-government-websites-in-google-results-despite-ban)
+  * *Published on 14/05/2021*
 * [Zulip 4.0: Threaded open source team chat](https://blog.zulip.com/2021/05/13/zulip-4-0-released/)
   * *Published on 14/05/2021*
 * [Freshly made plutonium from outer space found on ocean floor](https://www.npr.org/2021/05/13/996499035/freshly-made-plutonium-from-outer-space-found-on-ocean-floor)
   * *Published on 14/05/2021*
-* [Vulnerability allows cross-browser tracking in Chrome, Firefox, Safari, and Tor](https://fingerprintjs.com/blog/external-protocol-flooding/)
-  * *Published on 13/05/2021*
-* [How SpaceX lands Starship (sort of)](https://thomas-godden.medium.com/how-spacex-lands-starship-sort-of-ee96cdde650b)
+* [Julian Barbour’s ideas about time and the universe have roamed free of academia](https://nautil.us/issue/100/outsiders/the-country-gentleman-of-physics)
   * *Published on 13/05/2021*
 
 
