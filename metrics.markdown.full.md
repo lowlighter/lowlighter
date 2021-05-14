@@ -29,18 +29,17 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#297 Bump simple-git from 2.38.1 to 2.39.0](https://github.com/lowlighter/metrics/pull/297) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++8 --8`
+* 🔍 Reviewed [#297 Bump simple-git from 2.38.1 to 2.39.0](https://github.com/lowlighter/metrics/pull/297) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#296 Bump @primer/css from 17.0.0 to 17.0.1](https://github.com/lowlighter/metrics/pull/296) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++16 --16`
+* 🔍 Reviewed [#296 Bump @primer/css from 17.0.0 to 17.0.1](https://github.com/lowlighter/metrics/pull/296) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#294 Bump @primer/css from 16.3.0 to 17.0.0](https://github.com/lowlighter/metrics/pull/294) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 2 files changed `++19 --35`
 * 🔃 Merged [#293 Sort notable contributions by number of stars](https://github.com/lowlighter/metrics/pull/293) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 1 file changed `++2 --2`
 * 🔍 Reviewed [#293 Sort notable contributions by number of stars](https://github.com/lowlighter/metrics/pull/293) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#6 Bump y18n from 4.0.0 to 4.0.1](https://github.com/lowlighter/rakun/pull/6) in [lowlighter/rakun](https://github.com/lowlighter/rakun)
-  * 1 file changed `++3 --3`
-* 🔃 Merged [#7 Bump lodash from 4.17.19 to 4.17.21](https://github.com/lowlighter/rakun/pull/7) in [lowlighter/rakun](https://github.com/lowlighter/rakun)
-  * 1 file changed `++3 --3`
-* 🔃 Merged [#8 Bump hosted-git-info from 2.8.8 to 2.8.9](https://github.com/lowlighter/rakun/pull/8) in [lowlighter/rakun](https://github.com/lowlighter/rakun)
-  * 1 file changed `++3 --3`
-* 🍽️ Forked [ctjlewis/ctjlewis](https://github.com/ctjlewis/ctjlewis) to [lowlighter/ctjlewis](https://github.com/lowlighter/ctjlewis)
 
 
 ___
@@ -85,13 +84,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Scala 3.0](https://github.com/lampepfl/dotty/releases/tag/3.0.0)
+  * *Published on 14/05/2021*
 * [Ads Are Impersonating Government Websites in Google Results, Despite Ban](https://themarkup.org/google-the-giant/2021/05/13/ads-are-impersonating-government-websites-in-google-results-despite-ban)
   * *Published on 14/05/2021*
 * [Zulip 4.0: Threaded open source team chat](https://blog.zulip.com/2021/05/13/zulip-4-0-released/)
   * *Published on 14/05/2021*
-* [Freshly made plutonium from outer space found on ocean floor](https://www.npr.org/2021/05/13/996499035/freshly-made-plutonium-from-outer-space-found-on-ocean-floor)
-  * *Published on 14/05/2021*
-* [Julian Barbour’s ideas about time and the universe have roamed free of academia](https://nautil.us/issue/100/outsiders/the-country-gentleman-of-physics)
+* [Ferrofluid display cell Bluetooth speaker](https://hackaday.io/project/179136-ferrofluid-display-cell-bluetooth-speaker)
   * *Published on 13/05/2021*
 
 
