@@ -84,14 +84,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [I am resigning along with most other Freenode staff](https://p.haavard.me/407)
+  * *Published on 14/05/2021*
 * [Scala 3.0](https://github.com/lampepfl/dotty/releases/tag/3.0.0)
   * *Published on 14/05/2021*
-* [Ads Are Impersonating Government Websites in Google Results, Despite Ban](https://themarkup.org/google-the-giant/2021/05/13/ads-are-impersonating-government-websites-in-google-results-despite-ban)
+* [Rust Weird Expressions](https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs)
   * *Published on 14/05/2021*
-* [Zulip 4.0: Threaded open source team chat](https://blog.zulip.com/2021/05/13/zulip-4-0-released/)
+* [Launch HN: Moonshot Brands (YC W21) – We buy and grow e-commerce companies](https://news.ycombinator.com/item?id=27154309)
   * *Published on 14/05/2021*
-* [Ferrofluid display cell Bluetooth speaker](https://hackaday.io/project/179136-ferrofluid-display-cell-bluetooth-speaker)
-  * *Published on 13/05/2021*
 
 
 ___
