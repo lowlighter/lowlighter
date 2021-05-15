@@ -83,13 +83,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [TSMC looks to double down on U.S. chip factories as talks in Europe falter](https://www.reuters.com/technology/exclusive-tsmc-looks-double-down-us-chip-factories-talks-europe-falter-2021-05-14/)
-  * *Published on 15/05/2021*
 * [The Return of Fancy Tools](https://macwright.com/2021/03/16/return-of-fancy-tools.html)
   * *Published on 15/05/2021*
 * [A URL Lengthener](https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/)
   * *Published on 14/05/2021*
-* [Transition to React Native](https://blog.coinbase.com/announcing-coinbases-successful-transition-to-react-native-af4c591df971)
+* [TSMC looks to double down on U.S. chip factories as talks in Europe falter](https://www.reuters.com/technology/exclusive-tsmc-looks-double-down-us-chip-factories-talks-europe-falter-2021-05-14/)
+  * *Published on 15/05/2021*
+* [TikTok Remix Culture](https://twitter.com/Iameaschris/status/1391207396979007488)
   * *Published on 15/05/2021*
 
 
