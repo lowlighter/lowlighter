@@ -89,8 +89,8 @@ ___
   * *Published on 15/05/2021*
 * [A URL Lengthener](https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/)
   * *Published on 14/05/2021*
-* [Quake3e, a modern Quake III Arena engine](https://github.com/ec-/Quake3e)
-  * *Published on 14/05/2021*
+* [Transition to React Native](https://blog.coinbase.com/announcing-coinbases-successful-transition-to-react-native-af4c591df971)
+  * *Published on 15/05/2021*
 
 
 ___
