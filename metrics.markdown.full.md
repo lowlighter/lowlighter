@@ -83,28 +83,26 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [The Return of Fancy Tools](https://macwright.com/2021/03/16/return-of-fancy-tools.html)
+* [Java JDK 1.0](https://github.com/ufuu/JDK10)
   * *Published on 15/05/2021*
-* [A URL Lengthener](https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/)
-  * *Published on 14/05/2021*
-* [TSMC looks to double down on U.S. chip factories as talks in Europe falter](https://www.reuters.com/technology/exclusive-tsmc-looks-double-down-us-chip-factories-talks-europe-falter-2021-05-14/)
+* [Things you can’t do in Rust (and what to do instead)](https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/)
   * *Published on 15/05/2021*
-* [TikTok Remix Culture](https://twitter.com/Iameaschris/status/1391207396979007488)
+* [Design structured diagrams, built to increase your team&#39;s trust in your docs](http://u.icepanel.io/74a256c8)
+  * *Published on 15/05/2021*
+* [Oxide: The Essence of Rust](https://arxiv.org/abs/1903.00982)
   * *Published on 15/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> RT <span class="mention">@changelog</span>: 💥 New episode of The Changelog! 💥<br/><br/>📌 Open source goes to Mars 🚀<br/>✨ featuring <span class="mention">@martinwoodward</span><br/>🎙 hosted by <span class="mention">@adamstac</span> @jerodsant…
+>
+> *13:25 on 15/05/2021*
+
 > <span class="mention">@franksmcb1</span> <span class="mention">@bdougieYO</span> <span class="mention">@simpsoka</span> Nope! You'll be able to listen wherever you find your favorite podcasts.
 >
 > *22:21 on 14/05/2021*
-
-> 🔊 We’re chatting with maintainers of some of your favorite open source projects, like Vue, Python, Das Blog, and more. Join hosts <span class="mention">@bdougieYO</span>  and <span class="mention">@simpsoka</span> for the brand new ReadME Podcast starting next week. Check out a sneak peek and subscribe now at <a href="https://t.co/QSZhH0NRjH" class="link">open.spotify.com/show/660KitvdJ…</a> <br/><a href="https://t.co/YDIyve9qe1" class="link">pic.twitter.com/YDIyve9qe1</a>
->
-> <a href=""><img src="https://pbs.twimg.com/media/E1YRoiYX0AckcDD.jpg" alt="" height="200"></a>
->
-> *21:41 on 14/05/2021*
 
 
 
