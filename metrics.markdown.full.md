@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `36` repositories and made `1706` commits.
+I contributed to `36` repositories and made `1708` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,6 +29,7 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* ⏺️ Created new branch main in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Opened [#300 Release v3.10](https://github.com/lowlighter/metrics/pull/300) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 2 files changed `++3 --3`
 * ⏺️ Created new branch release-v310 in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -38,7 +39,6 @@ ___
 * 🔍 Reviewed [#299 WEB: Add copy button to action tab](https://github.com/lowlighter/metrics/pull/299) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#297 Bump simple-git from 2.38.1 to 2.39.0](https://github.com/lowlighter/metrics/pull/297) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 2 files changed `++8 --8`
-* 🔍 Reviewed [#297 Bump simple-git from 2.38.1 to 2.39.0](https://github.com/lowlighter/metrics/pull/297) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 
 ___
@@ -85,24 +85,24 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
   * *Published on 15/05/2021*
-* [I was an astrologer – here&#39;s how it really works](https://www.theguardian.com/lifeandstyle/2019/nov/06/i-was-an-astrologer-how-it-works-psychics)
-  * *Published on 15/05/2021*
 * [Cryptoqueen: A woman scammed the world, then vanished (2019)](https://www.bbc.com/news/stories-50435014)
   * *Published on 15/05/2021*
-* [Offline-First PWA for Plotly Visualization of CSV via SQLite](https://github.com/lana-k/sqliteviz)
+* [Bibliogram: Open-source front-end for Instagram](https://bibliogram.art)
   * *Published on 15/05/2021*
+* [Shirts of Peter Norvig](http://charlesbroskoski.com/_/view.php?id=shirts-of-peter-norvig)
+  * *Published on 14/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> RT <span class="mention">@TDataScience</span>: Dipam Vasani explains why leveraging GitHub actions has helped streamline his projects—and how they can do the same for y…
+>
+> *21:25 on 15/05/2021*
+
 > RT <span class="mention">@changelog</span>: 💥 New episode of The Changelog! 💥<br/><br/>📌 Open source goes to Mars 🚀<br/>✨ featuring <span class="mention">@martinwoodward</span><br/>🎙 hosted by <span class="mention">@adamstac</span> @jerodsant…
 >
 > *13:25 on 15/05/2021*
-
-> <span class="mention">@franksmcb1</span> <span class="mention">@bdougieYO</span> <span class="mention">@simpsoka</span> Nope! You'll be able to listen wherever you find your favorite podcasts.
->
-> *22:21 on 14/05/2021*
 
 
 
