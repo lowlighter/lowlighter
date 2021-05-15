@@ -83,28 +83,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [TSMC looks to double down on U.S. chip factories as talks in Europe falter](https://www.reuters.com/technology/exclusive-tsmc-looks-double-down-us-chip-factories-talks-europe-falter-2021-05-14/)
+  * *Published on 15/05/2021*
+* [The Return of Fancy Tools](https://macwright.com/2021/03/16/return-of-fancy-tools.html)
+  * *Published on 15/05/2021*
 * [A URL Lengthener](https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/)
   * *Published on 14/05/2021*
-* [DarkSide ransomware gang quits after servers, Bitcoin stash seized](https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/)
-  * *Published on 14/05/2021*
-* [Online, mug shots are forever – some states want to change that](https://news.yahoo.com/online-mug-shots-forever-states-181700675.html)
-  * *Published on 14/05/2021*
-* [Don&#39;t Talk to Corp Dev (2015)](http://www.paulgraham.com/corpdev.html)
+* [Quake3e, a modern Quake III Arena engine](https://github.com/ec-/Quake3e)
   * *Published on 14/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> <span class="mention">@franksmcb1</span> <span class="mention">@bdougieYO</span> <span class="mention">@simpsoka</span> Nope! You'll be able to listen wherever you find your favorite podcasts.
+>
+> *22:21 on 14/05/2021*
+
 > 🔊 We’re chatting with maintainers of some of your favorite open source projects, like Vue, Python, Das Blog, and more. Join hosts <span class="mention">@bdougieYO</span>  and <span class="mention">@simpsoka</span> for the brand new ReadME Podcast starting next week. Check out a sneak peek and subscribe now at <a href="https://t.co/QSZhH0NRjH" class="link">open.spotify.com/show/660KitvdJ…</a> <br/><a href="https://t.co/YDIyve9qe1" class="link">pic.twitter.com/YDIyve9qe1</a>
 >
 > <a href=""><img src="https://pbs.twimg.com/media/E1YRoiYX0AckcDD.jpg" alt="" height="200"></a>
 >
 > *21:41 on 14/05/2021*
-
-> RT <span class="mention">@GitHubEnt</span>: We’re live on Demo Days! Learn how to take InnerSource to the next level within your organization by improving discoverabili…
->
-> *17:55 on 14/05/2021*
 
 
 
