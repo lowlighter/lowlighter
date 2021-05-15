@@ -83,13 +83,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Java JDK 1.0](https://github.com/ufuu/JDK10)
+* [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
   * *Published on 15/05/2021*
-* [Things you can’t do in Rust (and what to do instead)](https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/)
+* [I was an astrologer – here&#39;s how it really works](https://www.theguardian.com/lifeandstyle/2019/nov/06/i-was-an-astrologer-how-it-works-psychics)
   * *Published on 15/05/2021*
-* [Design structured diagrams, built to increase your team&#39;s trust in your docs](http://u.icepanel.io/74a256c8)
+* [Cryptoqueen: A woman scammed the world, then vanished (2019)](https://www.bbc.com/news/stories-50435014)
   * *Published on 15/05/2021*
-* [Oxide: The Essence of Rust](https://arxiv.org/abs/1903.00982)
+* [Offline-First PWA for Plotly Visualization of CSV via SQLite](https://github.com/lana-k/sqliteviz)
   * *Published on 15/05/2021*
 
 
