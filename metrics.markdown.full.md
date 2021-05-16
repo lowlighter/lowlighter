@@ -85,12 +85,12 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
   * *Published on 15/05/2021*
-* [Cryptoqueen: A woman scammed the world, then vanished (2019)](https://www.bbc.com/news/stories-50435014)
+* [The True Size of Africa (2015)](http://kai.sub.blue/en/africa.html)
   * *Published on 15/05/2021*
-* [Bibliogram: Open-source front-end for Instagram](https://bibliogram.art)
-  * *Published on 15/05/2021*
-* [Shirts of Peter Norvig](http://charlesbroskoski.com/_/view.php?id=shirts-of-peter-norvig)
+* [Apple Support: How to hear image descriptions in the Camera app](https://www.loopinsight.com/2021/05/13/apple-support-how-to-hear-image-descriptions-in-the-camera-app/)
   * *Published on 14/05/2021*
+* [Show HN: Bibliogram – Open-source front-end for Instagram](https://bibliogram.art)
+  * *Published on 15/05/2021*
 
 
 ___
