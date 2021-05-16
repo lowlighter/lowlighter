@@ -83,13 +83,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Observing my cellphone switch towers](https://fabiensanglard.net/lte/index.html)
+* [Washington State Removes All Barriers to Municipal Broadband](https://ilsr.org/washington-state-removes-all-barriers-to-municipal-broadband/)
   * *Published on 16/05/2021*
-* [Samsung boosts chip investment to $151 bln as S.Korea offers bigger tax breaks](https://www.reuters.com/technology/samsung-raises-non-memory-chip-investment-target-skorea-announces-bigger-tax-2021-05-13/)
+* [SeaGlass: City-Wide IMSI-Catcher Detection (2017)](https://seaglass.cs.washington.edu/)
   * *Published on 16/05/2021*
-* [The chip shortage could lead to an era of hardware innovation](https://staceyoniot.com/the-chip-shortage-could-lead-to-an-era-of-hardware-innovation/)
+* [Hyperscript is an experimental scripting language designed for the web](https://hyperscript.org)
   * *Published on 16/05/2021*
-* [Brain size drives differences in yawn duration across mammals and birds](https://www.nature.com/articles/s42003-021-02019-y)
+* [Building a Personal Website in 2021](https://origami.kosmulski.org/blog/2021-05-16-building-personal-origami-website-2021)
   * *Published on 16/05/2021*
 
 
