@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `36` repositories and made `1708` commits.
+I contributed to `36` repositories and made `1694` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,16 +29,17 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#57 Start chenal 124/125](https://github.com/lowlighter/gracidea/pull/57) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+  * 1 file changed `++1237 --183`
+* 🔃 Opened [#57 Start chenal 124/125](https://github.com/lowlighter/gracidea/pull/57) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
+  * 1 file changed `++1237 --183`
+* ⏺️ Created new branch chenal-124-125 in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 * ⏺️ Created new branch main in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Opened [#300 Release v3.10](https://github.com/lowlighter/metrics/pull/300) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 2 files changed `++3 --3`
 * ⏺️ Created new branch release-v310 in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#299 WEB: Add copy button to action tab](https://github.com/lowlighter/metrics/pull/299) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 6 files changed `++28 --22`
-* #️⃣ Closed [#253 Add copy-paste button on website for action/markdown](https://github.com/lowlighter/metrics/issues/253) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔍 Reviewed [#299 WEB: Add copy button to action tab](https://github.com/lowlighter/metrics/pull/299) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#297 Bump simple-git from 2.38.1 to 2.39.0](https://github.com/lowlighter/metrics/pull/297) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++8 --8`
 
 
 ___
@@ -83,12 +84,12 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Washington State Removes All Barriers to Municipal Broadband](https://ilsr.org/washington-state-removes-all-barriers-to-municipal-broadband/)
-  * *Published on 16/05/2021*
 * [SeaGlass: City-Wide IMSI-Catcher Detection (2017)](https://seaglass.cs.washington.edu/)
   * *Published on 16/05/2021*
-* [Hyperscript is an experimental scripting language designed for the web](https://hyperscript.org)
+* [HTML Notepad – HTML WYSIWYG editor](https://html-notepad.com/)
   * *Published on 16/05/2021*
+* [The stack monoid revisited](https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html)
+  * *Published on 15/05/2021*
 * [Building a Personal Website in 2021](https://origami.kosmulski.org/blog/2021-05-16-building-personal-origami-website-2021)
   * *Published on 16/05/2021*
 
