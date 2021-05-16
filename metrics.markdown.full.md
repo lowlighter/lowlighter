@@ -83,14 +83,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [The chip shortage could lead to an era of hardware innovation](https://staceyoniot.com/the-chip-shortage-could-lead-to-an-era-of-hardware-innovation/)
+  * *Published on 16/05/2021*
 * [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
   * *Published on 15/05/2021*
-* [The True Size of Africa (2015)](http://kai.sub.blue/en/africa.html)
-  * *Published on 15/05/2021*
-* [Apple Support: How to hear image descriptions in the Camera app](https://www.loopinsight.com/2021/05/13/apple-support-how-to-hear-image-descriptions-in-the-camera-app/)
-  * *Published on 14/05/2021*
-* [Show HN: Bibliogram – Open-source front-end for Instagram](https://bibliogram.art)
-  * *Published on 15/05/2021*
+* [Show HN: ThingsTwin – 3D House Plan Based UI for Smart Home](http://thingstwin.com/)
+  * *Published on 16/05/2021*
+* [I have a lot to say about Signal’s Cellebrite hack](https://cyberlaw.stanford.edu/blog/2021/05/i-have-lot-say-about-signal%E2%80%99s-cellebrite-hack)
+  * *Published on 16/05/2021*
 
 
 ___
