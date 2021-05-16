@@ -83,13 +83,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Observing my cellphone switch towers](https://fabiensanglard.net/lte/index.html)
+  * *Published on 16/05/2021*
+* [Samsung boosts chip investment to $151 bln as S.Korea offers bigger tax breaks](https://www.reuters.com/technology/samsung-raises-non-memory-chip-investment-target-skorea-announces-bigger-tax-2021-05-13/)
+  * *Published on 16/05/2021*
 * [The chip shortage could lead to an era of hardware innovation](https://staceyoniot.com/the-chip-shortage-could-lead-to-an-era-of-hardware-innovation/)
   * *Published on 16/05/2021*
-* [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
-  * *Published on 15/05/2021*
-* [Show HN: ThingsTwin – 3D House Plan Based UI for Smart Home](http://thingstwin.com/)
-  * *Published on 16/05/2021*
-* [I have a lot to say about Signal’s Cellebrite hack](https://cyberlaw.stanford.edu/blog/2021/05/i-have-lot-say-about-signal%E2%80%99s-cellebrite-hack)
+* [Brain size drives differences in yawn duration across mammals and birds](https://www.nature.com/articles/s42003-021-02019-y)
   * *Published on 16/05/2021*
 
 
