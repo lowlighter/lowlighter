@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `36` repositories and made `1694` commits.
+I contributed to `36` repositories and made `1695` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,17 +29,15 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
-* 🔃 Merged [#57 Start chenal 124/125](https://github.com/lowlighter/gracidea/pull/57) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-  * 1 file changed `++1237 --183`
-* 🔃 Opened [#57 Start chenal 124/125](https://github.com/lowlighter/gracidea/pull/57) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-  * 1 file changed `++1237 --183`
-* ⏺️ Created new branch chenal-124-125 in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-* ⏺️ Created new branch main in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Opened [#300 Release v3.10](https://github.com/lowlighter/metrics/pull/300) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++3 --3`
-* ⏺️ Created new branch release-v310 in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#299 WEB: Add copy button to action tab](https://github.com/lowlighter/metrics/pull/299) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 6 files changed `++28 --22`
+* ⏺️ Created new branch master in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
+* 🔃 Merged [#307 Use timezone in metadata](https://github.com/lowlighter/metrics/pull/307) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 4 files changed `++8 --4`
+* #️⃣ Closed [#304 Footer generation time doesn&#39;t match timezone](https://github.com/lowlighter/metrics/issues/304) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* #️⃣ Closed [#302 No packages are listed](https://github.com/lowlighter/metrics/issues/302) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* ⏺️ Created new branch main in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
+* 🔃 Opened [#307 Use timezone in metadata](https://github.com/lowlighter/metrics/pull/307) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 4 files changed `++8 --4`
+* ⏺️ Created new branch fix-metadata-timezone in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 
 ___
@@ -86,24 +84,28 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [Apple Music Announces Spatial Audio and Lossless Audio](https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/)
   * *Published on 17/05/2021*
-* [Cosmopolitan Libc 1.0](https://github.com/jart/cosmopolitan/releases/tag/1.0)
+* [Ghosts of Unix past, part 3: Unfixable designs (2010)](https://lwn.net/Articles/414618/)
   * *Published on 17/05/2021*
-* [How M1 Macs feel faster than Intel models: it’s about QoS](https://eclecticlight.co/2021/05/17/how-m1-macs-feel-faster-than-intel-models-its-about-qos/)
+* [AMD and GlobalFoundries Update: Orders Through 2024, Now Non-Exclusive](https://www.anandtech.com/show/16677/amd-and-globalfoundries-update-wafer-share-agreement-through-2024)
   * *Published on 17/05/2021*
-* [Show HN: TinyStore - A minimal store for your Shopify Lite plan](https://tinystore.app)
+* [Umami – An alternative to Google Analytics](https://github.com/mikecao/umami)
   * *Published on 17/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> RT <span class="mention">@TDataScience</span>: Dipam Vasani explains why leveraging GitHub actions has helped streamline his projects—and how they can do the same for y…
+> <span class="mention">@SharonJebitok</span> Absolutely! The ReadME Project Podcast is available wherever you listen to your favorite podcasts. <br/><a href="https://t.co/QSZhH0wfV7" class="link">open.spotify.com/show/660KitvdJ…</a><br/>
 >
-> *21:25 on 15/05/2021*
+> <a href="Apple Podcasts"><img src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts125/v4/4d/a4/28/4da42837-77ba-1185-4cdb-06703c921bca/mza_2172973818423502850.jpg/1200x630wp.png" alt="‎The ReadME Podcast on Apple Podcasts" height="200"></a>
+>
+> *17:49 on 17/05/2021*
 
-> RT <span class="mention">@changelog</span>: 💥 New episode of The Changelog! 💥<br/><br/>📌 Open source goes to Mars 🚀<br/>✨ featuring <span class="mention">@martinwoodward</span><br/>🎙 hosted by <span class="mention">@adamstac</span> @jerodsant…
+> Interested in the stories behind some of your favorite open source projects—told by the very maintainers and developers who built them? This is The ReadME Podcast. 
 >
-> *13:25 on 15/05/2021*
+> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2021/05/1200x630-ReadMe-Generic-SocialCard-@1x.png?fit=1200%2C630" alt="Headphones on, volume up: Introducing The ReadME Podcast | The GitHub Blog" height="200"></a>
+>
+> *17:00 on 17/05/2021*
 
 
 
