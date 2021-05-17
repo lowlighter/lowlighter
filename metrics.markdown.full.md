@@ -84,14 +84,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [SeaGlass: City-Wide IMSI-Catcher Detection (2017)](https://seaglass.cs.washington.edu/)
+* [Cosmopolitan Libc v1.0 Released](https://github.com/jart/cosmopolitan/releases/tag/1.0)
+  * *Published on 17/05/2021*
+* [Geocode-sqlite: Geocode rows in an SQLite database table](https://github.com/eyeseast/geocode-sqlite)
+  * *Published on 17/05/2021*
+* [CEO behind Japan’s best-performing stock says his secret is raising salaries](https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries)
   * *Published on 16/05/2021*
-* [CEO Behind 5,500% Stock Gain Says His Secret Is Raising Salaries](https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries)
-  * *Published on 16/05/2021*
-* [HTML Notepad – HTML WYSIWYG editor](https://html-notepad.com/)
-  * *Published on 16/05/2021*
-* [The stack monoid revisited](https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html)
-  * *Published on 15/05/2021*
+* [OpenMapChest (Garmin GPS alternative map provider) is shutting down](https://www.openmapchest.org/shutting-down/)
+  * *Published on 17/05/2021*
 
 
 ___
