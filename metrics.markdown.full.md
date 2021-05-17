@@ -84,13 +84,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Apple Music Announces Spatial Audio and Lossless Audio](https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/)
+  * *Published on 17/05/2021*
 * [Cosmopolitan Libc 1.0](https://github.com/jart/cosmopolitan/releases/tag/1.0)
   * *Published on 17/05/2021*
+* [How M1 Macs feel faster than Intel models: it’s about QoS](https://eclecticlight.co/2021/05/17/how-m1-macs-feel-faster-than-intel-models-its-about-qos/)
+  * *Published on 17/05/2021*
 * [Show HN: TinyStore - A minimal store for your Shopify Lite plan](https://tinystore.app)
-  * *Published on 17/05/2021*
-* [A Pixel Purse LED Cube Controlled by a Cisco 3G Modem](https://tomverbeure.github.io/2021/05/16/Pixel-Purse-LED-Cube.html)
-  * *Published on 17/05/2021*
-* [Jolie, the service-oriented programming language](https://www.jolie-lang.org/)
   * *Published on 17/05/2021*
 
 
