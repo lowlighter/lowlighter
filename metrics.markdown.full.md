@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `36` repositories and made `1695` commits.
+I contributed to `36` repositories and made `1702` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,15 +29,16 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#308 Accept both absolute and relative values for config padding](https://github.com/lowlighter/metrics/pull/308) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 3 files changed `++22 --13`
+* 🔃 Opened [#308 Accept both absolute and relative values for config padding](https://github.com/lowlighter/metrics/pull/308) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 3 files changed `++22 --13`
+* ⏺️ Created new branch feat-improved-padding in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * ⏺️ Created new branch master in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
 * 🔃 Merged [#307 Use timezone in metadata](https://github.com/lowlighter/metrics/pull/307) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 4 files changed `++8 --4`
 * #️⃣ Closed [#304 Footer generation time doesn&#39;t match timezone](https://github.com/lowlighter/metrics/issues/304) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * #️⃣ Closed [#302 No packages are listed](https://github.com/lowlighter/metrics/issues/302) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* ⏺️ Created new branch main in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
-* 🔃 Opened [#307 Use timezone in metadata](https://github.com/lowlighter/metrics/pull/307) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 4 files changed `++8 --4`
-* ⏺️ Created new branch fix-metadata-timezone in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 
 ___
@@ -82,13 +83,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
+* [Why is the Gaza Strip blurry on Google Maps?](https://www.bbc.com/news/57102499)
+  * *Published on 17/05/2021*
+* [Recovering “lost” treasure-filled floppy discs with an oscilloscope](https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html)
+  * *Published on 17/05/2021*
+* [SEC Charges S&amp;P Dow Jones for Failures Relating to Volatility-Related Index](https://www.sec.gov/news/press-release/2021-84)
+  * *Published on 17/05/2021*
 * [Apple Music Announces Spatial Audio and Lossless Audio](https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/)
-  * *Published on 17/05/2021*
-* [Ghosts of Unix past, part 3: Unfixable designs (2010)](https://lwn.net/Articles/414618/)
-  * *Published on 17/05/2021*
-* [AMD and GlobalFoundries Update: Orders Through 2024, Now Non-Exclusive](https://www.anandtech.com/show/16677/amd-and-globalfoundries-update-wafer-share-agreement-through-2024)
-  * *Published on 17/05/2021*
-* [Umami – An alternative to Google Analytics](https://github.com/mikecao/umami)
   * *Published on 17/05/2021*
 
 
