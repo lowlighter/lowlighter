@@ -84,13 +84,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Cosmopolitan Libc v1.0 Released](https://github.com/jart/cosmopolitan/releases/tag/1.0)
+* [Cosmopolitan Libc 1.0](https://github.com/jart/cosmopolitan/releases/tag/1.0)
   * *Published on 17/05/2021*
-* [Geocode-sqlite: Geocode rows in an SQLite database table](https://github.com/eyeseast/geocode-sqlite)
+* [Show HN: TinyStore - A minimal store for your Shopify Lite plan](https://tinystore.app)
   * *Published on 17/05/2021*
-* [CEO behind Japan’s best-performing stock says his secret is raising salaries](https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries)
-  * *Published on 16/05/2021*
-* [OpenMapChest (Garmin GPS alternative map provider) is shutting down](https://www.openmapchest.org/shutting-down/)
+* [A Pixel Purse LED Cube Controlled by a Cisco 3G Modem](https://tomverbeure.github.io/2021/05/16/Pixel-Purse-LED-Cube.html)
+  * *Published on 17/05/2021*
+* [Jolie, the service-oriented programming language](https://www.jolie-lang.org/)
   * *Published on 17/05/2021*
 
 
