@@ -86,12 +86,12 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [SeaGlass: City-Wide IMSI-Catcher Detection (2017)](https://seaglass.cs.washington.edu/)
   * *Published on 16/05/2021*
+* [CEO Behind 5,500% Stock Gain Says His Secret Is Raising Salaries](https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries)
+  * *Published on 16/05/2021*
 * [HTML Notepad – HTML WYSIWYG editor](https://html-notepad.com/)
   * *Published on 16/05/2021*
 * [The stack monoid revisited](https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html)
   * *Published on 15/05/2021*
-* [Building a Personal Website in 2021](https://origami.kosmulski.org/blog/2021-05-16-building-personal-origami-website-2021)
-  * *Published on 16/05/2021*
 
 
 ___
