@@ -26,3 +26,4 @@ jobs:
           config_twemoji: yes
           token: ${{ secrets.METRICS_TOKEN }}
           config_padding: 5%
+          debug: yes
