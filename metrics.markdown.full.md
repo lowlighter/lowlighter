@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `36` repositories and made `1702` commits.
+I contributed to `36` repositories and made `1706` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,16 +29,17 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-templateplugin
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Opened [#310 Add `config_display` option to support `regular` and `large` renders](https://github.com/lowlighter/metrics/pull/310) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 7 files changed `++90 --65`
+* ⏺️ Created new branch feat-largeable in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#309 Bump @octokit/graphql from 4.6.1 to 4.6.2](https://github.com/lowlighter/metrics/pull/309) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++8 --8`
+* 🔍 Reviewed [#309 Bump @octokit/graphql from 4.6.1 to 4.6.2](https://github.com/lowlighter/metrics/pull/309) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#308 Accept both absolute and relative values for config padding](https://github.com/lowlighter/metrics/pull/308) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 3 files changed `++22 --13`
 * 🔃 Opened [#308 Accept both absolute and relative values for config padding](https://github.com/lowlighter/metrics/pull/308) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 3 files changed `++22 --13`
 * ⏺️ Created new branch feat-improved-padding in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* ⏺️ Created new branch master in [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter)
-* 🔃 Merged [#307 Use timezone in metadata](https://github.com/lowlighter/metrics/pull/307) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 4 files changed `++8 --4`
-* #️⃣ Closed [#304 Footer generation time doesn&#39;t match timezone](https://github.com/lowlighter/metrics/issues/304) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* #️⃣ Closed [#302 No packages are listed](https://github.com/lowlighter/metrics/issues/302) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 
 ___
@@ -83,14 +84,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Terms and Conditions Game](https://termsandconditions.game/)
+* [Hyundai Nexo sets new world record 887.5 km travelled on single tank of hydrogen](https://www.h2-view.com/story/hyundai-nexo-breaks-world-record-for-longest-distance-travelled-in-a-fcev/)
   * *Published on 18/05/2021*
-* [Nearly 200K Medical Records of US Military Veterans Leaked](https://securethoughts.com/us-military-veterans-medical-data-leakage/)
+* [Fierce Nerds](http://paulgraham.com/fn.html)
   * *Published on 18/05/2021*
-* [Man Against Marketing](https://johnhellion.substack.com/p/man-against-marketing)
+* [Amazon is reportedly negotiating to acquire MGM for about $9B](https://www.businessinsider.com/amazon-reportedly-negotiating-to-acquire-mgm-for-9-billion-2021-5)
   * *Published on 18/05/2021*
-* [Breakthrough in deciphering Minoan Linear A script](https://greekreporter.com/2021/05/13/minoan-language-linear-a-linked-to-linear-b-in-groundbreaking-new-research/)
-  * *Published on 18/05/2021*
+* [Mac the Knife](https://rbelmont.mameworld.info/?p=1436)
+  * *Published on 16/05/2021*
 
 
 ___
