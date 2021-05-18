@@ -83,14 +83,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Just 20 firms behind more than half of single-use plastic waste – study](https://www.bbc.co.uk/news/science-environment-57149741)
+* [Terms and Conditions Game](https://termsandconditions.game/)
   * *Published on 18/05/2021*
-* [Why is the Gaza Strip blurry on Google Maps?](https://www.bbc.com/news/57102499)
-  * *Published on 17/05/2021*
-* [Positions chess engines don&#39;t understand](https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand)
-  * *Published on 17/05/2021*
-* [Show HN: Apply for a job through SSH, $ ssh jobs.hackclub.com](http://jobs.hackclub.com/)
-  * *Published on 17/05/2021*
+* [Nearly 200K Medical Records of US Military Veterans Leaked](https://securethoughts.com/us-military-veterans-medical-data-leakage/)
+  * *Published on 18/05/2021*
+* [Man Against Marketing](https://johnhellion.substack.com/p/man-against-marketing)
+  * *Published on 18/05/2021*
+* [Breakthrough in deciphering Minoan Linear A script](https://greekreporter.com/2021/05/13/minoan-language-linear-a-linked-to-linear-b-in-groundbreaking-new-research/)
+  * *Published on 18/05/2021*
 
 
 ___
