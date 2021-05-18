@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20/10/2016`.
-I contributed to `36` repositories and made `1706` commits.
+I contributed to `36` repositories and made `1707` commits.
 ```
 
 ## 🧩 Plugins
@@ -84,30 +84,30 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Hyundai Nexo sets new world record 887.5 km travelled on single tank of hydrogen](https://www.h2-view.com/story/hyundai-nexo-breaks-world-record-for-longest-distance-travelled-in-a-fcev/)
+* [Hydras suggest that sleep evolved before brains](https://www.quantamagazine.org/sleep-evolved-before-brains-hydras-are-living-proof-20210518/)
   * *Published on 18/05/2021*
-* [Fierce Nerds](http://paulgraham.com/fn.html)
+* [Companies may be punished for paying ransoms to sanctioned hackers](https://www.reuters.com/article/us-treasury-cyber/companies-may-be-punished-for-paying-ransoms-to-sanctioned-hackers-u-s-treasury-idUSKBN26M77U)
   * *Published on 18/05/2021*
-* [Amazon is reportedly negotiating to acquire MGM for about $9B](https://www.businessinsider.com/amazon-reportedly-negotiating-to-acquire-mgm-for-9-billion-2021-5)
+* [Boosting Dropbox upload speed and improving Windows&#39; TCP stack](https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed)
   * *Published on 18/05/2021*
-* [Mac the Knife](https://rbelmont.mameworld.info/?p=1436)
-  * *Published on 16/05/2021*
+* [Site Isolation in Firefox](https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/)
+  * *Published on 18/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> One day, <span class="mention">@foosel</span> was trying to escape the noises and fumes of her 3D printer. The next, she had a full-time job as an open source maintainer for <span class="mention">@OctoPrint3D</span>. Hear how it all happened. <a href="https://t.co/6dRBUR7KEO" class="link">open.spotify.com/episode/1gNNrA…</a> <br/><a href="https://t.co/9rUAJM4B4K" class="link">pic.twitter.com/9rUAJM4B4K</a>
+>
+> <a href=""><img src="https://pbs.twimg.com/media/E1r4WR8XoAU3baU.jpg" alt="" height="200"></a>
+>
+> *17:03 on 18/05/2021*
+
 > <span class="mention">@SharonJebitok</span> Absolutely! The ReadME Project Podcast is available wherever you listen to your favorite podcasts. <br/><a href="https://t.co/QSZhH0wfV7" class="link">open.spotify.com/show/660KitvdJ…</a><br/>
 >
 > <a href="Apple Podcasts"><img src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts125/v4/4d/a4/28/4da42837-77ba-1185-4cdb-06703c921bca/mza_2172973818423502850.jpg/1200x630wp.png" alt="‎The ReadME Podcast on Apple Podcasts" height="200"></a>
 >
 > *17:49 on 17/05/2021*
-
-> Interested in the stories behind some of your favorite open source projects—told by the very maintainers and developers who built them? This is The ReadME Podcast. 
->
-> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2021/05/1200x630-ReadMe-Generic-SocialCard-@1x.png?fit=1200%2C630" alt="Headphones on, volume up: Introducing The ReadME Podcast | The GitHub Blog" height="200"></a>
->
-> *17:00 on 17/05/2021*
 
 
 
