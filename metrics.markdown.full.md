@@ -85,11 +85,11 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [Why is the Gaza Strip blurry on Google Maps?](https://www.bbc.com/news/57102499)
   * *Published on 17/05/2021*
+* [Positions chess engines don&#39;t understand](https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand)
+  * *Published on 17/05/2021*
+* [Show HN: Apply for a job through SSH, $ ssh jobs.hackclub.com](http://jobs.hackclub.com/)
+  * *Published on 17/05/2021*
 * [Recovering “lost” treasure-filled floppy discs with an oscilloscope](https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html)
-  * *Published on 17/05/2021*
-* [SEC Charges S&amp;P Dow Jones for Failures Relating to Volatility-Related Index](https://www.sec.gov/news/press-release/2021-84)
-  * *Published on 17/05/2021*
-* [Apple Music Announces Spatial Audio and Lossless Audio](https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/)
   * *Published on 17/05/2021*
 
 
