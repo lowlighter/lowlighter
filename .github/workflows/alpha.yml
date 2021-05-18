@@ -12,27 +12,17 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      #- uses: lowlighter/metrics@master
-      #  if: ${{ success() || failure() }}
-      #  with:
-      #    token: ${{ secrets.METRICS_TOKEN }}
-      #    template: markdown
-      #    filename: test.md      # Output file
-      #    markdown: test_template.md    # Template file
-      #    markdown_cache: .cache   # Cache folder
-      #    config_output: markdown  # Output as markdown file
-      #    use_prebuilt_image: no
-      #    debug: yes
-          
-      - uses: lowlighter/metrics@feat-pdf-output
+      - name: 📒 Markdown template (pdf)
         if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
           template: markdown
-          filename: test.pdf      # Output file
-          markdown: test_template.md    # Template file
-          markdown_cache: .cache   # Cache folder
-          config_output: markdown-pdf  # Output as markdown file
-          use_prebuilt_image: no
-          debug: yes
-
+          filename: metrics.markdown.pdf
+          markdown: https://raw.githubusercontent.com/lowlighter/metrics/master/source/templates/markdown/example.pdf.md
+          config_output: markdown-pdf
+          plugin_rss: yes
+          plugin_rss_source: https://news.ycombinator.com/rss
+          plugin_rss_limit: 4
+          config_twemoji: yes
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_padding: 5%
