@@ -103,6 +103,8 @@ jobs:
           plugin_tweets_limit: 2
           plugin_topics: yes
           plugin_topics_limit: 24
+          plugin_isocalendar: yes
+          plugin_languages: yes
           token: ${{ secrets.METRICS_TOKEN }}
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
@@ -119,7 +121,9 @@ jobs:
           plugin_rss: yes
           plugin_rss_source: https://news.ycombinator.com/rss
           plugin_rss_limit: 4
+          plugin_isocalendar: yes
           config_twemoji: yes
+          config_padding: 5%
           token: ${{ secrets.METRICS_TOKEN }}
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request  
