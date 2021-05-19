@@ -83,28 +83,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Freenode now belongs to Andrew Lee, and I&#39;m leaving for a new network](https://www.kline.sh)
+* [U.S. sues Frontier Communications regarding internet speeds](https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4)
   * *Published on 19/05/2021*
 * [Welcome to Libera Chat](https://libera.chat/news/welcome-to-libera-chat)
   * *Published on 19/05/2021*
-* [In 1982, a one-bit hack let me dodge a summer of filling in potholes](https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual)
+* [Apple previews powerful software updates designed for people with disabilities](https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/)
   * *Published on 19/05/2021*
-* [Crypto Crash Deepens](https://www.reuters.com/business/global-markets-wrapup-4-2021-05-19/)
+* [Improving Firefox Stability on Linux](https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/)
   * *Published on 19/05/2021*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> Take a peek into lightweight data workflows from the future. 🔮 The Developer Experience research team in GitHub’s Office of the CTO has released Flat Data! <br/><a href="https://t.co/laLCCJ22hZ" class="link">twitter.com/githubOCTO/sta…</a>
+> RT <span class="mention">@GitHubEnt</span>: This week on Demo Days, it's time to get our hands dirty, go through exactly what it takes to set up your first InnerSource…
 >
-> *21:30 on 18/05/2021*
+> *18:02 on 19/05/2021*
 
-> Behind every open source project is a story—and the maintainer or developer who made it happen. Listen in as we kick off The ReadME Podcast with Evan <span class="mention">@youyuxi</span> You, Gina <span class="mention">@foosel</span> Häußge, Scott <span class="mention">@shanselman</span> Hanselman, and Mark <span class="mention">@poppastring</span> Downie. 
+> <span class="mention">@youyuxi</span> <span class="mention">@vuejs</span> 👉 Apple Podcast link - 
 >
-> <a href="GitHub"><img src="https://github.githubassets.com/images/modules/site/social-cards/readme-project.png" alt="The ReadME Podcast · The ReadME Project" height="200"></a>
+> <a href="Apple Podcasts"><img src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts125/v4/4d/a4/28/4da42837-77ba-1185-4cdb-06703c921bca/mza_2172973818423502850.jpg/1200x630wp.png" alt="‎The ReadME Podcast on Apple Podcasts" height="200"></a>
 >
-> *21:00 on 18/05/2021*
+> *17:04 on 19/05/2021*
 
 
 
