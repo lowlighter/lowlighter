@@ -755,7 +755,7 @@ jobs:
           base: ""
           template: repository
           user: lowlighter
-          repository: metrics
+          repo: metrics
           plugin_people: yes
           plugin_people_types: contributors
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
