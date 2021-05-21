@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@master
         with:
-          filename: debug
+          filename: debug.svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
           plugin_gists: yes
