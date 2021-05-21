@@ -12,8 +12,17 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
+      - uses: lowlighter/metrics@master
+        with:
+          filename: debug
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_languages: yes
+          plugin_gists: yes
+          debug: yes
+          #config_padding:
+    
       - name: 📒 Markdown template (pdf)
-        if: ${{ success() || failure() }}
+        if: false
         uses: lowlighter/metrics@master
         with:
           template: markdown
