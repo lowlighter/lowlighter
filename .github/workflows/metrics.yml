@@ -725,7 +725,7 @@ jobs:
           repo: metrics
           plugin_people: yes
           plugin_people_types: contributors, stargazers, watchers, sponsors
-          plugin_people_sponsors_custom: lowlighter, iamsainikhil, yutkat
+          plugin_people_sponsors_custom: lowlighter, iamsainikhil #, yutkat
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
 
@@ -739,7 +739,7 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_types: sponsors
-          plugin_people_sponsors_custom: lowlighter, iamsainikhil, yutkat
+          plugin_people_sponsors_custom: lowlighter, iamsainikhil #, yutkat
           plugin_people_size: 48
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           config_display: large
