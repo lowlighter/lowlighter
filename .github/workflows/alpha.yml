@@ -19,7 +19,7 @@ jobs:
           plugin_languages: yes
           plugin_gists: yes
           debug: yes
-          #config_padding:
+          config_padding: 16, 16 + 12%
     
       - name: 📒 Markdown template (pdf)
         if: false
