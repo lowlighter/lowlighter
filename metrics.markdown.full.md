@@ -84,13 +84,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Wayland: “Move fast and break things” as a moral imperative](https://rentry.co/pa2a3)
+* [One Man’s Fight for the Right to Repair Broken MacBooks](https://columbianewsservice.com/2021/05/21/one-mans-fight-for-the-right-to-repair-broken-macbooks/)
   * *Published on 23/05/2021*
-* [In 2013 Rockchip engineers found that the Gregorian calendar contained flaws (2015)](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f076ef44a44d02ed91543f820c14c2c7dff53716)
+* [I open sourced a game I just released on Steam, written in Lua](https://github.com/a327ex/SNKRX)
   * *Published on 23/05/2021*
-* [1B$+ seller pulled from Amazon for fake reviews](https://www.amazon.com/stores/Aukey/Aukey/page/B4F70606-6B67-46A0-BD18-938B37E59982)
+* [Show HN: A simple blogging platform I built out of frustration with other tools](https://www.dynablogger.com/)
   * *Published on 23/05/2021*
-* [Did a weak WiFi password lead police to our door?](https://www.bbc.co.uk/news/technology-57156799)
+* [Teach Yourself Demoscene in 14 Days](https://github.com/psenough/teach_yourself_demoscene_in_14_days)
   * *Published on 23/05/2021*
 
 
