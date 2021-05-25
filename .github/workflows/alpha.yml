@@ -15,7 +15,7 @@ jobs:
       - uses: lowlighter/metrics@master
         with:
           filename: debug.svg
-          config_padding: 16, 16 + 6%
+          config_padding: 16, 16 + 6.5%
           token: ${{ secrets.METRICS_TOKEN }}
           user: lowlighter
           template: classic
