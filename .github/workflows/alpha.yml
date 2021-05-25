@@ -16,9 +16,14 @@ jobs:
         with:
           debug: yes
           filename: debug2.svg
-          config_padding: 16, 24 + 6.75%
           token: ${{ secrets.METRICS_TOKEN }}
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
+          base: ""
+          
       - uses: lowlighter/metrics@master
+        if: false
         with:
           debug: yes
           filename: debug.svg
