@@ -22,7 +22,7 @@ jobs:
         with:
           debug: yes
           filename: debug.svg
-          config_padding: 16, 16 + 6.75%
+          config_padding: 16, 24 + 6.75%
           token: ${{ secrets.METRICS_TOKEN }}
           user: lowlighter
           template: classic
