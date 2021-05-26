@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="74" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="50" class="">
     <defs>
         <style/>
     </defs>
@@ -189,6 +189,9 @@
 
   .field.language.details &gt; *, .field.language.details small &gt; * {
     flex: 1 1 0;
+  }
+  .field.language.details small &gt; *:not(:last-child) {
+    margin-right: 6px;
   }
 
 /* Follow-up */

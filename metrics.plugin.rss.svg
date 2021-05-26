@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="191" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="167" class="">
     <defs>
         <style/>
     </defs>
@@ -189,6 +189,9 @@
 
   .field.language.details &gt; *, .field.language.details small &gt; * {
     flex: 1 1 0;
+  }
+  .field.language.details small &gt; *:not(:last-child) {
+    margin-right: 6px;
   }
 
 /* Follow-up */
@@ -1163,7 +1166,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Amazon acquires MGM for $8.45B</div>
+                                <div class="title">Collusion rings threaten the integrity of computer science research</div>
                                 <div class="date">26/05/2021</div>
                             </div>
                         </div>
@@ -1172,7 +1175,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Upheaval at freenode</div>
+                                <div class="title">Neovim 0.5 is overpowering</div>
                                 <div class="date">26/05/2021</div>
                             </div>
                         </div>
@@ -1181,7 +1184,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Gentoo Freenode channels have been hijacked</div>
+                                <div class="title">Why and how GitHub is adopting OpenTelemetry</div>
                                 <div class="date">26/05/2021</div>
                             </div>
                         </div>
@@ -1190,7 +1193,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Expanse UI Design</div>
+                                <div class="title">You can't have too many angel investors</div>
                                 <div class="date">26/05/2021</div>
                             </div>
                         </div>
