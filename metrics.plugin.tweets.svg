@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="235" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="275" class="">
     <defs>
         <style/>
     </defs>
@@ -189,6 +189,9 @@
 
   .field.language.details &gt; *, .field.language.details small &gt; * {
     flex: 1 1 0;
+  }
+  .field.language.details small &gt; *:not(:last-child) {
+    margin-right: 6px;
   }
 
 /* Follow-up */
@@ -1166,14 +1169,14 @@
             
           </div>
                         <div class="tweet">
-                  What does it take to get into that wonderful state of developer flow? 💆🏼‍♀️ Check out the Good Day Project, an exploration into patterns that make a ‘good day’ for developers. <a href="https://t.co/vg5zyO1D2n" class="link">github.blog/2021-05-25-oct…</a>
+                  Distributed systems are hard, but good telemetry can make a big difference. Check out why we're excited about OpenTelemetry, and how we're using it!<br /><br /><a href="https://t.co/DUeI7JU1K7" class="link">github.blog/2021-05-26-why…</a>
                   
-                  <div class="date">19:30 on 25/05/2021</div>
+                  <div class="date">19:33 on 26/05/2021</div>
                 </div>
                         <div class="tweet">
-                  RT <span class="mention">@FullCircleFund</span>: Congrats to our new Healthy Communities Grant Partners for Accelerate Social Justice in a Post-COVID World. Big THANKS…
+                  The State of the Octoverse explores a year of change with deep dives into developer productivity, security, &amp; how we build communities on GitHub.<br /><br />Join Sr. Data Scientist <span class="mention">@D_Jedamski</span> as he discusses key takeaways about the report from build to execution. <a href="https://t.co/ZpIZ59KBiM" class="link">github.community/t/github-commu…</a>
                   
-                  <div class="date">19:22 on 25/05/2021</div>
+                  <div class="date">17:22 on 26/05/2021</div>
                 </div>
                     </section>
                 </div>
