@@ -16,6 +16,7 @@ jobs:
         with:
           debug: yes
           filename: debug2.svg
+          config_padding: 16, 7%
           token: ${{ secrets.METRICS_TOKEN }}
           base: "header"
           
