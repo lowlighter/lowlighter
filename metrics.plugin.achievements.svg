@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="315" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="292" class="">
     <defs>
         <style/>
     </defs>
@@ -189,6 +189,9 @@
 
   .field.language.details &gt; *, .field.language.details small &gt; * {
     flex: 1 1 0;
+  }
+  .field.language.details small &gt; *:not(:last-child) {
+    margin-right: 6px;
   }
 
 /* Follow-up */
@@ -1200,7 +1203,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="183.20999999999998 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="185.38 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1219,7 +1222,7 @@
                   Super stargazer
                   
                 </div>
-                                <div class="text">Starred 1091 repositories</div>
+                                <div class="text">Starred 1098 repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1232,7 +1235,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="20.666666666666668 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1258,11 +1261,11 @@
                   Great developer
                   
                     <span class="gh">
-                      ranked 1.06m out of 71m users
+                      ranked 1.19m out of 71m users
                     </span>
                   
                 </div>
-                                <div class="text">Published 26 public repositories</div>
+                                <div class="text">Published 24 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1275,7 +1278,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="126.95979899497488 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="128.5175879396985 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1303,7 +1306,7 @@
                   Contributor
                   
                 </div>
-                                <div class="text">Opened 164 pull requests</div>
+                                <div class="text">Opened 166 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement secret largeable-width-half">
