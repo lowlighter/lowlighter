@@ -87,11 +87,11 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [Collusion rings threaten the integrity of computer science research](https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext)
   * *Published on 26/05/2021*
-* [Microsoft president: Orwell’s 1984 could happen in 2024](https://www.bbc.co.uk/news/technology-57122120)
+* [OpenHD - HD video, UAV telemetry, audio, and RC control](https://github.com/OpenHD/Open.HD)
   * *Published on 27/05/2021*
 * [Have you ever hurt yourself from your own code?](https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code)
   * *Published on 26/05/2021*
-* [OpenHD - HD video, UAV telemetry, audio, and RC control](https://github.com/OpenHD/Open.HD)
+* [River Runner: drop a raindrop anywhere in the USA, watch where it ends up](https://river-runner.samlearner.com/)
   * *Published on 27/05/2021*
 
 
