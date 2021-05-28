@@ -84,11 +84,11 @@ ___
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
 * [QUIC is now RFC 9000](https://www.fastly.com/blog/quic-is-now-rfc-9000)
   * *Published on 28/05/2021*
-* [Eric Carle has died](https://www.washingtonpost.com/local/obituaries/eric-carle-dead/2021/05/26/cbb39414-2234-11e4-8593-da634b334390_story.html)
-  * *Published on 27/05/2021*
+* [WordPress 18](https://ma.tt/2021/05/wordpress-18/)
+  * *Published on 28/05/2021*
 * [The Last Days of Tokyo’s Nakagin Capsule Tower](https://japan-forward.com/goodbye-to-the-future-the-last-days-of-tokyos-nakagin-capsule-tower/)
   * *Published on 27/05/2021*
-* [How I, as someone who is visually impaired, use my iPhone (2020)](https://twitter.com/Kristy_Viers/status/1287189581926981634)
+* [Eric Carle has died](https://www.washingtonpost.com/local/obituaries/eric-carle-dead/2021/05/26/cbb39414-2234-11e4-8593-da634b334390_story.html)
   * *Published on 27/05/2021*
 
 
