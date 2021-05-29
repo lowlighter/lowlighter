@@ -250,7 +250,7 @@
     justify-content: space-around;
     margin-top: 4px;
   }
-  .categorie {
+  .category {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -1162,7 +1162,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 81.9 characters per line of code written</li>
+                        <li>Has approximately 81.7 characters per line of code written</li>
                         <li>Mostly pushes code around 20:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
