@@ -250,7 +250,7 @@
     justify-content: space-around;
     margin-top: 4px;
   }
-  .categorie {
+  .category {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -1169,10 +1169,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.8853559945533" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="308.8853559945533" y="0" width="87.96483898794459" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="396.8501949824979" y="0" width="40.784635236581146" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="437.63483021907905" y="0" width="22.365169780920944" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.8851279829073" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="308.8851279829073" y="0" width="87.96522071197049" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="396.8503486948778" y="0" width="40.78438447039263" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="437.6347331652704" y="0" width="22.36526683472957" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
