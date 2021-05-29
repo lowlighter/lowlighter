@@ -250,7 +250,7 @@
     justify-content: space-around;
     margin-top: 4px;
   }
-  .categorie {
+  .category {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -1169,15 +1169,15 @@
             <section>
                 <div class="row fill-width">
                     <section class="categories">
-                        <div class="categorie column">
+                        <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="325.71 329"/>
-                                <text x="60" y="60" dominant-baseline="central">99</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
+                                <text x="60" y="60" dominant-baseline="central">100</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
-                        <div class="categorie column">
+                        <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                 <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
@@ -1185,7 +1185,7 @@
                             </svg>
                             <span class="title">Accessibility</span>
                         </div>
-                        <div class="categorie column">
+                        <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                 <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
@@ -1193,7 +1193,7 @@
                             </svg>
                             <span class="title">Best Practices</span>
                         </div>
-                        <div class="categorie column">
+                        <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                 <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
