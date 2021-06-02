@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="118" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="126" class="">
     <defs>
         <style/>
     </defs>
@@ -1169,9 +1169,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.10885156480475" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="388.10885156480475" y="0" width="71.4966211001987" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="459.6054726650034" y="0" width="0.3945273349965713" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.3465517543535" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="388.3465517543535" y="0" width="71.2602253719689" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="459.6067771263224" y="0" width="0.39322287367758996" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1182,7 +1182,7 @@
                     </div>
                             <small>
                                 <div>12.6k lines</div>
-                                <div>431 kB</div>
+                                <div>433 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
