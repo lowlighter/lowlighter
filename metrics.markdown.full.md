@@ -84,14 +84,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Stack Overflow sold to Prosus for $1.8B](https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400)
-  * *Published on 02/06/2021*
-* [The Development of Erlang](https://fermatslibrary.com/s/the-development-of-erlang)
-  * *Published on 02/06/2021*
-* [Next Steps for the GNOME Foundation](https://ramcq.net/2021/06/01/next-steps-for-the-gnome-foundation/)
-  * *Published on 03/06/2021*
 * [When six boys were shipwrecked for 15 months (2020)](https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months)
   * *Published on 02/06/2021*
+* [The Development of Erlang (1997)](https://fermatslibrary.com/s/the-development-of-erlang)
+  * *Published on 02/06/2021*
+* [Cores that don’t count [pdf]](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf)
+  * *Published on 03/06/2021*
+* [Google Lighthouse V8 – Improved CLS metrics](https://github.com/GoogleChrome/lighthouse/releases/tag/v8.0.0)
+  * *Published on 03/06/2021*
 
 
 ___
