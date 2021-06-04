@@ -1165,40 +1165,18 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 303 edited files from 118 commits over last 9 days
+            estimation from 265 edited files from 115 commits over last 8 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="233.45713816163735" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="233.45713816163735" y="0" width="178.14292757543961" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="411.600065737077" y="0" width="48.399934262923026" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="227.159944546539" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="227.159944546539" y="0" width="211.49144017796692" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="438.65138472450593" y="0" width="21.348615275494083" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      JavaScript
-                    </div>
-                            <small>
-                                <div>40.1 kB</div>
-                                <div>50.75%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#a91e50" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      EJS
-                    </div>
-                            <small>
-                                <div>8.32 kB</div>
-                                <div>10.52%</div>
-                            </small>
-                        </div>
-                    </section>
                     <section>
                         <div class="field language details">
                             <div class="field">
@@ -1207,7 +1185,29 @@
                     </div>
                             <small>
                                 <div>30.6 kB</div>
-                                <div>38.73%</div>
+                                <div>49.38%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#a91e50" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      EJS
+                    </div>
+                            <small>
+                                <div>2.88 kB</div>
+                                <div>4.64%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      JavaScript
+                    </div>
+                            <small>
+                                <div>28.5 kB</div>
+                                <div>45.98%</div>
                             </small>
                         </div>
                     </section>
