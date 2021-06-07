@@ -1089,6 +1089,26 @@ jobs:
           token: ${{ secrets.METRICS_BOT_TOKEN }}
           base: header, repositories
           output_action: pull-request
+          
+      # Metrics large display
+      - name: 💬 Large display metrics
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.large.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_display: large
+          output_action: pull-request
+
+      # Metrics as json
+      - name: 💬 JSON metrics
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.example.json
+          token: ${{ secrets.METRICS_BOT_TOKEN }}
+          config_output: json
+          output_action: pull-request
 
       # Illustrate header hidden features with debug flags
       # "--cakeday" will act as if it's your account birthday
