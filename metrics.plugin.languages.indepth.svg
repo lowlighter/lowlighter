@@ -59,6 +59,11 @@
   h3 {
     font-size: 14px;
   }
+  .h-details {
+    margin: 0 4px;
+    padding-top: 4px;
+    font-size: 0.8rem;
+  }
 
 /* Fields */
   section &gt; .field {
@@ -1169,9 +1174,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="387.62627120607243" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="387.62627120607243" y="0" width="71.98389226504405" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="459.6101634711165" y="0" width="0.38983652888350073" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="387.5955552387026" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="387.5955552387026" y="0" width="71.847828390749" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="459.44338362945166" y="0" width="0.5566163705483503" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1182,7 +1187,7 @@
                     </div>
                             <small>
                                 <div>12.7k lines</div>
-                                <div>436 kB</div>
+                                <div>437 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1191,8 +1196,8 @@
                       EJS
                     </div>
                             <small>
-                                <div>1 line</div>
-                                <div>439 bytes</div>
+                                <div>4 lines</div>
+                                <div>628 bytes</div>
                             </small>
                         </div>
                     </section>
