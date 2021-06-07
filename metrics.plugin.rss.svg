@@ -59,6 +59,11 @@
   h3 {
     font-size: 14px;
   }
+  .h-details {
+    margin: 0 4px;
+    padding-top: 4px;
+    font-size: 0.8rem;
+  }
 
 /* Fields */
   section &gt; .field {
@@ -1166,8 +1171,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The G7 has reached a deal on taxing multinational companies</div>
-                                <div class="date">05/06/2021</div>
+                                <div class="title">Show HN: Open-source alternative to Retool, Internal.io, etc.</div>
+                                <div class="date">07/06/2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1175,8 +1180,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Using Clang LibFuzzer coverage-guided fuzzing engine with Nim</div>
-                                <div class="date">05/06/2021</div>
+                                <div class="title">Sorry everybody, I failed with you</div>
+                                <div class="date">07/06/2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1184,8 +1189,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How I Learned Symmetric-Key Cryptanalysis</div>
-                                <div class="date">05/06/2021</div>
+                                <div class="title">Google fined €220m by French competition watchdog over online advertising market</div>
+                                <div class="date">07/06/2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1193,8 +1198,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Declassified Cold War code-breaking manual on solving 'impossible' puzzles</div>
-                                <div class="date">05/06/2021</div>
+                                <div class="title">We’re All Paying for Someone Else’s 4-Hour Work Week, Not Ours</div>
+                                <div class="date">07/06/2021</div>
                             </div>
                         </div>
                     </section>
