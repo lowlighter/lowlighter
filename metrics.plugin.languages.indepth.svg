@@ -1191,9 +1191,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="424.934840405906" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="424.934840405906" y="0" width="33.41155436361605" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="458.3463947695221" y="0" width="1.6536052304779494" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="421.04510733529156" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="421.04510733529156" y="0" width="33.082609449012864" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="454.12771678430437" y="0" width="5.8722832156956075" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1213,8 +1213,8 @@
                       EJS
                     </div>
                             <small>
-                                <div>28 lines</div>
-                                <div>1.71 kB</div>
+                                <div>48 lines</div>
+                                <div>6.12 kB</div>
                             </small>
                         </div>
                     </section>
@@ -1232,7 +1232,7 @@
                     </section>
                 </div>
             </section>
-            <div id="metrics-end"></div>
         </div>
+        <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
     </foreignObject>
 </svg>
