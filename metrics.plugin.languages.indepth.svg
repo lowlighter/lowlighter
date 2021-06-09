@@ -1174,9 +1174,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="425.87721542811346" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="425.87721542811346" y="0" width="33.511885754646556" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="459.38910118276" y="0" width="0.6108988172400011" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="424.934840405906" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="424.934840405906" y="0" width="33.41155436361605" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="458.3463947695221" y="0" width="1.6536052304779494" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1187,7 +1187,7 @@
                     </div>
                             <small>
                                 <div>12.7k lines</div>
-                                <div>437 kB</div>
+                                <div>438 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1196,8 +1196,8 @@
                       EJS
                     </div>
                             <small>
-                                <div>4 lines</div>
-                                <div>628 bytes</div>
+                                <div>28 lines</div>
+                                <div>1.71 kB</div>
                             </small>
                         </div>
                     </section>
