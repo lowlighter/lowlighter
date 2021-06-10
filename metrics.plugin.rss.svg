@@ -93,6 +93,9 @@
     margin-bottom: 2px;
     white-space: nowrap;
   }
+  .field.wrap {
+    flex-wrap: wrap;
+  }
   .field svg {
     margin: 0 8px;
     fill: #959da5;
@@ -108,6 +111,7 @@
 /* Displays */
   .row {
     display: flex;
+    flex-wrap: wrap;
   }
   .row section {
     flex: 1 1 0;
@@ -230,6 +234,9 @@
   }
   .followup.legend svg:last-child {
     margin-right: 0;
+  }
+  .followup-title{
+    white-space: initial;
   }
 
 /* Labels */
@@ -1015,6 +1022,7 @@
     border-radius: 16px;
     font-size: 10px;
     padding: 0 5px;
+    white-space: nowrap;
   }
   .achievement .gauge-base, .achievement .gauge-arc {
     stroke-width: 6;
@@ -1188,6 +1196,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">The memory models that underlie programming languages (2016)</div>
+                                <div class="date">10/06/2021</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">How to circumvent Sci-Hub ISP block</div>
                                 <div class="date">09/06/2021</div>
                             </div>
@@ -1197,8 +1214,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Facebook extends its work-at-home policy to most employees</div>
-                                <div class="date">09/06/2021</div>
+                                <div class="title">The Risk of Cargo Liquefication</div>
+                                <div class="date">10/06/2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1206,17 +1223,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">TC Energy scraps Keystone XL pipeline project after Biden revokes key permit</div>
-                                <div class="date">09/06/2021</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Evaluating necessity of Covid-19 vaccination in previously infected individuals</div>
-                                <div class="date">09/06/2021</div>
+                                <div class="title">'Miraculous' mosquito hack cuts dengue by 77%</div>
+                                <div class="date">10/06/2021</div>
                             </div>
                         </div>
                     </section>

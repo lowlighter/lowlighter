@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="277" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="227" class="">
     <defs>
         <style/>
     </defs>
@@ -93,6 +93,9 @@
     margin-bottom: 2px;
     white-space: nowrap;
   }
+  .field.wrap {
+    flex-wrap: wrap;
+  }
   .field svg {
     margin: 0 8px;
     fill: #959da5;
@@ -108,6 +111,7 @@
 /* Displays */
   .row {
     display: flex;
+    flex-wrap: wrap;
   }
   .row section {
     flex: 1 1 0;
@@ -230,6 +234,9 @@
   }
   .followup.legend svg:last-child {
     margin-right: 0;
+  }
+  .followup-title{
+    white-space: initial;
   }
 
 /* Labels */
@@ -1015,6 +1022,7 @@
     border-radius: 16px;
     font-size: 10px;
     padding: 0 5px;
+    white-space: nowrap;
   }
   .achievement .gauge-base, .achievement .gauge-arc {
     stroke-width: 6;
@@ -1191,14 +1199,14 @@
             
           </div>
                         <div class="tweet">
+                  Congrats to <span class="mention">@HashiCorp</span> and over 1500 contributors on the Terraform 1.0 release 🎉 <a href="https://t.co/d96xs0YgMX" class="link">hashicorp.com/blog/announcin…</a>
+                  
+                  <div class="date">23:46 on 09/06/2021</div>
+                </div>
+                        <div class="tweet">
                   &lt;?php <br />  echo "Happy birthday <span class="mention">@laravelphp</span>!"; // 🥳 <br />?&gt; <a href="https://t.co/pTnzWX7E1p" class="link">twitter.com/taylorotwell/s…</a>
                   
                   <div class="date">21:33 on 09/06/2021</div>
-                </div>
-                        <div class="tweet">
-                  What a fantastic 2 days of talks at <a href="https://t.co/lnUUD5p4DX" class="link">globalmaintainersummit.github.com</a>. They will all be up on the GitHub YouTube channel later in the week but in the meantime it's open spaces time! Come join us to chat about all things around running an open source community <a href="https://t.co/etO6nyAZfZ" class="link">github.co/gathertown</a> <a href="https://t.co/LXlGodhuVu" class="link">pic.twitter.com/LXlGodhuVu</a>
-                  
-                  <div class="date">19:07 on 09/06/2021</div>
                 </div>
                     </section>
                 </div>
