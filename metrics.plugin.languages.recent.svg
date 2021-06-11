@@ -1202,9 +1202,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="280.41379310344826" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="280.41379310344826" y="0" width="91.04980842911877" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="371.46360153256705" y="0" width="88.53639846743295" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="256.7062036675771" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="256.7062036675771" y="0" width="103.41474834178698" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="360.12095200936403" y="0" width="99.87904799063597" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1214,8 +1214,8 @@
                       TypeScript
                     </div>
                             <small>
-                                <div>18.3 kB</div>
-                                <div>60.96%</div>
+                                <div>14.3 kB</div>
+                                <div>55.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1224,8 +1224,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>5.78 kB</div>
-                                <div>19.25%</div>
+                                <div>5.57 kB</div>
+                                <div>21.71%</div>
                             </small>
                         </div>
                     </section>
@@ -1236,8 +1236,8 @@
                       EJS
                     </div>
                             <small>
-                                <div>5.94 kB</div>
-                                <div>19.79%</div>
+                                <div>5.76 kB</div>
+                                <div>22.48%</div>
                             </small>
                         </div>
                     </section>
