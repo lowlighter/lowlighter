@@ -88,10 +88,10 @@ ___
   * *Published on 11/06/2021*
 * [Finding a CPU Design Bug in the Xbox 360 (2018)](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/)
   * *Published on 12/06/2021*
-* [Fitting a FORTH in 512 bytes](https://niedzejkob.p4.team/bootstrap/miniforth/)
-  * *Published on 11/06/2021*
-* [ALiEn – a GPU-accelerated artificial life simulation program](https://alien-project.org/)
-  * *Published on 11/06/2021*
+* [Containers Are Tents](https://increment.com/containers/containers-vs-vms/)
+  * *Published on 12/06/2021*
+* [Reverse Engineering Bumble’s API (2020)](https://blog.securityevaluators.com/reverse-engineering-bumbles-api-a2a0d39b3a87)
+  * *Published on 12/06/2021*
 
 
 ___
