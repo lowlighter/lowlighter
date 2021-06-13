@@ -84,14 +84,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Taildrop Was Kind of Easy](https://tailscale.com/blog/2021-06-taildrop-was-easy/)
+* [How to Handle Secrets on the Command Line](https://smallstep.com/blog/command-line-secrets/)
+  * *Published on 13/06/2021*
+* [Gemini is Useless – and that is its killer feature](https://alex.flounder.online/gemlog/2021-01-08-useless.gmi)
+  * *Published on 13/06/2021*
+* [Taildrop was kind of easy](https://tailscale.com/blog/2021-06-taildrop-was-easy/)
   * *Published on 12/06/2021*
 * [The Schindler of Japan, Chihune Sugihara](https://www.tokyoweekender.com/2021/06/chiune-sugihara-japanese-schindler/)
   * *Published on 13/06/2021*
-* [Hilton&#39;s bizarre 1967 plan for a space hotel](https://edition.cnn.com/travel/article/hilton-hotel-on-moon-scn-cmd/index.html)
-  * *Published on 12/06/2021*
-* [A US socialite who gave it all up to become a Carmelite nun](https://www.bbc.com/news/world-us-canada-57399288)
-  * *Published on 11/06/2021*
 
 
 ___
