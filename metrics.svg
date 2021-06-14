@@ -1169,7 +1169,7 @@
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/></svg>
-            Followed by 180 users
+            Followed by 181 users
           </div>
                     </section>
                     <section>
@@ -2262,15 +2262,15 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 164 edited files from 84 commits over last 14 days
+            estimation from 154 edited files from 77 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="334.47853915662654" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="334.47853915662654" y="0" width="125.5214608433735" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="337.7851711026616" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="337.7851711026616" y="0" width="122.21482889733839" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2281,7 +2281,7 @@
                     </div>
                             <small>
                                 <div>602 lines</div>
-                                <div>72.71%</div>
+                                <div>73.43%</div>
                             </small>
                         </div>
                     </section>
@@ -2292,8 +2292,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>140 lines</div>
-                                <div>27.29%</div>
+                                <div>138 lines</div>
+                                <div>26.57%</div>
                             </small>
                         </div>
                     </section>
