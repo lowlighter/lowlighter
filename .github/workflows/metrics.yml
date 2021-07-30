@@ -285,6 +285,22 @@ jobs:
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
           delay: 120
+          
+      # ======================================================================================
+      # 💬 GitHub Discussions
+
+      # Display github discussions metrics
+      - name: 💬 Discussions plugin
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.discussions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_discussions: yes
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
+          delay: 120
 
       # ======================================================================================
       # 🎟️ Follow-up of issues and pull requests
@@ -552,6 +568,7 @@ jobs:
       # List permissions, limitations and conditions of licenses and dependencies
       - name: 📜 Licenses
         uses: lowlighter/metrics@master
+        if: ${{ success() || failure() }}
         with:
           filename: metrics.plugin.licenses.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -566,7 +583,7 @@ jobs:
 
       # List ratio of licenses and dependencies
       - name: 📜 Licenses (ratio)
-        if: false # To fix 
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.licenses.ratio.svg
@@ -584,7 +601,7 @@ jobs:
 
       # List permissions, limitations and conditions of licenses and dependencies (metrics)
       - name: 📜 Licenses (repository)
-        if: false # To fix 
+        if: f${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.licenses.svg
@@ -920,6 +937,23 @@ jobs:
           delay: 120
 
       # ======================================================================================
+      # 📓 Repositories plugin
+
+      # Display featured repositories
+      - name: 📓 Repositories plugin
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_featured: lowlighter/metrics
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
+          delay: 120
+
+      # ======================================================================================
       # 🗼 Rss feed plugin
 
       # Display RSS feed
@@ -1129,11 +1163,11 @@ jobs:
           delay: 120
 
       # ======================================================================================
-      # 💬 Others
+      # ⏺️ Others
 
       # Illustrate plugin errors :
       # ${{ secrets.METRICS_TOKEN }} is missing "public_repo" scope, which is required for "plugin_projects"
-      - name: 💬 Plugin error example
+      - name: ⏺️ Plugin error example
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
@@ -1145,7 +1179,7 @@ jobs:
           delay: 120
 
       # Metrics for "github" organization
-      - name: 💬 Organization metrics
+      - name: ⏺️ Organization metrics
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
@@ -1157,7 +1191,7 @@ jobs:
           delay: 120
           
       # Metrics large display
-      - name: 💬 Large display metrics
+      - name: ⏺️ Large display metrics
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
@@ -1168,7 +1202,7 @@ jobs:
           delay: 120
 
       # Metrics as json
-      - name: 💬 JSON metrics
+      - name: ⏺️ JSON metrics
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
@@ -1182,7 +1216,7 @@ jobs:
       # "--cakeday" will act as if it's your account birthday
       # "--hireable" will act as if "Available for hire" is enabled
       # "--halloween" will act as if it was halloween, changing the colors of calendars
-      - name: 💬 Header (hidden features)
+      - name: ⏺️ Header (hidden features)
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
