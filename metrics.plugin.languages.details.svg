@@ -251,6 +251,20 @@
     border-radius: 32px;
     font-size: 12px;
   }
+  .label.label-flex {
+    display: flex;
+  }
+  .label .label-right {
+    display: flex;
+    align-items: center;
+    font-size: .7rem;
+    margin-left: 6px;
+    margin-right: -10px;
+    background-color: #58A6FF10;
+    padding: 0 7px;
+    border-top-right-radius: 32px;
+    border-bottom-right-radius: 32px;
+  }
 
 /* Habits */
   .habits {
@@ -1199,10 +1213,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="305.20942966303346" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="305.20942966303346" y="0" width="87.27817862699514" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="392.4876082900286" y="0" width="40.896195036919096" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="433.3838033269477" y="0" width="26.6161966730523" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.47952914198356" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="304.47952914198356" y="0" width="86.76966023313587" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="391.24918937511944" y="0" width="42.289690808331734" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="433.53888018345117" y="0" width="26.461119816548823" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1213,7 +1227,7 @@
                     </div>
                             <small>
                                 <div>2.16 MB</div>
-                                <div>66.35%</div>
+                                <div>66.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1222,8 +1236,8 @@
                       EJS
                     </div>
                             <small>
-                                <div>289 kB</div>
-                                <div>8.89%</div>
+                                <div>300 kB</div>
+                                <div>9.19%</div>
                             </small>
                         </div>
                     </section>
@@ -1235,7 +1249,7 @@
                     </div>
                             <small>
                                 <div>616 kB</div>
-                                <div>18.97%</div>
+                                <div>18.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1245,7 +1259,7 @@
                     </div>
                             <small>
                                 <div>188 kB</div>
-                                <div>5.79%</div>
+                                <div>5.75%</div>
                             </small>
                         </div>
                     </section>
