@@ -251,6 +251,20 @@
     border-radius: 32px;
     font-size: 12px;
   }
+  .label.label-flex {
+    display: flex;
+  }
+  .label .label-right {
+    display: flex;
+    align-items: center;
+    font-size: .7rem;
+    margin-left: 6px;
+    margin-right: -10px;
+    background-color: #58A6FF10;
+    padding: 0 7px;
+    border-top-right-radius: 32px;
+    border-bottom-right-radius: 32px;
+  }
 
 /* Habits */
   .habits {
@@ -1197,14 +1211,14 @@
                             <div class="label" title="Linux is an open source kernel.">linux</div>
                             <div class="label" title="C++ is a general purpose and object-oriented programming language.">c++</div>
                             <div class="label" title="Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of views.">css</div>
-                            <div class="label" title="Machine learning is a way of modeling and interpreting data that allows a piece of software to respond intelligently.">machine learning</div>
                             <div class="label" title="Algorithms are self-contained sequences that carry out a variety of tasks.">algorithm</div>
+                            <div class="label" title="Machine learning is a way of modeling and interpreting data that allows a piece of software to respond intelligently.">machine learning</div>
                             <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
                             <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
                             <div class="label" title="Git is the most widely used version control system.">git</div>
                             <div class="label" title="Vue.js is a JavaScript framework for building interactive web applications.">vue.js</div>
                             <div class="label" title="Deep Learning is an artificial neural network composed of many layers.">deep learning</div>
-                            <div class="label" title="Amazon Web Services, API, Database, Data structures, Google, SQL, Arduino, Data visualization, Bitcoin, Raspberry Pi, Azure, GitHub API, Chrome, JSON, Front end, Tensorflow, Bash, iOS, Terminal, Bot, 3D, TypeScript, macOS, Command line interface, ES6, Rust, MongoDB, Security, HTTP, Firefox, GraphQL, Windows, npm, Electron, Markdown, Game engine, Cryptocurrency, Ansible, REST API, Natural language processing, Express, Ruby, Shell, Mobile, Operating system, Web app, Babel, Continuous integration, Server, NoSQL, Deployment, Material design, Serverless, Web Components, ESLint, PWA, Testing, Emulator, P2P, Virtual reality, Emoji, Mongoose, IPFS, Package manager, Parsing, Monitoring, Pixel Art, Icon font, Software-defined networking, Vagrant, Localization, Homebridge, PICO-8, GitHub, Deno, vscode-extension, jison">and 77 more...</div>
+                            <div class="label" title="Amazon Web Services, API, Database, Data structures, Google, SQL, Arduino, Data visualization, Bitcoin, Raspberry Pi, Azure, GitHub API, Chrome, JSON, Front end, Tensorflow, Bash, iOS, Terminal, Bot, 3D, TypeScript, macOS, Command line interface, ES6, Rust, MongoDB, Security, HTTP, Firefox, GraphQL, Windows, npm, Electron, Markdown, Cryptocurrency, Game engine, Ansible, REST API, Natural language processing, Express, Ruby, Shell, Mobile, Operating system, Web app, Babel, Continuous integration, Server, NoSQL, Deployment, Material design, Serverless, Web Components, ESLint, PWA, Testing, Emulator, P2P, Virtual reality, Emoji, Mongoose, IPFS, Package manager, Parsing, Monitoring, Pixel Art, Icon font, Software-defined networking, Vagrant, Localization, Homebridge, PICO-8, GitHub, Deno, vscode-extension, jison">and 77 more...</div>
                         </div>
                     </section>
                 </div>
