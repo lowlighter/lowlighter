@@ -251,6 +251,20 @@
     border-radius: 32px;
     font-size: 12px;
   }
+  .label.label-flex {
+    display: flex;
+  }
+  .label .label-right {
+    display: flex;
+    align-items: center;
+    font-size: .7rem;
+    margin-left: 6px;
+    margin-right: -10px;
+    background-color: #58A6FF10;
+    padding: 0 7px;
+    border-top-right-radius: 32px;
+    border-bottom-right-radius: 32px;
+  }
 
 /* Habits */
   .habits {
@@ -1196,7 +1210,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Open Terms Archive – Follow changes to terms of service</div>
+                                <div class="title">Static.wiki – read-only Wikipedia using a 43GB SQLite file</div>
                                 <div class="date">30/07/2021</div>
                             </div>
                         </div>
@@ -1205,7 +1219,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Who Owns My Name?</div>
+                                <div class="title">New exotic matter particle, a tetraquark, discovered at CERN</div>
                                 <div class="date">30/07/2021</div>
                             </div>
                         </div>
@@ -1214,7 +1228,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Oracle loses bid to upend HP's $3B win</div>
+                                <div class="title">The journey to controlling external monitors on M1 Macs</div>
                                 <div class="date">30/07/2021</div>
                             </div>
                         </div>
@@ -1223,7 +1237,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A blood marker predicts who gets ‘breakthrough’ Covid</div>
+                                <div class="title">Tell HN: Consider listing your contact details</div>
                                 <div class="date">30/07/2021</div>
                             </div>
                         </div>
