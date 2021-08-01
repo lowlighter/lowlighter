@@ -1017,13 +1017,10 @@
     color: #E7BD69;
   }
   .achievement.s .title {
-    color: #FF0000;
+    color: #EB355E;
   }
   .achievement.s .gauge.info {
-    color: #FF0000;
-  }
-  .achievement.s .icon {
-    filter: sepia() saturate(100);
+    color: #EB355E;
   }
   .achievement.secret .title{
     color: #FF76CD;
@@ -1209,16 +1206,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 66 edited files from 55 commits over last 13 days
+            estimation from 74 edited files from 66 commits over last 12 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="202.08350434685272" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="202.08350434685272" y="0" width="159.29480243274506" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="361.3783067795978" y="0" width="98.62169322040222" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="175.10636922082122" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="175.10636922082122" y="0" width="149.64500484966052" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="324.75137407048175" y="0" width="135.24862592951825" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1229,7 +1226,7 @@
                     </div>
                             <small>
                                 <div>11.7 kB</div>
-                                <div>43.93%</div>
+                                <div>38.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1238,8 +1235,8 @@
                       TypeScript
                     </div>
                             <small>
-                                <div>5.75 kB</div>
-                                <div>21.44%</div>
+                                <div>9.09 kB</div>
+                                <div>29.4%</div>
                             </small>
                         </div>
                     </section>
@@ -1250,8 +1247,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>9.28 kB</div>
-                                <div>34.63%</div>
+                                <div>10 kB</div>
+                                <div>32.53%</div>
                             </small>
                         </div>
                     </section>
