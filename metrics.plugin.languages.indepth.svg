@@ -924,6 +924,12 @@
     width: .8rem;
     height: .8rem;
   }
+  .field.contributors-category {
+    margin-left: 12px;
+  }
+  .contributors-categories img {
+    margin-right: 0;
+  }
 
 /* Introduction */
   .introduction {
@@ -1206,17 +1212,17 @@
         Most used languages
       </h3>
                 <small>
-            estimation from 1312 edited files from 2148 commits
+            estimation from 1312 edited files from 2151 commits
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="298.4763289287432" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="298.4763289287432" y="0" width="65.39952173783372" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="363.8758506665769" y="0" width="51.36173183823513" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="415.23758250481205" y="0" width="44.76241749518794" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="298.4898730973285" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="298.4898730973285" y="0" width="65.5366916735798" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="364.02656477090824" y="0" width="51.28120121752655" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="415.30776598843477" y="0" width="44.692234011565205" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1226,7 +1232,7 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>37k lines</div>
+                                <div>37.1k lines</div>
                                 <div>1.70 MB</div>
                             </small>
                         </div>
@@ -1248,8 +1254,8 @@
                       EJS
                     </div>
                             <small>
-                                <div>4.38k lines</div>
-                                <div>371 kB</div>
+                                <div>4.42k lines</div>
+                                <div>373 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
