@@ -1206,16 +1206,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 74 edited files from 66 commits over last 12 days
+            estimation from 75 edited files from 69 commits over last 13 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="175.10636922082122" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="175.10636922082122" y="0" width="149.64500484966052" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="324.75137407048175" y="0" width="135.24862592951825" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="177.8783499737257" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="177.8783499737257" y="0" width="143.31187598528638" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="321.1902259590121" y="0" width="138.80977404098792" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1226,7 +1226,7 @@
                     </div>
                             <small>
                                 <div>11.7 kB</div>
-                                <div>38.07%</div>
+                                <div>38.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1235,8 +1235,8 @@
                       TypeScript
                     </div>
                             <small>
-                                <div>9.09 kB</div>
-                                <div>29.4%</div>
+                                <div>9.19 kB</div>
+                                <div>30.18%</div>
                             </small>
                         </div>
                     </section>
@@ -1247,8 +1247,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>10 kB</div>
-                                <div>32.53%</div>
+                                <div>9.49 kB</div>
+                                <div>31.15%</div>
                             </small>
                         </div>
                     </section>
