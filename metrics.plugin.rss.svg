@@ -924,6 +924,12 @@
     width: .8rem;
     height: .8rem;
   }
+  .field.contributors-category {
+    margin-left: 12px;
+  }
+  .contributors-categories img {
+    margin-right: 0;
+  }
 
 /* Introduction */
   .introduction {
@@ -1207,8 +1213,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New in Git: switch and restore</div>
-                                <div class="date">01/08/2021</div>
+                                <div class="title">Six Years of Professional Clojure</div>
+                                <div class="date">02/08/2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1216,8 +1222,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Your Lifestyle Has Already Been Designed (2010)</div>
-                                <div class="date">31/07/2021</div>
+                                <div class="title">The rise of never-ending job interviews</div>
+                                <div class="date">02/08/2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1225,8 +1231,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">My tiny side project has had more impact than my decade in the software industry</div>
-                                <div class="date">01/08/2021</div>
+                                <div class="title">A Generation Lost in the Bazaar (2012)</div>
+                                <div class="date">02/08/2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1234,8 +1240,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How to summon and sell your soul to Satan and other devils</div>
-                                <div class="date">01/08/2021</div>
+                                <div class="title">Building a Django driver for Psycopg 3</div>
+                                <div class="date">02/08/2021</div>
                             </div>
                         </div>
                     </section>
