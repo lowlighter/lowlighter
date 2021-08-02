@@ -924,6 +924,12 @@
     width: .8rem;
     height: .8rem;
   }
+  .field.contributors-category {
+    margin-left: 12px;
+  }
+  .contributors-categories img {
+    margin-right: 0;
+  }
 
 /* Introduction */
   .introduction {
@@ -1264,7 +1270,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.23 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1274,7 +1280,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.68 s
+                0.69 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1312,7 +1318,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.23 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1322,7 +1328,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.68 s
+                0.69 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
