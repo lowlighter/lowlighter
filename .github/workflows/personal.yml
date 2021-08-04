@@ -37,7 +37,7 @@ jobs:
           plugin_notable: yes
           plugin_notable_repositories: yes
           plugin_discussions: yes
-          config_order: base.header, isocalendar, languages, notable, topics
+          config_order: base.header, isocalendar, languages, notable, discussions, topics
 
       - name: 🦑 Personal metrics (right)
         if: ${{ success() || failure() }}
