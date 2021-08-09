@@ -2319,8 +2319,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="280.0797945519582" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="280.0797945519582" y="0" width="179.9202054480418" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="283.9918154761905" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="283.9918154761905" y="0" width="176.00818452380952" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2330,8 +2330,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>294 lines</div>
-                                <div>60.89%</div>
+                                <div>297 lines</div>
+                                <div>61.74%</div>
                             </small>
                         </div>
                     </section>
@@ -2342,8 +2342,8 @@
                       TypeScript
                     </div>
                             <small>
-                                <div>392 lines</div>
-                                <div>39.11%</div>
+                                <div>449 lines</div>
+                                <div>38.26%</div>
                             </small>
                         </div>
                     </section>
