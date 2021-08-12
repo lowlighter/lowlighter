@@ -12,22 +12,18 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - name: 🏅 Contributors plugin (categories)
+      # Achievements
+      - name: 🏆 Achievements (compact)
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.contributors.categories.svg
+          filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          template: repository
-          repo: metrics
-          plugin_contributors: yes
-          plugin_contributors_sections: categories
-          plugin_contributors_categories: |
-            {
-              "🧩 Plugins / 🖼️ templates":["source/plugins/**", "source/templates/**"],
-              "📚 Documentation":["README.md", "**/README.md", "**/metadata.yml"],
-              "💻 Code (other)":["source/**", "Dockerfile"]
-            }
+          plugin_achievements: yes
+          plugin_achievements_only: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          debug: yes
-          use_prebuilt_image: no
+          output_action: pull-request
+          delay: 120
