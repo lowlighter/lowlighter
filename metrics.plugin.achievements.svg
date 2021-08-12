@@ -265,6 +265,10 @@
     border-top-right-radius: 32px;
     border-bottom-right-radius: 32px;
   }
+  .label .twemoji {
+    margin-top: .25em;
+    margin-left: 0px;
+  }
 
 /* Habits */
   .habits {
@@ -1325,7 +1329,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.0333333333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1353,7 +1357,7 @@
                   Great contributor
                   
                 </div>
-                                <div class="text">Opened 200 pull requests</div>
+                                <div class="text">Opened 202 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement secret largeable-width-half">
