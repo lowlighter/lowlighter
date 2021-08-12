@@ -150,7 +150,23 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
-          plugin_achievements_only: polyglot, stargazer, developer, contributor, octonaut
+          plugin_achievements_only: polyglot, sponsor, contributor, reviewer, octonaut
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
+          delay: 120
+          
+      # Achievements
+      - name: 🏆 Achievements (compact)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
+          plugin_achievement_display: compact
+          plugin_achievement_threshold: X
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
           delay: 120
@@ -857,7 +873,7 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_types: sponsors
-          plugin_people_sponsors_custom: lowlighter, yutkat, ktnkk
+          plugin_people_sponsors_custom: lowlighter, yutkat, ktnkk, iamsainikhil
           plugin_people_size: 48
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           config_display: large
