@@ -30,3 +30,4 @@ jobs:
             }
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           debug: yes
+          use_prebuilt_image: no
