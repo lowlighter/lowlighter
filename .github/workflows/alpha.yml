@@ -12,81 +12,21 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@master
+      - name: 🏅 Contributors plugin (categories)
+        uses: lowlighter/metrics@master
         with:
-          debug: yes
-          filename: debug2.svg
-          config_padding: 0, 7%
+          filename: metrics.plugin.contributors.categories.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: "header"
-          
-      - uses: lowlighter/metrics@master
-        with:
+          base: ""
+          template: repository
+          repo: metrics
+          plugin_contributors: yes
+          plugin_contributors_sections: categories
+          plugin_contributors_categories: |
+            {
+              "🧩 Plugins / 🖼️ templates":["source/plugins/**", "source/templates/**"],
+              "📚 Documentation":["README.md", "**/README.md", "**/metadata.yml"],
+              "💻 Code (other)":["source/**", "Dockerfile"]
+            }
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           debug: yes
-          filename: debug.svg
-          config_padding: 0, 7%
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: lowlighter
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Paris
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_anilist: yes
-          plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites, watching, reading, characters
-          plugin_anilist_shuffle: yes
-          plugin_followup: yes
-          plugin_followup_sections: user, repositories
-          plugin_gists: yes
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_facts: yes
-          plugin_introduction: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
-          plugin_lines: yes
-          plugin_music: yes
-          plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
-          plugin_notable: yes
-          plugin_notable_repositories: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_screenshot: yes
-          plugin_people: yes
-          plugin_people_types: followers, following
-          plugin_posts: yes
-          plugin_posts_covers: yes
-          plugin_posts_descriptions: yes
-          plugin_posts_source: dev.to
-          plugin_projects: yes
-          plugin_projects_descriptions: yes
-          plugin_projects_repositories: lowlighter/metrics/projects/1
-          plugin_reactions: yes
-          plugin_reactions_details: count, percentage
-          plugin_rss: yes
-          plugin_rss_source: https://news.ycombinator.com/rss
-          plugin_screenshot_title: XKCD of the day  
-          plugin_screenshot_url: https://xkcd.com
-          plugin_screenshot_selector: "#comic img"
-          plugin_skyline: yes
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 1
-          plugin_stackoverflow_sections: answers-top, questions-recent
-          plugin_stargazers: yes
-          plugin_stars: yes
-          plugin_stock: yes
-          plugin_stock_symbol: MSFT
-          plugin_support: yes
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_sort: stars
-          plugin_traffic: yes
-          plugin_tweets: yes
-          plugin_tweets_attachments: yes
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
