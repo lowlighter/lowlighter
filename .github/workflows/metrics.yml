@@ -150,7 +150,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
-          plugin_achievements_only: polyglot, sponsor, contributor, reviewer, octonaut
+          plugin_achievements_only: sponsor, maintainer, octonaut
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
           delay: 120
