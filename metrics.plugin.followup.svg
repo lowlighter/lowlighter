@@ -1008,11 +1008,17 @@
   .achievement .gauge.info {
     color: #58A6FF;
   }
+  .achievement .value {
+    background-color: #58A6FF26;
+  }
   .achievement.x .title {
     color: #666666;
   }
   .achievement.x .gauge.info {
     color: #B0B0B0;
+  }
+  .achievement.x .value {
+    background-color: #B0B0B026;
   }
   .achievement.b .title {
     color: #9D8FFF;
@@ -1020,11 +1026,17 @@
   .achievement.b .gauge.info {
     color: #9E91FF;
   }
+  .achievement.b .value {
+    background-color: #9E91FF26;
+  }
   .achievement.a .title {
     color: #D79533;
   }
   .achievement.a .gauge.info {
     color: #E7BD69;
+  }
+  .achievement.a .value {
+    background-color: #E7BD6926;
   }
   .achievement.s .title {
     color: #EB355E;
@@ -1032,13 +1044,19 @@
   .achievement.s .gauge.info {
     color: #EB355E;
   }
+  .achievement.s .value {
+    background-color: #EB355E26;
+  }
   .achievement.secret .title{
     color: #FF76CD;
   }
   .achievement.secret .gauge.info {
     color: #FF79D1;
   }
-  .achievement .gh {
+  .achievement.secret .value {
+    background-color: #FF79D126;
+  }
+  .achievement .gh, .achievement .value {
     border: 1px solid currentColor;
     border-radius: 16px;
     font-size: 10px;
@@ -1047,6 +1065,44 @@
   }
   .achievement .gauge-base, .achievement .gauge-arc {
     stroke-width: 6;
+  }
+  .achievement .value-wrapper {
+    margin-bottom: -50px;
+    margin-top: 36px;
+    display: none;
+    position: relative;
+  }
+  .achievement .value {
+    margin-left: 46px;
+  }
+  .achievements.compact {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .achievements.compact .achievement {
+    flex-direction: column-reverse;
+    align-items: center;
+    width: 80px;
+  }
+  .achievements.compact .info {
+    width: 100%;
+  }
+  .achievements.compact .achievement .title {
+    margin-bottom: 2px;
+    text-transform: capitalize;
+    text-align: center;
+  }
+  .achievements.compact .achievement .title .prefix {
+    min-height: 13px;
+    font-size: 10px;
+    display: block;
+    margin-bottom: -.25rem;
+  }
+  .achievements.compact .achievement .value-wrapper {
+    display: flex;
+  }
+  .achievements.compact .achievement .text, .achievements.compact .achievement .gh {
+    display: none;
   }
 
 /* RSS feed */
@@ -1252,16 +1308,16 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#pr-bar)" x="0" y="0" width="2.734225621414914" height="8" fill="#28a745"/>
-                            <rect mask="url(#pr-bar)" x="2.734225621414914" y="0" width="15.1434034416826" height="8" fill="#d73a49"/>
-                            <rect mask="url(#pr-bar)" x="17.877629063097515" y="0" width="202.12237093690248" height="8" fill="#6f42c1"/>
+                            <rect mask="url(#pr-bar)" x="0" y="0" width="2.9333333333333336" height="8" fill="#28a745"/>
+                            <rect mask="url(#pr-bar)" x="2.9333333333333336" y="0" width="15.085714285714287" height="8" fill="#d73a49"/>
+                            <rect mask="url(#pr-bar)" x="18.01904761904762" y="0" width="201.98095238095237" height="8" fill="#6f42c1"/>
                         </svg>
                         <div class="followup legend field horizontal fill-width">
                             <div class="field center">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#28a745" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">13 <small>open</small></span>
+                                <span class="no-wrap">14 <small>open</small></span>
                             </div>
                             <div class="field center">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1273,7 +1329,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#6f42c1" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">961 <small>merged</small></span>
+                                <span class="no-wrap">964 <small>merged</small></span>
                             </div>
                         </div>
                     </section>
