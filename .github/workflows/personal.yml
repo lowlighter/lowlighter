@@ -21,7 +21,6 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: header
           plugin_isocalendar: yes
           plugin_languages: yes
@@ -45,7 +44,6 @@ jobs:
         with:
           filename: metrics.personal.anilist.svg
           token: NOT_NEEDED
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, characters
@@ -56,3 +54,13 @@ jobs:
           plugin_music_limit: 4
           config_order: anilist, music
 
+      - name: 🦑 Personal metrics (bottom)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.personal.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          config_display: large
