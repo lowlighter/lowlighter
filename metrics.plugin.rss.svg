@@ -265,6 +265,10 @@
     border-top-right-radius: 32px;
     border-bottom-right-radius: 32px;
   }
+  .label .twemoji {
+    margin-top: .25em;
+    margin-left: 0px;
+  }
 
 /* Habits */
   .habits {
@@ -1213,8 +1217,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Open-sourcing a more precise time appliance</div>
-                                <div class="date">11/08/2021</div>
+                                <div class="title">ZeroVer: 0-Based Versioning</div>
+                                <div class="date">12/08/2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1222,8 +1226,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">An Old Hacker's Tips on Staying Employed</div>
-                                <div class="date">11/08/2021</div>
+                                <div class="title">Typography in Alien (2014)</div>
+                                <div class="date">12/08/2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1231,8 +1235,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The British Library puts 1M newspaper pages online for free</div>
-                                <div class="date">11/08/2021</div>
+                                <div class="title">Darts: Non-Facebook alternative for timeseries forecasting</div>
+                                <div class="date">12/08/2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1240,8 +1244,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Launch HN: Slip (YC S21) – Build and sell interactive programming courses</div>
-                                <div class="date">11/08/2021</div>
+                                <div class="title">Launch YC S21: Meet the Batch, Thread #6</div>
+                                <div class="date">12/08/2021</div>
                             </div>
                         </div>
                     </section>
