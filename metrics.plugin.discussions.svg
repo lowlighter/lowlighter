@@ -1008,11 +1008,17 @@
   .achievement .gauge.info {
     color: #58A6FF;
   }
+  .achievement .value {
+    background-color: #58A6FF26;
+  }
   .achievement.x .title {
     color: #666666;
   }
   .achievement.x .gauge.info {
     color: #B0B0B0;
+  }
+  .achievement.x .value {
+    background-color: #B0B0B026;
   }
   .achievement.b .title {
     color: #9D8FFF;
@@ -1020,11 +1026,17 @@
   .achievement.b .gauge.info {
     color: #9E91FF;
   }
+  .achievement.b .value {
+    background-color: #9E91FF26;
+  }
   .achievement.a .title {
     color: #D79533;
   }
   .achievement.a .gauge.info {
     color: #E7BD69;
+  }
+  .achievement.a .value {
+    background-color: #E7BD6926;
   }
   .achievement.s .title {
     color: #EB355E;
@@ -1032,13 +1044,19 @@
   .achievement.s .gauge.info {
     color: #EB355E;
   }
+  .achievement.s .value {
+    background-color: #EB355E26;
+  }
   .achievement.secret .title{
     color: #FF76CD;
   }
   .achievement.secret .gauge.info {
     color: #FF79D1;
   }
-  .achievement .gh {
+  .achievement.secret .value {
+    background-color: #FF79D126;
+  }
+  .achievement .gh, .achievement .value {
     border: 1px solid currentColor;
     border-radius: 16px;
     font-size: 10px;
@@ -1047,6 +1065,44 @@
   }
   .achievement .gauge-base, .achievement .gauge-arc {
     stroke-width: 6;
+  }
+  .achievement .value-wrapper {
+    margin-bottom: -50px;
+    margin-top: 36px;
+    display: none;
+    position: relative;
+  }
+  .achievement .value {
+    margin-left: 46px;
+  }
+  .achievements.compact {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .achievements.compact .achievement {
+    flex-direction: column-reverse;
+    align-items: center;
+    width: 80px;
+  }
+  .achievements.compact .info {
+    width: 100%;
+  }
+  .achievements.compact .achievement .title {
+    margin-bottom: 2px;
+    text-transform: capitalize;
+    text-align: center;
+  }
+  .achievements.compact .achievement .title .prefix {
+    min-height: 13px;
+    font-size: 10px;
+    display: block;
+    margin-bottom: -.25rem;
+  }
+  .achievements.compact .achievement .value-wrapper {
+    display: flex;
+  }
+  .achievements.compact .achievement .text, .achievements.compact .achievement .gh {
+    display: none;
   }
 
 /* RSS feed */
@@ -1209,7 +1265,7 @@
                 <h2 class="field">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v5.5a.25.25 0 01-.25.25h-3.5a.75.75 0 00-.53.22L3.5 11.44V9.25a.75.75 0 00-.75-.75h-1a.25.25 0 01-.25-.25v-5.5zM1.75 1A1.75 1.75 0 000 2.75v5.5C0 9.216.784 10 1.75 10H2v1.543a1.457 1.457 0 002.487 1.03L7.061 10h3.189A1.75 1.75 0 0012 8.25v-5.5A1.75 1.75 0 0010.25 1h-8.5zM14.5 4.75a.25.25 0 00-.25-.25h-.5a.75.75 0 110-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0114.25 12H14v1.543a1.457 1.457 0 01-2.487 1.03L9.22 12.28a.75.75 0 111.06-1.06l2.22 2.22v-2.19a.75.75 0 01.75-.75h1a.25.25 0 00.25-.25v-5.5z"/></svg>
       
-        9 Discussions started
+        10 Discussions started
       
     </h2>
                 <div class="row">
@@ -1220,24 +1276,24 @@
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/></svg>
-            29 Answers
+            30 Answers
           </div>
                     </section>
                     <section class="largeable-column-fields">
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8.53 1.22a.75.75 0 00-1.06 0L3.72 4.97a.75.75 0 001.06 1.06l2.47-2.47v6.69a.75.75 0 001.5 0V3.56l2.47 2.47a.75.75 0 101.06-1.06L8.53 1.22zM3.75 13a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5z"/></svg>
-            16 Upvotes from discussions
+            18 Upvotes from discussions
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M3.47 7.78a.75.75 0 010-1.06l4.25-4.25a.75.75 0 011.06 0l4.25 4.25a.75.75 0 01-1.06 1.06L9 4.81v7.44a.75.75 0 01-1.5 0V4.81L4.53 7.78a.75.75 0 01-1.06 0z"/></svg>
-            110 Upvotes from comments
+            112 Upvotes from comments
           </div>
                     </section>
                 </div>
                 <div class="row fill-width">
                     <section>
                         <div class="field wrap">
-                            <div class="label label-flex">📣 Announcements <div class="label-right">4</div> </div>
+                            <div class="label label-flex">📣 Announcements <div class="label-right">5</div> </div>
                             <div class="label label-flex">🙏 Q&amp;A <div class="label-right">4</div> </div>
                             <div class="label label-flex">💡 Ideas <div class="label-right">1</div> </div>
                         </div>
