@@ -56,7 +56,7 @@ jobs:
 
       - name: 🦑 Personal metrics (bottom)
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.personal.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
