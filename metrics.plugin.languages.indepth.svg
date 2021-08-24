@@ -1272,17 +1272,17 @@
         Most used languages
       </h3>
                 <small>
-            estimation from 2548 edited files from 2343 commits
+            estimation from 2664 edited files from 2382 commits
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.5000145438067" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="285.5000145438067" y="0" width="69.73771239698775" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="355.23772694079446" y="0" width="52.83529215445829" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="408.07301909525273" y="0" width="51.926980904747246" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.9735194889777" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="284.9735194889777" y="0" width="69.60910798773483" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="354.5826274767125" y="0" width="53.586150978490714" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="408.1687784552032" y="0" width="51.83122154479682" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1302,8 +1302,8 @@
                       EJS
                     </div>
                             <small>
-                                <div>4.45k lines</div>
-                                <div>375 kB</div>
+                                <div>4.64k lines</div>
+                                <div>381 kB</div>
                             </small>
                         </div>
                     </section>
