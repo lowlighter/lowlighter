@@ -1272,16 +1272,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 196 edited files from 62 commits over last 13 days
+            estimation from 196 edited files from 60 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="360.5195204426683" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="360.5195204426683" y="0" width="61.23468446708532" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="421.75420490975364" y="0" width="38.24579509024637" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="360.52607311450214" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="360.52607311450214" y="0" width="61.23065100450104" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="421.7567241190032" y="0" width="38.24327588099681" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1292,7 +1292,7 @@
                     </div>
                             <small>
                                 <div>71.3 kB</div>
-                                <div>78.37%</div>
+                                <div>78.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
