@@ -1281,8 +1281,8 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="40.45977011494253" height="8" fill="#28a745"/>
-                            <rect mask="url(#issues-bar)" x="40.45977011494253" y="0" width="179.54022988505747" height="8" fill="#d73a49"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="42.5" height="8" fill="#28a745"/>
+                            <rect mask="url(#issues-bar)" x="42.5" y="0" width="177.5" height="8" fill="#d73a49"/>
                         </svg>
                         <div class="followup legend field horizontal fill-width">
                             <div class="field center">
@@ -1290,7 +1290,7 @@
                                     <path fill="#28a745" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#28a745" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">16 <small>open</small></span>
+                                <span class="no-wrap">17 <small>open</small></span>
                             </div>
                             <div class="field center">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
