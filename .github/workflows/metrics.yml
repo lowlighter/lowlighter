@@ -253,6 +253,21 @@ jobs:
           delay: 120
 
       # ======================================================================================
+      # ♐ Code snippet of the day
+
+      - name: ♐ Code snippet of the day
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.code.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_code: yes
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
+          delay: 120
+
+      # ======================================================================================
       # 🏅 Contributors
 
       - name: 🏅 Contributors plugin
