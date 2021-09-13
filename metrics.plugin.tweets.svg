@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="227" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="295" class="">
     <defs>
         <style/>
     </defs>
@@ -1125,6 +1125,17 @@
     overflow: hidden;
   }
 
+/* Code snippet */
+  .snippet .body {
+    padding-left: 12px;
+  }
+  .snippet.additions {
+    color: #336543;
+  }
+  .snippet.deletions {
+    color: #9A5256;
+  }
+
 /* Markdown and syntax highlighting */
   .markdown b, .markdown i {
     display: inline-block;
@@ -1143,6 +1154,15 @@
     white-space: pre-wrap;
     width: 97%;
     margin-top: 4px;
+  }
+  span.code {
+    background-color: #7777771F;
+    padding: 1px 5px;
+    font-size: 80%;
+    border-radius: 6px;
+    color: #777777;
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    margin: 0 4px -3px;
   }
   .token.comment {
     color: #669900;
@@ -1164,7 +1184,27 @@
   }
   .token.trimmed {
     font-style: italic;
-    color: #77777760
+    color: #77777760;
+  }
+  .token.coord {
+    color: #D2A8FF;
+    font-weight: bold;
+  }
+  .token.inserted:not(.prefix) {
+    color: #AAD0B4DC;
+    background-color: #336543DC;
+  }
+  .token.deleted:not(.prefix) {
+    color: #EED2D0DC;
+    background-color: #9A5256DC;
+  }
+
+/* Typography */
+  .space {
+    margin-left: 7px;
+  }
+  .blue {
+    color: #58a6ff;
   }
 
 /* Charts */
@@ -1276,14 +1316,14 @@
             
           </div>
                         <div class="tweet">
+                  ✅ GitHub Discussions out of beta<br /> 🎉 Support for extensions in GitHub CLI 2.0<br />⚡ Actions that can reference other actions<br /><br />Check out everything that shipped in August! <a href="https://t.co/VRVkfLIS0c" class="link">github.blog/2021-09-13-wha…</a> <a href="https://t.co/KjhSH7fwRt" class="link">pic.twitter.com/KjhSH7fwRt</a>
+                  
+                  <div class="date">18:48 on 13/09/2021</div>
+                </div>
+                        <div class="tweet">
                   RT <span class="mention">@GitHubEnt</span>: We’re live on Demo Days! Tune in for a how-to on automating the SDLC using GitHub and ChatOps! Join us now: https://t.co/Asg…
                   
                   <div class="date">18:11 on 10/09/2021</div>
-                </div>
-                        <div class="tweet">
-                  Got lots of issues? 😰  TIP: Make your most important ones stand out from the rest by pinning them 📌 <a href="https://t.co/d9IKHkUBVe" class="link">pic.twitter.com/d9IKHkUBVe</a>
-                  
-                  <div class="date">18:10 on 10/09/2021</div>
                 </div>
                     </section>
                 </div>

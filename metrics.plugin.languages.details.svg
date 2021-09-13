@@ -1125,6 +1125,17 @@
     overflow: hidden;
   }
 
+/* Code snippet */
+  .snippet .body {
+    padding-left: 12px;
+  }
+  .snippet.additions {
+    color: #336543;
+  }
+  .snippet.deletions {
+    color: #9A5256;
+  }
+
 /* Markdown and syntax highlighting */
   .markdown b, .markdown i {
     display: inline-block;
@@ -1143,6 +1154,15 @@
     white-space: pre-wrap;
     width: 97%;
     margin-top: 4px;
+  }
+  span.code {
+    background-color: #7777771F;
+    padding: 1px 5px;
+    font-size: 80%;
+    border-radius: 6px;
+    color: #777777;
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    margin: 0 4px -3px;
   }
   .token.comment {
     color: #669900;
@@ -1164,7 +1184,27 @@
   }
   .token.trimmed {
     font-style: italic;
-    color: #77777760
+    color: #77777760;
+  }
+  .token.coord {
+    color: #D2A8FF;
+    font-weight: bold;
+  }
+  .token.inserted:not(.prefix) {
+    color: #AAD0B4DC;
+    background-color: #336543DC;
+  }
+  .token.deleted:not(.prefix) {
+    color: #EED2D0DC;
+    background-color: #9A5256DC;
+  }
+
+/* Typography */
+  .space {
+    margin-left: 7px;
+  }
+  .blue {
+    color: #58a6ff;
   }
 
 /* Charts */
@@ -1276,10 +1316,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.9133224341256" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="285.9133224341256" y="0" width="81.91465250693324" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="367.8279749410588" y="0" width="50.42448026712295" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="418.25245520818174" y="0" width="41.7475447918182" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.7494043642248" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="285.7494043642248" y="0" width="81.68954170947252" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="367.43894607369737" y="0" width="50.36270670943365" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="417.80165278313103" y="0" width="42.198347216868996" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1289,8 +1329,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>2.15 MB</div>
-                                <div>62.16%</div>
+                                <div>2.16 MB</div>
+                                <div>62.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1299,8 +1339,8 @@
                       TypeScript
                     </div>
                             <small>
-                                <div>379 kB</div>
-                                <div>10.96%</div>
+                                <div>380 kB</div>
+                                <div>10.95%</div>
                             </small>
                         </div>
                     </section>
@@ -1312,7 +1352,7 @@
                     </div>
                             <small>
                                 <div>616 kB</div>
-                                <div>17.81%</div>
+                                <div>17.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1321,8 +1361,8 @@
                       EJS
                     </div>
                             <small>
-                                <div>314 kB</div>
-                                <div>9.08%</div>
+                                <div>318 kB</div>
+                                <div>9.17%</div>
                             </small>
                         </div>
                     </section>

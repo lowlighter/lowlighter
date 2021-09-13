@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="396" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="333" class="">
     <defs>
         <style/>
     </defs>
@@ -1125,6 +1125,17 @@
     overflow: hidden;
   }
 
+/* Code snippet */
+  .snippet .body {
+    padding-left: 12px;
+  }
+  .snippet.additions {
+    color: #336543;
+  }
+  .snippet.deletions {
+    color: #9A5256;
+  }
+
 /* Markdown and syntax highlighting */
   .markdown b, .markdown i {
     display: inline-block;
@@ -1143,6 +1154,15 @@
     white-space: pre-wrap;
     width: 97%;
     margin-top: 4px;
+  }
+  span.code {
+    background-color: #7777771F;
+    padding: 1px 5px;
+    font-size: 80%;
+    border-radius: 6px;
+    color: #777777;
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    margin: 0 4px -3px;
   }
   .token.comment {
     color: #669900;
@@ -1164,7 +1184,27 @@
   }
   .token.trimmed {
     font-style: italic;
-    color: #77777760
+    color: #77777760;
+  }
+  .token.coord {
+    color: #D2A8FF;
+    font-weight: bold;
+  }
+  .token.inserted:not(.prefix) {
+    color: #AAD0B4DC;
+    background-color: #336543DC;
+  }
+  .token.deleted:not(.prefix) {
+    color: #EED2D0DC;
+    background-color: #9A5256DC;
+  }
+
+/* Typography */
+  .space {
+    margin-left: 7px;
+  }
+  .blue {
+    color: #58a6ff;
   }
 
 /* Charts */
@@ -1324,10 +1364,8 @@
                           </div>
                                     </div>
                                     <div class="body markdown">
-                        You could possibly use a LINQ query to do this:
-<code class="language-multiline">int[] s = { 1, 2, 3, 3, 4};
-int[] q = s.Distinct().ToArray();</code>
-
+                        An error occurred:code.replace is not a function
+Please report this to https://github.com/markedjs/marked.
                       </div>
                                     <div class="infos">
                                         <div>
@@ -1369,12 +1407,8 @@ int[] q = s.Distinct().ToArray();</code>
                           </div>
                                     </div>
                                     <div class="body markdown">
-                        Here's how I do it
-<code class="language-multiline">var ts = new TimeSpan(DateTime.UtcNow.Ticks - dt.Ticks);
-double delta = Math.Abs(ts.TotalSeconds);
-<span class="token trimmed">(36 more lines were trimmed)</span></code>
-Suggestions? Comments? Ways to improve this algorithm?
-
+                        An error occurred:code.replace is not a function
+Please report this to https://github.com/markedjs/marked.
                       </div>
                                     <div class="infos">
                                         <div>
