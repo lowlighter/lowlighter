@@ -1125,6 +1125,17 @@
     overflow: hidden;
   }
 
+/* Code snippet */
+  .snippet .body {
+    padding-left: 12px;
+  }
+  .snippet.additions {
+    color: #336543;
+  }
+  .snippet.deletions {
+    color: #9A5256;
+  }
+
 /* Markdown and syntax highlighting */
   .markdown b, .markdown i {
     display: inline-block;
@@ -1143,6 +1154,15 @@
     white-space: pre-wrap;
     width: 97%;
     margin-top: 4px;
+  }
+  span.code {
+    background-color: #7777771F;
+    padding: 1px 5px;
+    font-size: 80%;
+    border-radius: 6px;
+    color: #777777;
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    margin: 0 4px -3px;
   }
   .token.comment {
     color: #669900;
@@ -1164,7 +1184,27 @@
   }
   .token.trimmed {
     font-style: italic;
-    color: #77777760
+    color: #77777760;
+  }
+  .token.coord {
+    color: #D2A8FF;
+    font-weight: bold;
+  }
+  .token.inserted:not(.prefix) {
+    color: #AAD0B4DC;
+    background-color: #336543DC;
+  }
+  .token.deleted:not(.prefix) {
+    color: #EED2D0DC;
+    background-color: #9A5256DC;
+  }
+
+/* Typography */
+  .space {
+    margin-left: 7px;
+  }
+  .blue {
+    color: #58a6ff;
   }
 
 /* Charts */
@@ -1315,7 +1355,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="112.33625 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="112.64625 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1339,12 +1379,12 @@
                   <span class="prefix">Great</span> maintainer
                   
                     <span class="gh">
-                      ranked 7.28k out of 238m repositories
+                      ranked 7.26k out of 238m repositories
                     </span>
                   
                   
                 </div>
-                                <div class="text">Maintaining a repository with 3899 stars</div>
+                                <div class="text">Maintaining a repository with 3907 stars</div>
                             </div>
                         </div>
                         <div class="achievement secret largeable-width-half">
