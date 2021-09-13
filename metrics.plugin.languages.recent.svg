@@ -1125,6 +1125,17 @@
     overflow: hidden;
   }
 
+/* Code snippet */
+  .snippet .body {
+    padding-left: 12px;
+  }
+  .snippet.additions {
+    color: #336543;
+  }
+  .snippet.deletions {
+    color: #9A5256;
+  }
+
 /* Markdown and syntax highlighting */
   .markdown b, .markdown i {
     display: inline-block;
@@ -1143,6 +1154,15 @@
     white-space: pre-wrap;
     width: 97%;
     margin-top: 4px;
+  }
+  span.code {
+    background-color: #7777771F;
+    padding: 1px 5px;
+    font-size: 80%;
+    border-radius: 6px;
+    color: #777777;
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    margin: 0 4px -3px;
   }
   .token.comment {
     color: #669900;
@@ -1164,7 +1184,27 @@
   }
   .token.trimmed {
     font-style: italic;
-    color: #77777760
+    color: #77777760;
+  }
+  .token.coord {
+    color: #D2A8FF;
+    font-weight: bold;
+  }
+  .token.inserted:not(.prefix) {
+    color: #AAD0B4DC;
+    background-color: #336543DC;
+  }
+  .token.deleted:not(.prefix) {
+    color: #EED2D0DC;
+    background-color: #9A5256DC;
+  }
+
+/* Typography */
+  .space {
+    margin-left: 7px;
+  }
+  .blue {
+    color: #58a6ff;
   }
 
 /* Charts */
@@ -1272,16 +1312,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 190 edited files from 54 commits over last 12 days
+            estimation from 204 edited files from 72 commits over last 13 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="369.91021923210764" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="369.91021923210764" y="0" width="49.06808954877624" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="418.9783087808839" y="0" width="41.021691219116114" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.0509920267013" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="343.0509920267013" y="0" width="62.7264973113295" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="405.77748933803076" y="0" width="54.22251066196922" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1291,8 +1331,8 @@
                       TypeScript
                     </div>
                             <small>
-                                <div>34.6 kB</div>
-                                <div>80.42%</div>
+                                <div>40.2 kB</div>
+                                <div>74.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1301,8 +1341,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>3.84 kB</div>
-                                <div>8.92%</div>
+                                <div>6.36 kB</div>
+                                <div>11.79%</div>
                             </small>
                         </div>
                     </section>
@@ -1313,8 +1353,8 @@
                       EJS
                     </div>
                             <small>
-                                <div>4.60 kB</div>
-                                <div>10.67%</div>
+                                <div>7.35 kB</div>
+                                <div>13.64%</div>
                             </small>
                         </div>
                     </section>
