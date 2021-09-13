@@ -1125,6 +1125,17 @@
     overflow: hidden;
   }
 
+/* Code snippet */
+  .snippet .body {
+    padding-left: 12px;
+  }
+  .snippet.additions {
+    color: #336543;
+  }
+  .snippet.deletions {
+    color: #9A5256;
+  }
+
 /* Markdown and syntax highlighting */
   .markdown b, .markdown i {
     display: inline-block;
@@ -1143,6 +1154,15 @@
     white-space: pre-wrap;
     width: 97%;
     margin-top: 4px;
+  }
+  span.code {
+    background-color: #7777771F;
+    padding: 1px 5px;
+    font-size: 80%;
+    border-radius: 6px;
+    color: #777777;
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    margin: 0 4px -3px;
   }
   .token.comment {
     color: #669900;
@@ -1164,7 +1184,27 @@
   }
   .token.trimmed {
     font-style: italic;
-    color: #77777760
+    color: #77777760;
+  }
+  .token.coord {
+    color: #D2A8FF;
+    font-weight: bold;
+  }
+  .token.inserted:not(.prefix) {
+    color: #AAD0B4DC;
+    background-color: #336543DC;
+  }
+  .token.deleted:not(.prefix) {
+    color: #EED2D0DC;
+    background-color: #9A5256DC;
+  }
+
+/* Typography */
+  .space {
+    margin-left: 7px;
+  }
+  .blue {
+    color: #58a6ff;
   }
 
 /* Charts */
@@ -1273,8 +1313,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New alternatives to HSL and HSV that better match color perception</div>
-                                <div class="date">12/09/2021</div>
+                                <div class="title">NSO Group iMessage Zero-Click Exploit Captured in the Wild</div>
+                                <div class="date">13/09/2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1282,8 +1322,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">2MW Electric Aircraft Engine</div>
-                                <div class="date">12/09/2021</div>
+                                <div class="title">Engineers grow pancreatic organoids that mimic the real thing</div>
+                                <div class="date">13/09/2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1291,8 +1331,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Forever Trial at Guantanamo</div>
-                                <div class="date">12/09/2021</div>
+                                <div class="title">Disclosing E2EE vulnerability in multiple Matrix clients</div>
+                                <div class="date">13/09/2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1300,7 +1340,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why most gas stations don’t make money from selling gas</div>
+                                <div class="title">Show HN: Weather API for non-commercial use</div>
                                 <div class="date">12/09/2021</div>
                             </div>
                         </div>
