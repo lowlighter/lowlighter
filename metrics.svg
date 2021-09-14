@@ -2377,15 +2377,15 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 205 edited files from 71 commits over last 14 days
+            estimation from 206 edited files from 66 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="405.36336442020064" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="405.36336442020064" y="0" width="54.636635579799396" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="396.84160736169935" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="396.84160736169935" y="0" width="63.15839263830062" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2396,7 +2396,7 @@
                     </div>
                             <small>
                                 <div>1.09k lines</div>
-                                <div>88.12%</div>
+                                <div>86.27%</div>
                             </small>
                         </div>
                     </section>
@@ -2407,8 +2407,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>107 lines</div>
-                                <div>11.88%</div>
+                                <div>128 lines</div>
+                                <div>13.73%</div>
                             </small>
                         </div>
                     </section>
