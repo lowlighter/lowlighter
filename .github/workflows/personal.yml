@@ -37,6 +37,7 @@ jobs:
           plugin_notable_repositories: yes
           plugin_discussions: yes
           config_order: base.header, isocalendar, languages, notable, discussions, topics
+          output_action: pull-request
 
       - name: 🦑 Personal metrics (right)
         if: ${{ success() || failure() }}
@@ -53,6 +54,7 @@ jobs:
           plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
           plugin_music_limit: 8
           config_order: anilist, music
+          output_action: pull-request
 
       - name: 🦑 Personal metrics (bottom)
         if: ${{ success() || failure() }}
@@ -64,3 +66,4 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           config_display: large
+          output_action: pull-request-squash
