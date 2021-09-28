@@ -57,19 +57,6 @@ jobs:
           output_action: pull-request
           delay: 120
 
-      - name: 📒 Markdown template
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          template: markdown
-          filename: metrics.markdown.md
-          markdown: metrics.markdown.template.md
-          config_output: markdown
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
       - name: 📒 Markdown template (with plugins)
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
@@ -1128,13 +1115,26 @@ jobs:
 # ======================================================================================
 
   github-metrics-markdown:
-    needs: [github-metrics]
     runs-on: ubuntu-latest
     steps:
+      - name: 📒 Markdown template
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          template: markdown
+          filename: metrics.markdown.md
+          markdown: metrics.markdown.template.md
+          config_output: markdown
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
+          delay: 120
+
       - name: Screenshot markdown example
         run: |
           node /metrics/.github/markdown_example.mjs
           echo "METRICS_MARKDOWN_EXAMPLE=$(base64 --wrap=0 metrics.markdown.png)" >> $GITHUB_ENV
+
       - name: Update markdown example
         uses: actions/github-script@v3
         env:
@@ -1158,7 +1158,6 @@ jobs:
 # ======================================================================================
 
   github-metrics-repository:
-    needs: [github-metrics]
     runs-on: ubuntu-latest
     steps:
 
