@@ -4,7 +4,7 @@
 name: Metrics (examples)
 on:
   schedule:
-    - cron: "0 12 * * *"
+    - cron: "0 8 * * *"
   workflow_dispatch:
 jobs:
   github-metrics:
@@ -53,6 +53,19 @@ jobs:
           filename: metrics.terminal.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, metadata
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
+          delay: 120
+
+      - name: 📒 Markdown template
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          template: markdown
+          filename: metrics.markdown.md
+          markdown: metrics.markdown.template.md
+          config_output: markdown
+          token: ${{ secrets.METRICS_TOKEN }}
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
           delay: 120
@@ -1117,20 +1130,9 @@ jobs:
   github-metrics-markdown:
     runs-on: ubuntu-latest
     steps:
-      - name: 📒 Markdown template
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          template: markdown
-          filename: metrics.markdown.md
-          markdown: metrics.markdown.template.md
-          config_output: markdown
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
 
       - name: Screenshot markdown example
+        container: ghcr.io/lowlighter/metrics:master
         run: |
           node /metrics/.github/markdown_example.mjs
           echo "METRICS_MARKDOWN_EXAMPLE=$(base64 --wrap=0 metrics.markdown.png)" >> $GITHUB_ENV
