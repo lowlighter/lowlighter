@@ -1157,10 +1157,10 @@ jobs:
 
   github-metrics-markdown:
     runs-on: ubuntu-latest
+    container: ghcr.io/lowlighter/metrics:master
     steps:
 
       - name: Screenshot markdown example
-        container: ghcr.io/lowlighter/metrics:master
         run: |
           node /metrics/.github/markdown_example.mjs
           echo "METRICS_MARKDOWN_EXAMPLE=$(base64 --wrap=0 metrics.markdown.png)" >> $GITHUB_ENV
