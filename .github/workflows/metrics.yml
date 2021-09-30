@@ -950,6 +950,34 @@ jobs:
           delay: 120
 
       # ======================================================================================
+      # 💕 GitHub Sponsors
+
+      - name: 💕 GitHub Sponsors
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.sponsors.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_sponsors: yes
+          plugin_sponsors_sections: goal
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
+          delay: 120
+
+      - name: 💕 GitHub Sponsors (with introduction)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.sponsors.full.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_sponsors: yes
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
+          delay: 120
+
+      # ======================================================================================
       # 💹 Stock prices plugin
 
       - name: 💹 Stock prices
