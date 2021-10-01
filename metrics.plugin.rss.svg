@@ -935,10 +935,25 @@
     margin-right: 0;
   }
 
-/* Introduction */
-  .introduction {
+/* Introduction and sponsors */
+  .introduction, .sponsors {
     white-space: normal;
     margin: 0 13px 2px;
+  }
+  .sponsors.goal {
+    padding: 6px 8px;
+    border-radius: 5px;
+    background-color: #7777771F;
+  }
+  .sponsors .goal-text {
+    display: flex;
+    justify-content: space-between;
+    font-style: italic;
+    font-size: 10px;
+    margin-bottom: 4px;
+  }
+  .sponsors .avatar {
+    margin: 2px;
   }
 
 /* Stackoverflow */
@@ -1141,6 +1156,22 @@
     display: inline-block;
     width: 97%;
   }
+  .markdown p {
+    margin: 8px 0;
+  }
+  .markdown ul {
+    padding-left: 24px;
+  }
+  .markdown a {
+    color: #58a6ff;
+    text-decoration: none;
+  }
+  .markdown blockquote {
+    border-left: 4px solid #7777771F;
+    color: #777777;
+    margin: 0;
+    padding-left: 16px;
+  }
   code {
     background-color: #7777771F;
     display: inline-block;
@@ -1313,8 +1344,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Making Bracket Pair Colorization Faster</div>
-                                <div class="date">29/09/2021</div>
+                                <div class="title">Ocean drone captures video from inside a hurricane</div>
+                                <div class="date">01/10/2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1322,8 +1353,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Simula One: an office-focused, standalone VR headset built on top of Linux</div>
-                                <div class="date">29/09/2021</div>
+                                <div class="title">Where do type systems come from?</div>
+                                <div class="date">30/09/2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1331,8 +1362,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I'm working on open source full time</div>
-                                <div class="date">29/09/2021</div>
+                                <div class="title">Session Encrypted Messenger</div>
+                                <div class="date">01/10/2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1340,8 +1371,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Kidney Project successfully tests a prototype bioartificial kidney</div>
-                                <div class="date">28/09/2021</div>
+                                <div class="title">DMV approves Cruise and Waymo for commercial service in parts of Bay Area</div>
+                                <div class="date">30/09/2021</div>
                             </div>
                         </div>
                     </section>
