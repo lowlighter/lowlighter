@@ -9,7 +9,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    if: "github.repository == 'lowlighter/lowlighter'"
+    if: false # "github.repository == 'lowlighter/lowlighter'"
     steps:
 
       # ======================================================================================
@@ -1177,7 +1177,7 @@ jobs:
               github.repos.createOrUpdateFileContents({
                 ...context.repo,
                 path:"metrics.markdown.png",
-                message:`Auto-generated metrics for run #${github.context.runId}`,
+                message:`Auto-generated metrics for run #${github.context?.runId ?? "0000000000"}`,
                 content:process.env.METRICS_MARKDOWN_EXAMPLE,
                 sha,
               })
@@ -1189,6 +1189,7 @@ jobs:
 
   github-metrics-repository:
     runs-on: ubuntu-latest
+    if: false # "github.repository == 'lowlighter/lowlighter'"
     steps:
 
       - name: Contributors
