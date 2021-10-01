@@ -9,7 +9,7 @@ on:
 jobs:
   github-metrics-examples:
     runs-on: ubuntu-latest
-    if: false # "github.repository == 'lowlighter/lowlighter'"
+    if: "github.repository == 'lowlighter/lowlighter'"
     steps:
 
       # ======================================================================================
@@ -1157,6 +1157,7 @@ jobs:
 
   github-metrics-markdown:
     runs-on: ubuntu-latest
+    if: "github.repository == 'lowlighter/lowlighter'"
     container: ghcr.io/lowlighter/metrics:master
     steps:
 
@@ -1188,38 +1189,9 @@ jobs:
 # Special job used to render lowlighter/metrics repository assets
 # ======================================================================================
 
-  github-metrics-examples-new:
-    runs-on: ubuntu-latest
-    steps:
-
-      - name: 💕 GitHub Sponsors
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.sponsors.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_sponsors: yes
-          plugin_sponsors_sections: goal
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
-      - name: 💕 GitHub Sponsors (with introduction)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.sponsors.full.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_sponsors: yes
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
   github-metrics-repository:
     runs-on: ubuntu-latest
-    if: false # "github.repository == 'lowlighter/lowlighter'"
+    if: "github.repository == 'lowlighter/lowlighter'"
     steps:
 
       - name: Contributors
