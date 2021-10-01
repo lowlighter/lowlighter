@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="295" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="260" class="">
     <defs>
         <style/>
     </defs>
@@ -935,10 +935,25 @@
     margin-right: 0;
   }
 
-/* Introduction */
-  .introduction {
+/* Introduction and sponsors */
+  .introduction, .sponsors {
     white-space: normal;
     margin: 0 13px 2px;
+  }
+  .sponsors.goal {
+    padding: 6px 8px;
+    border-radius: 5px;
+    background-color: #7777771F;
+  }
+  .sponsors .goal-text {
+    display: flex;
+    justify-content: space-between;
+    font-style: italic;
+    font-size: 10px;
+    margin-bottom: 4px;
+  }
+  .sponsors .avatar {
+    margin: 2px;
   }
 
 /* Stackoverflow */
@@ -1141,6 +1156,22 @@
     display: inline-block;
     width: 97%;
   }
+  .markdown p {
+    margin: 8px 0;
+  }
+  .markdown ul {
+    padding-left: 24px;
+  }
+  .markdown a {
+    color: #58a6ff;
+    text-decoration: none;
+  }
+  .markdown blockquote {
+    border-left: 4px solid #7777771F;
+    color: #777777;
+    margin: 0;
+    padding-left: 16px;
+  }
   code {
     background-color: #7777771F;
     display: inline-block;
@@ -1316,14 +1347,14 @@
             
           </div>
                         <div class="tweet">
-                  View cheat sheets on the command line with 𝚌𝚑𝚎𝚊𝚝: <a href="https://t.co/Ks2qylz0b0" class="link">github.com/cheat/cheat</a> 📑<br /><br />Very helpful to remember options for commands that you use frequently, but not frequently enough to remember. <a href="https://t.co/E1upebBQja" class="link">pic.twitter.com/E1upebBQja</a>
+                  These are great!<br /><br />We're partial to The ReadME Podcast 😉<br /><br /><a href="https://t.co/FNZhCrKeoj" class="link">github.com/readme/podcast</a>
                   
-                  <div class="date">12:01 on 28/09/2021</div>
+                  <div class="date">00:40 on 01/10/2021</div>
                 </div>
                         <div class="tweet">
-                  Are you new to GitHub? Do you have issues we can help you troubleshoot? If so, bring your questions to our AMA with one of the best: Technical Enablement Lead, Eric Hollenberry. Get your questions ready &amp; save your seat now! <a href="https://t.co/14YM5nrrXC" class="link">bit.ly/3Aicp8y</a> <a href="https://t.co/Hr1MpF4BXk" class="link">pic.twitter.com/Hr1MpF4BXk</a>
+                  It's  <span class="hashtag">#InternationalPodcastDay</span> . What are some good developer/technology podcasts you recommend that folks checkout (pun intended)?
                   
-                  <div class="date">20:00 on 27/09/2021</div>
+                  <div class="date">20:33 on 30/09/2021</div>
                 </div>
                     </section>
                 </div>
