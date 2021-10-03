@@ -1344,7 +1344,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Martians of Budapest</div>
+                                <div class="title">Effective Go</div>
+                                <div class="date">03/10/2021</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Ransomware gangs are complaining that other crooks are stealing their ransoms</div>
                                 <div class="date">02/10/2021</div>
                             </div>
                         </div>
@@ -1353,8 +1362,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A dependently typed language for proofs that you can implement in one day</div>
-                                <div class="date">02/10/2021</div>
+                                <div class="title">Is Crypto Banking the Unbanked?</div>
+                                <div class="date">03/10/2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1362,17 +1371,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The new dot com bubble is here: It's called online advertising (2019)</div>
-                                <div class="date">02/10/2021</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Factorio's Belt Bug</div>
-                                <div class="date">02/10/2021</div>
+                                <div class="title">Git Internals – Learn by Building Your Own Git</div>
+                                <div class="date">03/10/2021</div>
                             </div>
                         </div>
                     </section>
