@@ -56,7 +56,7 @@ jobs:
           config_order: anilist, music
           output_action: pull-request
 
-      - name: 🦑 Personal metrics (bottom)
+      - name: 🦑 Personal metrics (bottom 1)
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -65,5 +65,14 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
-          config_display: large
+          output_action: pull-request
+          
+      - name: 🦑 Personal metrics (bottom 2)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.personal.sponsors.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_sponsors: yes
           output_action: pull-request-squash
