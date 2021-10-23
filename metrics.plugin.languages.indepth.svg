@@ -1343,17 +1343,17 @@
         Most used languages
       </h3>
                 <small>
-            estimation from 2871 edited files from 2157 commits
+            estimation from 2871 edited files from 2163 commits
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.22664503048463" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="343.22664503048463" y="0" width="42.68271069075559" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="385.9093557212402" y="0" width="41.15747911975916" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="427.06683484099943" y="0" width="32.93316515900064" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.31672027000775" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="343.31672027000775" y="0" width="42.64978660983003" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="385.96650687983777" y="0" width="41.1257315537939" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="427.0922384336317" y="0" width="32.90776156636835" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1363,7 +1363,7 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>62.8k lines</div>
+                                <div>62.9k lines</div>
                                 <div>4.13 MB</div>
                             </small>
                         </div>
