@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="525" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="368" class="">
     <defs>
         <style/>
     </defs>
@@ -1371,28 +1371,12 @@
                             <p>A hobbyist developer working on creative open-source projects.</p>
                             <p>Currently working on: </p>
                             <ul>
-                                <li><a href="https://github.com/lowlighter/metrics">metrics</a>, a svg infographics generator for your GitHub profile</li>
-                                <li><a href="https://github.com/lowlighter/itsudeno">itsudeno</a>, a scriptable IT automation system similar to ansible</li>
-                                <li><a href="https://github.com/lowlighter/gracidea">gracidea</a>, a Pokémon 2D live map with animated characters</li>
+                                <li><a href="https://github.com/lowlighter/metrics">📊 metrics</a>, a svg infographics generator for your GitHub profile</li>
+                                <li><a href="https://github.com/lowlighter/itsudeno">🍣 itsudeno</a>, a scriptable IT automation system similar to ansible</li>
+                                <li><a href="https://github.com/lowlighter/gracidea">🌺 gracidea</a>, a Pokémon 2D live map with animated characters</li>
                             </ul>
-                            <p>I also contribute to <a href="https://github.com/denoland/deno_std">deno standard library</a> sometimes, I'm the author of the following features:</p>
-                            <ul>
-                                <li><a href="https://github.com/denoland/deno_std/pull/1075"><code>deepMerge</code></a> function (along with output type inference)</li>
-                                <li><a href="https://github.com/denoland/deno/pull/8001"><code>assertObjectMatch</code></a> function for partial object matching assertions</li>
-                                <li><a href="https://github.com/denoland/deno_std/pull/948">improved string diff in test results</a>, including both lines and words diff displays</li>
-                                <li><a href="https://github.com/denoland/deno_std/pull/789">yaml custom schemas support</a>, along with additional type support</li>
-                                <li>
-                                    <a href="https://github.com/denoland/deno_std/pulls?q=is%3Apr+author%3Alowlighter">
-                                        <em>(other contributions)</em>
-                                    </a>
-                                </li>
-                            </ul>
-                            <p>You can also check my other works on <a href="https://simon.lecoq.io/">simon.lecoq.io</a></p>
-                            <blockquote>
-                                <p>
-                                    <em>💕 sponsors may be displayed on various readme and release notes as a thank you (even if it's a one time contribution)</em>
-                                </p>
-                            </blockquote>
+                            <p>I also contribute to <a href="https://github.com/denoland/deno_std">🦕 deno standard library</a> sometimes, I'm the author of <a href="https://github.com/denoland/deno_std/pull/1075"><code>deepMerge</code></a>, <a href="https://github.com/denoland/deno/pull/8001"><code>assertObjectMatch</code></a>, <a href="https://github.com/denoland/deno_std/pull/948">string diff in Deno.test</a>, and other <a href="https://github.com/denoland/deno_std/pulls?q=is%3Apr+author%3Alowlighter">minor patchs</a>.</p>
+                            <p>You can also check my other works on <a href="https://simon.lecoq.io/">simon.lecoq.io 🦑</a></p>
                         </div>
                     </section>
                 </div>
