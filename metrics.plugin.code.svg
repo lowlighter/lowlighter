@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="279" class="">
     <defs>
         <style/>
     </defs>
@@ -1352,7 +1352,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">c3d96cff</span>
-                            <span class="code">source/plugins/music/index.mjs</span>
+                            <span class="code">source/plugins/posts/index.mjs</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -1363,13 +1363,13 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -415,7 +415,7 @@</span>
-export default async function({login, imports, data, q, account}, {enabled = fal
-<span class="token unchanged"><span class="token prefix unchanged"> </span><span class="token line">       track.artwork = await imports.imgb64(track.artwork)
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -47,7 +47,7 @@</span>
+export default async function({login, data, imports, q, queries, account}, {enab
+<span class="token unchanged"><span class="token prefix unchanged"> </span><span class="token line">       posts = await Promise.all(posts.map(async ({image, ...post}) =&gt; ({image:await imports.imgb64(image, {width:144, height:-1}), ...post})))
 </span><span class="token prefix unchanged"> </span><span class="token line">     }
-</span><span class="token prefix unchanged"> </span><span class="token line">     //Save results
-</span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">     return {...raw, tracks, played_at}
-</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">     return {...raw, user, tracks, played_at}
+</span><span class="token prefix unchanged"> </span><span class="token line">     //Results
+</span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">     return {source, link, descriptions, covers, list:posts}
+</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">     return {user, source, link, descriptions, covers, list:posts}
 </span></span><span class="token unchanged"><span class="token prefix unchanged"> </span><span class="token line">   }
 </span></span>
 <span class="token unchanged"><span class="token prefix unchanged"> </span><span class="token line">   //Unhandled error</span></span></code>
