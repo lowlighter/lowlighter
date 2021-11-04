@@ -175,6 +175,61 @@
     font-size: 12px;
     background-color: #959da520;
   }
+  .contribution.organization.s {
+    color: #EB355E;
+    background-color: #EB355E26;
+    border-color: #EB355E;
+  }
+  .contribution.organization.a {
+    color: #D79533;
+    background-color: #E7BD6926;
+    border-color: #E7BD69;
+  }
+  .contribution.organization.b {
+    color: #9D8FFF;
+    background-color: #9E91FF26;
+    border-color: #9E91FF;
+  }
+  .contribution.organization.c {
+    color: #58A6FF;
+    background-color: #58A6FF26;
+    border-color: #58A6FF;
+  }
+  .contribution .gauge-base, .contribution .gauge-arc {
+    stroke: currentColor;
+    stroke-width: 4;
+  }
+  .contribution .gauge text {
+    fill: currentColor;
+    font-size: 12px;
+    font-size: 15px;
+    letter-spacing: -2px;
+  }
+  .contribution .gauge {
+    margin: 0 4px;
+    color: inherit;
+  }
+  .contribution .commits-icon {
+    fill: currentColor;
+    width: 10px;
+    height: 10px;
+    margin-left: -9px;
+    margin-top: 8px;
+    color: inherit;
+    filter: brightness(.5);
+  }
+  .contribution.s .side {
+    background-color: #EB355E26;
+  }
+  .contribution.a .side {
+    background-color: #E7BD6926;
+  }
+  .contribution.b .side {
+    background-color: #9E91FF26;
+  }
+  .contribution.c .side {
+    background-color: #58A6FF26;
+  }
 
   .contribution.organization .avatar {
     margin: 0 4px;
@@ -1347,14 +1402,14 @@
             
           </div>
                         <div class="tweet">
-                  RT <span class="mention">@GitHubEnt</span>: How do you retro? In our next Demo Days, we’ll cover why retros are so important for teams—and how to run a good one. Reserv…
+                  RT <span class="mention">@ashtom</span>: I am thrilled to be taking on the role of <span class="mention">@GitHub</span> CEO on Nov 15th. Leading the home for all developers is a dream fulfilled. Th…
                   
-                  <div class="date">22:37:36 on 2 Nov 2021</div>
+                  <div class="date">18:01:19 on 3 Nov 2021</div>
                 </div>
                         <div class="tweet">
-                  Learn about inspiring stories from the developers, maintainers, and companies that are solving big problems, together—all on your time. Register now for free access to to the entire on demand library from GitHub Universe. <br /><a href="https://t.co/hfk7jkWCVS" class="link">github.co/3byyQve</a> <a href="https://t.co/CwtKmXDKmy" class="link">pic.twitter.com/CwtKmXDKmy</a>
+                  RT <span class="mention">@natfriedman</span>: BIG news! After an amazing three years at GitHub, I'm ready for my next adventure.<br /><br />Later this month, I'm passing the role…
                   
-                  <div class="date">22:00:40 on 2 Nov 2021</div>
+                  <div class="date">17:05:51 on 3 Nov 2021</div>
                 </div>
                     </section>
                 </div>

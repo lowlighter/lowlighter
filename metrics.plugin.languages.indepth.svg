@@ -175,6 +175,61 @@
     font-size: 12px;
     background-color: #959da520;
   }
+  .contribution.organization.s {
+    color: #EB355E;
+    background-color: #EB355E26;
+    border-color: #EB355E;
+  }
+  .contribution.organization.a {
+    color: #D79533;
+    background-color: #E7BD6926;
+    border-color: #E7BD69;
+  }
+  .contribution.organization.b {
+    color: #9D8FFF;
+    background-color: #9E91FF26;
+    border-color: #9E91FF;
+  }
+  .contribution.organization.c {
+    color: #58A6FF;
+    background-color: #58A6FF26;
+    border-color: #58A6FF;
+  }
+  .contribution .gauge-base, .contribution .gauge-arc {
+    stroke: currentColor;
+    stroke-width: 4;
+  }
+  .contribution .gauge text {
+    fill: currentColor;
+    font-size: 12px;
+    font-size: 15px;
+    letter-spacing: -2px;
+  }
+  .contribution .gauge {
+    margin: 0 4px;
+    color: inherit;
+  }
+  .contribution .commits-icon {
+    fill: currentColor;
+    width: 10px;
+    height: 10px;
+    margin-left: -9px;
+    margin-top: 8px;
+    color: inherit;
+    filter: brightness(.5);
+  }
+  .contribution.s .side {
+    background-color: #EB355E26;
+  }
+  .contribution.a .side {
+    background-color: #E7BD6926;
+  }
+  .contribution.b .side {
+    background-color: #9E91FF26;
+  }
+  .contribution.c .side {
+    background-color: #58A6FF26;
+  }
 
   .contribution.organization .avatar {
     margin: 0 4px;
@@ -1343,17 +1398,17 @@
         Most used languages
       </h3>
                 <small>
-            estimation from 2871 edited files from 2179 commits
+            estimation from 2872 edited files from 2187 commits
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.0199502060096" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="343.0199502060096" y="0" width="42.55560385978194" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="385.57555406579155" y="0" width="41.03491434687772" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="426.61046841266926" y="0" width="33.38953158733072" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.0983404105665" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="343.0983404105665" y="0" width="42.491022962256054" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="385.58936337282256" y="0" width="40.97264119462376" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="426.5620045674463" y="0" width="33.43799543255371" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1363,8 +1418,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>63k lines</div>
-                                <div>4.14 MB</div>
+                                <div>63.1k lines</div>
+                                <div>4.15 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1395,8 +1450,8 @@
                       EJS
                     </div>
                             <small>
-                                <div>4.90k lines</div>
-                                <div>402 kB</div>
+                                <div>4.91k lines</div>
+                                <div>404 kB</div>
                             </small>
                         </div>
                     </section>

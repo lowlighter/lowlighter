@@ -175,6 +175,61 @@
     font-size: 12px;
     background-color: #959da520;
   }
+  .contribution.organization.s {
+    color: #EB355E;
+    background-color: #EB355E26;
+    border-color: #EB355E;
+  }
+  .contribution.organization.a {
+    color: #D79533;
+    background-color: #E7BD6926;
+    border-color: #E7BD69;
+  }
+  .contribution.organization.b {
+    color: #9D8FFF;
+    background-color: #9E91FF26;
+    border-color: #9E91FF;
+  }
+  .contribution.organization.c {
+    color: #58A6FF;
+    background-color: #58A6FF26;
+    border-color: #58A6FF;
+  }
+  .contribution .gauge-base, .contribution .gauge-arc {
+    stroke: currentColor;
+    stroke-width: 4;
+  }
+  .contribution .gauge text {
+    fill: currentColor;
+    font-size: 12px;
+    font-size: 15px;
+    letter-spacing: -2px;
+  }
+  .contribution .gauge {
+    margin: 0 4px;
+    color: inherit;
+  }
+  .contribution .commits-icon {
+    fill: currentColor;
+    width: 10px;
+    height: 10px;
+    margin-left: -9px;
+    margin-top: 8px;
+    color: inherit;
+    filter: brightness(.5);
+  }
+  .contribution.s .side {
+    background-color: #EB355E26;
+  }
+  .contribution.a .side {
+    background-color: #E7BD6926;
+  }
+  .contribution.b .side {
+    background-color: #9E91FF26;
+  }
+  .contribution.c .side {
+    background-color: #58A6FF26;
+  }
 
   .contribution.organization .avatar {
     margin: 0 4px;
@@ -1344,8 +1399,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What is the inverse of a vector?</div>
-                                <div class="date">2 Nov 2021</div>
+                                <div class="title">An oral history of Bank Python</div>
+                                <div class="date">4 Nov 2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1353,8 +1408,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How X Window Managers Work, and How to Write One (2014)</div>
-                                <div class="date">3 Nov 2021</div>
+                                <div class="title">Our self imposed scarcity of nice places</div>
+                                <div class="date">4 Nov 2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1362,8 +1417,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Zig monthly, October 2021: Games, gamedev, Elixir, tools and more</div>
-                                <div class="date">3 Nov 2021</div>
+                                <div class="title">I introduced my 5-year-old and 2-year-old to startx and xmonad (2012)</div>
+                                <div class="date">4 Nov 2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1371,8 +1426,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">An opinionated guide on how to reverse engineer software</div>
-                                <div class="date">2 Nov 2021</div>
+                                <div class="title">Batavia shipwreck reveals a key to Dutch success in 17th-century world trade</div>
+                                <div class="date">1 Nov 2021</div>
                             </div>
                         </div>
                     </section>
