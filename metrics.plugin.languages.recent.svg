@@ -175,6 +175,61 @@
     font-size: 12px;
     background-color: #959da520;
   }
+  .contribution.organization.s {
+    color: #EB355E;
+    background-color: #EB355E26;
+    border-color: #EB355E;
+  }
+  .contribution.organization.a {
+    color: #D79533;
+    background-color: #E7BD6926;
+    border-color: #E7BD69;
+  }
+  .contribution.organization.b {
+    color: #9D8FFF;
+    background-color: #9E91FF26;
+    border-color: #9E91FF;
+  }
+  .contribution.organization.c {
+    color: #58A6FF;
+    background-color: #58A6FF26;
+    border-color: #58A6FF;
+  }
+  .contribution .gauge-base, .contribution .gauge-arc {
+    stroke: currentColor;
+    stroke-width: 4;
+  }
+  .contribution .gauge text {
+    fill: currentColor;
+    font-size: 12px;
+    font-size: 15px;
+    letter-spacing: -2px;
+  }
+  .contribution .gauge {
+    margin: 0 4px;
+    color: inherit;
+  }
+  .contribution .commits-icon {
+    fill: currentColor;
+    width: 10px;
+    height: 10px;
+    margin-left: -9px;
+    margin-top: 8px;
+    color: inherit;
+    filter: brightness(.5);
+  }
+  .contribution.s .side {
+    background-color: #EB355E26;
+  }
+  .contribution.a .side {
+    background-color: #E7BD6926;
+  }
+  .contribution.b .side {
+    background-color: #9E91FF26;
+  }
+  .contribution.c .side {
+    background-color: #58A6FF26;
+  }
 
   .contribution.organization .avatar {
     margin: 0 4px;
@@ -1343,16 +1398,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 70 edited files from 52 commits over last 13 days
+            estimation from 78 edited files from 64 commits over last 13 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="334.5065176908752" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="334.5065176908752" y="0" width="123.13780260707635" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="457.6443202979516" y="0" width="2.355679702048417" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="347.24385393549875" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="347.24385393549875" y="0" width="110.86030492549789" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="458.1041588609966" y="0" width="1.895841139003372" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1362,8 +1417,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>20.3 kB</div>
-                                <div>72.72%</div>
+                                <div>26.1 kB</div>
+                                <div>75.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1373,7 +1428,7 @@
                     </div>
                             <small>
                                 <div>143 bytes</div>
-                                <div>0.51%</div>
+                                <div>0.41%</div>
                             </small>
                         </div>
                     </section>
@@ -1384,8 +1439,8 @@
                       EJS
                     </div>
                             <small>
-                                <div>7.47 kB</div>
-                                <div>26.77%</div>
+                                <div>8.36 kB</div>
+                                <div>24.1%</div>
                             </small>
                         </div>
                     </section>
