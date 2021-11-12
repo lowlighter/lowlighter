@@ -278,6 +278,12 @@
 /* Follow-up */
   .followup.legend {
     font-size: 12px;
+    flex-wrap: wrap;
+  }
+  .followup.legend .field {
+    width: 46%;
+    justify-content: flex-start;
+    margin-left: 8px;
   }
   .followup.legend svg {
     margin: 0 3px;
@@ -1402,10 +1408,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.50395426078904" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="284.50395426078904" y="0" width="80.09019039096142" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="364.59414465175047" y="0" width="53.4243139273572" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="418.01845857910763" y="0" width="41.98154142089235" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="282.8542310278925" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="282.8542310278925" y="0" width="79.45682625170859" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="362.31105727960113" y="0" width="53.00182717285459" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="415.31288445245565" y="0" width="44.687115547544295" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
