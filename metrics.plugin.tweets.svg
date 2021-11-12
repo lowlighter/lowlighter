@@ -278,6 +278,12 @@
 /* Follow-up */
   .followup.legend {
     font-size: 12px;
+    flex-wrap: wrap;
+  }
+  .followup.legend .field {
+    width: 46%;
+    justify-content: flex-start;
+    margin-left: 8px;
   }
   .followup.legend svg {
     margin: 0 3px;
@@ -1402,14 +1408,14 @@
             
           </div>
                         <div class="tweet">
-                  RT <span class="mention">@kelseyhightower</span>: Google Summer of Code will be opening up to all newcomers of open source that are 18 years and older, and will no long…
+                  A great use of the <a href="https://t.co/3R4FgnnLzd" class="link">github.dev</a> web editor by <span class="mention">@Codeseeio</span> to make it easier for people to contribute to their <a href="https://t.co/6cgvhEoDAd" class="link">oss-port.com</a> project. <a href="https://t.co/dyBTsb50VF" class="link">twitter.com/Codeseeio/stat…</a>
                   
-                  <div class="date">06:35:43 on 11 Nov 2021</div>
+                  <div class="date">18:11:09 on 11 Nov 2021</div>
                 </div>
                         <div class="tweet">
-                  Check out this on demand session from GitHub Universe that covers everything you need to know about deploying a serverless application from a GitHub repository to AWS.<br /><a href="https://t.co/sgMV8gziLF" class="link">github.co/3mYrzvr</a> <a href="https://t.co/09vWBqFmCc" class="link">pic.twitter.com/09vWBqFmCc</a>
+                  Head over to The ReadME Project and learn how veterans embrace a new mission when they come home from active duty: Tackling code and lifting each other up. <br /><a href="https://t.co/djoe8XR8nX" class="link">github.co/30dZVBL</a>
                   
-                  <div class="date">00:00:06 on 11 Nov 2021</div>
+                  <div class="date">18:00:16 on 11 Nov 2021</div>
                 </div>
                     </section>
                 </div>
