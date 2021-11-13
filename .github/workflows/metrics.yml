@@ -169,7 +169,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_activity: yes
-          plugin_activity_limit: 7
+          plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
@@ -220,20 +220,6 @@ jobs:
           output_action: pull-request
           delay: 120
 
-      - name: 🌸 Anilist (complete)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.anilist.full.svg
-          token: NOT_NEEDED
-          plugin_anilist: yes
-          plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites, watching, reading, characters
-          plugin_anilist_limit: 1
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
       # ======================================================================================
       # ♐ Code snippet of the day
 
@@ -252,20 +238,6 @@ jobs:
 
       # ======================================================================================
       # 🏅 Contributors
-
-      - name: 🏅 Repository contributors
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.contributors.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          template: repository
-          repo: metrics
-          plugin_contributors: yes
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
 
       - name: 🏅 Repository contributors (with contributions)
         if: ${{ success() || failure() }}
@@ -407,21 +379,6 @@ jobs:
 
       # ======================================================================================
       # 💡 Coding habits
-
-      - name: 💡 Coding habits
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          config_timezone: Europe/Paris
-          output_action: pull-request
-          delay: 120
 
       - name: 💡 Coding habits (facts)
         if: ${{ success() || failure() }}
@@ -715,19 +672,6 @@ jobs:
           output_action: pull-request
           delay: 120
 
-      - name: 🎩 Notable contributions (with repositories name)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.notable.repositories.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_notable: yes
-          plugin_notable_repositories: yes
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
       - name: 🎩 Notable contributions (indepth)
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
@@ -737,24 +681,13 @@ jobs:
           base: ""
           plugin_notable: yes
           plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
           delay: 120
 
       # ======================================================================================
       # 🧑‍🤝‍🧑 People plugin
-
-      - name: 🧑‍🤝‍🧑 People (followers and following)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.people.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_people: yes
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
 
       - name: 🧑‍🤝‍🧑 People (followers)
         if: ${{ success() || failure() }}
@@ -765,33 +698,6 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_types: followers
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
-      - name: 🧑‍🤝‍🧑 People (following)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.people.following.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_people: yes
-          plugin_people_types: following
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
-      - name: 🧑‍🤝‍🧑 People (special thanks)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.people.thanks.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_people: yes
-          plugin_people_types: thanks
-          plugin_people_thanks: lowlighter, botlighter, octocat
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
           delay: 120
@@ -807,7 +713,7 @@ jobs:
           repo: metrics
           plugin_people: yes
           plugin_people_types: contributors, stargazers, watchers, sponsors
-          plugin_people_sponsors_custom: lowlighter, yutkat, ktnkk
+          plugin_people_sponsors_custom: yutkat, ktnkk, iamsainikhil, tfSheol
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
           delay: 120
@@ -1186,6 +1092,7 @@ jobs:
     runs-on: ubuntu-latest
     if: "github.repository == 'lowlighter/lowlighter'"
     container: ghcr.io/lowlighter/metrics:master
+    needs: [github-metrics-examples]
     steps:
 
       - name: Screenshot markdown example
@@ -1247,7 +1154,7 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_types: sponsors
-          plugin_people_sponsors_custom: lowlighter, yutkat, ktnkk, iamsainikhil, tfSheol
+          plugin_people_sponsors_custom: yutkat, ktnkk, iamsainikhil, tfSheol
           plugin_people_size: 48
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           config_display: large
