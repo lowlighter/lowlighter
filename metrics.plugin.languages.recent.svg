@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="121" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="141" class="">
     <defs>
         <style/>
     </defs>
@@ -1404,15 +1404,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 113 edited files from 57 commits over last 12 days
+            estimation from 120 edited files from 60 commits over last 13 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="328.9264209762139" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="328.9264209762139" y="0" width="131.07357902378615" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="321.01650412603146" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="321.01650412603146" y="0" width="127.9215637242644" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="448.9380678502959" y="0" width="11.061932149704091" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1423,7 +1424,17 @@
                     </div>
                             <small>
                                 <div>33.4 kB</div>
-                                <div>71.51%</div>
+                                <div>69.79%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      TypeScript
+                    </div>
+                            <small>
+                                <div>1.15 kB</div>
+                                <div>2.4%</div>
                             </small>
                         </div>
                     </section>
@@ -1435,7 +1446,7 @@
                     </div>
                             <small>
                                 <div>13.3 kB</div>
-                                <div>28.49%</div>
+                                <div>27.81%</div>
                             </small>
                         </div>
                     </section>
