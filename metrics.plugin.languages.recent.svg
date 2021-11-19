@@ -1403,15 +1403,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 121 edited files from 51 commits over last 13 days</small>
+                <small>estimation from 87 edited files from 38 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="341.9874109043784" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="341.9874109043784" y="0" width="103.5457743219476" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="445.533185226326" y="0" width="14.46681477367398" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="380.44328328213373" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="380.44328328213373" y="0" width="61.608911601734086" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="442.0521948838678" y="0" width="17.94780511613218" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1423,8 +1423,8 @@
                                 EJS
                             </div>
                             <small>
-                                <div>32.1 kB</div>
-                                <div>74.35%</div>
+                                <div>28.8 kB</div>
+                                <div>82.71%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1436,7 +1436,7 @@
                             </div>
                             <small>
                                 <div>1.36 kB</div>
-                                <div>3.14%</div>
+                                <div>3.9%</div>
                             </small>
                         </div>
                     </section>
@@ -1449,8 +1449,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>9.73 kB</div>
-                                <div>22.51%</div>
+                                <div>4.67 kB</div>
+                                <div>13.39%</div>
                             </small>
                         </div>
                     </section>
