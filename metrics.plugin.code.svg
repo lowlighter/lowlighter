@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="213" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="199" class="">
     <defs>
         <style/>
     </defs>
@@ -1420,19 +1420,18 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">40924635</span>
-                            <span class="code">utils/utils_test.ts</span>
-                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--0</span></span>
+                            <span class="code">utils/stringifier.ts</span>
+                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -56,6 +56,7 @@</span>
-Deno.test("stream: capture", () =&gt; {
-<span class="token unchanged"><span class="token prefix unchanged"></span><span class="token line">assertEquals(stream.cursor, 0);</span><span class="token prefix unchanged"></span><span class="token line">assertEquals(stream.capture({ until: / /, bytes: 1 }), "hello");</span><span class="token prefix unchanged"></span><span class="token line">assertEquals(stream.cursor, 6);</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">assertEquals(stream.capture({ until: /(?&lt;=wo)rld/, bytes: 5, length: 3 }), "wo");</span></span>});
-
-Deno.test("stream: consume", () =&gt; {</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -281,7 +281,7 @@</span>
+export class Stringifier {
+<span class="token unchanged"><span class="token prefix unchanged"></span><span class="token line">return `${content}`;</span><span class="token prefix unchanged"></span><span class="token line">}</span><span class="token prefix unchanged"></span><span class="token line">}</span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">return `"${`${content}`.replace(/\\/g, '\\\\').replace(/"/g, '\\"')}"`;</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">return `"${`${content}`.replace(/\\/g, "\\\\").replace(/"/g, '\\"')}"`;</span></span><span class="token unchanged"><span class="token prefix unchanged"></span><span class="token line">}</span></span>
+<span class="token unchanged"><span class="token prefix unchanged"></span><span class="token line"> //================================================================================</span></span></code>
                         </div>
                     </section>
                 </div>
