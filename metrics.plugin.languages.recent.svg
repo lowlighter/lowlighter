@@ -1403,15 +1403,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 85 edited files from 33 commits over last 13 days</small>
+                <small>estimation from 83 edited files from 29 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="393.6172180419521" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="393.6172180419521" y="0" width="53.24351591071504" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="446.8607339526672" y="0" width="13.1392660473328" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="395.0599662162162" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="395.0599662162162" y="0" width="51.9539695945946" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="447.01393581081084" y="0" width="12.98606418918919" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1423,8 +1423,8 @@
                                 EJS
                             </div>
                             <small>
-                                <div>40.7 kB</div>
-                                <div>85.57%</div>
+                                <div>40.6 kB</div>
+                                <div>85.88%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1435,8 +1435,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>1.36 kB</div>
-                                <div>2.86%</div>
+                                <div>1.34 kB</div>
+                                <div>2.82%</div>
                             </small>
                         </div>
                     </section>
@@ -1449,8 +1449,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>5.51 kB</div>
-                                <div>11.57%</div>
+                                <div>5.35 kB</div>
+                                <div>11.29%</div>
                             </small>
                         </div>
                     </section>
