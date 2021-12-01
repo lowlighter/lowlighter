@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="310" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="244" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.tweet{font-size:13px;margin-top:6px;margin-bottom:16px;margin-left:18px;border-left:3px solid #777777b2;padding-left:6px}.tweet .link,.tweet .mention,h2{color:#0366d6}.tweet .date{margin:6px 0;font-size:12px;color:#666}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.tweet{font-size:13px;margin-top:6px;margin-bottom:16px;margin-left:18px;border-left:3px solid #777777b2;padding-left:6px}.tweet .link,.tweet .mention,h2{color:#0366d6}.tweet .date{margin:6px 0;font-size:12px;color:#666}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}span.code{margin:0 4px -3px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
@@ -21,29 +21,19 @@
                             github
                         </div>
                         <div class="tweet">
-                            Each month, we showcase some of the hottest community open source projects.
-                            <br />
-                            <br />
-                            Congrats to these projects that shipped major versions during October 2021 🎉
-                            <br />
-                            <br />
-                            Read the full October Release Radar:
-                            <a href="https://t.co/ON9p7GBXZU" class="link">github.blog/2021-11-12-rel…</a>
-                            <br />
-                            Submit your project to be featured:
-                            <a href="https://t.co/6D565xOSs0" class="link">releaseradar.github.com</a>
-                            <a href="https://t.co/B8oJOcTnde" class="link">pic.twitter.com/B8oJOcTnde</a>
-                            <div class="date">20:00:36 on 29 Nov 2021</div>
+                            Give the gift of code to your favorite and most-used open source projects this December.
+                            <span class="mention">@24PullRequests</span>
+                            is back! 🎁
+                            <a href="https://t.co/Mi5DWxeOme" class="link">24pullrequests.com</a>
+                            <div class="date">05:34:06 on 1 Dec 2021</div>
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@pocketcasts</span>
-                            : Engineering Director and co-host of
-                            <span class="mention">@github</span>
-                            's The ReadME Podcast
-                            <span class="mention">@nerdneha</span>
-                            has curated a list of shows that satiate her cu…
-                            <div class="date">19:21:56 on 29 Nov 2021</div>
+                            When
+                            <span class="mention">@liyasthomas</span>
+                            created Hoppscotch, he built it from a developer’s point of view: There’s no gateway, firewall, landing page, or friction for developers of all levels to get started. Read his full story:
+                            <br />
+                            <a href="https://t.co/Iy8vyoOTff" class="link">github.com/readme/stories…</a>
+                            <div class="date">22:00:11 on 30 Nov 2021</div>
                         </div>
                     </section>
                 </div>
