@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="212" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="327" class="">
     <defs>
         <style/>
     </defs>
@@ -21,15 +21,26 @@
                             github
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@ashtom</span>
-                            : We just shipped another round of updates to the new GitHub Issues. ✨Highly requested: In the board layout, you can now pick any…
-                            <div class="date">23:24:50 on 2 Dec 2021</div>
+                            The November Release Radar is here 🎉
+                            <br />
+                            <br />
+                            We're showcasing some of the coolest open source projects who shipped major releases.
+                            <br />
+                            <br />
+                            Read more:
+                            <a href="https://t.co/lEuS8aZNM5" class="link">github.blog/2021-12-03-rel…</a>
+                            <br />
+                            Submit your project to be featured on our next blog:
+                            <a href="https://t.co/DrBEZXbUoQ" class="link">releaseradar.github.com</a>
+                            <a href="https://t.co/kwoBBQA0CG" class="link">pic.twitter.com/kwoBBQA0CG</a>
+                            <div class="date">22:15:02 on 3 Dec 2021</div>
                         </div>
                         <div class="tweet">
-                            Would you look at that? 👀  GitHub Actions allows for multi-stage deployments (with approvals!) right in GitHub.
-                            <a href="https://t.co/WTKa7wdnMM" class="link">pic.twitter.com/WTKa7wdnMM</a>
-                            <div class="date">16:45:19 on 2 Dec 2021</div>
+                            This GitHub Action is one of the many submitted through the
+                            <span class="mention">@ThePracticalDev</span>
+                            Actions Hackathon. We want to see what else you build. Submit today! Deadline is December 8th.
+                            <a href="https://t.co/RN8MVbpv7x" class="link">dev.to/devteam/join-u…</a>
+                            <div class="date">21:10:37 on 3 Dec 2021</div>
                         </div>
                     </section>
                 </div>
