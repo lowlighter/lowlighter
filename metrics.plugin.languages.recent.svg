@@ -15,15 +15,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 172 edited files from 68 commits over last 14 days</small>
+                <small>estimation from 127 edited files from 33 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="412.82263481097675" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="412.82263481097675" y="0" width="43.993955094991364" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="456.8165899059681" y="0" width="3.183410094031856" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.5958895200104" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="439.5958895200104" y="0" width="14.649872089493995" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="454.2457616095044" y="0" width="5.7542383904955985" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,8 +35,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>74.8 kB</div>
-                                <div>89.74%</div>
+                                <div>44 kB</div>
+                                <div>95.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -48,7 +48,7 @@
                             </div>
                             <small>
                                 <div>577 bytes</div>
-                                <div>0.69%</div>
+                                <div>1.25%</div>
                             </small>
                         </div>
                     </section>
@@ -61,8 +61,8 @@
                                 Go
                             </div>
                             <small>
-                                <div>7.97 kB</div>
-                                <div>9.56%</div>
+                                <div>1.47 kB</div>
+                                <div>3.18%</div>
                             </small>
                         </div>
                     </section>
