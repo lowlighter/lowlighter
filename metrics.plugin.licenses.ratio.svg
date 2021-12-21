@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="239" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="217" class="">
     <defs>
         <style/>
     </defs>
@@ -56,9 +56,8 @@
                             <rect mask="url(#licenses-bar)" x="359.375" y="0" width="2.875" height="8" fill="#56d364"/>
                             <rect mask="url(#licenses-bar)" x="362.25" y="0" width="1.9166666666666667" height="8" fill="#56d364"/>
                             <rect mask="url(#licenses-bar)" x="364.16666666666663" y="0" width="1.9166666666666667" height="8" fill="#56d364"/>
-                            <rect mask="url(#licenses-bar)" x="366.0833333333333" y="0" width="56.541666666666664" height="8" fill="#6e7681"/>
-                            <rect mask="url(#licenses-bar)" x="422.625" y="0" width="34.5" height="8" fill="#6e7681"/>
-                            <rect mask="url(#licenses-bar)" x="457.12499999999994" y="0" width="0.9583333333333334" height="8" fill="#6e7681"/>
+                            <rect mask="url(#licenses-bar)" x="366.0833333333333" y="0" width="57.5" height="8" fill="#6e7681"/>
+                            <rect mask="url(#licenses-bar)" x="423.5833333333333" y="0" width="34.5" height="8" fill="#6e7681"/>
                             <rect mask="url(#licenses-bar)" x="458.0833333333333" y="0" width="0.9583333333333334" height="8" fill="#6e7681"/>
                             <rect mask="url(#licenses-bar)" x="459.04166666666663" y="0" width="0.9583333333333334" height="8" fill="#6e7681"/>
                         </svg>
@@ -106,7 +105,7 @@
                                     Other
                                 </div>
                                 <small>
-                                    <div>59</div>
+                                    <div>60</div>
                                 </small>
                             </div>
                             <div class="field license details">
@@ -115,17 +114,6 @@
                                         <path fill="#6e7681" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                     </svg>
                                     Wtfpl
-                                </div>
-                                <small>
-                                    <div>1</div>
-                                </small>
-                            </div>
-                            <div class="field license details">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill="#6e7681" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                    </svg>
-                                    0bsd
                                 </div>
                                 <small>
                                     <div>1</div>
@@ -182,7 +170,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill="#6e7681" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                     </svg>
-                                    None
+                                    0bsd
                                 </div>
                                 <small>
                                     <div>1</div>
