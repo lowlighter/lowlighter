@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="260" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="277" class="">
     <defs>
         <style/>
     </defs>
@@ -21,17 +21,22 @@
                             github
                         </div>
                         <div class="tweet">
+                            Once in advertising,
+                            <span class="mention">@keeleyhammond</span>
+                            got into OSS via non-technical contributions. She’s now an Electron maintainer at
+                            <span class="mention">@Slack</span>
+                            , and is grateful to all those who believed in her along the way:
+                            <br />
+                            <a href="https://t.co/9V69dyp3h1" class="link">github.com/readme/stories…</a>
+                            <div class="date">21:36:00 on 23 Dec 2021</div>
+                        </div>
+                        <div class="tweet">
                             Have some extra reading time over the holiday?
                             <span class="mention">@scott_triglia</span>
                             explains how even the most well-intentioned developers can have incompatible beliefs about a project. He also shares how to stay aligned and focused:
                             <br />
                             <a href="https://t.co/pds1HuTvFm" class="link">github.com/readme/guides/…</a>
                             <div class="date">23:00:06 on 22 Dec 2021</div>
-                        </div>
-                        <div class="tweet">
-                            You really can reach Santa anywhere these days. Use GitHub Actions to make sure your wishlist gets on Santa’s radar before it’s too late! 🎅
-                            <a href="https://t.co/Qncsj4VJZE" class="link">github.com/imjohnbo/dear-…</a>
-                            <div class="date">18:53:00 on 22 Dec 2021</div>
                         </div>
                     </section>
                 </div>
