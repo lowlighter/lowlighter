@@ -20,8 +20,8 @@
                                 <mask id="project-bar">
                                     <rect x="0" y="0" width="440" height="8" fill="white" rx="5"/>
                                 </mask>
-                                <rect mask="url(#project-bar)" x="0" y="0" width="22" height="8" fill="#ec6cb9"/>
-                                <rect mask="url(#project-bar)" x="22" y="0" width="418" height="8" fill="#d1d5da"/>
+                                <rect mask="url(#project-bar)" x="0" y="0" width="66" height="8" fill="#ec6cb9"/>
+                                <rect mask="url(#project-bar)" x="66" y="0" width="374" height="8" fill="#d1d5da"/>
                             </svg>
                         </div>
                         <div class="goal-text">
