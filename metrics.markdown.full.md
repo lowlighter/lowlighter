@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20 Oct 2016`.
-I contributed to `38` repositories and made `5852` commits.
+I contributed to `37` repositories and made `5856` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,17 +29,15 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-plugin-compati
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
-* 🔃 Merged [#734 fix(app/action): base64-to-cache regex](https://github.com/lowlighter/metrics/pull/734) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 1 file changed `++1 --1`
-* #️⃣ Opened [#68 regression: menu and mini-map is not working](https://github.com/lowlighter/gracidea/issues/68) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-* #️⃣ Opened [#67 regression: water tiles disabled](https://github.com/lowlighter/gracidea/issues/67) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-* 🔃 Merged [#66 docs: add code of conduct](https://github.com/lowlighter/gracidea/pull/66) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-  * 1 file changed `++87 --0`
-* 🔃 Opened [#66 docs: add code of conduct](https://github.com/lowlighter/gracidea/pull/66) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-  * 1 file changed `++87 --0`
-* ⏺️ Created new branch add-code-of-conduct-1 in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-* 🔃 Opened [#104 feat: support `deno.json` config file](https://github.com/jurassiscripts/velociraptor/pull/104) in [jurassiscripts/velociraptor](https://github.com/jurassiscripts/velociraptor)
-  * 7 files changed `++75 --0`
+* #️⃣ Opened [#738 [ISSUE] Wrong join date](https://github.com/lowlighter/metrics/issues/738) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#736 feat(action): add `retries_output_action` and `retries_delay_output_action`](https://github.com/lowlighter/metrics/pull/736) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 3 files changed `++165 --115`
+* #️⃣ Closed [#728 Support retries on pushing process](https://github.com/lowlighter/metrics/issues/728) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* #️⃣ Closed [#731 Action exceeding the maximum execution time of 360 minutes](https://github.com/lowlighter/metrics/issues/731) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Opened [#736 feat(action): add `retries_output_action` and `retries_delay_output_action`](https://github.com/lowlighter/metrics/pull/736) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 4 files changed `++175 --115`
+* ⏺️ Created new branch feat-retry-output-action in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* ⏺️ Created new branch feat-core-timeout in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 
 ___
@@ -84,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Web3 Is More Centralized](https://blog.wesleyac.com/posts/web3-centralized)
+* [I Built a Shed (2020)](https://eduardosasso.co/blog/how-i-built-a-wfh-shed/)
   * *Published on 2 Jan 2022*
-* [Real-Time Tokyo Subway Map](https://minitokyo3d.com)
+* [Preliminary analysis of the Hayabusa2 samples returned from asteroid Ryugu](https://www.nature.com/articles/s41550-021-01550-6)
   * *Published on 2 Jan 2022*
-* [Secret Military Telephone Buttons](https://computer.rip/2022-01-01-secret-military-telephone-buttons.html)
+* [Fixing stutters in Papers Please on Linux](https://blog.jhm.dev/posts/papers-please/)
   * *Published on 2 Jan 2022*
-* [Boeing 777 departing Dubai nearly had a major incident after takeoff](https://onemileatatime.com/news/emirates-terrifying-boeing-777-flight-washington/)
-  * *Published on 1 Jan 2022*
+* [Indiana life insurance CEO says deaths are up 40% among people ages 18-64](https://www.thecentersquare.com/indiana/indiana-life-insurance-ceo-says-deaths-are-up-40-among-people-ages-18-64/article_71473b12-6b1e-11ec-8641-5b2c06725e2c.html)
+  * *Published on 2 Jan 2022*
 
 
 ___
