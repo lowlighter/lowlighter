@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20 Oct 2016`.
-I contributed to `37` repositories and made `5856` commits.
+I contributed to `37` repositories and made `5858` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,6 +29,7 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-plugin-compati
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* ⏺️ Created new branch fix-date-registration in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * #️⃣ Opened [#738 [ISSUE] Wrong join date](https://github.com/lowlighter/metrics/issues/738) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#736 feat(action): add `retries_output_action` and `retries_delay_output_action`](https://github.com/lowlighter/metrics/pull/736) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 3 files changed `++165 --115`
@@ -37,7 +38,6 @@ ___
 * 🔃 Opened [#736 feat(action): add `retries_output_action` and `retries_delay_output_action`](https://github.com/lowlighter/metrics/pull/736) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 4 files changed `++175 --115`
 * ⏺️ Created new branch feat-retry-output-action in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* ⏺️ Created new branch feat-core-timeout in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 
 ___
@@ -82,30 +82,30 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [I Built a Shed (2020)](https://eduardosasso.co/blog/how-i-built-a-wfh-shed/)
-  * *Published on 2 Jan 2022*
-* [Preliminary analysis of the Hayabusa2 samples returned from asteroid Ryugu](https://www.nature.com/articles/s41550-021-01550-6)
-  * *Published on 2 Jan 2022*
-* [Fixing stutters in Papers Please on Linux](https://blog.jhm.dev/posts/papers-please/)
-  * *Published on 2 Jan 2022*
-* [Indiana life insurance CEO says deaths are up 40% among people ages 18-64](https://www.thecentersquare.com/indiana/indiana-life-insurance-ceo-says-deaths-are-up-40-among-people-ages-18-64/article_71473b12-6b1e-11ec-8641-5b2c06725e2c.html)
+* [The Demise of Scientific American](https://scottaaronson.blog/?p=6202)
+  * *Published on 3 Jan 2022*
+* [“Fast Kernel Headers” Tree -v1: Eliminate the Linux Kernel&#39;s “Dependency Hell”](https://lwn.net/ml/linux-kernel/YdIfz+LMewetSaEB@gmail.com/)
+  * *Published on 3 Jan 2022*
+* [You don&#39;t need that CORS request](https://nickolinger.com/blog/2021-08-04-you-dont-need-that-cors-request/)
+  * *Published on 3 Jan 2022*
+* [Zotero: Free, easy-to-use tool to collect, organize, cite, and share research](https://www.zotero.org)
   * *Published on 2 Jan 2022*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> For <span class="mention">@cassidoo</span>, open source is all about building relationships, teaching, learning, and finding communities everywhere she codes. Get her full story on The ReadME Project:<br/>
+>
+> <a href="GitHub"><img src="https://images.ctfassets.net/s5uo95nf6njh/2VU2Lw58jDILb9HH3eSh45/960100b3d64249e2f646f9b42a6b0264/1200x630-ReadMe-Twitter_LI_Post-Cassidy_Williams_2x.png" alt="Cassidy Williams" height="200"></a>
+>
+> *23:00:07 on 2 Jan 2022*
+
 > When <span class="mention">@FredKSchott</span> was building the static JavaScript site builder Astro, he spent 10% of his time coding, and 90% communicating. He shares more lessons and tips on building open source projects on The ReadME Podcast:<br/><a href="https://t.co/L9oKT31JAK" class="link">github.com/readme/podcast…</a> <br/><a href="https://t.co/rSxdHaxsvk" class="link">pic.twitter.com/rSxdHaxsvk</a>
 >
 > <a href=""><img src="https://pbs.twimg.com/media/FIC5FXGXoAk_7Dk.jpg" alt="" height="200"></a>
 >
 > *21:00:12 on 1 Jan 2022*
-
-> In one of our favorite stories from the year on The ReadME Project, we look back at _why and his lasting impact on the Ruby community: <br/>
->
-> <a href="GitHub"><img src="https://images.ctfassets.net/s5uo95nf6njh/TDKlen395rOcriCa1rMJQ/0f507ecc6440f2e6c93eb1c443870294/1200x630-ReadMe-Twitter_LI_Post-Why_Lucky_2x.png" alt="What we can learn from &#34;_why&#34; the long lost open source developer." height="200"></a>
->
-> *19:00:11 on 31 Dec 2021*
 
 
 
