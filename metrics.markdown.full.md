@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20 Oct 2016`.
-I contributed to `37` repositories and made `5858` commits.
+I contributed to `37` repositories and made `5882` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,6 +29,7 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-plugin-compati
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* #️⃣ Closed [#67 regression: water tiles disabled](https://github.com/lowlighter/gracidea/issues/67) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 * ⏺️ Created new branch fix-date-registration in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * #️⃣ Opened [#738 [ISSUE] Wrong join date](https://github.com/lowlighter/metrics/issues/738) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#736 feat(action): add `retries_output_action` and `retries_delay_output_action`](https://github.com/lowlighter/metrics/pull/736) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -37,7 +38,6 @@ ___
 * #️⃣ Closed [#731 Action exceeding the maximum execution time of 360 minutes](https://github.com/lowlighter/metrics/issues/731) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Opened [#736 feat(action): add `retries_output_action` and `retries_delay_output_action`](https://github.com/lowlighter/metrics/pull/736) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 4 files changed `++175 --115`
-* ⏺️ Created new branch feat-retry-output-action in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 
 ___
@@ -82,30 +82,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [The Demise of Scientific American](https://scottaaronson.blog/?p=6202)
-  * *Published on 3 Jan 2022*
-* [“Fast Kernel Headers” Tree -v1: Eliminate the Linux Kernel&#39;s “Dependency Hell”](https://lwn.net/ml/linux-kernel/YdIfz+LMewetSaEB@gmail.com/)
-  * *Published on 3 Jan 2022*
-* [You don&#39;t need that CORS request](https://nickolinger.com/blog/2021-08-04-you-dont-need-that-cors-request/)
-  * *Published on 3 Jan 2022*
-* [Zotero: Free, easy-to-use tool to collect, organize, cite, and share research](https://www.zotero.org)
-  * *Published on 2 Jan 2022*
+* [Elizabeth Holmes found guilty](https://www.axios.com/theranos-elizabeth-holmes-verdict-df20ad3f-95bd-400c-bf42-a379ade65c2c.html)
+  * *Published on 4 Jan 2022*
+* [Ban CSS Margins](https://mxstbr.com/thoughts/margin/)
+  * *Published on 4 Jan 2022*
+* [ASML reports fire at its Berlin factory](https://www.reuters.com/technology/asml-reports-fire-its-berlin-factory-2022-01-03/)
+  * *Published on 4 Jan 2022*
+* [The joy of building a ray tracer, for fun, in Rust](https://blog.singleton.io/posts/2022-01-02-raytracing-with-rust/)
+  * *Published on 4 Jan 2022*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> For <span class="mention">@cassidoo</span>, open source is all about building relationships, teaching, learning, and finding communities everywhere she codes. Get her full story on The ReadME Project:<br/>
+> 3rd place overall in this year’s  <span class="hashtag">#GitHubGameOf</span>  was Hivemind 🥉<br/><br/>Play: <a href="https://t.co/K2QfN3uDI3" class="link">raformatico.itch.io/hivemind</a><br/>Source: <a href="https://t.co/kEAk5TnVkK" class="link">github.com/raformatico/Hi…</a> <br/><a href="https://t.co/dn0FP4n8te" class="link">pic.twitter.com/dn0FP4n8te</a>
 >
-> <a href="GitHub"><img src="https://images.ctfassets.net/s5uo95nf6njh/2VU2Lw58jDILb9HH3eSh45/960100b3d64249e2f646f9b42a6b0264/1200x630-ReadMe-Twitter_LI_Post-Cassidy_Williams_2x.png" alt="Cassidy Williams" height="200"></a>
->
-> *23:00:07 on 2 Jan 2022*
+> *21:59:36 on 3 Jan 2022*
 
-> When <span class="mention">@FredKSchott</span> was building the static JavaScript site builder Astro, he spent 10% of his time coding, and 90% communicating. He shares more lessons and tips on building open source projects on The ReadME Podcast:<br/><a href="https://t.co/L9oKT31JAK" class="link">github.com/readme/podcast…</a> <br/><a href="https://t.co/rSxdHaxsvk" class="link">pic.twitter.com/rSxdHaxsvk</a>
+> 2nd place overall in this year’s  <span class="hashtag">#GitHubGameOff</span>  was BendyWorm by <span class="mention">@bauxitedev</span> 🥈<br/><br/>Play: <a href="https://t.co/4BCzyABsVk" class="link">bauxite.itch.io/bendyworm</a><br/>Source: <a href="https://t.co/RdtjDd0QhY" class="link">github.com/Bauxitedev/ben…</a> <br/><a href="https://t.co/7sdCn9klyy" class="link">pic.twitter.com/7sdCn9klyy</a>
 >
-> <a href=""><img src="https://pbs.twimg.com/media/FIC5FXGXoAk_7Dk.jpg" alt="" height="200"></a>
+> <a href=""><img src="https://pbs.twimg.com/ext_tw_video_thumb/1478123432323653634/pu/img/WyeV13mi-lyl_gYJ.jpg" alt="" height="200"></a>
 >
-> *21:00:12 on 1 Jan 2022*
+> *21:59:28 on 3 Jan 2022*
 
 
 
