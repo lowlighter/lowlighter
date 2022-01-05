@@ -82,28 +82,26 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Elizabeth Holmes found guilty](https://www.axios.com/theranos-elizabeth-holmes-verdict-df20ad3f-95bd-400c-bf42-a379ade65c2c.html)
+* [Lawsuit filed alleging Google is paying Apple to stay out of the search business](https://www.prnewswire.com/news-releases/class-action-lawsuit-filed-in-california-alleging-google-is-paying-apple-to-stay-out-of-the-search-engine-business-301453098.html)
+  * *Published on 5 Jan 2022*
+* [TSMC’s Arizona Culture Clash](https://www.eetimes.com/tsmcs-arizona-culture-clash/)
+  * *Published on 5 Jan 2022*
+* [The UX on this small child is terrible](https://www.mcsweeneys.net/articles/the-ux-on-this-small-child-is-terrible)
   * *Published on 4 Jan 2022*
-* [Ban CSS Margins](https://mxstbr.com/thoughts/margin/)
-  * *Published on 4 Jan 2022*
-* [ASML reports fire at its Berlin factory](https://www.reuters.com/technology/asml-reports-fire-its-berlin-factory-2022-01-03/)
-  * *Published on 4 Jan 2022*
-* [The joy of building a ray tracer, for fun, in Rust](https://blog.singleton.io/posts/2022-01-02-raytracing-with-rust/)
-  * *Published on 4 Jan 2022*
+* [The redacted lawsuit: Solarwinds board of directors sued by shareholders](https://github.com/jaybobo/jaybobo/blob/main/docs/solarwinds-complaint/summary-solarwinds.md)
+  * *Published on 5 Jan 2022*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
+> Looking for a productivity hack to help you jump between directories and navigate your filesystem a little quicker? <br/><br/>Check out 𝚣𝚘𝚡𝚒𝚍𝚎 - an alternative 𝚌𝚍 command created by <span class="mention">@ajeetdsouza</span>: <a href="https://t.co/mEm8zKCjzp" class="link">github.com/ajeetdsouza/zo…</a> <br/><a href="https://t.co/4zrvQzVJsa" class="link">pic.twitter.com/4zrvQzVJsa</a>
+>
+> *17:15:07 on 4 Jan 2022*
+
 > 3rd place overall in this year’s  <span class="hashtag">#GitHubGameOf</span>  was Hivemind 🥉<br/><br/>Play: <a href="https://t.co/K2QfN3uDI3" class="link">raformatico.itch.io/hivemind</a><br/>Source: <a href="https://t.co/kEAk5TnVkK" class="link">github.com/raformatico/Hi…</a> <br/><a href="https://t.co/dn0FP4n8te" class="link">pic.twitter.com/dn0FP4n8te</a>
 >
 > *21:59:36 on 3 Jan 2022*
-
-> 2nd place overall in this year’s  <span class="hashtag">#GitHubGameOff</span>  was BendyWorm by <span class="mention">@bauxitedev</span> 🥈<br/><br/>Play: <a href="https://t.co/4BCzyABsVk" class="link">bauxite.itch.io/bendyworm</a><br/>Source: <a href="https://t.co/RdtjDd0QhY" class="link">github.com/Bauxitedev/ben…</a> <br/><a href="https://t.co/7sdCn9klyy" class="link">pic.twitter.com/7sdCn9klyy</a>
->
-> <a href=""><img src="https://pbs.twimg.com/ext_tw_video_thumb/1478123432323653634/pu/img/WyeV13mi-lyl_gYJ.jpg" alt="" height="200"></a>
->
-> *21:59:28 on 3 Jan 2022*
 
 
 
