@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20 Oct 2016`.
-I contributed to `37` repositories and made `5882` commits.
+I contributed to `37` repositories and made `5889` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,6 +29,8 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-plugin-compati
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#722 chore: prepare release v3.17](https://github.com/lowlighter/metrics/pull/722) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++3 --3`
 * #️⃣ Closed [#67 regression: water tiles disabled](https://github.com/lowlighter/gracidea/issues/67) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 * ⏺️ Created new branch fix-date-registration in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * #️⃣ Opened [#738 [ISSUE] Wrong join date](https://github.com/lowlighter/metrics/issues/738) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -36,8 +38,6 @@ ___
   * 3 files changed `++165 --115`
 * #️⃣ Closed [#728 Support retries on pushing process](https://github.com/lowlighter/metrics/issues/728) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * #️⃣ Closed [#731 Action exceeding the maximum execution time of 360 minutes](https://github.com/lowlighter/metrics/issues/731) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Opened [#736 feat(action): add `retries_output_action` and `retries_delay_output_action`](https://github.com/lowlighter/metrics/pull/736) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 4 files changed `++175 --115`
 
 
 ___
@@ -82,13 +82,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Lawsuit filed alleging Google is paying Apple to stay out of the search business](https://www.prnewswire.com/news-releases/class-action-lawsuit-filed-in-california-alleging-google-is-paying-apple-to-stay-out-of-the-search-engine-business-301453098.html)
+* [Longform.org Is Shutting Down](https://longform.org/)
+  * *Published on 6 Jan 2022*
+* [We handle 80TB and 5M page views a month for under $400](https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/)
   * *Published on 5 Jan 2022*
-* [TSMC’s Arizona Culture Clash](https://www.eetimes.com/tsmcs-arizona-culture-clash/)
-  * *Published on 5 Jan 2022*
-* [The UX on this small child is terrible](https://www.mcsweeneys.net/articles/the-ux-on-this-small-child-is-terrible)
-  * *Published on 4 Jan 2022*
-* [The redacted lawsuit: Solarwinds board of directors sued by shareholders](https://github.com/jaybobo/jaybobo/blob/main/docs/solarwinds-complaint/summary-solarwinds.md)
+* [Crypto: The Good, the Bad and the Ugly](https://seldo.com/posts/crypto-the-good-the-bad-and-the-ugly/)
+  * *Published on 6 Jan 2022*
+* [Minecraft as a Kubernetes admin tool](https://eric-jadi.medium.com/minecraft-as-a-k8s-admin-tool-cf16f890de42)
   * *Published on 5 Jan 2022*
 
 
