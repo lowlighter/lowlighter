@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20 Oct 2016`.
-I contributed to `37` repositories and made `5889` commits.
+I contributed to `37` repositories and made `5896` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,6 +29,7 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-plugin-compati
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* ⏺️ Created new branch feat-diff-ci in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
 * 🔃 Merged [#722 chore: prepare release v3.17](https://github.com/lowlighter/metrics/pull/722) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 2 files changed `++3 --3`
 * #️⃣ Closed [#67 regression: water tiles disabled](https://github.com/lowlighter/gracidea/issues/67) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
@@ -37,7 +38,6 @@ ___
 * 🔃 Merged [#736 feat(action): add `retries_output_action` and `retries_delay_output_action`](https://github.com/lowlighter/metrics/pull/736) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 3 files changed `++165 --115`
 * #️⃣ Closed [#728 Support retries on pushing process](https://github.com/lowlighter/metrics/issues/728) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* #️⃣ Closed [#731 Action exceeding the maximum execution time of 360 minutes](https://github.com/lowlighter/metrics/issues/731) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 
 ___
@@ -82,14 +82,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Longform.org Is Shutting Down](https://longform.org/)
+* [Tell HN: Salary data is for sale](https://news.ycombinator.com/item?id=29834753)
+  * *Published on 7 Jan 2022*
+* [Pentagon and CIA shaped thousands of Hollywood movies into effective propaganda](https://worldbeyondwar.org/the-pentagon-and-cia-have-shaped-thousands-of-hollywood-movies-into-super-effective-propaganda/)
+  * *Published on 7 Jan 2022*
+* [Procrastinatory Doom Loops](https://brennancolberg.com/blog/procrastinatory-doom-loops)
   * *Published on 6 Jan 2022*
-* [We handle 80TB and 5M page views a month for under $400](https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/)
-  * *Published on 5 Jan 2022*
-* [Crypto: The Good, the Bad and the Ugly](https://seldo.com/posts/crypto-the-good-the-bad-and-the-ugly/)
-  * *Published on 6 Jan 2022*
-* [Minecraft as a Kubernetes admin tool](https://eric-jadi.medium.com/minecraft-as-a-k8s-admin-tool-cf16f890de42)
-  * *Published on 5 Jan 2022*
+* [Kagi: A Premium Search Engine](https://kagi.com/)
+  * *Published on 7 Jan 2022*
 
 
 ___
