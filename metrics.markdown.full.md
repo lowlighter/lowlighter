@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20 Oct 2016`.
-I contributed to `37` repositories and made `5896` commits.
+I contributed to `37` repositories and made `5897` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,15 +29,16 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-plugin-compati
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
-* ⏺️ Created new branch feat-diff-ci in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-* 🔃 Merged [#722 chore: prepare release v3.17](https://github.com/lowlighter/metrics/pull/722) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++3 --3`
-* #️⃣ Closed [#67 regression: water tiles disabled](https://github.com/lowlighter/gracidea/issues/67) in [lowlighter/gracidea](https://github.com/lowlighter/gracidea)
-* ⏺️ Created new branch fix-date-registration in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* #️⃣ Opened [#738 [ISSUE] Wrong join date](https://github.com/lowlighter/metrics/issues/738) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#736 feat(action): add `retries_output_action` and `retries_delay_output_action`](https://github.com/lowlighter/metrics/pull/736) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 3 files changed `++165 --115`
-* #️⃣ Closed [#728 Support retries on pushing process](https://github.com/lowlighter/metrics/issues/728) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#758 build: update dockerfile](https://github.com/lowlighter/metrics/pull/758) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 1 file changed `++7 --8`
+* 🔃 Opened [#758 build: update dockerfile (and disable #757 temporarily)](https://github.com/lowlighter/metrics/pull/758) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 1 file changed `++8 --7`
+* #️⃣ Opened [#757 Docker image cannot be rebuilt because of gem dependencies](https://github.com/lowlighter/metrics/issues/757) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* ⏺️ Created new branch build-dockerfile in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* ⏺️ Created new branch build-dockerfile in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Opened [#756 fix(plugins/core): disable css optimization for `extras_css`](https://github.com/lowlighter/metrics/pull/756) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 4 files changed `++5 --4`
+* ⏺️ Created new branch fix-css-optimization in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 
 ___
@@ -82,13 +83,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Tell HN: Salary data is for sale](https://news.ycombinator.com/item?id=29834753)
+* [My First Impressions of Web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
   * *Published on 7 Jan 2022*
-* [Pentagon and CIA shaped thousands of Hollywood movies into effective propaganda](https://worldbeyondwar.org/the-pentagon-and-cia-have-shaped-thousands-of-hollywood-movies-into-super-effective-propaganda/)
+* [A routine gem update ended up creating $73k worth of subscriptions](https://serpapi.com/blog/how-a-routine-gem-update-ended-up-charging/)
   * *Published on 7 Jan 2022*
-* [Procrastinatory Doom Loops](https://brennancolberg.com/blog/procrastinatory-doom-loops)
-  * *Published on 6 Jan 2022*
-* [Kagi: A Premium Search Engine](https://kagi.com/)
+* [My Experience as a SWE Intern at Goldman Sachs](https://www.lremes.com/posts/goldman-sachs/)
+  * *Published on 8 Jan 2022*
+* [Drop a raindrop anywhere in the world and watch where it ends up](https://river-runner-global.samlearner.com/)
   * *Published on 7 Jan 2022*
 
 
