@@ -19,8 +19,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">My First Impressions of Web3</div>
-                                <div class="date">7 Jan 2022</div>
+                                <div class="title">Literate programming: Knuth is doing it wrong (2014)</div>
+                                <div class="date">9 Jan 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -28,7 +28,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">UUIDs Are Popular, but Bad for Performance</div>
+                                <div class="title">FX: An interactive alternative to jq to process JSON</div>
+                                <div class="date">9 Jan 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Lessons learned from migrating a native iOS app to Flutter</div>
                                 <div class="date">8 Jan 2022</div>
                             </div>
                         </div>
@@ -37,17 +46,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A routine gem update ended up creating $73k worth of subscriptions</div>
-                                <div class="date">7 Jan 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">My Experience as a SWE Intern at Goldman Sachs</div>
-                                <div class="date">8 Jan 2022</div>
+                                <div class="title">Re: Moxie on Web3. On decentralization, servers, and cryptography</div>
+                                <div class="date">9 Jan 2022</div>
                             </div>
                         </div>
                     </section>
