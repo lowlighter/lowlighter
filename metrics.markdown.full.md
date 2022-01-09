@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20 Oct 2016`.
-I contributed to `37` repositories and made `5897` commits.
+I contributed to `37` repositories and made `5903` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,16 +29,17 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-plugin-compati
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
-* 🔃 Merged [#758 build: update dockerfile](https://github.com/lowlighter/metrics/pull/758) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 1 file changed `++7 --8`
-* 🔃 Opened [#758 build: update dockerfile (and disable #757 temporarily)](https://github.com/lowlighter/metrics/pull/758) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 1 file changed `++8 --7`
-* #️⃣ Opened [#757 Docker image cannot be rebuilt because of gem dependencies](https://github.com/lowlighter/metrics/issues/757) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* ⏺️ Created new branch build-dockerfile in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* ⏺️ Created new branch build-dockerfile in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Opened [#756 fix(plugins/core): disable css optimization for `extras_css`](https://github.com/lowlighter/metrics/pull/756) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 4 files changed `++5 --4`
-* ⏺️ Created new branch fix-css-optimization in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#760 fix(app/utils): GitHub emojis tag were not properly self-closed](https://github.com/lowlighter/metrics/pull/760) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 1 file changed `++1 --1`
+* #️⃣ Closed [#752 Weird alignment in &#34;Recently starred repositories&#34; SVG](https://github.com/lowlighter/metrics/issues/752) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#759 fix(plugins/isocalendar): algorithm improvements for date ranges](https://github.com/lowlighter/metrics/pull/759) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 1 file changed `++40 --41`
+* #️⃣ Closed [#753 Restricts average commits per day by fetched data](https://github.com/lowlighter/metrics/issues/753) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* #️⃣ Closed [#749 [bug] CSS processor is encoding input](https://github.com/lowlighter/metrics/issues/749) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#756 fix(plugins/core): disable css optimization for `extras_css`](https://github.com/lowlighter/metrics/pull/756) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 5 files changed `++10 --6`
+* 🔃 Merged [#755 fix(app/utils): indent for code block with languages hightlighting](https://github.com/lowlighter/metrics/pull/755) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 1 file changed `++6 --2`
 
 
 ___
@@ -83,13 +84,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Literate programming: Knuth is doing it wrong (2014)](http://akkartik.name/post/literate-programming)
+* [SSH Agent Restriction (new in OpenSSH 8.9)](https://www.openssh.com/agent-restrict.html)
   * *Published on 9 Jan 2022*
-* [FX: An interactive alternative to jq to process JSON](https://github.com/antonmedv/fx)
+* [Procedural Worlds from Simple Tiles](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html)
   * *Published on 9 Jan 2022*
-* [T-Shaped People and Academia](https://bastian.rieck.me/blog/posts/2022/t/)
-  * *Published on 8 Jan 2022*
-* [On Web3 Infrastructure](https://mirror.xyz/suzuha.eth/vb5E5lhzmPTcpxOJcz6Q211TDgSvoFwDLA6JSM1V37Q)
+* [RSS Feeds about what the Government is doing](https://www.govinfo.gov/feeds)
+  * *Published on 9 Jan 2022*
+* [Charles Stross: Oh, 2022](http://www.antipope.org/charlie/blog-static/2022/01/oh-2022.html)
   * *Published on 9 Jan 2022*
 
 
