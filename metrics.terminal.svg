@@ -19,6 +19,7 @@
 </style></defs>
 
   <style>@keyframes stdin-animation{0%{width:0%}to{width:100%}}@keyframes stdout-animation{0%{max-height:0}to{max-height:360px}}svg{font-family:"Courier Prime";font-size:14px;color:#777}.header{display:flex;justify-content:space-between;width:100%;height:20px;align-items:center;padding:0 8px;box-sizing:border-box;border-top-left-radius:5px;border-top-right-radius:5px;background:linear-gradient(#504b45 0,#3c3b37 100%)}.title{color:#d5d0ce;font-size:16px}.buttons{display:flex;align-items:center}.button{color:#000;display:flex;justify-content:center;margin-right:5px;font-size:8px;height:12px;width:12px;border-radius:100%;background:linear-gradient(#7d7871 0,#595953 100%);text-shadow:0 1px 0 rgba(255,255,255,.2)}.button.exit{background:linear-gradient(#f37458 0,#de4c12 100%)}.banner,footer,pre{margin:0;font-family:"Courier Prime"}pre{color:#ddd;background:#42092b;padding:12px;border-radius:5px;border-top-left-radius:0;border-top-right-radius:0}.banner,footer{color:#ae9da7}.ps1-path{color:#7eda29}.ps1-location{color:#4878c0}.stdin,.stdout,footer{overflow:hidden;animation-fill-mode:both}.stdin,footer{width:0%;white-space:nowrap;animation-name:stdin-animation}.stdout{max-height:0%;animation-name:stdout-animation}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}.stdin{animation-duration:.16s}.stdout{animation-duration:.28s}.stdin:nth-of-type(1){animation-delay:0s}.stdout:nth-of-type(2){animation-delay:.16s}.stdin:nth-of-type(2){animation-delay:.44000000000000006s}.stdout:nth-of-type(3){animation-delay:.6000000000000001s}.stdin:nth-of-type(3){animation-delay:.8800000000000001s}.stdout:nth-of-type(4){animation-delay:1.04s}.stdin:nth-of-type(4){animation-delay:1.3200000000000003s}.stdout:nth-of-type(5){animation-delay:1.4800000000000002s}.stdin:nth-of-type(5){animation-delay:1.7600000000000002s}.stdout:nth-of-type(6){animation-delay:1.9200000000000002s}.stdin:nth-of-type(6){animation-delay:2.2s}.stdout:nth-of-type(7){animation-delay:2.3600000000000003s}.stdin:nth-of-type(7){animation-delay:2.64s}.stdout:nth-of-type(8){animation-delay:2.8000000000000003s}footer{animation-delay:2.64s}</style>
+  <style/>
 
   <foreignObject x="0" y="0" width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -36,15 +37,15 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 9 Jan 2022, 08:11:09
+Last generated: 9 Jan 2022, 20:23:08
 </div>
 <div class="stdin"><span class="ps1-path">lowlighter@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Simon Lecoq</b> registered=5y, uid=3968, gid=3
-  contributed to 37 repositories <b><span style="color:#216e39">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span></b>
-  followed by <b>345</b> users
+  contributed to 37 repositories <b><span style="color:#216e39">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span></b>
+  followed by <b>346</b> users
 </div>
 
 
-<footer>Connection reset by 100.102.189.15</footer></pre>
+<footer>Connection reset by 145.235.214.69</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
