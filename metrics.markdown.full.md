@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20 Oct 2016`.
-I contributed to `37` repositories and made `5903` commits.
+I contributed to `37` repositories and made `5915` commits.
 ```
 
 ## 🧩 Plugins
@@ -84,14 +84,14 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [UCLA Study Finds Laughter in 65 Species, from Rats to Cows](https://www.openculture.com/2022/01/animals-laugh-too-ucla-study-finds-laughter-in-65-species-from-rats-to-cows.html)
+* [Euler’s 243-Year-Old ‘Impossible’ Puzzle Gets a Quantum Solution](https://www.quantamagazine.org/eulers-243-year-old-impossible-puzzle-gets-a-quantum-solution-20220110/)
+  * *Published on 11 Jan 2022*
+* [U.S. surgeons transplant pig heart into human patient](https://apnews.com/article/pig-heart-transplant-6651614cb9d73bada8eea2ecb6449aef)
   * *Published on 10 Jan 2022*
-* [Why I went back to using a ThinkPad from 2012](https://ounapuu.ee/posts/2022/01/09/why-i-went-back-to-using-a-thinkpad-from-2012/)
+* [Monumental Record: the lives of the workers building the Great Pyramid of Giza](https://www.historytoday.com/archive/history-matters/monumental-record)
+  * *Published on 11 Jan 2022*
+* [New Year, New CEO](https://signal.org/blog/new-year-new-ceo/)
   * *Published on 10 Jan 2022*
-* [See how DMARC, SPF, and DKIM work interactively](https://www.learndmarc.com/)
-  * *Published on 10 Jan 2022*
-* [Proposal to add build graph output to GNU Make](http://jonasdn.blogspot.com/2020/10/proposal-to-add-build-graph-output-to.html)
-  * *Published on 8 Jan 2022*
 
 
 ___
@@ -100,10 +100,6 @@ ___
 > Looking for a productivity hack to help you jump between directories and navigate your filesystem a little quicker? <br/><br/>Check out 𝚣𝚘𝚡𝚒𝚍𝚎 - an alternative 𝚌𝚍 command created by <span class="mention">@ajeetdsouza</span>: <a href="https://t.co/mEm8zKCjzp" class="link">github.com/ajeetdsouza/zo…</a> <br/><a href="https://t.co/4zrvQzVJsa" class="link">pic.twitter.com/4zrvQzVJsa</a>
 >
 > *17:15:07 on 4 Jan 2022*
-
-> 3rd place overall in this year’s  <span class="hashtag">#GitHubGameOf</span>  was Hivemind 🥉<br/><br/>Play: <a href="https://t.co/K2QfN3uDI3" class="link">raformatico.itch.io/hivemind</a><br/>Source: <a href="https://t.co/kEAk5TnVkK" class="link">github.com/raformatico/Hi…</a> <br/><a href="https://t.co/dn0FP4n8te" class="link">pic.twitter.com/dn0FP4n8te</a>
->
-> *21:59:36 on 3 Jan 2022*
 
 
 
@@ -124,7 +120,7 @@ ___
 [![](https://img.shields.io/static/v1?style=flat&label=&message=Git&color=222&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAACzklEQVR4AbXBW2hTZwDA8f/35di0J2W9xF7cXEex1FpJG+2krHM+OB2sIL6ISJE9DR8UxAjipdYFNZGJ2tUiXjrEVTdxDzIVK4oXUCjGTGcrtZa5Kj6ISkWr6dk5yWk/c4aBwpz0Yef3EyoNF0lcJnGZxGUSl0lcJvmfKKV4F8k4yjIZCa9kJLwKZZlM1PDL5zQ2FNDZEcWReP0SyzJxSN5Slslo3y3Gnj7G7olhREMoy2QicvRc5s5fTGXVLBzfrVtG7No5HBppyjIxIiFG/+rHt7mNVE8M68QhjGgIfVMrwptNRiIxTNfJwzwfekJ+YTFCCCoqa8gvKCaZNNmzfRXx7gtY5t88GLyLVJaJEQlh34mjjASpP7rJmr8IWToVuzeOEQ2hLJOMbRuWc+70EQr9Jfx0cCuPHgyQX1hE12+HuRW7zIxAPaCYWfsZwbp5SGPHWuw7cTJG7/VgnTpGzor1eJd+i90bx9ixloyHg/3U1S9gyfLVFJd+THHpR1RMr8WXm4ejZvZcHDMD9dTWfYGGkPyLkSAVu4KnfDr/sG1QCoRgSdNq2neu4dSvByjwl/Dl18t4lzE1hkPTN+7GiISwe2/gkGUVyLwCzF/249CqZ6Fv/gGEwHH10kmqA/XMafiKsvIqfLl53B/owRh5xcPBfpQaw+OZxNGOKPHuC2giy4ve3IoRCWH33kD6ixB6Lg5tRhC9pQ2RrZORTJoMvxji/JlOhp49xl/0IVu+/5lvVjTjyMnx0dpxkYG7N5lWWYNGmsjyoje3YkRCmJ3tOLTqIHrLXkS2TkYqleRe3++sD//IJ+VVHD+yi/sDtwkEGwgEG8jwF00h+Ok8HJ5wGmnCozHp8wWM/tmHnFyC3tKGyNYZz+PxMLWsgutXz3IzdomSKWWs2dTOB3mF/BeNcUSWF194H++zsLGJhY1NTJTEZRKXSVwmcZnEZRKXvQFaOv6CjJ4m8AAAAABJRU5ErkJggg==)](https://github.com/topics/git)
 [![](https://img.shields.io/static/v1?style=flat&label=&message=API&color=222&logo=)](https://github.com/topics/api)
 [![](https://img.shields.io/static/v1?style=flat&label=&message=Deep%20learning&color=222&logo=)](https://github.com/topics/deep-learning)
-[![](https://img.shields.io/static/v1?style=flat&label=&message=Database&color=222&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABy0lEQVR4AbXBzWpcZRgA4Of95pxJZqYpDsVERCx17aIIBTdeh9uCV+DGi/IyBBHBheBaUVxU0i60SebMzznnrTEIWr5Jk0KeJ/Jv7lBxxxrXSsZnDM/Il+TGP2JK3Ke8x+R9FPs0qga237H7gTx3rZjRfsL0MzRe16jpvmb42Y1kx/ZbxlMOP/e6omb7jVvbfq+mUZMv6dc0j1BcLxl+Jzs1jZpYYsPuR0yJqdSIaF3K7NGTO2FLWRJHahp7TSjH/hUupUsRLVpi5k2KisydukCoyRzUFBXr7jnSjWXarP9Q06iYzd/Vnf8qhaZ9YHpwpGa7OTPsXhDMFh+qaVS1ZvceYTTsXujOn/u/RJgeLEzvPURBUdOoSleKSXts1h57W0VFv7twW0O/UlNUDMOFbnXqptarU0N/pqZRcXB4Yhz+cnH2CxJFxIxoXdkxdtIohMP5sTK5r6axR5ksLI4+ciXJjtxKRMyIE4Q3aVRkDiL8RxBzYi7cTlGx7k/c1qb/QE1RcbD8ykX/xGq1NY6Dfcaxt+p2Vv2n2uWXahoVZTK3ePCFzKfW5z/J/jfyTyVGl8acEEulfWj+zsdEsU/jGhETs6PHeOxtFXfsFZCYozY2EzsZAAAAAElFTkSuQmCC)](https://github.com/topics/database)
+[![](https://img.shields.io/static/v1?style=flat&label=&message=Database&color=222&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAB6klEQVR4Ad3Bz28MYRjA8e/zzjuzO7tb2ogtl0rFEeFG3Ljof+Ho5OZIJP4Dd/4DV2cOmrhII87NKhHaJm3318zOzDsPTSOhebrtuvH58M8TptDJm5jQu4X2r6PFEpKcBgQt+hB/QdL3JDdWJb6ScQTBoPmrlNB7jA7uo8U8U8VDXPsF0aVH0lzpc4jHUq69hLDCiZQd6t0H6MfLwB0OcVjCxgqzCl9vY/BYtA9VDn4ZcEynED6DZlg8FlkAJlCuAQlIguIRidmnWgEVaIlQgFsAmcPiOVIErssvwj5ln0gMxCApx3EYVEtsAggW1YDFYcizLUA5MVUm+TcsHkPaOks27KEIPj5D0pjDUkwGhHIbBNL2EhaPKSbtLAM1odwmG27xJwWEpNEm6VwAHOCweEzKAUcUd0njLn/LYajKEbMK1RiLwxDCiGy8yUnl401CNcDiMTSai9Rhj9FgHVDAIZKCxBwooc5QagSh2eriolNYPEdwUZv23EUOKGgGWqCASAqyCAjH8RhUAyL8RkBaIC2E2TgMw+HeO2Y0HI1WMXgMO/35u3m+8zRNuddqdTrORVjqumI8HvWzXJ9PyvNPMAhTfP/0rDHefX2z2ZSrjaSxFEWa8lMILivKsJFPog/NzrW355Yflvy3fgDohLaYFT3zvwAAAABJRU5ErkJggg==)](https://github.com/topics/database)
 [![](https://img.shields.io/static/v1?style=flat&label=&message=Vue.js&color=222&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAACk0lEQVR4Ac3BO2hTUQCA4f+ce+5taNJqWoI6SEkHi2uhFYwlmumMIhWXTIo6+gBBhIMUcRIKLoKgDhIX6aKDiMuhoIjiUBddpEbwBYLPRKy5yTHqjV5vX3EQ/D7+NbHj5qk9QC8RVwupX3xKnEyr2Xszl+aJ2TK5d7hVD4vEpPflERlFzGcFjABTRERGoYbThPN1OtzX1mzh6KEdd6bPOtoKRw+JxpMPl4AiETWcRmQUCSclcAZ4RkwwkQNP0OEarWL4vDZJJHxem3SNVpEOTxBM5Eh4BpzxqhUb5sulF8BuIiLlQaNF8+UXOlzTjQ9NbD2/cXTMb75fuIZjLZFgNIva1EfCAavNQ8VPM8AsUCTijw3QePwJVw/5oemGWu8XjvFd0w0REWmFPz5AwiwwQ5tHW7ViyZdLc8B+QNImPIFMeYTzdTpc6La40G0DfCKp7Tm89SlimsAuq81r2iQRq80ccIEYtbkfb12KX5zrxbleIt66FGpzPwkXrDZzRCR/MsA7OgQExRwIFhMQFHMgiHsHGGIkMVabN8AUMd6GFGqknyQ10o+3IUXClNXmDTGSxc4Bj4jpKQwifEmH8CU9hUESHgHnSJAkWG0awBFiREbhj2Xp8MeyiIwi4YjVpkGCZGm3gOvEBKNZ5BofucYnGM2ScB24xRI8llCtWPLl0gPgIKD4TgpEn8Ib6kUO9hCzAOy02rxlCR7LqFbs23y51AcUiMiBADkQkDBttbnKMiQrOw28YnmvgNOsQLICq81H4ATLO2G1+cgKJKu7DNxnsfvAZVYhWYXVpgUcBhy/OeCw1abFKiRdsNrcBa7w2xWrzV26IOnecaAG1IDjdMmjS9WK/ZQvlwRw22pzgy4p/s40/5tvuB7B8fFsg/EAAAAASUVORK5CYII=)](https://github.com/topics/vuejs)
 [![](https://img.shields.io/static/v1?style=flat&label=&message=Data%20structures&color=222&logo=)](https://github.com/topics/data-structures)
 [![](https://img.shields.io/static/v1?style=flat&label=&message=Google&color=222&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAACTElEQVR4Ae3BX0gTcQAH8O/dfvtz/ltTjFWaSEWDsR4ikrmUoiQpdJERzf5IEBSY0J89SC/1kEPIJLIHe4qEtqIGDTUfRiX+OZPCHsZgWFGhiAXzkNju3G5nZ1w09DYfeis/H6z591FYxYPAc+LoHWgwz39z5n7+ZIEsVr4lMms0B0brav1nnUdEZEEhC77VbaNHh3yE46xQIZpMYclR7WLaO0LIgEYGk33NNn3KO0w4zorf9Hoeej0PBeE4qzgzXY8sCFQMDHhJua7FR9VEjZCKIExsH//gqHZvtdtZyD6yY5Xb2KEOfkNJ8OVDXxt6HiMTAhW7yJ0GkopaIUvWkvGbO1r3eZrqefwx0v/IWxVrdCWPUxSyIVBh0k45kcAvP5jdbk9TPY80Fo/ouPoF5fCkYGkTsaQwBzPsZfIKyxCo0IicBUtoA59TdowFerHMBQCnkCaWwHsAO7EMjawogFrE36ChIkVMESyReIb/+sSOlboBnDYbEp1QFOilCFTQUMElSwNQ5MUnbt/tesEgTeQaGb1VdM+fAOWAwqyZC0AFgYp34iX/AV1LmKSi1nYhv+J+ac/rc8+uu2tse1jIgqGRyvPkTcfCbGFFsdCIdToxfKZwzP8UK1HIYLKv2ealBodvxEuMUDAaLQ8Zn0oyUGycb5w/kXu0qtOVH4IKDTLo8r79vvnilf4ZYa46Li2sh0xclLTioqSFolhbED5Ylne4+9D+EDKgsApfb5B4hcGGaQPnjCSnLJBZtKWRTYIpcNKw1++qqxGx5v/2EyEszsRbm479AAAAAElFTkSuQmCC)](https://github.com/topics/google)
