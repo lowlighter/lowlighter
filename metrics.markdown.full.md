@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20 Oct 2016`.
-I contributed to `37` repositories and made `5915` commits.
+I contributed to `37` repositories and made `5924` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,6 +29,8 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-plugin-compati
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* #️⃣ Opened [#486 feat request: `skip` at step level](https://github.com/ovh/venom/issues/486) in [ovh/venom](https://github.com/ovh/venom)
+* #️⃣ Opened [#485 feat request: more detailed output result](https://github.com/ovh/venom/issues/485) in [ovh/venom](https://github.com/ovh/venom)
 * 🔃 Merged [#760 fix(app/utils): GitHub emojis tag were not properly self-closed](https://github.com/lowlighter/metrics/pull/760) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 1 file changed `++1 --1`
 * #️⃣ Closed [#752 Weird alignment in &#34;Recently starred repositories&#34; SVG](https://github.com/lowlighter/metrics/issues/752) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
@@ -36,10 +38,6 @@ ___
   * 1 file changed `++40 --41`
 * #️⃣ Closed [#753 Restricts average commits per day by fetched data](https://github.com/lowlighter/metrics/issues/753) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * #️⃣ Closed [#749 [bug] CSS processor is encoding input](https://github.com/lowlighter/metrics/issues/749) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#756 fix(plugins/core): disable css optimization for `extras_css`](https://github.com/lowlighter/metrics/pull/756) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 5 files changed `++10 --6`
-* 🔃 Merged [#755 fix(app/utils): indent for code block with languages hightlighting](https://github.com/lowlighter/metrics/pull/755) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 1 file changed `++6 --2`
 
 
 ___
@@ -84,22 +82,24 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Euler’s 243-Year-Old ‘Impossible’ Puzzle Gets a Quantum Solution](https://www.quantamagazine.org/eulers-243-year-old-impossible-puzzle-gets-a-quantum-solution-20220110/)
+* [Welcome to Waifu Labs v2: How Do AIs Create?](https://waifulabs.com/blog/ai-creativity)
+  * *Published on 12 Jan 2022*
+* [State of Machine Learning in Julia](https://discourse.julialang.org/t/state-of-machine-learning-in-julia/74385)
+  * *Published on 12 Jan 2022*
+* [CSS Gradients that avoid the “gray dead zone”](https://www.joshwcomeau.com/css/make-beautiful-gradients/)
   * *Published on 11 Jan 2022*
-* [U.S. surgeons transplant pig heart into human patient](https://apnews.com/article/pig-heart-transplant-6651614cb9d73bada8eea2ecb6449aef)
-  * *Published on 10 Jan 2022*
-* [Monumental Record: the lives of the workers building the Great Pyramid of Giza](https://www.historytoday.com/archive/history-matters/monumental-record)
-  * *Published on 11 Jan 2022*
-* [New Year, New CEO](https://signal.org/blog/new-year-new-ceo/)
-  * *Published on 10 Jan 2022*
+* [The next big Wi-Fi standard is for sensing, not communication](https://staceyoniot.com/the-next-big-wi-fi-standard-is-for-sensing-not-communication/)
+  * *Published on 12 Jan 2022*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> Looking for a productivity hack to help you jump between directories and navigate your filesystem a little quicker? <br/><br/>Check out 𝚣𝚘𝚡𝚒𝚍𝚎 - an alternative 𝚌𝚍 command created by <span class="mention">@ajeetdsouza</span>: <a href="https://t.co/mEm8zKCjzp" class="link">github.com/ajeetdsouza/zo…</a> <br/><a href="https://t.co/4zrvQzVJsa" class="link">pic.twitter.com/4zrvQzVJsa</a>
+> The Git index is a critical data structure in Git, but it can be very large in monorepos. It was a performance bottleneck for years until we found a way to shrink it: the sparse index. 
 >
-> *17:15:07 on 4 Jan 2022*
+> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2021/11/GitHub-Engineering-monorepo-small-sparse-index_social-1.png" alt="Make your monorepo feel small with Git’s sparse index | The GitHub Blog" height="200"></a>
+>
+> *18:18:28 on 11 Jan 2022*
 
 
 
@@ -116,8 +116,8 @@ ___
 [![](https://img.shields.io/static/v1?style=flat&label=&message=Machine%20learning&color=222&logo=)](https://github.com/topics/machine-learning)
 [![](https://img.shields.io/static/v1?style=flat&label=&message=Node.js&color=222&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAD1UlEQVR4AZXBXWjVZRzA8e/ze/7nTJ3bmm7LNJy10jTrIiowI3uFLILowisvoihBK8Ksyxp2kVERBkVCeFUURFBZSRSlRBkRJFZGUYH4ss2ds7Pj2Tn/t+f5PZ1TFks2t30+hllYu2MNV65ace+yrr5d9XqmccU/eWTfrx8f/vIwMzHM4MG9913V0dX28vy2+bcFJ6iD2kRKkqefDv82tn3/C58f5TwM07jlget6+2+8cLDvou6HbZAItQQnBA9J4kkzhxXjSqfHX1vS3rFz99a3ykzBcI51mwcKK9f3b1106eJnIil0i48QNaCW4ITgwTloNFIwYEUwUBqhNBiORnve3fWBYxLDWfe/vYSO4vK7tL33xUKhbbXVCCFCfISoAbUEJwQPzkGeOZI8J7IWK0IkgnPup/KJ6vZTefWzA4MHaDE03frI+qX9Ny94Y2FPtNGECNECViOECPERogbUEpwQPDgH3nniNKclshZrDVYEsUJWr+07dnT4oc3XbxsRmvoG+h7TvLiRObJWUFW8KqoBVSVoQAvFe6qLw5ZNmzYhIQSkKGRjRTQzTCkwrQB4VbwqqgFV5Xi5hGoo0iTGGCKxRCYiHm1jSobpBfBe8ar4EDgTx9QadYR/RDRZK4QQ8LUCPlGkyJw47zCmgEEZHq8QEAyBFqlUKkTWEFnBWiEtFZkrDYHM5ZyJGyQuQ4zBiKFFuru7ESuINVgrkEbkDcNcxVlCNW5gjcUYgzGGFqFJLFhrsNagRvnzjwqBwFxoCISgRFawYrHG0iK0SAALRmC0VqXeyCmPJvwnMCu5OqyBohUKVmgRmoL1IJ44T6g26rScPFlDfeBvhv8xTC9xOZFYCmJpEZpyyXHiOFWp8K8s9wyN1JhKYBoBMu/wGrBiaZENGzaQS0K5ViNJcyYbGq6R5Y65qucx1ggtcvDgQeppqmPlmHN5r5wYGofAnDj1VNN6TpPQ9PO3x1/JXPohUzhdniBOc2bF0BLIeP/M0MTrNFmaSt+VJwZuuvyduFr/WopyjRHpY5I0c/Re0AlqIIAqBA14DXivOPXk3pFl+REZN5vzG/xzhx49VKfJcI7bt62Nxi6RLe1Z56DB9HDW2oGL6WxrJ3hwDrzzZM6TZY44T0dLo2ODjbF0z1e7v/FMYpjGtY9ftmheV/vTUuzciqGwcME8rl7RT/DgHHjnSXOf+yR/1U3YnXt3vFlhCoYZrNq+ek1Pb9dLNhTuXLlsKYsXduAcxLVk/8ix8Sfee/ajXzgPwyzMu2MRV6zrv7unq/P5NUuXUxtOnvpx3++ffP/FD8zkL2MQ7CqG9ryEAAAAAElFTkSuQmCC)](https://github.com/topics/nodejs)
 [![](https://img.shields.io/static/v1?style=flat&label=&message=Docker&color=222&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAADwUlEQVR4Ab3Bb2jUdRzA8ffn+/vue97dnDuXTglR23xQNjMFh0WMVhAhVDQL6iJGPRnVL6knET6IetIfCpSjJEIQ4uco+oMllhRJRTklIUxt6ZzaUA+n7ja73e539/t+O8XivNacD+r14r8mXIPNuwekoo4KZ135ydtaLVehuQZ+0Nem5iz8FqVxZ471AB9wFZopGD9QiAiXlW2kVf3sWSgPO3xMMw2aKYhJvExjcw/FvBBLOqKydvmRMp52OP5m/CAJrCaKvg7feZxqmkmYZ7cKIkJdLC7JVBPKg0QDRBGXeB5OELOuV2GdQ9d1q4W3bLSDP90LfEUVj0noju6PJDU/A241AkzkqYgojjtKRYstR6K8e6RhznOUJpJiEovV/CWrKI636fauRd7K+1Leqgf7o72fOE0N4weKWLJB6lNzmKiDWD04B/GZEEVc4nngnCHeAPlc0k1cOEI5RDW3LAe33GYHDrlcdhtgNTUk2bhdko13UAojlBbKoUMboRQ6nOMSG4E2Qjl00jjvKZnREsNabPbIQcLCPjeeeynMPFaiQlPLJOqlacEMRJimBM7iskfPulz29jCTHqWKolYxvx8bUW1FPE9HqsjkHIyPYc+eeDHMpEepoajhxke3uvGc4y/lEmVR5CdK/INzULiAHfplMzbazCQ8anjta4fchXMLVl8nK+6cXWL9Ms3+wkz6RjVXiMq4seHIDh14k9LE82EmbZmER41o78foVQ98OaNUiHff2ryy88Zm3XVDjFN/RPSfL2HDAi6XDV32yBdu+Hg3trwlzKQt/0KYQnxd7/y44q7WpvoWo5XuP18YGSsUDwN7wkx6mGtl/ECMHzAV4wcYPxCmSXGlDcA8pnY38ATTpKkwfnA9EAeagZjxgwTQAgyEmXTB+IEArUAemAk0UmH8oBk4B2hgCTAIFIC5QBIoivGDHuBhYBToBNYAbwEHgKXAWmA9MBdIAX3ACFAAHgF6gHeBX4E24AXgU2AXcMrz2rs2AZ1AL9AJLAa2hJn061571xjwKLAIuB94H2gAXgNagQ7gIaAVGAQSwE3AGLAmzKR3KKAILARSwCzgN+Bm4wcaWAqcAJqAWcACIAVsAH4EngGGgRzwObAdeBs4G2bSXKSAp7XIJqPkM+AVYKOzbm5MyQ/OuhSwEXjVKNmhRd6rU+JinhoC1hklbZ7wPc4djSl5A+eWEdlBo+R3qvUNnpGdB08KVb47nFVU+ab/tOw5Nsyh0zm2/TwkVOw+ekY+3Heci3b1n1ZctvPQSeH/8iew4XX6wnaVGQAAAABJRU5ErkJggg==)](https://github.com/topics/docker)
-[![](https://img.shields.io/static/v1?style=flat&label=&message=Amazon%20Web%20Services&color=222&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAADMUlEQVR4Ae3BX2iVZRzA8e/ved5z5rIlc/83dGdrp8LazpTK1f7ULhQqKkYUdOFNRBYhRUEoQW50EUIXRSswEBKiIKjMZmni0E0ZbSZtLknP2ebmouVyDpnbOTvnfX69gyOMEIq6Kz8fbvjvE5aJxlqKjK8bnBWXWvD6Js51z90Wa6n2Nf3LyFBfas26ltwVIYrjgz3jBGpizYWC0fjgsUt3rG+s9Z2tceriMp8eTiS+Z4klq6auaYOIHE77tlzEPe6FdUdBccVeMN+iXnrm4vgPJeWVrwL7V62u6Jz9/cJCQUnlIadqCksjmxXztvO5ScRukbCdmPltfJSAR1bG3nxaF9M142eOuNr6Bklq+CzG26SqXyPuQWA30KyQsCHvvmhd0zFE7nXpW7aY8JVDiu4YGe79lD+xZFWUF6lz/tOFZVVb02obRagF+oHjImZ7TiTyTjjDWzh9F2vuxIkCsdGfDu/KL60sMsibBWWRSEHx2rmywrzz09PTLDFkLfreNrG2w/f1IC7TA2QIJOdjAwRWLugTqJ5zSreoNomlVYx8RWBksGen78xm5/wriOxL2YIXyTJcI2xE5cjocG+XSvgEkKeiuZOJTqdiukBfR6RXk4VngCqcPqTG7SNQU9uQM3r6aP/I0PHXFN2DyEayPK5x8oWI7o3GWsrAFQMDotQTUD+93xj7rKq+PJb40kVjzScRic1dvjRIQEx4oGpd65QX8jMgd2cyqTayhGWiscYqMOW5s9OnFleX+L5zxAd7FyN1D4iHK82E3dT5kye0+p6GPJMKe4mhnssEqusaVxix6wVynZhTIz8enSVLCOh7iGxD+Zf0I+4ixf2ARTkozzNmWGJo0t3s0k7W8A/pHm4lySZAgTaEZwhYAh3fMNH+KL9i+aT9MTa1P0Ky/WEudBwgw9+g3yFcpAqhEWEeuAr0d3Txs7CMfkAI4QUM24FVQB8wQIizpJnEZ5YQPo6VQCk+UaAeSzOQwrGTOB9zO58DT8lW0sJ16BvkUEEb8CTQCuRzfVNAN/AZSQ7IS2T0Q/KAUnmOOAHhL+j7GAwRHGvxyEdRDDMoY1xlUl5BueH/7Q93lFNMbq+wKAAAAABJRU5ErkJggg==)](https://github.com/topics/amazon-web-services)
 [![](https://img.shields.io/static/v1?style=flat&label=&message=Git&color=222&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAACzklEQVR4AbXBW2hTZwDA8f/35di0J2W9xF7cXEex1FpJG+2krHM+OB2sIL6ISJE9DR8UxAjipdYFNZGJ2tUiXjrEVTdxDzIVK4oXUCjGTGcrtZa5Kj6ISkWr6dk5yWk/c4aBwpz0Yef3EyoNF0lcJnGZxGUSl0lcJvmfKKV4F8k4yjIZCa9kJLwKZZlM1PDL5zQ2FNDZEcWReP0SyzJxSN5Slslo3y3Gnj7G7olhREMoy2QicvRc5s5fTGXVLBzfrVtG7No5HBppyjIxIiFG/+rHt7mNVE8M68QhjGgIfVMrwptNRiIxTNfJwzwfekJ+YTFCCCoqa8gvKCaZNNmzfRXx7gtY5t88GLyLVJaJEQlh34mjjASpP7rJmr8IWToVuzeOEQ2hLJOMbRuWc+70EQr9Jfx0cCuPHgyQX1hE12+HuRW7zIxAPaCYWfsZwbp5SGPHWuw7cTJG7/VgnTpGzor1eJd+i90bx9ixloyHg/3U1S9gyfLVFJd+THHpR1RMr8WXm4ejZvZcHDMD9dTWfYGGkPyLkSAVu4KnfDr/sG1QCoRgSdNq2neu4dSvByjwl/Dl18t4lzE1hkPTN+7GiISwe2/gkGUVyLwCzF/249CqZ6Fv/gGEwHH10kmqA/XMafiKsvIqfLl53B/owRh5xcPBfpQaw+OZxNGOKPHuC2giy4ve3IoRCWH33kD6ixB6Lg5tRhC9pQ2RrZORTJoMvxji/JlOhp49xl/0IVu+/5lvVjTjyMnx0dpxkYG7N5lWWYNGmsjyoje3YkRCmJ3tOLTqIHrLXkS2TkYqleRe3++sD//IJ+VVHD+yi/sDtwkEGwgEG8jwF00h+Ok8HJ5wGmnCozHp8wWM/tmHnFyC3tKGyNYZz+PxMLWsgutXz3IzdomSKWWs2dTOB3mF/BeNcUSWF194H++zsLGJhY1NTJTEZRKXSVwmcZnEZRKXvQFaOv6CjJ4m8AAAAABJRU5ErkJggg==)](https://github.com/topics/git)
+[![](https://img.shields.io/static/v1?style=flat&label=&message=Amazon%20Web%20Services&color=222&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAADMUlEQVR4Ae3BX2iVZRzA8e/ved5z5rIlc/83dGdrp8LazpTK1f7ULhQqKkYUdOFNRBYhRUEoQW50EUIXRSswEBKiIKjMZmni0E0ZbSZtLknP2ebmouVyDpnbOTvnfX69gyOMEIq6Kz8fbvjvE5aJxlqKjK8bnBWXWvD6Js51z90Wa6n2Nf3LyFBfas26ltwVIYrjgz3jBGpizYWC0fjgsUt3rG+s9Z2tceriMp8eTiS+Z4klq6auaYOIHE77tlzEPe6FdUdBccVeMN+iXnrm4vgPJeWVrwL7V62u6Jz9/cJCQUnlIadqCksjmxXztvO5ScRukbCdmPltfJSAR1bG3nxaF9M142eOuNr6Bklq+CzG26SqXyPuQWA30KyQsCHvvmhd0zFE7nXpW7aY8JVDiu4YGe79lD+xZFWUF6lz/tOFZVVb02obRagF+oHjImZ7TiTyTjjDWzh9F2vuxIkCsdGfDu/KL60sMsibBWWRSEHx2rmywrzz09PTLDFkLfreNrG2w/f1IC7TA2QIJOdjAwRWLugTqJ5zSreoNomlVYx8RWBksGen78xm5/wriOxL2YIXyTJcI2xE5cjocG+XSvgEkKeiuZOJTqdiukBfR6RXk4VngCqcPqTG7SNQU9uQM3r6aP/I0PHXFN2DyEayPK5x8oWI7o3GWsrAFQMDotQTUD+93xj7rKq+PJb40kVjzScRic1dvjRIQEx4oGpd65QX8jMgd2cyqTayhGWiscYqMOW5s9OnFleX+L5zxAd7FyN1D4iHK82E3dT5kye0+p6GPJMKe4mhnssEqusaVxix6wVynZhTIz8enSVLCOh7iGxD+Zf0I+4ixf2ARTkozzNmWGJo0t3s0k7W8A/pHm4lySZAgTaEZwhYAh3fMNH+KL9i+aT9MTa1P0Ky/WEudBwgw9+g3yFcpAqhEWEeuAr0d3Txs7CMfkAI4QUM24FVQB8wQIizpJnEZ5YQPo6VQCk+UaAeSzOQwrGTOB9zO58DT8lW0sJ16BvkUEEb8CTQCuRzfVNAN/AZSQ7IS2T0Q/KAUnmOOAHhL+j7GAwRHGvxyEdRDDMoY1xlUl5BueH/7Q93lFNMbq+wKAAAAABJRU5ErkJggg==)](https://github.com/topics/amazon-web-services)
 [![](https://img.shields.io/static/v1?style=flat&label=&message=API&color=222&logo=)](https://github.com/topics/api)
 [![](https://img.shields.io/static/v1?style=flat&label=&message=Deep%20learning&color=222&logo=)](https://github.com/topics/deep-learning)
 [![](https://img.shields.io/static/v1?style=flat&label=&message=Database&color=222&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAB6klEQVR4Ad3Bz28MYRjA8e/zzjuzO7tb2ogtl0rFEeFG3Ljof+Ho5OZIJP4Dd/4DV2cOmrhII87NKhHaJm3318zOzDsPTSOhebrtuvH58M8TptDJm5jQu4X2r6PFEpKcBgQt+hB/QdL3JDdWJb6ScQTBoPmrlNB7jA7uo8U8U8VDXPsF0aVH0lzpc4jHUq69hLDCiZQd6t0H6MfLwB0OcVjCxgqzCl9vY/BYtA9VDn4ZcEynED6DZlg8FlkAJlCuAQlIguIRidmnWgEVaIlQgFsAmcPiOVIErssvwj5ln0gMxCApx3EYVEtsAggW1YDFYcizLUA5MVUm+TcsHkPaOks27KEIPj5D0pjDUkwGhHIbBNL2EhaPKSbtLAM1odwmG27xJwWEpNEm6VwAHOCweEzKAUcUd0njLn/LYajKEbMK1RiLwxDCiGy8yUnl401CNcDiMTSai9Rhj9FgHVDAIZKCxBwooc5QagSh2eriolNYPEdwUZv23EUOKGgGWqCASAqyCAjH8RhUAyL8RkBaIC2E2TgMw+HeO2Y0HI1WMXgMO/35u3m+8zRNuddqdTrORVjqumI8HvWzXJ9PyvNPMAhTfP/0rDHefX2z2ZSrjaSxFEWa8lMILivKsJFPog/NzrW355Yflvy3fgDohLaYFT3zvwAAAABJRU5ErkJggg==)](https://github.com/topics/database)
