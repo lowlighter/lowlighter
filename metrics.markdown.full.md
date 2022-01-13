@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20 Oct 2016`.
-I contributed to `37` repositories and made `5931` commits.
+I contributed to `37` repositories and made `5936` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,17 +29,18 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-plugin-compati
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
+* 🔃 Merged [#769 feat(plugins/starlists): add `plugin_starlists_shuffle_repositories`](https://github.com/lowlighter/metrics/pull/769) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++11 --3`
+* 🔃 Merged [#768 fix(plugins/code): missing newlines](https://github.com/lowlighter/metrics/pull/768) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 1 file changed `++1 --1`
+* 🔃 Opened [#769 feat(plugins/starlists): add `plugin_starlists_shuffle_repositories`](https://github.com/lowlighter/metrics/pull/769) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++11 --3`
+* ⏺️ Created new branch feat-starlist-shuffle in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Opened [#768 fix(plugins/code): missing newlines](https://github.com/lowlighter/metrics/pull/768) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 1 file changed `++1 --1`
+* ⏺️ Created new branch fix-code-br in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 * 🔃 Merged [#765 feat(plugins/starlists): add new starlists plugin](https://github.com/lowlighter/metrics/pull/765) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
   * 8 files changed `++221 --0`
-* 🔃 Opened [#766 chore: prepare release v3.18](https://github.com/lowlighter/metrics/pull/766) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++3 --3`
-* ⏺️ Created new branch release-v318 in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Opened [#765 feat(plugins/starlists): add new starlists plugin](https://github.com/lowlighter/metrics/pull/765) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 8 files changed `++221 --0`
-* ⏺️ Created new branch feat-plugin-starlists in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔍 Reviewed [#487 feat: ranges detailed output](https://github.com/ovh/venom/pull/487) in [ovh/venom](https://github.com/ovh/venom)
-* 🔃 Opened [#487 feat: ranges detailed output](https://github.com/ovh/venom/pull/487) in [ovh/venom](https://github.com/ovh/venom)
-  * 5 files changed `++93 --46`
 
 
 ___
@@ -84,30 +85,28 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [I think I know why you can&#39;t hire engineers right now](https://cushychicken.github.io/why-you-cant-hire-engineers/)
-  * *Published on 11 Jan 2022*
-* [Show HN: Bang Bookmarks – replicate DuckDuckGo bangs in Firefox using Keymarks](https://github.com/jameshealyio/bang-bookmarks)
+* [Show HN: Looptap – A minimal game to waste your time](https://looptap.vasanthv.com/)
   * *Published on 13 Jan 2022*
-* [Dark Web – Justice League](https://analyst1.com/blog/dark-web-justice-league)
+* [Catching Native Apps](https://mjtsai.com/blog/2022/01/12/catching-native-apps/)
   * *Published on 12 Jan 2022*
-* [Send text messages for free using Python](https://www.alfredosequeida.com/blog/how-to-send-text-messages-for-free-using-python-use-python-to-send-text-messages-via-email/)
+* [Engine cooling – why rocket engines don’t melt](https://everydayastronaut.com/engine-cooling-methodes/)
   * *Published on 13 Jan 2022*
+* [Living on 24 Hours a Day](https://www.justindfuller.com/2022/01/living-on-24-hours-a-day/)
+  * *Published on 12 Jan 2022*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> Astropy—an open source collection of specialized Python tools for the astronomical community—is helping the Webb Space Telescope see a million miles out into the universe 🔭🌠. You can see more at:<br/><a href="https://t.co/rZrP0OxyOZ" class="link">github.co/33qvlX2</a> <br/><a href="https://t.co/u1PUWHg7ys" class="link">pic.twitter.com/u1PUWHg7ys</a>
+> Introducing Shortcuts on GitHub Mobile – a new way to quickly get to the work you care about most. Shortcuts let you customize and save filtered lists of issues, pull requests, and discussions right to your home tab. Get started with Shortcuts today. <br/><br/><a href="https://t.co/vQBkyZeXrJ" class="link">github.com/mobile</a> <br/><a href="https://t.co/dfIcn7DKIZ" class="link">pic.twitter.com/dfIcn7DKIZ</a>
 >
-> <a href=""><img src="https://pbs.twimg.com/media/FI7iksHXIAYrBUk.jpg" alt="" height="200"></a>
+> <a href=""><img src="https://pbs.twimg.com/media/FJAsKSOWUAgR2Fh.jpg" alt="" height="200"></a>
 >
-> *21:00:13 on 12 Jan 2022*
+> *21:00:12 on 13 Jan 2022*
 
-> Check out how GitHub uses GitHub Actions to ship a new and improved mobile app every week! <br/>
+> This new year brings new improvements to GitHub Issues! ⭐  You now have a new field that shows the reviewers on your pull requests, updates to the filter bar to make clearer what filters are applied, and more! Check it out ⬇️  <a href="https://t.co/Q1f3TfKtac" class="link">github.blog/changelog/2022…</a> <br/><a href="https://t.co/4NyAJmJtN7" class="link">pic.twitter.com/4NyAJmJtN7</a>
 >
-> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2022/01/steps-to-release-build_social.png" alt="How we ship GitHub Mobile every week | The GitHub Blog" height="200"></a>
->
-> *18:03:00 on 12 Jan 2022*
+> *19:49:02 on 13 Jan 2022*
 
 
 
