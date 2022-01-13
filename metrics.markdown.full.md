@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20 Oct 2016`.
-I contributed to `37` repositories and made `5924` commits.
+I contributed to `37` repositories and made `5931` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,15 +29,17 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-plugin-compati
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
-* #️⃣ Opened [#486 feat request: `skip` at step level](https://github.com/ovh/venom/issues/486) in [ovh/venom](https://github.com/ovh/venom)
-* #️⃣ Opened [#485 feat request: more detailed output result](https://github.com/ovh/venom/issues/485) in [ovh/venom](https://github.com/ovh/venom)
-* 🔃 Merged [#760 fix(app/utils): GitHub emojis tag were not properly self-closed](https://github.com/lowlighter/metrics/pull/760) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 1 file changed `++1 --1`
-* #️⃣ Closed [#752 Weird alignment in &#34;Recently starred repositories&#34; SVG](https://github.com/lowlighter/metrics/issues/752) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#759 fix(plugins/isocalendar): algorithm improvements for date ranges](https://github.com/lowlighter/metrics/pull/759) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 1 file changed `++40 --41`
-* #️⃣ Closed [#753 Restricts average commits per day by fetched data](https://github.com/lowlighter/metrics/issues/753) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* #️⃣ Closed [#749 [bug] CSS processor is encoding input](https://github.com/lowlighter/metrics/issues/749) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#765 feat(plugins/starlists): add new starlists plugin](https://github.com/lowlighter/metrics/pull/765) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 8 files changed `++221 --0`
+* 🔃 Opened [#766 chore: prepare release v3.18](https://github.com/lowlighter/metrics/pull/766) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 2 files changed `++3 --3`
+* ⏺️ Created new branch release-v318 in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Opened [#765 feat(plugins/starlists): add new starlists plugin](https://github.com/lowlighter/metrics/pull/765) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 8 files changed `++221 --0`
+* ⏺️ Created new branch feat-plugin-starlists in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔍 Reviewed [#487 feat: ranges detailed output](https://github.com/ovh/venom/pull/487) in [ovh/venom](https://github.com/ovh/venom)
+* 🔃 Opened [#487 feat: ranges detailed output](https://github.com/ovh/venom/pull/487) in [ovh/venom](https://github.com/ovh/venom)
+  * 5 files changed `++93 --46`
 
 
 ___
@@ -82,24 +84,30 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Welcome to Waifu Labs v2: How Do AIs Create?](https://waifulabs.com/blog/ai-creativity)
-  * *Published on 12 Jan 2022*
-* [State of Machine Learning in Julia](https://discourse.julialang.org/t/state-of-machine-learning-in-julia/74385)
-  * *Published on 12 Jan 2022*
-* [CSS Gradients that avoid the “gray dead zone”](https://www.joshwcomeau.com/css/make-beautiful-gradients/)
+* [I think I know why you can&#39;t hire engineers right now](https://cushychicken.github.io/why-you-cant-hire-engineers/)
   * *Published on 11 Jan 2022*
-* [The next big Wi-Fi standard is for sensing, not communication](https://staceyoniot.com/the-next-big-wi-fi-standard-is-for-sensing-not-communication/)
+* [Show HN: Bang Bookmarks – replicate DuckDuckGo bangs in Firefox using Keymarks](https://github.com/jameshealyio/bang-bookmarks)
+  * *Published on 13 Jan 2022*
+* [Dark Web – Justice League](https://analyst1.com/blog/dark-web-justice-league)
   * *Published on 12 Jan 2022*
+* [Send text messages for free using Python](https://www.alfredosequeida.com/blog/how-to-send-text-messages-for-free-using-python-use-python-to-send-text-messages-via-email/)
+  * *Published on 13 Jan 2022*
 
 
 ___
 
 **[🐤 Latest tweets from @github](https://twitter.com/github)**
-> The Git index is a critical data structure in Git, but it can be very large in monorepos. It was a performance bottleneck for years until we found a way to shrink it: the sparse index. 
+> Astropy—an open source collection of specialized Python tools for the astronomical community—is helping the Webb Space Telescope see a million miles out into the universe 🔭🌠. You can see more at:<br/><a href="https://t.co/rZrP0OxyOZ" class="link">github.co/33qvlX2</a> <br/><a href="https://t.co/u1PUWHg7ys" class="link">pic.twitter.com/u1PUWHg7ys</a>
 >
-> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2021/11/GitHub-Engineering-monorepo-small-sparse-index_social-1.png" alt="Make your monorepo feel small with Git’s sparse index | The GitHub Blog" height="200"></a>
+> <a href=""><img src="https://pbs.twimg.com/media/FI7iksHXIAYrBUk.jpg" alt="" height="200"></a>
 >
-> *18:18:28 on 11 Jan 2022*
+> *21:00:13 on 12 Jan 2022*
+
+> Check out how GitHub uses GitHub Actions to ship a new and improved mobile app every week! <br/>
+>
+> <a href="The GitHub Blog"><img src="https://github.blog/wp-content/uploads/2022/01/steps-to-release-build_social.png" alt="How we ship GitHub Mobile every week | The GitHub Blog" height="200"></a>
+>
+> *18:03:00 on 12 Jan 2022*
 
 
 
