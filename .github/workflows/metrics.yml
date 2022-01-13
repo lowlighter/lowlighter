@@ -232,6 +232,7 @@ jobs:
           base: ""
           plugin_code: yes
           plugin_code_languages: javascript, typescript
+          plugin_code_load: 400
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
           delay: 120
