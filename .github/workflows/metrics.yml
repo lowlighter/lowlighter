@@ -867,6 +867,23 @@ jobs:
           delay: 120
 
       # ======================================================================================
+      # 💫 Starlists
+
+      - name: 💫 Starlists
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.starlists.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_starlists: yes
+          plugin_starlists_limit_repositories: 2
+          plugin_starlists_only: 🤘 TC39
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
+          delay: 120
+
+      # ======================================================================================
       # 🌟 Recently starred repositories
 
       - name: 🌟 Recently starred repositories
