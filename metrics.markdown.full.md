@@ -15,7 +15,7 @@ See [rendering of this file here](https://github.com/lowlighter/lowlighter/blob/
 
 ```markdown
 I joined GitHub on `20 Oct 2016`.
-I contributed to `37` repositories and made `5936` commits.
+I contributed to `37` repositories and made `5947` commits.
 ```
 
 ## 🧩 Plugins
@@ -29,18 +29,18 @@ See [compatibility matrix](https://github.com/lowlighter/metrics#-plugin-compati
 ___
 
 **[📰 Recent activity](https://github.com/lowlighter)**
-* 🔃 Merged [#769 feat(plugins/starlists): add `plugin_starlists_shuffle_repositories`](https://github.com/lowlighter/metrics/pull/769) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++11 --3`
-* 🔃 Merged [#768 fix(plugins/code): missing newlines](https://github.com/lowlighter/metrics/pull/768) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 1 file changed `++1 --1`
-* 🔃 Opened [#769 feat(plugins/starlists): add `plugin_starlists_shuffle_repositories`](https://github.com/lowlighter/metrics/pull/769) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 2 files changed `++11 --3`
-* ⏺️ Created new branch feat-starlist-shuffle in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Opened [#768 fix(plugins/code): missing newlines](https://github.com/lowlighter/metrics/pull/768) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 1 file changed `++1 --1`
-* ⏺️ Created new branch fix-code-br in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-* 🔃 Merged [#765 feat(plugins/starlists): add new starlists plugin](https://github.com/lowlighter/metrics/pull/765) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-  * 8 files changed `++221 --0`
+* 🔃 Opened [#774 (test pr)](https://github.com/lowlighter/metrics/pull/774) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 1 file changed `++1 --0`
+* ⏺️ Created new branch test-pr in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#773 tests: auto-generated from `examples.yml`](https://github.com/lowlighter/metrics/pull/773) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 91 files changed `++524 --831`
+* 🔃 Opened [#773 tests: auto-generated from `examples.yml`](https://github.com/lowlighter/metrics/pull/773) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 91 files changed `++524 --831`
+* ⏺️ Created new branch ci-tests in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+* 🔃 Merged [#772 docs: updated workflows examples and options descriptions](https://github.com/lowlighter/metrics/pull/772) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 80 files changed `++2271 --429`
+* 🔃 Opened [#772 docs: updated workflows examples and options descriptions](https://github.com/lowlighter/metrics/pull/772) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+  * 80 files changed `++2271 --429`
 
 
 ___
@@ -85,13 +85,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [Show HN: Looptap – A minimal game to waste your time](https://looptap.vasanthv.com/)
-  * *Published on 13 Jan 2022*
-* [Catching Native Apps](https://mjtsai.com/blog/2022/01/12/catching-native-apps/)
-  * *Published on 12 Jan 2022*
-* [Engine cooling – why rocket engines don’t melt](https://everydayastronaut.com/engine-cooling-methodes/)
-  * *Published on 13 Jan 2022*
-* [Living on 24 Hours a Day](https://www.justindfuller.com/2022/01/living-on-24-hours-a-day/)
+* [Mathematicians clear hurdle in quest to decode primes](https://www.quantamagazine.org/mathematicians-clear-hurdle-in-quest-to-decode-prime-numbers-20220113/)
+  * *Published on 14 Jan 2022*
+* [Keep hearing of train burglaries in LA on the scanner so went to LincolnHeights](https://twitter.com/johnschreiber/status/1481770722271760384)
+  * *Published on 14 Jan 2022*
+* [Novak Djokovic&#39;s Visa Cancelled by Australian Minister for Immigration](https://twitter.com/BenRothenberg/status/1481882690140131328)
+  * *Published on 14 Jan 2022*
+* [Living on 24 hours a day](https://www.justindfuller.com/2022/01/living-on-24-hours-a-day/)
   * *Published on 12 Jan 2022*
 
 
